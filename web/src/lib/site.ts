@@ -13,6 +13,8 @@ export const REQUIRED = [
 ];
 const filled = (key: string) => String(biz[key] ?? '').trim() !== '';
 export const pending = REQUIRED.filter((key) => !filled(key));
+/** Solo se indexa con "indexable": true en business.json y todos los datos rellenos. */
+export const indexable = biz.indexable === true && pending.length === 0;
 
 const TOKEN = /\{\{(\w+)\}\}/g;
 

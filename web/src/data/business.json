@@ -22,6 +22,7 @@
   "nif": "",
   "domicilio_legal": "",
   "empresa_ejecutora": "",
+  "indexable": false,
   "publicar_precios": false,
   "proyectos": [],
   "testimonios": []
