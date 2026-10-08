@@ -87,7 +87,7 @@ zonas:
   - slug: pontevedra
     nombre: Pontevedra
     provincia: Pontevedra
-    hub: /carpinteria/pontevedra/
+    hub: null
     busquedas_mes_kw_research: 796
     ficha_gbp: probable primera ficha
     barrios_parroquias:
@@ -161,7 +161,6 @@ servicio_x_zona:
   - /carpinteria-exterior/pontevedra/
   - /carpinteria-exterior/santiago-de-compostela/
 zonas_hub:
-  - /carpinteria/pontevedra/
   - /carpinteria/santiago-de-compostela/
 paginas:
   presupuesto: /presupuesto/
@@ -189,4 +188,4 @@ fase_2:
     - /guias/rehabilitar-o-sustituir-un-forjado-de-madera/
   lineas_futuras:
     - "casetas, casas y cabañas de madera (1.030 búsquedas/mes; el cliente las lanza en 2027)"
-total_paginas_fase_1: 26
+total_paginas_fase_1: 25

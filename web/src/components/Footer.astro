@@ -29,7 +29,10 @@ const hasMap = Boolean(mapSrc);
     </div>
     <div>
       <p class="footer-title">Zonas</p>
-      <ul>{hubs.map((h) => <li><a href={h.route}>{h.h1.replace('Carpintería de madera', 'Carpintería')}</a></li>)}</ul>
+      <ul>
+        <li><a href="/">Carpintería en Pontevedra</a></li>
+        {hubs.map((h) => <li><a href={h.route}>{h.h1.replace('Carpintería de madera', 'Carpintería')}</a></li>)}
+      </ul>
       <p class="footer-title">Información</p>
       <ul>
         <li><a href="/presupuesto/">Pide presupuesto</a></li>

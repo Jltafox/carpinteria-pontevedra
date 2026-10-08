@@ -16,7 +16,6 @@ enlaces:
     - /rehabilitacion-de-madera/
     - /carpinteria-exterior/
     - /suelos-de-madera/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
     - /proyectos/
@@ -31,7 +30,6 @@ enlaces:
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -43,7 +41,7 @@ enlaces:
     - /muebles-a-medida/pontevedra/
     - /rehabilitacion-de-madera/pontevedra/
     - /carpinteria-exterior/pontevedra/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
@@ -58,7 +56,6 @@ enlaces:
     - /carpinteria-exterior/santiago-de-compostela/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -69,7 +66,6 @@ enlaces:
     - /cocinas-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -81,7 +77,7 @@ enlaces:
     - /muebles-a-medida/pontevedra/
     - /rehabilitacion-de-madera/pontevedra/
     - /carpinteria-exterior/pontevedra/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
@@ -96,7 +92,6 @@ enlaces:
     - /carpinteria-exterior/santiago-de-compostela/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -107,7 +102,6 @@ enlaces:
     - /cocinas-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -119,7 +113,7 @@ enlaces:
     - /armarios-a-medida/pontevedra/
     - /rehabilitacion-de-madera/pontevedra/
     - /carpinteria-exterior/pontevedra/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
@@ -134,7 +128,6 @@ enlaces:
     - /carpinteria-exterior/santiago-de-compostela/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -146,7 +139,6 @@ enlaces:
     - /suelos-de-madera/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -159,7 +151,7 @@ enlaces:
     - /armarios-a-medida/pontevedra/
     - /muebles-a-medida/pontevedra/
     - /carpinteria-exterior/pontevedra/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
@@ -175,7 +167,6 @@ enlaces:
     - /carpinteria-exterior/santiago-de-compostela/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -184,7 +175,6 @@ enlaces:
     - /rehabilitacion-de-madera/pontevedra/
     - /rehabilitacion-de-madera/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -196,7 +186,6 @@ enlaces:
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -208,7 +197,7 @@ enlaces:
     - /armarios-a-medida/pontevedra/
     - /muebles-a-medida/pontevedra/
     - /rehabilitacion-de-madera/pontevedra/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
@@ -223,7 +212,6 @@ enlaces:
     - /rehabilitacion-de-madera/santiago-de-compostela/
     - /carpinteria/santiago-de-compostela/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -232,20 +220,7 @@ enlaces:
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /carpinteria/pontevedra/:
-    - /cocinas-a-medida/pontevedra/
-    - /armarios-a-medida/pontevedra/
-    - /muebles-a-medida/pontevedra/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /carpinteria-exterior/pontevedra/
-    - /suelos-de-madera/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -256,7 +231,7 @@ enlaces:
     - /rehabilitacion-de-madera/santiago-de-compostela/
     - /carpinteria-exterior/santiago-de-compostela/
     - /suelos-de-madera/
-    - /carpinteria/pontevedra/
+    - /
     - /presupuesto/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -269,7 +244,6 @@ enlaces:
     - /carpinteria-exterior/
     - /suelos-de-madera/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -277,32 +251,27 @@ enlaces:
   /sobre-nosotros/:
     - /proyectos/
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /presupuesto/:
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /aviso-legal/:
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /politica-de-privacidad/
     - /cookies/
   /politica-de-privacidad/:
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /cookies/
   /cookies/:
     - /presupuesto/
-    - /carpinteria/pontevedra/
     - /carpinteria/santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/

@@ -4,7 +4,7 @@
    "name": "Pontevedra",
    "province": "Pontevedra",
    "phase": 1,
-   "hub": true,
+   "hub": false,
    "searches": 796,
    "gbp_listing": "probable primera ficha",
    "areas": [
