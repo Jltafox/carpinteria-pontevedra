@@ -1,0 +1,825 @@
+{
+  "search_metadata": {
+    "id": "6ac646a77a3b0553fa880c69",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6lVt_XOp8FsDH5vQ2hw7sk8mCKM-_R1PSqhBiVF-7HQ/6ac646a77a3b0553fa880c69.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6lVt_XOp8FsDH5vQ2hw7sk8mCKM-_R1PSqhBiVF-7HQ/6ac646a77a3b0553fa880c69.md",
+    "created_at": "2026-10-07 13:18:31 UTC",
+    "processed_at": "2026-10-07 13:18:31 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@42.5961,-8.7653,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/6lVt_XOp8FsDH5vQ2hw7sk8mCKM-_R1PSqhBiVF-7HQ/6ac646a77a3b0553fa880c69.html",
+    "prettify_html_file": "https://serpapi.com/searches/6lVt_XOp8FsDH5vQ2hw7sk8mCKM-_R1PSqhBiVF-7HQ/6ac646a77a3b0553fa880c69.prettify",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@42.5961,-8.7653,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpinteria Abalo",
+      "place_id": "ChIJuXHh2zgULw0RuboLpS1L_Ms",
+      "data_id": "0xd2f1438dbe171b9:0xcbfc4b2da50bbab9",
+      "data_cid": "14698705943245077177",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1438dbe171b9%3A0xcbfc4b2da50bbab9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1438dbe171b9%3A0xcbfc4b2da50bbab9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.587924699999995,
+        "longitude": -8.7764948
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJuXHh2zgULw0RuboLpS1L_Ms",
+      "provider_id": "/g/11f3r1wrlk",
+      "rating": 3.6,
+      "reviews": 9,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Av. Cambados, 65, 36600 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 9:00 (jue)",
+      "hours": "Cerrado · Apertura: 9:00 (jue)",
+      "operating_hours": {
+        "miércoles": "9:00–13:00",
+        "jueves": "9:00–13:00",
+        "viernes": "9:00–13:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00",
+        "martes": "9:00–13:00"
+      },
+      "phone": "683 22 57 91",
+      "website": "http://www.carpinteriaabalo.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSv2qGZ8yigzPNUJchTw3Y49-yE4vs_andoYEmrw81ZT7nEhJKnhQgCyccNwdyeV8L2Ss-S992qsVa6LaFetcRhrlfYI2zLkqAWz5iKHXB4NGjnc6HcOfxKQIWRtM9UWtw1RtMmRw3R5A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XKgrrXicHcbLjoIwFADQL6o8VZjEBRp8waCCirgx5FpaFVqhHSt8pPv5G42bk_P_olLexY-mldTqEc5Jif8EboAziZnsAa800uRCIBCa541vVVgkD7OeHZ32Qrp1tFsC3Sors13U-vZDnHJ25plfNcoxjtsh8-kyYHRDJi1ApM4t3juhmQiUuK5Zi30-CPMplhDTpiyyhdmFt9pLu_4lmB_GdjS7MhjMYVU8g80ijeWvu0ulMj6pYmXFfW-kDF3XEf0KiL0B3ChH5A"
+    },
+    {
+      "position": 2,
+      "title": "Madeiras Caruncho, S.L.",
+      "place_id": "ChIJg7YqWKQVLw0RtmR9QshoLvo",
+      "data_id": "0xd2f15a4582ab683:0xfa2e68c8427d64b6",
+      "data_cid": "18027461567728936118",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f15a4582ab683%3A0xfa2e68c8427d64b6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f15a4582ab683%3A0xfa2e68c8427d64b6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.595260599999996,
+        "longitude": -8.7521573
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJg7YqWKQVLw0RtmR9QshoLvo",
+      "provider_id": "/g/11fjn3jt8v",
+      "rating": 5,
+      "reviews": 24,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Fábrica de puertas",
+        "Fábrica de muebles",
+        "Servicio de instalación de suelos de madera",
+        "Carpintero"
+      ],
+      "address": "Rúa Valladares, 14, 36600 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "hours": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "886 16 44 05",
+      "website": "https://www.madeirascaruncho.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNauOBbdUGhm9T_RTzCDr5853JJI6MLOIAD1aO9wwphJjKM3oylBMO98un3a26dXudmPe0CjoDFidUNgnC8DQmTNDK5N4WFrf5CATZehJg9PCJ_xg6yrBKrjUajHOC_kM6GD3l6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HRoTMXicHcRdboIwAADgEyFoRwMme4A2OsugaiBb9kI66Nqx_pAWhnpBz-Btlux7-B53OU2j34ahkmAlrBWKz567zpqJm2nVWR0Kx7wPOh9m6HdUumIzzT_7Zi91Wrfn-oawi5MYEHKA5Ss9ZHjNaLosoyRDUQJ7VXlJ02Q2gG1g_z73-sgjNFi8--6bShiU4JOuK1zE1dPbzn3FKKs_uCQiPSLSXgS8urxwQ8OGF4ranxLuMVDweVlHURTI_7vA_AErsUOF"
+    },
+    {
+      "position": 3,
+      "title": "Chazo Carpintería",
+      "place_id": "ChIJ2bCvxYMVLw0RRIKGe-HRvXk",
+      "data_id": "0xd2f1583c5afb0d9:0x79bdd1e17b868244",
+      "data_cid": "8772398415557853764",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1583c5afb0d9%3A0x79bdd1e17b868244&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1583c5afb0d9%3A0x79bdd1e17b868244&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.565439399999995,
+        "longitude": -8.8298551
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2bCvxYMVLw0RRIKGe-HRvXk",
+      "provider_id": "/g/11j2y_8rfb",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Carpintero"
+      ],
+      "address": "Rúa A Basella, 19, 36620 Vilanova de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 16:00",
+      "hours": "Cerrado · Apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 16:00–20:00",
+        "jueves": "9:00–13:30, 16:00–20:00",
+        "viernes": "9:00–13:30, 16:00–20:00",
+        "sábado": "9:30–12:30",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 16:00–20:00",
+        "martes": "9:00–13:30, 16:00–20:00"
+      },
+      "phone": "609 83 93 15",
+      "website": "http://chazocarpinteria.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNwXZXBw2K74TLSvkRBZzzJc1tUHQKW7U-imWhaLVUj6iQ6g-1kQWMqgp95n6jItPJBUinedEPBCjD8Vi7CPLzM6CYHSZrMoM_kfo9G17pyGdoa35zuxAwuC5-eDNG2KNerIoMWDA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vJjufHicHcRLroIwAADAE1VABdTkLaAYVCiBp4iyMaTW8m2RFlFu6BG8jYmzmM87l7IVK0Wp89mEck5r0gvSYc4kYXKCeaPQLhMCYKFY8NHWTTCc0pM9TD1zfvD3j-rfTsdxhzUZbyIvMWNQNEme-ce4NIrIoECrogTdabvUmVFuZbiz44KR6zq0YeksjoUJQ39EBjxv9mmHOLpUN750NbN9uVeezfSxf1pDD3VAnMCdegHpthwljvU3aKqqgvw3BuwL_ldE4Q"
+    },
+    {
+      "position": 4,
+      "title": "CARPINTERIA RUBEN COSTA",
+      "place_id": "ChIJqyeLNwAVLw0RJK_RBTNzE6A",
+      "data_id": "0xd2f1500378b27ab:0xa013733305d1af24",
+      "data_cid": "11534689733604126500",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1500378b27ab%3A0xa013733305d1af24&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1500378b27ab%3A0xa013733305d1af24&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5660953,
+        "longitude": -8.8225587
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJqyeLNwAVLw0RJK_RBTNzE6A",
+      "provider_id": "/g/11yqqtqdz4",
+      "unclaimed_listing": true,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Lugar A Cerca, 33, 36620 Vilanova de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto 24 horas",
+      "hours": "Abierto 24 horas",
+      "operating_hours": {
+        "miércoles": "Abierto 24 horas",
+        "jueves": "Abierto 24 horas",
+        "viernes": "Abierto 24 horas",
+        "sábado": "Abierto 24 horas",
+        "domingo": "Abierto 24 horas",
+        "lunes": "Abierto 24 horas",
+        "martes": "Abierto 24 horas"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Maderas Lago y Campos",
+      "place_id": "ChIJH30hWhoULw0RSqxw6zgm6EA",
+      "data_id": "0xd2f141a5a217d1f:0x40e82638eb70ac4a",
+      "data_cid": "4677030238934314058",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f141a5a217d1f%3A0x40e82638eb70ac4a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f141a5a217d1f%3A0x40e82638eb70ac4a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.598498899999996,
+        "longitude": -8.762338999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJH30hWhoULw0RSqxw6zgm6EA",
+      "provider_id": "/g/1z44b0380",
+      "rating": 4.4,
+      "reviews": 8,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Tienda de armarios",
+        "Fábrica de puertas",
+        "Establecimiento de venta de madera",
+        "Proveedor de madera",
+        "Carpintero"
+      ],
+      "address": "Calle Pablo Iglesias, Rúa Pablo Iglesias, 5, 36600 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Abre pronto · 15:30",
+      "hours": "Abre pronto · 15:30",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 15:30–19:30",
+        "jueves": "9:00–13:30, 15:30–19:30",
+        "viernes": "9:00–13:30, 15:30–19:30",
+        "sábado": "10:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 15:30–19:30",
+        "martes": "9:00–13:30, 15:30–19:30"
+      },
+      "phone": "986 50 20 25",
+      "website": "https://www.maderaslago.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPCUHbqszwxiXspI3r911g5IMr1FeUCaB57Wrie1GeADNzbVwlT3nPH4xArVFC08ex5khxngZTPnFuHk6Mp7hJoYiFuEo88p7shc1PTYrsF_foXpJ59ntxFANk41lyCMhl3OuJ1-wB57DVJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mBLQeXicHc3PboIwHADgJ0JoEEETD1jXIQnKAfHPZdGmtoTadv2V0fmSnvc2Ll6-6_f3FM4ZWIShFPGEa80lG4BZqpVjyk2ovofcXgACCmGOf4y813hfXL_hMfruCGYT2zlCPNlUFhG2x5dVkh5sx9Any9fbx7UdZROrupj63LYERxnzSS-84uemVmQo-lllUlHqU0eGD51lJgVBUd2cLJCvmz6aMpkr50m-7adI_uJKyHg3lCgY_6N1Wy5HFEVRIN7SQL0ADSNHow"
+    },
+    {
+      "position": 6,
+      "title": "Carpintería Ebanistería Mariño SL",
+      "place_id": "ChIJ1R-EMwwULw0RAAIps0ACzy8",
+      "data_id": "0xd2f140c33841fd5:0x2fcf0240b3290200",
+      "data_cid": "3444974716868690432",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f140c33841fd5%3A0x2fcf0240b3290200&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f140c33841fd5%3A0x2fcf0240b3290200&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.6035136,
+        "longitude": -8.754999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ1R-EMwwULw0RAAIps0ACzy8",
+      "provider_id": "/g/1ttpj57f",
+      "rating": 4.4,
+      "reviews": 24,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Servicio de restauración de muebles antiguos",
+        "Ebanista",
+        "Tienda de armarios",
+        "Fábrica de muebles",
+        "Tienda de muebles de cocina"
+      ],
+      "address": "Av. Berdón, 64, 36613 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–15:00",
+        "jueves": "8:00–15:00",
+        "viernes": "8:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–15:00",
+        "martes": "8:00–15:00"
+      },
+      "phone": "687 02 60 40",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxZIeF9HlXH8KdeW72ZNURL_JmQziZytVUv65Hj3wdGkrVSVotbYkPDvD4xm8-cbtFcaIwWKdypPo0G3n2OOx-o-oaUmF3R3E2T3P6mW9RN-l1XG2e7OOrxyISRScKezL-uVVq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KQgn0nicHcRJDoIwAADAFxWQuqCJBw2yCBEEKcjFYGlAoVRpleWDvsHfmDiH-X5KIR58Jct1CaWCsaImL05azBpBGiFhRuWizTgHmMubzbaibt6nNjGWVp1YmpOTeKGmhyhwL3t6HG_pIFD0ns-sO-xys2pRiJi4nitff-vTnmoAX4WBM7uLnXx4-EwxYaN6Xg8YYFlEDRjAnXqC_pzGy-AA6kliqmTheW0_2GEQYoeMLngh9Fx3E0VRQPkfg-YHhIdEcw"
+    },
+    {
+      "position": 7,
+      "title": "Carpinteria Gelo S.L",
+      "place_id": "ChIJmzQxpJMTLw0RUCo1HJyiQiw",
+      "data_id": "0xd2f1393a431349b:0x2c42a29c1c352a50",
+      "data_cid": "3189290277503576656",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1393a431349b%3A0x2c42a29c1c352a50&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1393a431349b%3A0x2c42a29c1c352a50&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5676652,
+        "longitude": -8.7154749
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmzQxpJMTLw0RUCo1HJyiQiw",
+      "provider_id": "/g/11ldj0_ydt",
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "36614 Vilanova de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "hours": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "629 85 99 68",
+      "website": "https://www.carpinteriagelo.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pVp4RhtjLJHDTjbQeN6iAw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=112.72889&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IStSNHicHc3dCsIgGADQt_Euf0bUFkgEXUREUES34Zypw80P_Zr1Or1Vb1P0Aud83g4R8oqxjMkYnLwp4J8m5BkoamO0wSjwmeo4sEkwdI-hHZUPa1Bj9J2EK8zPDvvDfre99O3JHBd-U4hubzp4M6LMRiXtqC0_McWO2qRyJkXWnDjZVOSlihSiosuqrhsCHrWTnPyfe5yk4PwLByE6hQ"
+    },
+    {
+      "position": 8,
+      "title": "Maderas Rodríguez",
+      "place_id": "ChIJvWTBcAgULw0RFHKZKyIXvpk",
+      "data_id": "0xd2f140870c164bd:0x99be17222b997214",
+      "data_cid": "11078317568905802260",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f140870c164bd%3A0x99be17222b997214&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f140870c164bd%3A0x99be17222b997214&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5972408,
+        "longitude": -8.7500757
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvWTBcAgULw0RFHKZKyIXvpk",
+      "provider_id": "/g/11c1s_625v",
+      "rating": 5,
+      "reviews": 11,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Tienda de electrodomésticos",
+        "Tienda de armarios",
+        "Proveedor de puertas",
+        "Tienda de muebles de cocina",
+        "Servicio de instalación de suelos de madera",
+        "Carpintero"
+      ],
+      "address": "Rua Dañiel Espiño Nº15 Bajo A, 36613 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 16:00",
+      "hours": "Cerrado · Apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:30–13:30, 16:00–20:00",
+        "jueves": "9:30–13:30, 16:00–20:00",
+        "viernes": "9:30–13:30, 16:00–19:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–13:30, 16:00–20:00",
+        "martes": "9:30–13:30, 16:00–20:00"
+      },
+      "phone": "986 50 00 30",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPR1eri6r2EGhN3O8Ks4xMhodupdUHHN3dYE6y4S22dSWec8FhslUVwVB-9TAQ0w7c6yDiehNuZ8Qxu5F2wagCB0U3gj-bxqUzQe708LvkCanpMoONmGqRjrH9zUzoXLsPC3nUf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/arC8lHicHcRLEoIgAADQE5EkZdZMi7KPM6llRr-dIYGmYKBpXrAzdJtmeov3_fCqKvXEMHKOekxKltNaU0WkqKioekQWBlOx1oBoY-a8yrzY7ftUpZYyl2seoK290YPW5zKpywS7boCSy9J6DyLTTKITJfaK6xwfm-McjA-zEDYjYr0XKeVBfbXDth6uzCZmzhxixDJwa5-4C-kI2t7r4cSi9OU2KNbPfabccYc7efb0zkEC36dNH0II-H8CxA9u9ETz"
+    },
+    {
+      "position": 9,
+      "title": "Carpinteria Frieiro",
+      "place_id": "ChIJK8KvpMgTLw0R6EjS1EBiElI",
+      "data_id": "0xd2f13c8a4afc22b:0x52126240d4d248e8",
+      "data_cid": "5913897291278862568",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f13c8a4afc22b%3A0x52126240d4d248e8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f13c8a4afc22b%3A0x52126240d4d248e8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5996455,
+        "longitude": -8.743705799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJK8KvpMgTLw0R6EjS1EBiElI",
+      "provider_id": "/g/11y09rkcgf",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "address": "Rúa do Pomar, 8, 36613 Trabanca Badiña, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–19:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "605 95 69 42",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdenOVGhE0wROmQq3e-CDGarvUNvPIlPK0611--2j5zmO3-guurjcaVkXeCik6QVufFCqMFaC2R0kCCmdzsG0eMAL8jTrOuJDiidfZIoSIH8d-t_OEf4a4TAKSs7ZEzu4tSlbRcR3liHRDR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/avOnnnicHcTbboIwAADQL6oUYWqW-IAFEW_VomTxZelKubZUe9GEn_R5f7Nk5-H8vhtr7-bT80QTTGqlasGd4ZqpwfLBTpiSXq2pMYAZL4pWvdyXfMBF2iTwRbA8PwIOUJxS_bwen6dMnHZw5vsATLuPUeIA1M7pjtGi_-Ko7WfnwlVr9DisKZoS2CMky9GkkB-i_aK7aOy2cduW1S1TebZZlMB-46QKaXiJdrmZ35LRhTYXP4SRQLQbEpPly4cQguZ_BoY_dR1Gtw"
+    },
+    {
+      "position": 10,
+      "title": "Don Carpintero",
+      "place_id": "ChIJx8OGVwYULw0RoU0iLi_USWk",
+      "data_id": "0xd2f14065786c3c7:0x6949d42f2e224da1",
+      "data_cid": "7586828346384862625",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f14065786c3c7%3A0x6949d42f2e224da1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f14065786c3c7%3A0x6949d42f2e224da1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5998163,
+        "longitude": -8.7515223
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJx8OGVwYULw0RoU0iLi_USWk",
+      "provider_id": "/g/11gbxd31v5",
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Rúa Carregal, 21, 36613 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Cierra pronto · 15:30 · Apertura: 9:00 (jue)",
+      "hours": "Cierra pronto · 15:30 · Apertura: 9:00 (jue)",
+      "operating_hours": {
+        "miércoles": "9:00–15:30",
+        "jueves": "9:00–15:30",
+        "viernes": "9:00–15:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–15:30",
+        "martes": "9:00–15:30"
+      },
+      "phone": "607 42 96 21",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAATNTtUM_I_yculMXCAbzYJEgLMBJg92oflgaqDeAjW5u2Xqfe3-IZrUtDM3rTWhy5NKQ84cPDm2B564yJc24LqKaDkNXsuOwGsprOm5dAXONIb7nMjxXgpTKFkJEeDwA_YIv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bqfz0HicHcRJDoIwAADAFyHI4pZ4KFYNS0ETiNULwVpLZCm0RcQP-gZ_Y-Ic5vsplGrlSterwpowzllFe0kF4Y2ijZoQXutM5FJqROoAuGUdUgCSKFEpyrxsJH2F8AZc32d_y0Lk-mxp8nvF8g5S8Dg5vYm7O7U07yJSBZElklMxOlFwXNjkAGvTdWb26BPTDrsgh2WEZR8Pe9mKuHZuAMeRd5036PHCrE2CXelvKRxAdvae62FqGIZW_Cda8wN1M0TB"
+    },
+    {
+      "position": 11,
+      "title": "Botero Murillo Carpinteros",
+      "place_id": "ChIJD7DGsjsVLw0Ru0toN8pOgxc",
+      "data_id": "0xd2f153bb2c6b00f:0x17834eca37684bbb",
+      "data_cid": "1694284515241380795",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f153bb2c6b00f%3A0x17834eca37684bbb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f153bb2c6b00f%3A0x17834eca37684bbb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5941769,
+        "longitude": -8.7538489
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJD7DGsjsVLw0Ru0toN8pOgxc",
+      "provider_id": "/g/11njq00y18",
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "address": "Avenida das Carolinas, 70, 36600 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 15:00–19:30",
+        "jueves": "9:00–13:00, 15:00–19:30",
+        "viernes": "9:00–13:00, 15:00–19:30",
+        "sábado": "9:30–14:30",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00, 15:00–19:30",
+        "martes": "9:00–13:00, 15:00–19:30"
+      },
+      "phone": "647 11 92 10",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPqqnI294ftnphdAzWlqzVTaNRz5Ju4CJff3bhuvvI8FBF16W89CU0Hm3HVcd0djCCMlT2fyg0sVCfIJ2XSAvdx6RIl_E0fsWaSSYpc3g7skNhd5u2dTKHVJbJtzQdSiWWr82cVlIKy5f22=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4blJzXicHcTNboIwAADgJ0JqEYcmHlgzQ2tmVLDdTgu2tN1Wyk8LKi_p2bdZsu_wPR_a-9atw9DoaKaaRplqcFXPG-sr62e8qUPVl84F3IUpGltTH7rOYrhaSG9bLdKJmW6iRbk_TTEZFohIGV30MI442b5u50uWrNAZZHWUUS6A-EHo3RRQ3hVwFElM4EeejuK2PGHz9QakY2Wef7Y8Ui_ud69FPEBR7DJKLsRPR5F_M9YnkFODd_dYQri5zgEAgf6fB_YP-2ZHiw"
+    },
+    {
+      "position": 12,
+      "title": "Juan Ricoy",
+      "place_id": "ChIJWXBbjwcTLw0R_x3FBQZIUUE",
+      "data_id": "0xd2f13078f5b7059:0x4151480605c51dff",
+      "data_cid": "4706622276282686975",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f13078f5b7059%3A0x4151480605c51dff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f13078f5b7059%3A0x4151480605c51dff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5699464,
+        "longitude": -8.7138835
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWXBbjwcTLw0R_x3FBQZIUUE",
+      "provider_id": "/g/1td5hdl3",
+      "rating": 4.3,
+      "reviews": 6,
+      "unclaimed_listing": true,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Calle Fonsin, 7, 36620 Fonsín, Pontevedra",
+      "country": "España",
+      "phone": "609 55 72 33",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOBY4nGM3TVFojBL4PyapOSGj2pgy52Ro5P4HNE4Ur1YezHRjDuvf3cPzD3FOycsaWYt4fDU_OCPJsW2JCt1NJbxPZv6I5pOCZD5QF3TuTLyHxW4dgaCw4SROtqRzeBykhdtLI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z4_PV3icHcTNboIwAADgJ0J-Wjws2UHKEAmzFXEELwZLKUGklRa0PKDvsLdZsu_w_b5braX6sO2-BSsuBO_ZpNhIxaDZoFdU3G0-VkpZVNkbNMv-joMSDttvkP9EogtSSEwl8XHbeZIb38uET2C8_4Kn0S3ZEmddOM0NoGQJQYQNVVVRatiEpwtGJFGFlyDt7pPri5zn9c6XGJ1D_xCBfMpTE78KWPMKPeExw_qRLSwwt7bW6e7z6TqOY7X_U2v4AxRQRGE"
+    },
+    {
+      "position": 13,
+      "title": "Nave Carpinteria",
+      "place_id": "ChIJU4VzZAATLw0REZ5exrc5L-Y",
+      "data_id": "0xd2f130064738553:0xe62f39b7c65e9e11",
+      "data_cid": "16586539414098714129",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f130064738553%3A0xe62f39b7c65e9e11&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f130064738553%3A0xe62f39b7c65e9e11&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.6083211,
+        "longitude": -8.6820275
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJU4VzZAATLw0REZ5exrc5L-Y",
+      "provider_id": "/g/11zj7sy746",
+      "unclaimed_listing": true,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Lugar Carballal-Saiar, 20, 36656 A Igrexa, Pontevedra",
+      "country": "España",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q7BWKX_7pftwYgG4oPOhQQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=159.56873&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ODdMZHicHc0xDsIgFADQ27AJVK1tTYiJi4ODdlKnhlIKJBQQvkWv4628jcYLvPd5a4CQtoQkiFLCbGQO5iltWgSOlffKSh5MwsJPZC4I6MfUO27sLnDnzcDu1f5yvHZVGCHf1GHtzyfdtkj0nbBGOmBJ8ig0VvknRj9gFXlKKLOaIs2aJXrxzIqyweWmrlYoGBCaUfR_Rj-zgtIvADw6eg"
+    },
+    {
+      "position": 14,
+      "title": "Herbreda S.L.",
+      "place_id": "ChIJWxglPKwVLw0Rvn2tQWyLods",
+      "data_id": "0xd2f15ac3c25185b:0xdba18b6c41ad7dbe",
+      "data_cid": "15826083862631251390",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f15ac3c25185b%3A0xdba18b6c41ad7dbe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f15ac3c25185b%3A0xdba18b6c41ad7dbe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5713718,
+        "longitude": -8.7994683
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWxglPKwVLw0Rvn2tQWyLods",
+      "provider_id": "/g/1tfck16d",
+      "rating": 4.3,
+      "reviews": 6,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Rúa Galans, 11Coron, 36620 Vilanova de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 15:00–19:00",
+        "jueves": "9:00–13:00, 15:00–19:00",
+        "viernes": "9:00–13:00, 15:00–19:00",
+        "sábado": "9:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00, 15:00–19:00",
+        "martes": "9:00–13:00, 15:00–19:00"
+      },
+      "phone": "986 55 49 91",
+      "website": "http://www.herbreda.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WrUSj2lJxU9s09z7OKr4dw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.754656&pitch=-2.995466&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6guMFXicHc09DsIgGIDh27AVKPZHTIi7Dg6mcTRIsWBoIXxYqkfyRt7GxvUdnvf7MSkF2BECKWqdZqtzsIt2UASJB-8Hp2WwgJUfyVySZJ7jbZLW7YOcvO3FJXbnB3OHpeNA-bs9HWPVZ6RuV-WsnpIALaMyeMirGH2PhygBUBZbiozgDL1kFmyD27pq6gYFm5QRBcOcr6FB_9_dz6Kk9AfIajwD"
+    },
+    {
+      "position": 15,
+      "title": "Forjarosa",
+      "place_id": "ChIJl1KYz5gTLw0R2dvu2BwhbI0",
+      "data_id": "0xd2f1398cf985297:0x8d6c211cd8eedbd9",
+      "data_cid": "10190556464614923225",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1398cf985297%3A0x8d6c211cd8eedbd9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1398cf985297%3A0x8d6c211cd8eedbd9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.575512599999996,
+        "longitude": -8.7280315
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJl1KYz5gTLw0R2dvu2BwhbI0",
+      "provider_id": "/g/11gfd1cqbp",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Fábrica de puertas",
+        "Fábrica de muebles",
+        "Servicio de mantenimiento de maquinaria"
+      ],
+      "address": "Rúa Ande, 29, 36619 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "phone": "986 51 62 41",
+      "website": "https://www.forjarosa.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBGUn_oyf1h21xfYXLRL_-DKtkX8TNSjYnr4XfM4-bV_22VLYrM8mt7T7AgwG7-CuZYFfA7815TQr5HLjCJbSgNCzDRKYC3ddP-if266gM2G3pV9ux7Uh4t3q_yVh3OpY65zmx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sOmWynicHcRLjoIwAADQE1WgBYqTzAIxYrQ4M4qEuiGKtPVDy7Qlohf0DN7GxLd4r6ewtjNfjnMVaMSV4temN42ulbSNtKNatQ7Xe2NAbZw4nlxa0kzSrazUnXkCegOjJVmTCkyX9lJG-WpzplL7Jct8cCgqCAtCdRa1Fuc45rcUg6Tf0RmLceQF-Z8O5uScLA4bvkoe0_WSJuh4_AUnBsOQZzBFXTHuB7wVvkX_1b0Q6KejYfBoh--b57ouEJ9rIN_gvULX"
+    },
+    {
+      "position": 16,
+      "title": "Carpintería PVC y Aluminio CUEVAS.L",
+      "place_id": "ChIJZbqbonoVLw0RUFQyV3VHIGI",
+      "data_id": "0xd2f157aa29bba65:0x6220477557325450",
+      "data_cid": "7070729984271340624",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f157aa29bba65%3A0x6220477557325450&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f157aa29bba65%3A0x6220477557325450&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5891404,
+        "longitude": -8.7548769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZbqbonoVLw0RUFQyV3VHIGI",
+      "provider_id": "/g/11j96vpz4q",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Proveedor de marcos de aluminio",
+      "types": [
+        "Proveedor de marcos de aluminio"
+      ],
+      "address": "Pontevedra ES, Rúa Quinteiro da Laxe, 13, 36613 Laxe, A",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:30",
+      "hours": "Abierto · Cierre: 18:30",
+      "operating_hours": {
+        "miércoles": "8:30–13:30, 15:00–18:30",
+        "jueves": "8:30–13:30, 15:00–18:30",
+        "viernes": "8:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:30, 15:00–18:30",
+        "martes": "8:30–13:30, 15:00–18:30"
+      },
+      "phone": "986 50 37 12",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9I1nBaubpb9DsZ2ZlgYBig&cb_client=search.gws-prod.grass&w=80&h=92&yaw=42.80992&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2EyFP3icHc1BDsIgEEDR27ATaOOimBCTxo1HsBszUIRJsBCGFj2Ox_I2Ni7_5v3vJ9Sa6SQE1eJc3dC1jC8X6ZCB-5R8dJCRuE1PsXWihvVpFsB4zrAknLW6dssIq8lGXWjqp-hvI3pmzd1GdEvV5KDYwH3bxZJm7gsQsaYHyYJWPXtD08eeD1LtkbHaoCX7bx5p052UP8BuOjI"
+    },
+    {
+      "position": 17,
+      "title": "Maderas J. Redondo",
+      "place_id": "ChIJiVb3djwULw0RUd01trWzzq4",
+      "data_id": "0xd2f143c76f75689:0xaeceb3b5b635dd51",
+      "data_cid": "12596202800829291857",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f143c76f75689%3A0xaeceb3b5b635dd51&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f143c76f75689%3A0xaeceb3b5b635dd51&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5930241,
+        "longitude": -8.7715129
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJiVb3djwULw0RUd01trWzzq4",
+      "provider_id": "/g/1ptwr1cy5",
+      "rating": 4.4,
+      "reviews": 81,
+      "type": "Establecimiento de venta de madera",
+      "types": [
+        "Establecimiento de venta de madera"
+      ],
+      "address": "Rúa Valle Inclán, 11, 36600 Vilagarcía de Arousa, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:30",
+      "hours": "Abierto · Cierre: 18:30",
+      "operating_hours": {
+        "miércoles": "7:30–13:00, 15:00–18:30",
+        "jueves": "7:30–13:00, 15:00–18:30",
+        "viernes": "7:30–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:30–13:00, 15:00–18:30",
+        "martes": "7:30–13:00, 15:00–18:30"
+      },
+      "phone": "986 50 19 20",
+      "website": "http://www.maderasredondo.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNdtbGwtBWT8E4-hwcm8dPOXFKKGcFN2cFtBgOqHmxT_lbxA_VPnr36rAhHvembA3DV7nJ2GNLwsD55kA06MRoWd0AiZKgp1_K2tLA6W-o-sOqKiPSJtLwo6EPxwElrKj3gwRj48w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/e7L9D3icHcTdboIwGADQJ6pUUCQmXtQJGItAnJFlN2QU0qr9wfbT8op7hL3NEs_F-fsVAKNbB4EU0Ywbw-XwdINlRsOgYcaMCrj9cQ4xF5CP1yhV2UOXe9g25yRdIOGZSvq6-soozVlWhiyDLa8eezWdW9lNpL3U2kaxJWL_GlRHot1lpQ9hXhbe7ZbLO8Hx8WSaHpPrN-XjvKUhFCRukEGuetBr_XmAwps4rSefSktvEfen2yLxGz_HGCPxniH9DxsFRVU"
+    },
+    {
+      "position": 18,
+      "title": "Gammagal",
+      "place_id": "ChIJv1MHA40TLw0R1UtVYXbZP8g",
+      "data_id": "0xd2f138d030753bf:0xc83fd97661554bd5",
+      "data_cid": "14429490833580706773",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f138d030753bf%3A0xc83fd97661554bd5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f138d030753bf%3A0xc83fd97661554bd5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.580642,
+        "longitude": -8.7012445
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJv1MHA40TLw0R1UtVYXbZP8g",
+      "provider_id": "/g/11w7fzf8pd",
+      "rating": 4,
+      "reviews": 4,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Lugar Reguengo - Godos. Polígono 203, parcela 10254 Castro Pontevedra ES, 36615 Bouza",
+      "country": "España",
+      "open_state": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "hours": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "615 47 30 85",
+      "website": "https://gammagal.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNFNqyKNFY3ZpvjUR3TdOCbOfs360aBbeXRMSHik21Z8I6-4JR-jLkK2ulXtap1hIv_69jPnIMXGq-S9pbduUV5kt1FO6hdSzlGQqku0N36FPGMTmH5DSnTUHs7ytvykRgXvLWG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K0xAqXicHcRLcoIwAADQE0WC0Vg700XV4aMClo-iG4dfiSSEYEIcekHP4G0641u815MoJeSnYTCCJnXX1awaZHUvOq4qriZF1xr1PZMSFNL4XmvBWt_y-3HnW2d0EbpJQhSXwToPfiXCMFvlVRp6kXOjU_Py4WIw24ag2dPddGCpyoRJXH3Fy-bAXS-1exAtRV4OyXFOlWkFmJTRH7N_ejpAH2HrYHtx68w3EY8TRy5GpUca1qnen-yvhwkhBOR9Afg_Rh1EWQ"
+    },
+    {
+      "position": 19,
+      "title": "Pinfal",
+      "place_id": "ChIJ-clLVAAVLw0RhUIFSYtgMjA",
+      "data_id": "0xd2f1500544bc9f9:0x3032608b49054285",
+      "data_cid": "3472944413997875845",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1500544bc9f9%3A0x3032608b49054285&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1500544bc9f9%3A0x3032608b49054285&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5627822,
+        "longitude": -8.7947378
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-clLVAAVLw0RhUIFSYtgMjA",
+      "provider_id": "/g/11clvx6vjb",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Rua, Travesía da Fonte, nº15, 36611 Aralde, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "8:00–17:00",
+        "jueves": "8:00–17:00",
+        "viernes": "8:00–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–17:00",
+        "martes": "8:00–17:00"
+      },
+      "phone": "630 24 75 64",
+      "website": "http://www.pinfal.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMQ6DGf7h2DPReiuzjYIYS5_-pdCAZ4XogQa2f_CkFjp-mrJ4CfxrFgaY7dnrtnad_PDyxiGkAEURspahSI9f1i-5IBzqcEUWAENOKhEiZPCroywhm6r1zCEW1ZahMcOK_wX3Ilj0juSSA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7ufuB3icHcTbDoIgAADQLyK1rFZbD4TU7Gq5VvriGCp4AwOc5U_23N-0dR7O98ONafXSsmo-GTEpWZ11OlNUCpMJM6KysZgiWgOqLQjXVXNIj5eZt83nfOwF16zohjLyo3CagDZFMHYfkl3IOE9QtSlb0Kidi_KX2jASzVOhjCBpEnjvV7GtIL5ddUt46C9ypwBTfz08Kb7dIT6d9xwXcYCUfPe8mSlnQPjuxIQf6Xmf9I-JX5d22YUhXPWObduA_6dA_ADsaEgp"
+    },
+    {
+      "position": 20,
+      "title": "Deltell Carpintería Metálica y Madera",
+      "place_id": "ChIJy1hqUOsTLw0RSv6EE4EQ0ZM",
+      "data_id": "0xd2f13eb506a58cb:0x93d110811384fe4a",
+      "data_cid": "10651312740272242250",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f13eb506a58cb%3A0x93d110811384fe4a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f13eb506a58cb%3A0x93d110811384fe4a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5736205,
+        "longitude": -8.7414911
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy1hqUOsTLw0RSv6EE4EQ0ZM",
+      "provider_id": "/g/11wqh6ns59",
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Rúa, 53, 36619 As Quintáns, Pontevedra",
+      "country": "España",
+      "phone": "613 11 93 68",
+      "website": "https://www.deltell.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNzbR_vwkQ8TVKLt99weyFqXu5ScSGCaf3ZUvbgzXDOkMBzeOVhlkuR-v7FAXjONdscYAmR_bbAFfYYyNpWn5OZxkKmZHMe6Wmp8MlYWDHgXbGfLySx9hlcBmdb_OzN13l2m7OnCg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0JiWL3icHcRJDoIwAADAFyEoccHEA2DARKERVJYLsaW0kbagLSD80Cf4GxPnMN8PVaqVW11n1JyRpiEMdxK_UCMUFmqGGq6T111KDUnddvuW8XCCUdEP9XlzuR1PyrIGPHrPtFvGKPbde2Xm1x6SKd2DOnAmDG6U1V2k9WvPTh8gLCXKbB4VENpelWVj2CZiCfJ3feT5IcCrhLebgGXJ_kBS6FenMX5blCGHl7AAUzg32YKvgXDJbpgbhqHR_0gTP_T-R5E"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4042.5961%2C-8.7653%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

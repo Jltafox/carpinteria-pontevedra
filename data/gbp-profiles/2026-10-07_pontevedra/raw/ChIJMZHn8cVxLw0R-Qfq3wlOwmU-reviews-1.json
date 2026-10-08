@@ -1,0 +1,344 @@
+{
+  "search_metadata": {
+    "id": "6ac6744a73ae60c953b6ab35",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eVRHhBjrDiwu6pcvUgdn1Ek0sx801VqByuxvoOBZI-0/6ac6744a73ae60c953b6ab35.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eVRHhBjrDiwu6pcvUgdn1Ek0sx801VqByuxvoOBZI-0/6ac6744a73ae60c953b6ab35.md",
+    "created_at": "2026-10-07 16:33:14 UTC",
+    "processed_at": "2026-10-07 16:33:14 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71c5f1e79131:0x65c24e09dfea07f9!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/eVRHhBjrDiwu6pcvUgdn1Ek0sx801VqByuxvoOBZI-0/6ac6744a73ae60c953b6ab35.html",
+    "prettify_html_file": "https://serpapi.com/searches/eVRHhBjrDiwu6pcvUgdn1Ek0sx801VqByuxvoOBZI-0/6ac6744a73ae60c953b6ab35.prettify",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71c5f1e79131:0x65c24e09dfea07f9",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "GRUPO ARTA",
+    "address": "Av. de Vigo, 67, bajo derecha, 36003 Pontevedra, España",
+    "rating": 4.4,
+    "reviews": 59,
+    "type": "Carpintería"
+  },
+  "topics": [
+    {
+      "keyword": "cocina",
+      "mentions": 7,
+      "id": "/m/0d4wf"
+    },
+    {
+      "keyword": "proyecto",
+      "mentions": 6,
+      "id": "/m/0156dy"
+    },
+    {
+      "keyword": "diseño",
+      "mentions": 6,
+      "id": "/m/02cwm"
+    },
+    {
+      "keyword": "ideas",
+      "mentions": 4,
+      "id": "/m/015hcf"
+    },
+    {
+      "keyword": "confianza",
+      "mentions": 4,
+      "id": "/m/03h1p2"
+    },
+    {
+      "keyword": "materiales",
+      "mentions": 3,
+      "id": "/g/11bc5q7mhy"
+    },
+    {
+      "keyword": "expectativas",
+      "mentions": 3,
+      "id": "/m/01k8wv"
+    },
+    {
+      "keyword": "reformas",
+      "mentions": 3,
+      "id": "/m/06b49c"
+    },
+    {
+      "keyword": "desastre",
+      "mentions": 2,
+      "id": "/m/028hh"
+    },
+    {
+      "keyword": "mimo",
+      "mentions": 2,
+      "id": "/m/06m724"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkdWFHdDNTeTFsWVcwd1dXd3RkakIxYVdWbFRVRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlduaGt3Sy1lYW0wWWwtdjB1aWVlTUE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "iso_date": "2026-06-09T18:59:22Z",
+      "iso_date_of_last_edit": "2026-06-09T18:59:22Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdWFHdDNTeTFsWVcwd1dXd3RkakIxYVdWbFRVRRAB",
+      "user": {
+        "name": "Armando Tarache",
+        "link": "https://www.google.com/maps/contrib/114527479925388940322?hl=es-419",
+        "contributor_id": "114527479925388940322",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocILmoBJJXwZxmfRT-ot9Br1Q04a-SYZKUL4vyWBqzCRGEN3Rg=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pNdFZubFdWR2hTVVRRNGRtSmhPRmxQU0Y5SVJuYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOjMtVnlWVGhSUTQ4dmJhOFlPSF9IRnc%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace 4 meses",
+      "iso_date": "2026-06-01T10:01:09Z",
+      "iso_date_of_last_edit": "2026-06-01T10:01:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdFZubFdWR2hTVVRRNGRtSmhPRmxQU0Y5SVJuYxAB",
+      "user": {
+        "name": "María victoria Barreiro Díaz",
+        "link": "https://www.google.com/maps/contrib/104135254658818863176?hl=es-419",
+        "contributor_id": "104135254658818863176",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLWXJddUpLEsQKO5L471MdqKW_tGW-iyiqAlKVHDFDUOfTr3Q=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Coincido con las malas valoraciones previas.\nMi peor experiencia con una empresa de reformas. Un auténtico desastre de organización y gestión. Coincido en que sus propios montadores no entendían la mala organización. Retrasos injustificados, perdieron las fotos, cambiaron lo que había que hacer…\nY encima, con el trabajo sin finalizar, se ponían exigentes con el pago final. Menos mal que pagué solo cuando estuvo finalizado porque sino seguiría esperando.\nY también afortunadamente revisé bien la factura porque me cobraban trabajos que finalmente no se realizaron.\nEn resumen, no recomendaría esta empresa a nadie.",
+      "extracted_snippet": {
+        "original": "Coincido con las malas valoraciones previas.\nMi peor experiencia con una empresa de reformas. Un auténtico desastre de organización y gestión. Coincido en que sus propios montadores no entendían la mala organización. Retrasos injustificados, perdieron las fotos, cambiaron lo que había que hacer…\nY encima, con el trabajo sin finalizar, se ponían exigentes con el pago final. Menos mal que pagué solo cuando estuvo finalizado porque sino seguiría esperando.\nY también afortunadamente revisé bien la factura porque me cobraban trabajos que finalmente no se realizaron.\nEn resumen, no recomendaría esta empresa a nadie."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 3 meses",
+        "iso_date": "2026-06-09T18:41:54Z",
+        "iso_date_of_last_edit": "2026-06-09T18:41:54Z",
+        "snippet": "Lamentamos su valoración, aunque consideramos que no refleja lo ocurrido durante el proyecto.\n\nRespecto a la factura, se incluyeron por error unos trabajos que inicialmente estaban contemplados y que finalmente fueron descartados por usted. La incidencia se corrigió en cuanto fue detectada y nunca existió intención de facturar trabajos no realizados.\n\nTambién omite mencionar que las condiciones de pago estaban recogidas en el presupuesto aceptado y que los pagos se realizaron en fechas distintas a las acordadas, circunstancia que asumimos con flexibilidad para poder finalizar los trabajos.\n\nLamentamos que su percepción sea esta y seguimos comprometidos con ofrecer un servicio profesional y de calidad.",
+        "extracted_snippet": {
+          "original": "Lamentamos su valoración, aunque consideramos que no refleja lo ocurrido durante el proyecto.\n\nRespecto a la factura, se incluyeron por error unos trabajos que inicialmente estaban contemplados y que finalmente fueron descartados por usted. La incidencia se corrigió en cuanto fue detectada y nunca existió intención de facturar trabajos no realizados.\n\nTambién omite mencionar que las condiciones de pago estaban recogidas en el presupuesto aceptado y que los pagos se realizaron en fechas distintas a las acordadas, circunstancia que asumimos con flexibilidad para poder finalizar los trabajos.\n\nLamentamos que su percepción sea esta y seguimos comprometidos con ofrecer un servicio profesional y de calidad."
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSdmMwNVBZbVJ6TkMwd1RqTmZWWEp6VUZJdFJsRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlRvc05PYmRzNC0wTjNfVXJzUFItRlE%7C%7C?hl=es-419",
+      "rating": 3.0,
+      "date": "Hace 6 meses",
+      "iso_date": "2026-03-30T22:30:48Z",
+      "iso_date_of_last_edit": "2026-03-30T22:30:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdmMwNVBZbVJ6TkMwd1RqTmZWWEp6VUZJdFJsRRAB",
+      "user": {
+        "name": "Coco Lpf",
+        "link": "https://www.google.com/maps/contrib/118240166906803438711?hl=es-419",
+        "contributor_id": "118240166906803438711",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUfNgE4tI4hvPxAlEAZk3JqePmtCSuIXCRUFMaGjXXixS0MQmq93w=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 76,
+        "photos": 55
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 meses",
+        "iso_date": "2026-04-07T14:41:03Z",
+        "iso_date_of_last_edit": "2026-04-07T14:41:03Z",
+        "snippet": "Buenas tardes,\n\nNos gustaría saber si la reseña corresponde con algún servicio ofrecido por nuestra empresa.\n\nGracias",
+        "extracted_snippet": {
+          "original": "Buenas tardes,\n\nNos gustaría saber si la reseña corresponde con algún servicio ofrecido por nuestra empresa.\n\nGracias"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SeGNVcFlkamRHTFVobmIzRTRNVGxyTmpSQ2EwRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmRxcUpYdjdGLUhnb3E4MTlrNjRCa0E%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-12T19:18:16Z",
+      "iso_date_of_last_edit": "2025-12-12T19:18:16Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeGNVcFlkamRHTFVobmIzRTRNVGxyTmpSQ2EwRRAB",
+      "user": {
+        "name": "Alberto Fernández",
+        "link": "https://www.google.com/maps/contrib/105068566193820053001?hl=es-419",
+        "contributor_id": "105068566193820053001",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJPlU1udcshpQs7AIsgSBLfZOLlBwVHHaK9BMzjh85x1EiDv7yP=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 0
+      },
+      "snippet": "Decidí cambiar mi cocina hace unos meses por lo que acudí a Grupo Arta donde me asesoraron y me ayudaron con la distribución final.\n\nEl resultado superó mis expectativas. Volveré a trabajar con ellos.",
+      "extracted_snippet": {
+        "original": "Decidí cambiar mi cocina hace unos meses por lo que acudí a Grupo Arta donde me asesoraron y me ayudaron con la distribución final.\n\nEl resultado superó mis expectativas. Volveré a trabajar con ellos."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 9 meses",
+        "iso_date": "2025-12-15T15:46:13Z",
+        "iso_date_of_last_edit": "2025-12-15T15:46:13Z",
+        "snippet": "Muchas gracias por tus palabras Alberto!\n\nHa sido un placer hacer este proyecto.",
+        "extracted_snippet": {
+          "original": "Muchas gracias por tus palabras Alberto!\n\nHa sido un placer hacer este proyecto."
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kcFRFeFZWVGx1V0doVVNXTmhWSFJTYm1ZMVFWRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmdpTExVVTluWGhUSWNhVHRSbmY1QVE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-12T19:02:11Z",
+      "iso_date_of_last_edit": "2025-12-12T19:02:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcFRFeFZWVGx1V0doVVNXTmhWSFJTYm1ZMVFWRRAB",
+      "user": {
+        "name": "Franfb_02",
+        "link": "https://www.google.com/maps/contrib/101331745779292309958?hl=es-419",
+        "contributor_id": "101331745779292309958",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVylWxLDMLIvp5KrUNsSuaDan06F3CDEpA5jO5OuyPa6FHVQTSB=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Muy buen servicio de carpintería y de diseño. El vestidor quedó perfecto, con materiales de calidad y muy buenos acabados. La atención al cliente fue de diez: amables y siempre dispuestos a ayudar. Totalmente recomendados.",
+      "extracted_snippet": {
+        "original": "Muy buen servicio de carpintería y de diseño. El vestidor quedó perfecto, con materiales de calidad y muy buenos acabados. La atención al cliente fue de diez: amables y siempre dispuestos a ayudar. Totalmente recomendados."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 9 meses",
+        "iso_date": "2025-12-15T15:47:03Z",
+        "iso_date_of_last_edit": "2025-12-15T15:47:03Z",
+        "snippet": "Gracias por el comentario Fran!\n\nNos alegramos mucho de haber cumplido con las expectativas",
+        "extracted_snippet": {
+          "original": "Gracias por el comentario Fran!\n\nNos alegramos mucho de haber cumplido con las expectativas"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toTWNrUnpiWFJMVVROVVIwaFBhWGxwUTI0MGJsRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOkhMckRzbXRLUTNUR0hPaXlpQ240blE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-07T20:04:07Z",
+      "iso_date_of_last_edit": "2025-12-07T20:04:07Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTWNrUnpiWFJMVVROVVIwaFBhWGxwUTI0MGJsRRAB",
+      "user": {
+        "name": "Beatriz Garcia",
+        "link": "https://www.google.com/maps/contrib/100723301865556438602?hl=es-419",
+        "contributor_id": "100723301865556438602",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJFFz8LBCIHmlDtZhkW1rF4Rg3o_YBuTe3vKhWz2J9x69jZBw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Profesionales, cumplen plazos y el resultado siempre queda perfecto. Muy buena comunicación y gran atención al detalle. Recomiendo grupo ARTA para cualquier proyecto a medida.",
+      "extracted_snippet": {
+        "original": "Profesionales, cumplen plazos y el resultado siempre queda perfecto. Muy buena comunicación y gran atención al detalle. Recomiendo grupo ARTA para cualquier proyecto a medida."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 9 meses",
+        "iso_date": "2025-12-08T14:15:52Z",
+        "iso_date_of_last_edit": "2025-12-08T14:15:52Z",
+        "snippet": "Muchas gracias por apreciar nuestro trabajo Bea!",
+        "extracted_snippet": {
+          "original": "Muchas gracias por apreciar nuestro trabajo Bea!"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21rMWQzRjNVbHBRZVRkV1FXbDZiMmg0UWt0MlJFRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmk1d3F3UlpQeTdWQWl6b2h4Qkt2REE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-07T20:00:18Z",
+      "iso_date_of_last_edit": "2025-12-07T20:00:18Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMWQzRjNVbHBRZVRkV1FXbDZiMmg0UWt0MlJFRRAB",
+      "user": {
+        "name": "Lucía",
+        "link": "https://www.google.com/maps/contrib/103855234381545631549?hl=es-419",
+        "contributor_id": "103855234381545631549",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUiRpfzMWzO6KP3kYSlgTbffOd07BxhvyNOH4r9TWTssDHSNbXv3g=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 1
+      },
+      "snippet": "Una empresa de carpintería a medida con una atención al detalle increíble. Desde el primer momento se nota la profesionalidad, la comunicación clara y la capacidad de aportar ideas que elevan cualquier espacio. Las piezas a medida que fabrican tienen una calidad excepcional, y el montaje es impecable.\nAdemás, cumplen plazos, escuchan lo que necesitas y buscan siempre la mejor solución. Un equipo serio, creativo y de confianza. Sin duda volvería a contar con ellos para cualquier proyecto de carpintería!!",
+      "extracted_snippet": {
+        "original": "Una empresa de carpintería a medida con una atención al detalle increíble. Desde el primer momento se nota la profesionalidad, la comunicación clara y la capacidad de aportar ideas que elevan cualquier espacio. Las piezas a medida que fabrican tienen una calidad excepcional, y el montaje es impecable.\nAdemás, cumplen plazos, escuchan lo que necesitas y buscan siempre la mejor solución. Un equipo serio, creativo y de confianza. Sin duda volvería a contar con ellos para cualquier proyecto de carpintería!!"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 9 meses",
+        "iso_date": "2025-12-08T14:16:32Z",
+        "iso_date_of_last_edit": "2025-12-08T14:16:32Z",
+        "snippet": "Gracias Lucía!!\n\nDa gusto leer comentarios así y que se valore el trabajo bien hecho.",
+        "extracted_snippet": {
+          "original": "Gracias Lucía!!\n\nDa gusto leer comentarios así y que se valore el trabajo bien hecho."
+        }
+      }
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKcVJFOUxXVlp1YWpReVUzWldhRFpPVUdzd2IxRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlJqRE9LWVZuajQyU3ZWaDZOUGswb1E%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Editado Hace 10 meses",
+      "iso_date": "2025-09-10T11:39:15Z",
+      "iso_date_of_last_edit": "2025-11-19T10:27:37Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPNEFUGwbIldlMP5WlK6RECRgufEm_xfIY2g_tzW24rVw5RVhGZd4Tty4SLn_6G2zZboM-sd-7TjrhJltqyIcc8VfxEp-kVQzqIgcCJjOp83_0mRTXio0eoy-PjjJ6-S26MMbp-lvtL5wQ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNfGTIuyVVnXftQH9f8HIj2Dtd6F8mytGdIJytIVsBS-dTXDi5Rj4YFYeFTYagKZFCoNxmCc8nUjPT0VCbq1Y7vFhBulHpnvs7RmVUdMYBbCJrAqYGGbUrumBNg9812Ra4eq7iP2xyiRyNB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmO5THMc1iF-6DW1gVdqZEyDcxQYAi8dwC7u_unCXPW68tN9sxlWZgU-W84d4I3-p-L3SeE8-kVh9uWLGKKRH8E0sKXiuTnIP5HLFqbo16WQqtBOEy5FynUGbqRyVTRqg2Bd1WrJXZ8nmAax=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPPTiS31tgd_N9gfYUB7vyVikR_lpWDlVfdEJfEQojLkYXzTU0c4bXMg8Huky-eN75t7YjZ9lJpFkR_Z3W13dcnJh0xw5X0ivWjoYstdk1nCuTJX0MaPRfxW0rQ5RhI0pZ3jopohZU4wUQd=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMZ88ptjaHcJ2uL9AHCvAQ3fefqpaL4W_tu3lnz9t-lUREwi5qyuIzrh6TifXUgliIv70mKNUt5avZXRa6ApFofqBvJO0QZJQsk8J7vHsMsTdrc8U3jhad9irTCQoi9j5glkn-mqhvmYvYU=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNfQKJwVTdi3oMWRKVjNTiQ8SSkx1vdjyZxpwzrBcvAD_dDIgnluyq00mO5l2mhKa1t7z_Yj61S8sL2qlbyHPfiwZv6yYHiaKfBdQBDuNYRIaFMcCvp5_0de0Q7Lw2aLcLC80-eWYFVQhA7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMwoWTDSDmYVv1I0GA8P-2x7q2Wa01OhGp35xLeT6Opk_4oS0DP3NAg08pjFrrn-IaMFxvl_d_SYNdSfomt1pfuKgIil9F4jrQbYiP02YpbY-l1xMEKUXXkomUMWXMs1AeoghByDJbkIvs=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPsMAUTlQYRd37D12yaHpOU8Lu8Khao1YDVhL2MzOBFLS5CidLQMTWnp8rv7LDE7QWukgwf5swK5F68vINZx5YxqC6G_HY-Ciw6mXOeRbjcyfcF61xtgx7eq3L16tB_8TizI1vGHEIIHtDo=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOfIccO1VpMQ4vRrxoGMaLWgQATM4ssP1W2u2IzNhcUHkqxGWhtZCSq318IsFawcq4JtZ_KYC6ozTh0xy2yzOU0XGYHyPMpcfxFXRH-t3rDNxDK8aZHwuI0nwtBVRMqKWzhpsz9fxXPif1E=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMzKZhtqKjK1yPFDo9HWsYEr5q_Q0XanFZW5gL6WniL785fRoBUk19JGzf-zb8VdMCrhBNXYl8zO6V3IfTdXbN0bQQezNlxQ4GOkFKYZxf9TffKv33PyyLsKP_IbYBr0thIs1qrjSQ0cKjQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcVJFOUxXVlp1YWpReVUzWldhRFpPVUdzd2IxRRAB",
+      "user": {
+        "name": "Isabel Navarro Vallejo",
+        "link": "https://www.google.com/maps/contrib/113885209635554303099?hl=es-419",
+        "contributor_id": "113885209635554303099",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLtlNQLmt3S_EitwkJ6FCQJ_BcXw7eiaJiAmc8en1e2eoVzag=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 8,
+        "photos": 10
+      },
+      "snippet": "Al principio Rubén te convence con buenas palabras y genera confianza, pero después no responden al teléfono ni devuelven jamás una llamada, ni siquiera cuando ellos mismos fijan las citas. Nosotros siempre fuimos pacientes pese a que la entrega ya llegó con más de 3 meses de retraso. Cuando por fin trajeron la puerta, no solo quedó mal instalada (ni siquiera pusieron un precerco ni cierra, ni encaja…), sino que además estaba mal hecha (madera y cristal roto, mal cortada, todo dañado) siendo una puerta cara y a medida. Incluso sus propios trabajadores reconocieron que el trabajo estaba mal.  Rubén alegaba que era cosa nuestra pese a que jamás se pasó a cerciorarse del trabajo ejecutado.\n\nHemos intentado en varias ocasiones llegar a una solución amistosa, pero la única propuesta que recibimos fue totalmente fuera de la ley: que asumiéramos nosotros el desmontaje y los portes hasta Galicia para poder recuperar el dinero…En la práctica, eso significa quedarse con nuestro dinero sin hacerse responsables de un trabajo mal ejecutado, también ofrecieron un arreglo parcial que para nada soluciona el desastre que es.\n\nPor suerte, todo está documentado y por desgracia, tendremos que recurrir a la ley para que se cumpla nuestro derecho.\n\nLas fotos son en el estado actual que han dejado la puerta…\n\nA la vista de la respuesta nos vemos en la  obligadacion a subir el WhatsApp donde reconocen que la puerta está mal y se la deben de llevar, o la otra alternativa es qué nos  devuelven el dinero (opción que dada la nefasta experiencia solicitamos). Días más tarde, salieron que para que nos devolvieran el dinero, nosotros tendríamos que correr con los gastos del desmontaje y portes a Galicia, algo totalmente fuera de la ley.\n\nAsí mismo, invito a la compañía a que publique, si tan claro tiene que las fotos que subimos no son del estado final, a que envíe esos vídeos y fotos que tiene con todo perfectamente acabado.",
+      "extracted_snippet": {
+        "original": "Al principio Rubén te convence con buenas palabras y genera confianza, pero después no responden al teléfono ni devuelven jamás una llamada, ni siquiera cuando ellos mismos fijan las citas. Nosotros siempre fuimos pacientes pese a que la entrega ya llegó con más de 3 meses de retraso. Cuando por fin trajeron la puerta, no solo quedó mal instalada (ni siquiera pusieron un precerco ni cierra, ni encaja…), sino que además estaba mal hecha (madera y cristal roto, mal cortada, todo dañado) siendo una puerta cara y a medida. Incluso sus propios trabajadores reconocieron que el trabajo estaba mal.  Rubén alegaba que era cosa nuestra pese a que jamás se pasó a cerciorarse del trabajo ejecutado.\n\nHemos intentado en varias ocasiones llegar a una solución amistosa, pero la única propuesta que recibimos fue totalmente fuera de la ley: que asumiéramos nosotros el desmontaje y los portes hasta Galicia para poder recuperar el dinero…En la práctica, eso significa quedarse con nuestro dinero sin hacerse responsables de un trabajo mal ejecutado, también ofrecieron un arreglo parcial que para nada soluciona el desastre que es.\n\nPor suerte, todo está documentado y por desgracia, tendremos que recurrir a la ley para que se cumpla nuestro derecho.\n\nLas fotos son en el estado actual que han dejado la puerta…\n\nA la vista de la respuesta nos vemos en la  obligadacion a subir el WhatsApp donde reconocen que la puerta está mal y se la deben de llevar, o la otra alternativa es qué nos  devuelven el dinero (opción que dada la nefasta experiencia solicitamos). Días más tarde, salieron que para que nos devolvieran el dinero, nosotros tendríamos que correr con los gastos del desmontaje y portes a Galicia, algo totalmente fuera de la ley.\n\nAsí mismo, invito a la compañía a que publique, si tan claro tiene que las fotos que subimos no son del estado final, a que envíe esos vídeos y fotos que tiene con todo perfectamente acabado."
+      },
+      "likes": 2,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-15T11:27:22Z",
+        "iso_date_of_last_edit": "2025-09-15T11:27:22Z",
+        "snippet": "Estimada Isabel,\n\nES UNA LÁSTIMA QUE EN ESTE ESPACIO NO PODAMOS ADJUNTAR FOTOS NI VÍDEOS. No obstante, disponemos de material gráfico que acredita el estado real de la puerta ya terminada y funcionando. Las imágenes que usted ha aportado corresponden a un momento previo a los remates finales.\n\nLa puerta se fabricó según el diseño aportado en planos (incluso desarrollados por nuestra oficina técnica sin coste adicional para usted) y se realizó un 3D previo para que pudiera visualizar el resultado final antes de la fabricación.\n\nDurante el proceso, las puertas estuvieron en la obra y fueron revisadas por usted. Aun habiendo aceptado previamente un acabado, nos solicitó que retiráramos de nuevo las puertas y las lleváramos al taller para volver a barnizarlas en otro color, ya que no era el que esperaba. Este trabajo adicional también lo asumimos nosotros íntegramente, sin repercutirle el sobrecoste.\n\nEn cuanto a la instalación, conviene precisar que el premarco corresponde al albañil/constructora, ya que desde el inicio se sabía que se trataba de una puerta corredera. Aun así, fijamos la guía a la perfilería, quedando correctamente instalada y con suficiente solidez. Lo único que quedaba pendiente eran algunos remates, como la colocación de dos junquillos y la tapeta superior, además de los ajustes de sellado y la limpieza final.\n\nAsimismo, el cristal fue repuesto, como se refleja en nuestra documentación y registros gráficos.\n\nEn lo relativo a la devolución, queremos puntualizar que, aun habiendo asumido el cambio de barnizado, los ajustes pertinentes y otros trabajos adicionales, accedimos a ofrecerle la devolución íntegra del importe, siempre y cuando usted nos devolviese los elementos instalados en nuestras instalaciones. Sin embargo, usted pretende ahora que seamos nosotros quienes retiremos todos los elementos por nuestra cuenta y, además, que se le reembolse la totalidad del importe, lo cual consideramos un abuso de confianza y una exigencia sin justificación.\n\nIncluso se aprecia la mala fe por su parte, ya que, aun habiendo regularizado nosotros mismos una pared que estaba mal ejecutada de obra, pretende devolver también la hornacina con el cristal instalada en el hall, la cual está perfectamente montada y terminada.\n\nFinalmente, queremos dejar constancia de que nosotros también contamos con toda la documentación y acreditación del proceso, desde planos, 3D, comprobaciones en obra y registros gráficos del producto final. Estaremos encantados de demostrar y documentar lo indicado en el lugar que corresponda.\n\nReiteramos que en todo momento hemos intentado acercar posturas de manera amistosa y que siempre hemos actuado con profesionalidad, ajustándonos al diseño y a las condiciones pactadas.\n\nUn saludo\n\n",
+        "extracted_snippet": {
+          "original": "Estimada Isabel,\n\nES UNA LÁSTIMA QUE EN ESTE ESPACIO NO PODAMOS ADJUNTAR FOTOS NI VÍDEOS. No obstante, disponemos de material gráfico que acredita el estado real de la puerta ya terminada y funcionando. Las imágenes que usted ha aportado corresponden a un momento previo a los remates finales.\n\nLa puerta se fabricó según el diseño aportado en planos (incluso desarrollados por nuestra oficina técnica sin coste adicional para usted) y se realizó un 3D previo para que pudiera visualizar el resultado final antes de la fabricación.\n\nDurante el proceso, las puertas estuvieron en la obra y fueron revisadas por usted. Aun habiendo aceptado previamente un acabado, nos solicitó que retiráramos de nuevo las puertas y las lleváramos al taller para volver a barnizarlas en otro color, ya que no era el que esperaba. Este trabajo adicional también lo asumimos nosotros íntegramente, sin repercutirle el sobrecoste.\n\nEn cuanto a la instalación, conviene precisar que el premarco corresponde al albañil/constructora, ya que desde el inicio se sabía que se trataba de una puerta corredera. Aun así, fijamos la guía a la perfilería, quedando correctamente instalada y con suficiente solidez. Lo único que quedaba pendiente eran algunos remates, como la colocación de dos junquillos y la tapeta superior, además de los ajustes de sellado y la limpieza final.\n\nAsimismo, el cristal fue repuesto, como se refleja en nuestra documentación y registros gráficos.\n\nEn lo relativo a la devolución, queremos puntualizar que, aun habiendo asumido el cambio de barnizado, los ajustes pertinentes y otros trabajos adicionales, accedimos a ofrecerle la devolución íntegra del importe, siempre y cuando usted nos devolviese los elementos instalados en nuestras instalaciones. Sin embargo, usted pretende ahora que seamos nosotros quienes retiremos todos los elementos por nuestra cuenta y, además, que se le reembolse la totalidad del importe, lo cual consideramos un abuso de confianza y una exigencia sin justificación.\n\nIncluso se aprecia la mala fe por su parte, ya que, aun habiendo regularizado nosotros mismos una pared que estaba mal ejecutada de obra, pretende devolver también la hornacina con el cristal instalada en el hall, la cual está perfectamente montada y terminada.\n\nFinalmente, queremos dejar constancia de que nosotros también contamos con toda la documentación y acreditación del proceso, desde planos, 3D, comprobaciones en obra y registros gráficos del producto final. Estaremos encantados de demostrar y documentar lo indicado en el lugar que corresponda.\n\nReiteramos que en todo momento hemos intentado acercar posturas de manera amistosa y que siempre hemos actuado con profesionalidad, ajustándonos al diseño y a las condiciones pactadas.\n\nUn saludo\n\n"
+        }
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f71c5f1e79131%3A0x65c24e09dfea07f9&engine=google_maps_reviews&hl=es&next_page_token=CjEIARIpCgoAP72GVkWC7h__EhDDoAfnHoR7CWDWrigAAAAAGgn92RYCZWRYLuEYACIA&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GVkWC7h__EhDDoAfnHoR7CWDWrigAAAAAGgn92RYCZWRYLuEYACIA"
+  }
+}

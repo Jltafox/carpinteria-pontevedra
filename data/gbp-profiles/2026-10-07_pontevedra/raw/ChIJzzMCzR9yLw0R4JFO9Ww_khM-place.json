@@ -1,0 +1,44 @@
+{
+  "search_metadata": {
+    "id": "6ac6748c95a69406c17d830e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IuT2VP_6GE-JNzs_jwWDS5lPmSn6H_-4NL06D-4MOhc/6ac6748c95a69406c17d830e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IuT2VP_6GE-JNzs_jwWDS5lPmSn6H_-4NL06D-4MOhc/6ac6748c95a69406c17d830e.md",
+    "created_at": "2026-10-07 16:34:20 UTC",
+    "processed_at": "2026-10-07 16:34:20 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f721fcd0233cf:0x13923f6cf54e91e0!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/IuT2VP_6GE-JNzs_jwWDS5lPmSn6H_-4NL06D-4MOhc/6ac6748c95a69406c17d830e.html",
+    "prettify_html_file": "https://serpapi.com/searches/IuT2VP_6GE-JNzs_jwWDS5lPmSn6H_-4NL06D-4MOhc/6ac6748c95a69406c17d830e.prettify",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJzzMCzR9yLw0R4JFO9Ww_khM",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Carpintería Abilleira",
+    "place_id": "ChIJzzMCzR9yLw0R4JFO9Ww_khM",
+    "data_id": "0xd2f721fcd0233cf:0x13923f6cf54e91e0",
+    "data_cid": "1410259370524971488",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f721fcd0233cf%3A0x13923f6cf54e91e0&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f721fcd0233cf%3A0x13923f6cf54e91e0&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.4606224,
+      "longitude": -8.6406686
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJzzMCzR9yLw0R4JFO9Ww_khM",
+    "provider_id": "/g/11df0gdshw",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QXyHsfS2K8B4rTGkKVIb6hcGtuWH9MVAIvmB_QfY3IXg5UvHiGqDt3JK4R9W_Ysv8kjw3Td6fGuuWmO3FWl3V-617QGExe51DTEE48SE-PifKYOqxAqTXli3HVB4GzlWpq70X4TA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/o_7_wnicHcRJDoIwAADAF1XAVhYTDxCxIHFBK4WTiZVNymYLLj_0Cf7GxDnM91NI2Ym5ovACTvK2zXk6iPTO2kamjZywtlbyTgAmgFDsLS1fVhi_PJEdp4HpoDvBVRD5F71gWA7UszaR7Y-1cw6zBPpxPjuNXon7pYTrAB0sek7EaFa3ByRXPcPDQOsdXFEOI6BrRojdZzrTlsR1kXl0wb7MgmTXP-2exLyEXuQg_Oa06w01RsRePDRVVUHxn4HmB3rmQ2c",
+    "type": [
+      "Carpintería"
+    ],
+    "address": "Aldea Touceda, 1, 36157 Pontevedra",
+    "country": "España",
+    "phone": "660 82 76 78",
+    "plus_code": "F965+6P Pontevedra"
+  }
+}

@@ -1,0 +1,7 @@
+---
+import PageView from '../components/PageView.astro';
+import { pageByRoute } from '../lib/site';
+
+const page = pageByRoute('/');
+---
+<PageView page={page} />

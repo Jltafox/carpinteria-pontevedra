@@ -1,0 +1,192 @@
+# Generado por scripts/web_blueprint_generator.py: editar allí, no aquí.
+negocio: carpinteria-pontevedra
+fase: 1
+home: /
+servicios:
+  - slug: cocinas-a-medida
+    nombre: Cocinas a medida
+    url: /cocinas-a-medida/
+    categoria_gbp: Tienda de muebles de cocina
+    zonas:
+      - pontevedra
+      - santiago-de-compostela
+    keywords:
+      - diseño de cocina (50/mes)
+      - diseño cocinas (30/mes)
+      - cocina a medida (20/mes)
+      - muebles de cocina a medida (20/mes)
+      - muebles de cocina en pontevedra (20/mes)
+      - muebles de cocina en santiago de compostela (20/mes)
+      - encimeras de cocina en pontevedra (10/mes)
+      - precio reforma integral cocina (10/mes)
+      - presupuesto para cocina nueva (10/mes)
+  - slug: armarios-a-medida
+    nombre: Armarios y vestidores a medida
+    url: /armarios-a-medida/
+    categoria_gbp: Tienda de armarios
+    zonas:
+      - pontevedra
+      - santiago-de-compostela
+    keywords:
+      - armarios medida (50/mes)
+      - armarios empotrados a medida (20/mes)
+      - precio armario empotrado por m2 (10/mes)
+      - vestidor a medida precio (10/mes)
+      - presupuesto armarios a medida (10/mes)
+  - slug: muebles-a-medida
+    nombre: Muebles a medida
+    url: /muebles-a-medida/
+    categoria_gbp: Fábrica de muebles
+    zonas:
+      - pontevedra
+      - santiago-de-compostela
+    keywords:
+      - a medida carpintería (50/mes)
+      - muebles a medida (30/mes)
+      - muebles de baño a medida (10/mes)
+      - muebles juveniles a medida (10/mes)
+      - muebles a medida precios (10/mes)
+  - slug: rehabilitacion-de-madera
+    nombre: Rehabilitación de madera en viviendas
+    url: /rehabilitacion-de-madera/
+    categoria_gbp: Carpintería
+    zonas:
+      - pontevedra
+      - santiago-de-compostela
+      - sanxenxo
+    keywords:
+      - reformas viviendas madera (90/mes)
+      - reformas carpinteria madera (90/mes)
+      - reformas madera sanxenxo (60/mes)
+      - rehabilitacion forjado madera (30/mes)
+      - rehabilitacion de forjados de madera (20/mes)
+      - rehabilitacion estructura madera (10/mes)
+      - rehabilitacion de tejados y cubiertas de madera (10/mes)
+  - slug: carpinteria-exterior
+    nombre: Carpintería exterior de madera
+    url: /carpinteria-exterior/
+    categoria_gbp: Fábrica de puertas
+    zonas:
+      - pontevedra
+      - santiago-de-compostela
+    keywords:
+      - porche de madera a medida (10/mes)
+      - porche a medida (10/mes)
+      - cuanto cuesta un porche de madera (10/mes)
+      - cobertizo madera exterior (10/mes)
+      - muebles exterior a medida (10/mes)
+  - slug: suelos-de-madera
+    nombre: Suelos de madera
+    url: /suelos-de-madera/
+    categoria_gbp: Servicio de instalación de suelos de madera
+    zonas: []
+    keywords:
+      - suelos de madera en pontevedra (0/mes)
+      - suelos de madera en santiago de compostela (0/mes)
+zonas:
+  - slug: pontevedra
+    nombre: Pontevedra
+    provincia: Pontevedra
+    hub: /carpinteria/pontevedra/
+    busquedas_mes_kw_research: 796
+    ficha_gbp: probable primera ficha
+    barrios_parroquias:
+      - Casco histórico
+      - A Parda
+      - Monteporreiro
+      - Lérez
+      - Mourente
+      - Salcedo
+      - Campañó
+      - Xeve
+      - Lourizán
+    zonas_cercanas:
+      - Vilaboa
+      - Cerdedo-Cotobade
+      - Campo Lameiro
+      - Moraña
+      - Caldas de Reis
+      - Meis
+  - slug: santiago-de-compostela
+    nombre: Santiago de Compostela
+    provincia: A Coruña
+    hub: /carpinteria/santiago-de-compostela/
+    busquedas_mes_kw_research: 1312
+    ficha_gbp: "sin ficha prevista: se capta por orgánico"
+    barrios_parroquias:
+      - Zona Vella
+      - Ensanche
+      - Santiago Norte
+      - Fontiñas
+      - Conxo
+      - Vista Alegre
+      - Sar
+      - San Lázaro
+      - Lamas de Abade
+    zonas_cercanas:
+      - Ames
+      - Teo
+      - Boqueixón
+      - Vedra
+      - Oroso
+      - Brión
+  - slug: sanxenxo
+    nombre: Sanxenxo
+    provincia: Pontevedra
+    hub: null
+    busquedas_mes_kw_research: null
+    ficha_gbp: alternativa (zona Cambados–Sanxenxo)
+    barrios_parroquias:
+      - Portonovo
+      - Vilalonga
+      - Dorrón
+      - Nantes
+      - Adina
+    zonas_cercanas:
+      - Meaño
+      - Cambados
+      - O Grove
+      - Meis
+      - Ribadumia
+servicio_x_zona:
+  - /cocinas-a-medida/pontevedra/
+  - /cocinas-a-medida/santiago-de-compostela/
+  - /armarios-a-medida/pontevedra/
+  - /armarios-a-medida/santiago-de-compostela/
+  - /muebles-a-medida/pontevedra/
+  - /muebles-a-medida/santiago-de-compostela/
+  - /rehabilitacion-de-madera/pontevedra/
+  - /rehabilitacion-de-madera/santiago-de-compostela/
+  - /rehabilitacion-de-madera/sanxenxo/
+  - /carpinteria-exterior/pontevedra/
+  - /carpinteria-exterior/santiago-de-compostela/
+zonas_hub:
+  - /carpinteria/pontevedra/
+  - /carpinteria/santiago-de-compostela/
+paginas:
+  presupuesto: /presupuesto/
+  proyectos: /proyectos/
+  sobre_nosotros: /sobre-nosotros/
+legales:
+  - /aviso-legal/
+  - /politica-de-privacidad/
+  - /cookies/
+fase_2:
+  zonas:
+    - Caldas de Reis
+    - A Estrada
+    - Vilagarcía de Arousa
+    - Cambados
+    - Padrón
+    - Lalín
+    - Ames
+    - Teo
+  guias_de_precio:
+    - /guias/precio-cocina-a-medida/
+    - /guias/precio-armario-empotrado-por-m2/
+    - /guias/precio-vestidor-a-medida/
+    - /guias/cuanto-cuesta-un-porche-de-madera/
+    - /guias/rehabilitar-o-sustituir-un-forjado-de-madera/
+  lineas_futuras:
+    - "casetas, casas y cabañas de madera (1.030 búsquedas/mes; el cliente las lanza en 2027)"
+total_paginas_fase_1: 26

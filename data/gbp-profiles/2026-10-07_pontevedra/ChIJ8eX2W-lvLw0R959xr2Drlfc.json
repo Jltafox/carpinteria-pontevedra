@@ -1,0 +1,76 @@
+{
+  "place_id": "ChIJ8eX2W-lvLw0R959xr2Drlfc",
+  "name": "Carpintería Osvaldo Romero",
+  "data_id": "0xd2f6fe95bf6e5f1:0xf795eb60af719ff7",
+  "address": "C. Pumariño, 5, 36900 Marín, Pontevedra",
+  "phone": "609 14 19 27",
+  "website": "http://www.osvaldoromerocarpinteria.es/",
+  "domain": "osvaldoromerocarpinteria.es",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintería",
+  "secondary_categories": [],
+  "attributes": [
+    "Accesibilidad: Acceso para sillas de ruedas"
+  ],
+  "attributes_count": 1,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "9:00–20:00"
+    },
+    {
+      "jueves": "9:00–20:00"
+    },
+    {
+      "viernes": "9:00–20:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "9:00–20:00"
+    },
+    {
+      "martes": "9:00–20:00"
+    }
+  ],
+  "photo_groups": [
+    "Todas",
+    "Interior",
+    "Mobiliario",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": null,
+  "total_reviews": 0,
+  "rating_distribution": {},
+  "reviews_sampled": 0,
+  "last_review_age_days": null,
+  "reviews_last_12m": 0,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.0,
+  "owner_response_rate": null,
+  "reviews_with_text_pct": null,
+  "avg_review_length": null,
+  "review_topics": [],
+  "review_highlights": [],
+  "grid": {
+    "cells_top": 6,
+    "solv_pct": 7.5,
+    "avr": 8,
+    "reach_median_km": 1.3,
+    "reach_max_km": 2.6
+  }
+}

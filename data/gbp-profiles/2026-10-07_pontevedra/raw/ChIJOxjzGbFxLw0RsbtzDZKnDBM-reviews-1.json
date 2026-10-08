@@ -1,0 +1,216 @@
+{
+  "search_metadata": {
+    "id": "6ac674a371a90dcb99628c52",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZgvbgQxo3Z4GsiFt5Y6HW7W5TX9_P3tL7ZSl-3YVhDI/6ac674a371a90dcb99628c52.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZgvbgQxo3Z4GsiFt5Y6HW7W5TX9_P3tL7ZSl-3YVhDI/6ac674a371a90dcb99628c52.md",
+    "created_at": "2026-10-07 16:34:43 UTC",
+    "processed_at": "2026-10-07 16:34:43 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71b119f3183b:0x130ca7920d73bbb1!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/ZgvbgQxo3Z4GsiFt5Y6HW7W5TX9_P3tL7ZSl-3YVhDI/6ac674a371a90dcb99628c52.html",
+    "prettify_html_file": "https://serpapi.com/searches/ZgvbgQxo3Z4GsiFt5Y6HW7W5TX9_P3tL7ZSl-3YVhDI/6ac674a371a90dcb99628c52.prettify",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71b119f3183b:0x130ca7920d73bbb1",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Carpintería y Ebanistería Leins",
+    "address": "Rúa Doutor Loureiro Crespo, 64, 36004 Pontevedra, España",
+    "rating": 4,
+    "reviews": 8,
+    "type": "Carpintero"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzbHMtbWZBEAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIC3ls-mfA%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2024-11-05T10:28:07Z",
+      "iso_date_of_last_edit": "2024-11-05T10:28:07Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbHMtbWZBEAE",
+      "user": {
+        "name": "Flor Malvar",
+        "link": "https://www.google.com/maps/contrib/108565872200906069909?hl=es-419",
+        "contributor_id": "108565872200906069909",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUO5-j6NyxGAAn-Z9Av6a3o3mIbvvWVojtJaS9GRIc2jwcbCZso=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Muy contenta con el trabajo realizado 👍",
+      "extracted_snippet": {
+        "original": "Muy contenta con el trabajo realizado 👍"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURLc3FtbWlBRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDKsqmmiAE%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Editado Hace 5 años",
+      "iso_date": "2021-05-06T12:58:50Z",
+      "iso_date_of_last_edit": "2021-05-21T13:09:57Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLc3FtbWlBRRAB",
+      "user": {
+        "name": "Juan Mendoza Pérez",
+        "link": "https://www.google.com/maps/contrib/102760462567981581105?hl=es-419",
+        "contributor_id": "102760462567981581105",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJLZbkTBpr4HzO_6GfpmqVbuUhoParmCCT9P4--7ql7sIiAgQ=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 31,
+        "photos": 0
+      },
+      "snippet": "No tengo buena experiencia con ellos y a la hora de pagar te llevas sorpresa...",
+      "extracted_snippet": {
+        "original": "No tengo buena experiencia con ellos y a la hora de pagar te llevas sorpresa..."
+      },
+      "likes": 1
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLbXV1N0t3EAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDKmuu7Kw%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-05-08T09:06:57Z",
+      "iso_date_of_last_edit": "2021-05-08T09:06:57Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLbXV1N0t3EAE",
+      "user": {
+        "name": "CARMEN COTO",
+        "link": "https://www.google.com/maps/contrib/116548267320161258146?hl=es-419",
+        "contributor_id": "116548267320161258146",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLgRZXSQfaaPnjF46g_k3IA2CAZldl5gSmyNJECwTZeFSbvQA=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "details": {
+        "aspectos_positivos": "Valor",
+        "servicios": "Armado de muebles"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5bHVicG1BRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDylubpmAE%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-03-06T08:16:36Z",
+      "iso_date_of_last_edit": "2021-03-06T08:16:36Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5bHVicG1BRRAB",
+      "user": {
+        "name": "JUAN L. CANO",
+        "link": "https://www.google.com/maps/contrib/108270375726476965278?hl=es-419",
+        "contributor_id": "108270375726476965278",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ3EDxase6dGZvoWmk_A53JoAUQe2LVO-CosLnx7LZt1LCPIg=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "likes": 1
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR5eUpPcVFBEAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDyyJOqQA%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-02-22T11:45:16Z",
+      "iso_date_of_last_edit": "2021-02-22T11:45:16Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNM9ZOrflpXBbO9hJBEBvLF8N9yD65W--UPyn-sGhMvlEcsswFyVcCsmxzUWlzwcVpU4gKLTBcrNvKlqD5CuHp3GkHwkNfOPBPzmhNOtUa7aMogBotyPzpHXX-J7zWRI23wUVVozg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOjkfIPSSHCxxc3zHkA2bmjZ9xjLUUqY60ijWD8onzg2DwLCONRTB-VGjw4X2dvZh9vuoYdXqDfK0Mc-XesqBV2z6WH1RggYRX4e9wp_Ke2J6DMaVslSAcnL4Aay-_vJ84ivPwj=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5eUpPcVFBEAE",
+      "user": {
+        "name": "vanessa acuna",
+        "link": "https://www.google.com/maps/contrib/111565740452697039922?hl=es-419",
+        "contributor_id": "111565740452697039922",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW9e1aHOBd2PdX-hNRZZWbxzXwnXSjSyTv7_im_c49faG4_QyHt=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 5
+      },
+      "snippet": "Todos unos profesionales. Me sorprendio desde un principio su pronta respuesta y diponibilidad, hasta el punto que me hizo sospechar de que era demasiado bueno como para ser cierto (y considerando que otros carpinteros aun estoy esperando por ellos para que me hagan presupuesto). Hice 2 armarios con ellos (ver fotos), uno para  un bano, y otro con espejos para mi habitacion, fenomenal. Calidad - precio muy bien. Un equipo muy familiar y muy responsables. 40 anos trabajando y se ve. Muy muy recomendados. Gracas Leins!",
+      "extracted_snippet": {
+        "original": "Todos unos profesionales. Me sorprendio desde un principio su pronta respuesta y diponibilidad, hasta el punto que me hizo sospechar de que era demasiado bueno como para ser cierto (y considerando que otros carpinteros aun estoy esperando por ellos para que me hagan presupuesto). Hice 2 armarios con ellos (ver fotos), uno para  un bano, y otro con espejos para mi habitacion, fenomenal. Calidad - precio muy bien. Un equipo muy familiar y muy responsables. 40 anos trabajando y se ve. Muy muy recomendados. Gracas Leins!"
+      },
+      "details": {
+        "servicios": "Instalación"
+      },
+      "likes": 2
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5a2N5STJRRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgICykcyI2QE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-02-02T19:04:01Z",
+      "iso_date_of_last_edit": "2021-02-02T19:04:01Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5a2N5STJRRRAB",
+      "user": {
+        "name": "D.",
+        "link": "https://www.google.com/maps/contrib/113065566709581309855?hl=es-419",
+        "contributor_id": "113065566709581309855",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKVeGzNfZoC2-P7VG-eGaNe4uNWRlVhzEMChEPUfAoVHM3uHA=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURZdDdDcXJnRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDYt7CqrgE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-05-26T15:38:06Z",
+      "iso_date_of_last_edit": "2019-05-26T15:38:06Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZdDdDcXJnRRAB",
+      "user": {
+        "name": "Lyudanetka",
+        "link": "https://www.google.com/maps/contrib/105320930949687469666?hl=es-419",
+        "contributor_id": "105320930949687469666",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWa4WKTmegfdVnosS1W_L38h6atCCCkquLn2Jrvm4WCCycAt1ZK=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 20,
+        "photos": 59
+      },
+      "snippet": "Detallista, serio y responsable. Buen trabajo.",
+      "extracted_snippet": {
+        "original": "Detallista, serio y responsable. Buen trabajo."
+      },
+      "likes": 1
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJdzY3MWlnRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDIw671igE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-01-18T22:50:48Z",
+      "iso_date_of_last_edit": "2019-01-18T22:50:48Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdzY3MWlnRRAB",
+      "user": {
+        "name": "Jonathan Rey",
+        "link": "https://www.google.com/maps/contrib/106454890621680714056?hl=es-419",
+        "contributor_id": "106454890621680714056",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK9SLSyFyiQlvCKkckqzffOFUnGK9uMVJIB8o1Q1pfzTnugQg=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    }
+  ]
+}

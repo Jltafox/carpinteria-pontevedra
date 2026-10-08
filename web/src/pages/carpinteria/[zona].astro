@@ -1,0 +1,13 @@
+---
+// Hubs de zona: /carpinteria/{zona}/
+import PageView from '../../components/PageView.astro';
+import { pages } from '../../lib/site';
+
+export function getStaticPaths() {
+  return pages
+    .filter((p) => p.type === 'hub')
+    .map((page) => ({ params: { zona: page.params.zona }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<PageView page={page} />

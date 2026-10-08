@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import CtaButtons from './CtaButtons.astro';
+import Section from './Section.astro';
+import { fill } from '../lib/site';
+
+interface Props {
+  page: any;
+}
+const { page } = Astro.props;
+---
+<Base page={page}>
+  {page.breadcrumbs.length > 0 && <Breadcrumbs items={page.breadcrumbs} />}
+  <section class="hero">
+    <div class="wrap">
+      <h1>{fill(page.h1)}</h1>
+      {page.lead && <p class="lead">{fill(page.lead)}</p>}
+      <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+    </div>
+  </section>
+  {page.sections.map((section: any) => <Section section={section} />)}
+  <section class="block cta-final">
+    <div class="wrap">
+      <h2>¿Hablamos de tu proyecto?</h2>
+      <p>Te llamamos en menos de 2 días y visitamos tu vivienda en 3–4 días laborables.</p>
+      <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+    </div>
+  </section>
+</Base>

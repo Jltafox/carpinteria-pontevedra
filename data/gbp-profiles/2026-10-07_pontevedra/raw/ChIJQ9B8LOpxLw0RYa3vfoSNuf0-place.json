@@ -1,0 +1,310 @@
+{
+  "search_metadata": {
+    "id": "6ac6747e1e760b10891048bc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5AykHxjoYU50Lp2r0phOfWTpDPurFTDs7QNsgkvZDZw/6ac6747e1e760b10891048bc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5AykHxjoYU50Lp2r0phOfWTpDPurFTDs7QNsgkvZDZw/6ac6747e1e760b10891048bc.md",
+    "created_at": "2026-10-07 16:34:06 UTC",
+    "processed_at": "2026-10-07 16:34:06 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f71ea2c7cd043:0xfdb98d847eefad61!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/5AykHxjoYU50Lp2r0phOfWTpDPurFTDs7QNsgkvZDZw/6ac6747e1e760b10891048bc.html",
+    "prettify_html_file": "https://serpapi.com/searches/5AykHxjoYU50Lp2r0phOfWTpDPurFTDs7QNsgkvZDZw/6ac6747e1e760b10891048bc.prettify",
+    "total_time_taken": 5.24
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "CARPINTERIA MARTINEZ PAZ S.L.",
+    "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+    "data_id": "0xd2f71ea2c7cd043:0xfdb98d847eefad61",
+    "data_cid": "18282799762492075361",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f71ea2c7cd043%3A0xfdb98d847eefad61&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f71ea2c7cd043%3A0xfdb98d847eefad61&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.3990268,
+      "longitude": -8.6375054
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+    "provider_id": "/g/11fq9jfkpz",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R93AitnKy35yRTfgSLoHBw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=144.82245&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/z-mWNnicHc1LDsIgFEDR3TAT-jXVhDQ6MtFRdW4opfASCqQ8i92N23I3fiZ3eO77ZRBD3DMWcVYKF1ApwFPZuAmCau-1VSJApNJPbMkZmsfUOwG2DcJ5GHi3Kw-A7ryW9drdRn29-NMxEdnfpQXlkEclZmmoTl9x9gPVIZLEmy0xv6wi8byqaFMUVU0CoDQ8I__L6BeeZ9kHcxs5gA",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 4
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 7
+      }
+    ],
+    "rating": 3.5,
+    "reviews": 11,
+    "type": [
+      "Carpintero"
+    ],
+    "type_ids": [
+      "carpenter"
+    ],
+    "address": "RÚA CANCELA, 9, 36143 Pontevedra",
+    "country": "España",
+    "phone": "986 84 76 25",
+    "plus_code": "99X6+JX Pontevedra",
+    "images": [
+      {
+        "title": "Todas",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R93AitnKy35yRTfgSLoHBw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.82245&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IDdPhXicHc1LDsIgEADQ27AT-k1aE2J0ZaKr6r6hiGUSChMZwV7HW3kbjdu3eZ-3JcK4FSLSwxhKYDLCy7i4QcXnEGZnFELkOiwilYLsc5m8ArdD5QPc5NDXeyB_Wut2Ha73-XIOx0Nmehq1A-NJLgrjGBMnpQmc4TNGlmVVNczKqu_YqrIsm4Z3P2oZAmkrC_Z_7iHJsii-69E6Fw"
+      },
+      {
+        "title": "Street View y 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R93AitnKy35yRTfgSLoHBw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.82245&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IDdPhXicHc1LDsIgEADQ27AT-k1aE2J0ZaKr6r6hiGUSChMZwV7HW3kbjdu3eZ-3JcK4FSLSwxhKYDLCy7i4QcXnEGZnFELkOiwilYLsc5m8ArdD5QPc5NDXeyB_Wut2Ha73-XIOx0Nmehq1A-NJLgrjGBMnpQmc4TNGlmVVNczKqu_YqrIsm4Z3P2oZAmkrC_Z_7iHJsii-69E6Fw"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Trató muy amable y muy buenos profesionales, responsable\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLpmYFk-IBpfLYKzuzIf4pLElaCpNA68foItKnhRz_D7neDkA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"No le podria dar ni una estrella!!.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVchE3Oa99FkoQ9kQDzuK82oD8_y3I9axeWhMCle-u6MQSTnpYViw=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "PELUSA 959",
+          "rating": 1,
+          "contributor_id": "112981792687248157984",
+          "user_review_count": 36,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVchE3Oa99FkoQ9kQDzuK82oD8_y3I9axeWhMCle-u6MQSTnpYViw=s120-c-rp-mo-ba12-br100",
+          "description": "No le podria  dar ni una estrella!!.\nNo por su trabajo ni sus trabajadores, que son muy buenos.. es por la dirección de la empresa, que lejos de decir la verdad sobre un trabajo.. se ríe literalmente en la cara cuando pides las explicaciones de la demora.\nUna pena... pero si eso me lo hace a mí..  a cuanta gente también se lo hará?\nLuego porque la gente va a IKEA??\nPOR NO AGUANTAR ESTO!!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21VdFpqbDBTRVl5TmxkWlNFWmtlWGxPVDB4R09XYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOmUtZjl0SEYyNldZSEZkeXlOT0xGOWc%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-10-06T15:07:42+00:00"
+        },
+        {
+          "username": "Cristina Puentes soto",
+          "rating": 1,
+          "contributor_id": "114762438207554818306",
+          "user_review_count": 25,
+          "user_photo_count": 2,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIhOmE9CnM7xEkeVlBAuCucd0X0vPzBKZXcVqR0j7cvgEc4QA=s120-c-rp-mo-ba12-br100",
+          "description": "Muy mala gestión por parte del dueño,no tiene palabra y los encargos como sea poca cosa no le interesan y no te los hace y te marea sin darte ningún tipo de explicación, muy mala empresa no volveré ni la recomendaré nunca.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ONFVGY3hVVTlhWW5Cc1lXRllaVWR5UldGaE1HYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOmN4UFcxUU9aYnBsYWFYZUdyRWFhMGc%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-10-06T15:51:43+00:00"
+        },
+        {
+          "username": "odilo mosquera",
+          "rating": 1,
+          "contributor_id": "103151919484469031936",
+          "user_review_count": 22,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpCcjXYIpuSU1mtdHLjfjjDVvaS6F-I7YcS4NGw1AFJHxkM8s=s120-c-rp-mo-ba12-br100",
+          "description": "Por no poder dar menos de una estrella. Falta de palabra de este supuesto profesional que no da ni para enviar un presupuesto. A una persona ya no recomendé este sitio. A ver cuántos más me preguntan",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VQejZsOUh0dmFXcmNnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEPz6l9HtvaWrcg%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-05-30T12:59:24+00:00"
+        },
+        {
+          "username": "Cup Rd",
+          "rating": 1,
+          "contributor_id": "115714608664644165239",
+          "user_review_count": 43,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIfnc7IyNZnLIUMxTUdq6kN4FpuiKO3DbPx_h6hfboVajWfog=s120-c-rp-mo-ba12-br100",
+          "description": "Mala instalación por parte de los trabajadores de la empresa,hacen las cosas mal y luego las intentan arreglar chapuceando y parece ser que con el visto bueno del jefe.....los instaladores bordes,con muy poca educación y aunque ya tienen sus años y debian de conocer el oficio parece que no!!!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1eXNmaXBRRRAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgICuysfipQE%7C%7C?hl=es",
+          "date": "Hace 4 años",
+          "date_iso8601": "2022-07-25T19:21:58+00:00"
+        },
+        {
+          "username": "Maria Pilar Martinez",
+          "rating": 5,
+          "contributor_id": "104112553676571386081",
+          "user_review_count": 19,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLpmYFk-IBpfLYKzuzIf4pLElaCpNA68foItKnhRz_D7neDkA=s120-c-rp-mo-ba12-br100",
+          "description": "Trató muy amable y muy buenos profesionales, responsable",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSNU1mU1FnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDR5MfSQg%7C%7C?hl=es",
+          "date": "Hace 3 años",
+          "date_iso8601": "2023-04-18T13:12:16+00:00"
+        },
+        {
+          "username": "Paula Gonzalez Fernandez",
+          "rating": 5,
+          "contributor_id": "103804798577553961892",
+          "user_review_count": 4,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJPpaaDllenPl8oywbDrkmvKZvrF9zLjxcvgOJZMGPQmOVDww=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlLUp5RFhnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDe-JyDXg%7C%7C?hl=es",
+          "date": "Hace 4 años",
+          "date_iso8601": "2022-10-01T20:10:26+00:00"
+        },
+        {
+          "username": "Ivan Berbes",
+          "rating": 5,
+          "contributor_id": "111171528902104430373",
+          "user_review_count": 0,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWCYnDPnCmWymeMi1H_wOnHrem0nnnLIMzpZMAJuUPyMqa43HT3qQ=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURHaEtHdlVBEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDGhKGvUA%7C%7C?hl=es",
+          "date": "Hace 4 años",
+          "date_iso8601": "2021-11-18T09:50:49+00:00"
+        },
+        {
+          "username": "Javier Pazó",
+          "rating": 5,
+          "contributor_id": "101079181709444132405",
+          "user_review_count": 0,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUL-1nrPW-KOB40i9IXisAJHsAV_9wE5ucrt96E-YEFlTTDU1KN=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4aWRuSkVNMlJMU0hJeE1rOUpZME5JVjBZNFVXYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOkxidnJEM2RLSHIxMk9JY0NIV0Y4UWc%7C%7C?hl=es",
+          "date": "Hace 11 meses",
+          "date_iso8601": "2025-10-20T16:01:49+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "Otras personas también buscan",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Carpintería y Ebanistería Leins",
+            "data_id": "0x0:0x130ca7920d73bbb1",
+            "data_cid": "1372656232173910961",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x130ca7920d73bbb1&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x130ca7920d73bbb1&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4282648,
+              "longitude": -8.6308937
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x130ca7920d73bbb1%218m2%213d42.4282648%214d-8.6308937&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4,
+            "reviews": 8,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWZqF9eK3LKQttHyAyCfvNOHw-18SOQNdMeMj8seCEB3g9Ejc2xyJoqWphGtLRMIVI_yBAF3LLWUg2fEAjDQIgWrAwzTdQZcTjyjZGSwTf7j-I2ButQfLtjOsG3K-M7kstT049=w156-h156-n-k-no",
+            "type": [
+              "Carpintero",
+              "Tienda de mobiliario para dormitorios",
+              "Ebanista",
+              "Tienda de armarios",
+              "Proveedor de puertas",
+              "Carpintería",
+              "Tienda de muebles de cocina",
+              "Servicio de instalación de suelos de madera"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Carpintería De La Fuente e Hijos, S.L.",
+            "data_id": "0x0:0x24d12b8e3af47b03",
+            "data_cid": "2652949545372384003",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x24d12b8e3af47b03&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x24d12b8e3af47b03&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.398871799999995,
+              "longitude": -8.5274546
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x24d12b8e3af47b03%218m2%213d42.398871799999995%214d-8.5274546&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4,
+            "reviews": 20,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-_rmZENlooq2NMsyQYZXHvb9poW_KKz2eg0_p5GznSGTa2esjS5qNaIua3-xUM4YpjrOJdXHOSx3ITPWQUA6TX9riYPSYSclGFYy_ujLphdaNzNqrRhyUOx01_eJ8uN2cOvwXUA=w156-h156-n-k-no",
+            "type": [
+              "Carpintería",
+              "Ebanista",
+              "Tienda de armarios",
+              "Fábrica de puertas",
+              "Fábrica de muebles",
+              "Tienda de muebles de cocina",
+              "Empresa de instalación de cubiertas",
+              "Empresa de instalación de escaleras",
+              "Servicio de instalación de ventanas",
+              "Servicio de instalación de suelos de madera"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Carpintaría San Brais",
+            "data_id": "0x0:0xb7d3f18ee19c0099",
+            "data_cid": "13246196524999508121",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb7d3f18ee19c0099&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb7d3f18ee19c0099&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.41693920000001,
+              "longitude": -8.6429371
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xb7d3f18ee19c0099%218m2%213d42.41693920000001%214d-8.6429371&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.5,
+            "reviews": 8,
+            "thumbnail": "https://www.google.es/maps/vt/data=9RKh77Y1krg4VKK7c670tFIwVayt7jO0pOZ9Y-FGWZ3ckS25wa1QvWVGcsvNVGH8rB8EMSbs0ooLAJUdC2IhrpPWamWQ9YoMDbQrdZYbjTaxi7VY6eArxE39vuu0VKnlDHb6xiDia9gr7BYaiTCNDO-XQ08F6XP0",
+            "type": [
+              "Tienda de armarios"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Hermanos Garrido S.l.",
+            "data_id": "0x0:0x14f5f7c4ca832a41",
+            "data_cid": "1510385674635913793",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x14f5f7c4ca832a41&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x14f5f7c4ca832a41&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4059041,
+              "longitude": -8.6504978
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x14f5f7c4ca832a41%218m2%213d42.4059041%214d-8.6504978&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.2,
+            "reviews": 9,
+            "thumbnail": "https://www.google.es/maps/vt/data=zf4FAJ4y-WXHYF4ckmiJG3zhv5hfPye0cWZLKDVmbwscBRYbHOlC0_6NuG4yOlch_wKnbXTdRlugtg56401x_W8HNFEchxW-fAGCCKoTgcE3FZyvZAgAculGea0sBxs263VitU44QcZBNd_8Yb9CdoMk1RA974Ws",
+            "type": [
+              "Ebanista"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Carpintería Martínez",
+            "data_id": "0x0:0x30940c26d674df0f",
+            "data_cid": "3500436171319992079",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x30940c26d674df0f&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x30940c26d674df0f&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.60529,
+              "longitude": -8.64298
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x30940c26d674df0f%218m2%213d42.60529%214d-8.64298&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 5,
+            "reviews": 1,
+            "thumbnail": "https://www.google.es/maps/vt/data=M5AjJM76VWY-NBzDjrwigrqjzf1mhBswbMIycQIQwB_uq3uQ4gVXCZGG5RLQurRkdsO5N-2hilYkK3K9sYYtuPEqSmTj7D32lILboPtEK375p38weouvx9tmUALmIo-PFNap2IRlYTJw52HHSZUFFXOQ2OImjmDN",
+            "type": [
+              "Tienda de armarios"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.es/search?q=local+guide+program&ibp=gwp;0,26,Oi4KLCIoQ0FSUElOVEVSSUEgTUFSVElORVogUEFaIFMuTC4gUG9udGV2ZWRyYSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COi4KLCIoQ0FSUElOVEVSSUEgTUFSVElORVogUEFaIFMuTC4gUG9udGV2ZWRyYSgC&q=local+guide+program"
+  }
+}

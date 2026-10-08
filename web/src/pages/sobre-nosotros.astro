@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import CtaButtons from '../components/CtaButtons.astro';
+import { fill, pageByRoute } from '../lib/site';
+
+const page = pageByRoute('/sobre-nosotros/');
+---
+<Base page={page}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <section class="hero">
+    <div class="wrap">
+      <h1>Quiénes somos</h1>
+      <p class="lead">{fill('{{marca}}')}: carpintería de madera a medida para viviendas entre Pontevedra y Santiago.</p>
+    </div>
+  </section>
+  <section class="block">
+    <div class="wrap prose">
+      <!-- PENDIENTE: texto definitivo de la marca y de su relación con el taller que ejecuta los trabajos -->
+      <p>Los trabajos se fabrican en taller propio en A Estrada, con la maquinaria necesaria para ajustarse a cada proyecto, y los monta un equipo de montadores profesionales con experiencia en cocinas, armarios, muebles a medida, rehabilitación de estructuras de madera y carpintería exterior.</p>
+      <p>Ejecuta los trabajos: {fill('{{empresa_ejecutora}}')}.</p>
+      <h2>Cómo trabajamos</h2>
+      <p>Te llamamos en menos de 2 días, visitamos tu vivienda en 3–4 días laborables y te entregamos diseño y presupuesto en 3–4 días. En cocinas, el diseño con render tiene un coste que se descuenta si aceptas el proyecto.</p>
+      <CtaButtons />
+    </div>
+  </section>
+</Base>

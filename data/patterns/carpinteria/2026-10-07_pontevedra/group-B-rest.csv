@@ -1,0 +1,89 @@
+﻿name;place_id;category;rating;reviews;cells_top;solv_pct;avr;name_has_keyword;carpentry_category;has_website;unclaimed;distance_center_km;reach_median_km;secondary_count;attributes_count;review_velocity_month;owner_response_rate;web_words;web_services;web_localbusiness_schema;web_title_city;domain
+Alberto Parada;ChIJ3UAqMuZlLw0RVHPfmzD3Ku8;Carpintero;5,0;3;4;7,5;5;False;True;True;False;3,3;1,5;0;0;0,0;0;128;0;False;False;sites.google.com
+Montecelo;ChIJ6fqdEghxLw0R8yVdm0rngVk;Carpintería metálica y de aluminio;4,2;18;4;6,8;9,8;False;False;False;True;2,5;2,5;;;;;;;;;
+Carpinox;ChIJiUGB0bhvLw0Ri4fann-jhWQ;Fábrica de acero inoxidable;4,8;4;4;4,8;5,1;False;False;False;True;4,5;2,8;;;;;;;;;
+Rodiño;ChIJU3SH03tuLw0RYqMj7w4UlS8;Carpintería metálica y de aluminio;3,0;4;4;4,1;7,2;False;False;False;False;5,2;2,3;;;;;;;;;
+Peón;ChIJxVBDX9BxLw0Ri_2Q082IWRw;Carpintería metálica y de aluminio;4,2;6;4;2,7;7,2;False;False;False;False;2,3;3,5;;;;;;;;;
+Macen Mart S.L.;ChIJz2hoaN5tLw0RSZmoTMGLqgU;Carpintería metálica y de aluminio;4,5;2;4;2,7;7,3;False;False;False;True;4,8;2,0;;;;;;;;;
+Carpintería Lores Lores;ChIJJVE6cPZuLw0RHStYkJ2j9sg;Tienda de armarios;5,0;14;3;4,1;8,3;True;False;False;True;5,0;2,4;;;;;;;;;
+CARPINTERIA SAMIEIRA;ChIJhQ56PtpuLw0RZojgtEGdDxo;Carpintería;5,0;5;2;4,1;12,2;True;True;False;True;7,6;2,6;;;;;;;;;
+Carpintería Ebanistería Paco S.L.;ChIJhRw4E3puLw0RB3_IFkvJrfk;Tienda de armarios;5,0;2;2;3,4;9,4;True;False;False;True;4,6;1,4;;;;;;;;;
+Carpintería Aluncia;ChIJyZ0Dl8d3Lw0RjLA-j2iSID4;Carpintero;;;2;2,7;6,8;True;True;True;False;8,3;2,5;;;;;;;;;carpinteriaaluncia.es
+Talleres Chano, S L.;ChIJx3SnrHNwLw0RG8V-nXCOgF8;Carpintería metálica y de aluminio;4,8;4;2;2,0;8,7;False;False;False;True;4,6;1,0;;;;;;;;;
+Comercial Entenza;ChIJh163QJ5vLw0RhNJ4-FEUX2A;Fábrica de muebles;4,2;31;2;1,4;8,3;False;False;True;False;7,0;1,0;;;;;;;;;comercialentenza.com
+Mouriño Y Barreiro s.l.;ChIJhxBIZ_pzLw0RoVkSE6QOOec;Carpintería metálica y de aluminio;4,3;6;2;1,4;9,2;False;False;False;False;1,7;3,0;;;;;;;;;
+Maderas Pazos s.l.;ChIJmfGTp65xLw0RlMzpbHqV8-A;Establecimiento de venta de madera;4,5;64;1;2,0;11,2;False;False;True;False;1,9;3,2;;;;;;;;;maderaspazos.com
+Carpinteria de Madera Puga;ChIJs2uMpjV3Lw0RpUceXzY2Fd8;Carpintería;5,0;1;1;1,4;8,1;True;True;False;False;6,7;1,4;;;;;;;;;
+Aluminios J.B. Tenorio, S.L.;ChIJ__oMEK5xLw0Rghc8tW_tR84;Carpintería metálica y de aluminio;4,3;11;1;1,4;9,1;False;False;True;False;3,2;2,8;;;;;;;;;aluminiosjbtenorio.es
+VISIONGLASS;ChIJWZP_OmFxLw0RvTaZ1LAGBhU;Carpintería metálica y de aluminio;4,8;17;1;1,4;10,4;False;False;True;False;5,1;2,0;;;;;;;;;visionglass.es
+Cocinas Pasaron - Reformas. José Manuel Fontán Fariña;ChIJS2CBVMNxLw0RiNBfxLVBwuQ;Carpintero;3,1;10;1;1,4;14,2;False;True;True;False;0,7;3,0;;;;;;;;;reformaspasaron.es
+Ebanisteria J Fernandez;ChIJfRkgzY5xLw0R1TjnFYrV5v4;Ebanista;5,0;2;1;0,7;7,9;False;True;False;False;3,1;0,7;;;;;;;;;
+Aluminios Ventaport;ChIJbUVhOuPWLw0R0Uakvy8D8zY;Carpintería metálica y de aluminio;4,9;13;1;0,7;8,5;False;False;True;False;5,0;3,4;;;;;;;;;aluminiosventaport.com
+inexma s.a.;ChIJTcXpXnRwLw0RdAdDPgIJIYI;Carpintería;4,6;19;1;0,7;9,5;False;True;True;False;5,0;2,5;;;;;;;;;inexma.es
+Manufacturas del Lerez;ChIJ0-8ldodxLw0RJgf0R20VKy4;Fábrica;5,0;2;1;0,7;10,9;False;False;True;False;2,9;3,5;;;;;;;;;manufacturaslerez.com
+Xan Metal;ChIJq6qqfjRyLw0R55hTEcGiqrQ;Carpintería metálica y de aluminio;3,4;5;1;0,7;11;False;False;False;True;6,5;2,5;;;;;;;;;
+Manufacturas Vilaboa;ChIJNwIli7FlLw0RrynzQR8wl_0;Carpintería metálica y de aluminio;5,0;2;1;0,7;11,5;False;False;False;True;6,0;3,1;;;;;;;;;
+Aluminios Campaño, S.L.U.;ChIJ22tQVOdxLw0R9Be5dn8-R-A;Carpintería metálica y de aluminio;4,0;6;0;0,0;8;False;False;False;True;4,6;;;;;;;;;;
+Consultoría Informática Del Noroeste;ChIJz5Z-TPplLw0RksusiMhmgQc;Consultora informática;3,9;8;0;0,0;8;False;False;True;False;9,8;;;;;;;;;;cinsl.net
+Remolques Carlos;ChIJ2xIGcqF2Lw0R1x7A8Y7bjOQ;Fabricante de remolques;5,0;16;0;0,0;8,2;False;False;False;False;8,3;;;;;;;;;;
+Devinox;ChIJv1XY4vFzLw0Rkecse6fLu3g;Taller de metalurgia;4,6;26;0;0,0;8,4;False;False;True;False;6,3;;;;;;;;;;devinox.es
+VENTANAS CORTIZO - Somos la Ventana Pontevedra;ChIJ6TCq3NhvLw0R-kBReOtmEYI;Carpintería metálica y de aluminio;4,4;66;0;0,0;8,8;False;False;True;False;1,5;;;;;;;;;;somoslaventana.com
+BMC;ChIJr9xXtH5lLw0ReGLJTOKaV00;Almacén;3,8;4;0;0,0;9;False;False;False;True;7,8;;;;;;;;;;
+Ferrogama;ChIJrx0wFdFoLw0ROafepB6qP-U;Carpintería metálica y de aluminio;3,8;10;0;0,0;9,2;False;False;True;False;8,4;;;;;;;;;;ferrogama.es
+Carpintería Martín;ChIJIUxEEgBrLw0RRItSrOCe9kA;Fábrica;;;0;0,0;9,5;True;False;False;True;14,7;;;;;;;;;;
+Jomasa.C.B.;ChIJa5YQjLhvLw0R-cFsMuLOqQA;Carpintería metálica y de aluminio;5,0;3;0;0,0;9,5;False;False;True;True;4,2;;;;;;;;;;carpinteriadealuminiojomasapontevedra.es
+Crisal S.L.;ChIJYyuxjTh3Lw0R7G1F6njFkL4;Carpintería metálica y de aluminio;4,0;6;0;0,0;9,8;False;False;True;True;6,7;;;;;;;;;;aluminioscrisal.com
+Devesa Yacht Carpentry;ChIJOar6xZaC_UURTTSGu424qzQ;Carpintería;;;0;0,0;10,1;False;True;True;False;65,8;;;;;;;;;;devesayachtcarpentry.com
+Alucalvar;ChIJE9q49fJlLw0RIhOQrlytLLE;Carpintería metálica y de aluminio;3,1;8;0;0,0;10,5;False;False;False;False;9,8;;;;;;;;;;
+Portas Novas;ChIJD2nBVMNxLw0RSVPdzv7ovHA;Fábrica de puertas;3,7;13;0;0,0;11;False;False;False;True;0,7;;;;;;;;;;
+Carpintería de Aluminio Talleres Macenlle;ChIJ1YuSSPNvLw0RHJatikeVto8;Carpintería metálica y de aluminio;3,1;8;0;0,0;11,1;True;False;True;False;6,4;;;;;;;;;;talleresmacenlle.com
+Carpintaría San Brais;ChIJ2ZhKyzVwLw0RmQCc4Y7x07c;Tienda de armarios;4,5;8;0;0,0;11,2;False;False;False;False;1,4;;;;;;;;;;
+Carpinteria Inox Pontevedra S L L;ChIJvXC5wCVuLw0R5K3fNpx2rvE;Carpintería metálica y de aluminio;4,6;16;0;0,0;11,2;True;False;True;False;2,4;;;;;;;;;;carpinteriainoxpontevedra.com
+Rilcapur;ChIJzSBnPgBxLw0RaFtiKgzS1oU;Carpintería;;;0;0,0;11,3;False;True;False;True;3,5;;;;;;;;;;
+Afrinoxmetal Poio S.L.;ChIJWxQM6BVuLw0RP1lhen9KiJw;Fábrica de acero inoxidable;4,6;26;0;0,0;11,4;False;False;True;False;1,6;;;;;;;;;;carpinteriainoxpontevedra.es
+Carpintería De La Fuente e Hijos, S.L.;ChIJvXtCvYJ3Lw0RA3v0Oo4r0SQ;Carpintería;4,0;20;0;0,0;11,6;True;True;True;False;10,2;;;;;;;;;;carpinteriadelafuente.es
+DDG Metal;ChIJ5168tSxvLw0RpSlD9ir83JA;Carpintería metálica y de aluminio;5,0;3;0;0,0;11,8;False;False;True;False;5,2;;;;;;;;;;ddgmetal.es
+Alumar;ChIJYYdymOtxLw0Rb3FjydrP3mE;Carpintería metálica y de aluminio;3,0;2;0;0,0;11,9;False;False;False;True;1,6;;;;;;;;;;
+CARPINTERIA HERMANOS CARABELOS S.L;ChIJuTfLBKtxLw0RUH7aqFHoBkc;Carpintería;5,0;1;0;0,0;12,2;True;True;False;False;10,6;;;;;;;;;;
+Montajes Ferfe S.l.;ChIJXXBzvTtxLw0RiHNquhBjQHQ;Empresa de construcciones metálicas;3,7;3;0;0,0;12,6;False;False;False;False;4,8;;;;;;;;;;
+Carpinteria Picón;ChIJmcC5PMxrLw0RS6e9p4dP-uQ;Carpintero;4,5;2;0;0,0;13;True;True;False;True;12,2;;;;;;;;;;
+CARPE CARPINTERÍA;ChIJ0YFTsc-fLw0RePIT5ZlBX2M;Carpintería;5,0;14;0;0,0;13;True;True;True;False;6,5;;;;;;;;;;m.facebook.com
+Eusebio Graña Casas;ChIJMeGs5yVuLw0RY7jV9IEe-jw;Carpintería metálica y de aluminio;;;0;0,0;13,5;False;False;False;True;1,8;;;;;;;;;;
+Aluminios Touron;ChIJIV1C7HZ3Lw0ROqFLLQnB3I8;Carpintería metálica y de aluminio;;;0;0,0;13,7;False;False;False;False;9,7;;;;;;;;;;
+Carpinteria Hijos de Enrique Gallego C.B.;ChIJTW7UPdh7Lw0RI17cSB1ZvNk;Carpintería;5,0;8;0;0,0;13,9;True;True;False;False;8,7;;;;;;;;;;
+KARPINMOURE;ChIJpQQhFMBxLw0RbO-MVEl1soU;Carpintero;;;0;0,0;13,9;False;True;False;False;2,7;;;;;;;;;;
+Carballo Metal;ChIJXTGBFmFxLw0RSVzZ1msNzq4;Carpintería metálica y de aluminio;4,3;7;0;0,0;14;False;False;True;False;10,6;;;;;;;;;;carballometal.es
+Estega | Estampaciones Técnicas de Galicia;ChIJ3zEzWs9wLw0RM6zBFOaYPcA;Fábrica de puertas;4,0;11;0;0,0;14;False;False;True;False;6,5;;;;;;;;;;estega.es
+Carpinteria de Madera Mauricio Pereira;ChIJ_x0Ubdk7gEYRNZ09603I0_w;Carpintería;;;0;0,0;14;True;True;False;False;20,9;;;;;;;;;;
+Carpinteria Maderas Alvarez Raña;ChIJ9dIjBbp7Lw0RFhODRY1-l0U;Oficinas de empresa;5,0;1;0;0,0;14;True;False;False;False;11,2;;;;;;;;;;
+Hermetalia Aluminio y PVC;ChIJUenkxWRtLw0RaDDScxhm9m8;Carpintería metálica y de aluminio;4,4;13;0;0,0;14,2;False;False;True;False;8,8;;;;;;;;;;hermetalia.com
+Muebles Tenorio;ChIJJzelLnBxLw0Rwbn0RPsx04U;Carpintería;;;0;0,0;14,2;False;True;True;False;5,0;;;;;;;;;;mueblestenorio.es
+INTERIUS interiorismo;ChIJ1yAytbdxLw0RvymqEaarRIA;Interiorista;4,8;177;0;0,0;14,4;False;False;True;False;0,7;;;;;;;;;;interius.es
+Rocha´s mobiliário;ChIJg2-UtMpxLw0RT5Vc1eyNT0k;Carpintería;4,1;9;0;0,0;14,5;False;True;False;False;1,2;;;;;;;;;;
+Suministros SUINPO;ChIJb0JkRGRvLw0RQc9EFumv3Ec;Proveedor de puertas para garaje;4,9;92;0;0,0;14,7;False;False;True;False;3,3;;;;;;;;;;suinpo.com
+Centro de Formación A Aixola;ChIJ16qdOphvLw0Ry3FHEMTjZD8;Centro de formación;4,4;17;0;0,0;15;False;False;True;False;5,6;;;;;;;;;;aixola.cetmar.org
+Bricoking Pontevedra;ChIJfwuhNvttLw0RS2jKqJzJh1s;Tienda de bricolaje;3,7;2456;0;0,0;15,3;False;False;True;False;1,8;;;;;;;;;;bricoking.es
+|Carpintería Lujo S.L.|;ChIJdcH9FjllLw0RmVZ_pWGgMh0;Carpintería;5,0;7;0;0,0;15,3;True;True;True;False;9,3;;;;;;;;;;lujocarpinteros.es
+Corba;ChIJNdgqhrNxLw0RhU5CC7H9Onw;Empresa de construcción;4,0;5;0;0,0;15,4;False;False;True;False;2,6;;;;;;;;;;obrasyservicioscorba.es
+Global Eventos;ChIJvy4kLrFxLw0RsUQndMC9lho;Organizador de eventos;5,0;109;0;0,0;15,8;False;False;True;False;1,3;;;;;;;;;;globaleventos.es
+Imper Salnes S.L;ChIJr9AQmwVrLw0R2V8UtX6z3fM;Carpintería;3,4;5;0;0,0;16;False;True;True;False;13,3;;;;;;;;;;imper-salnes.com
+Fábrica de Muebles Luis Martínez Regueira;ChIJtdZJ43d3Lw0Rh5bMoUAoM6U;Carpintería;5,0;1;0;0,0;16;False;True;False;True;10,1;;;;;;;;;;
+Karpinstal;ChIJgYdCNsJzLw0RELVyQ3ydGAQ;Carpintería;;;0;0,0;16,2;False;True;False;False;767,6;;;;;;;;;;
+Lara Villaverde Interiorismo y Construcción;ChIJ5y9UuwQ8a6ARVRacKQxsoQk;Interiorista;5,0;13;0;0,0;16,2;False;False;True;False;0,3;;;;;;;;;;laravillaverde.com
+Carpintería O Con;ChIJneN9PFRlLw0RsN_g3giAxZI;Carpintería;4,8;40;0;0,0;16,2;True;True;True;False;10,9;;;;;;;;;;oconcarpinteria.es
+Multiservicios BC Reparaciones y mantenimientos del hogar.;ChIJ90u2VZpxLw0ReFmzHAPvdBA;Reformas;4,4;34;0;0,0;16,3;False;False;False;False;0,4;;;;;;;;;;
+REMOSER obras & reformas;ChIJ77yyEyxxLw0RBRds8qooeX4;Reformas;4,7;14;0;0,0;16,4;False;False;False;False;1,1;;;;;;;;;;
+WENGUE INTERIORISMO - DESCANSO;ChIJPR04gdFxLw0Rt0o49mu1Kwg;Carpintería;5,0;4;0;0,0;17;False;True;True;False;0,8;;;;;;;;;;carpinteropontevedra.es
+Maquinaria Agrícola Carpintero;ChIJP5hD-ZV7Lw0Rmt1vApDA2hM;Centro de jardinería;4,3;160;0;0,0;17;True;False;True;False;12,8;;;;;;;;;;maquinaria-agricola-carpintero.com
+Reparaciones y Reformas del Hogar;ChIJLeTzR41xLw0RKjpj6sqx28E;Carpintería;3,8;32;0;0,0;17,6;False;True;True;False;1,1;;;;;;;;;;ryrpontevedrasl.es
+Preda;ChIJbWKkTYlxLw0RBLR274aJyqw;Carpintería;4,9;8;0;0,0;17,8;False;True;True;False;1,2;;;;;;;;;;predasl.es
+Landín;ChIJJUo-l2ttLw0RS5eH3wsMtL4;Carpintería metálica y de aluminio;;;0;0,0;18;False;False;True;True;9,5;;;;;;;;;;landinpvc.es
+AMC Aluminium Manufacturing Components, S.L.;ChIJO1Fk0qhxLw0RDrEe-65PbIQ;Empresa de ingeniería civil;5,0;1;0;0,0;18,5;False;False;True;False;0,5;;;;;;;;;;amctechnik.com
+BricoCentro;ChIJVVWF2slxLw0REZx7QCGwJxI;Tienda de bricolaje;3,9;1095;0;0,0;18,7;False;False;True;False;0,5;;;;;;;;;;bricocentropontevedra.es
+Aguete Carpintería;ChIJy5HqNINvLw0RwpybrztwmJc;Carpintero;5,0;1;0;0,0;18,7;True;True;False;False;6,6;;;;;;;;;;
+Carpinteria perez oubiña;ChIJNZwiRdESLw0RN8At11OyPyk;Carpintería;5,0;3;0;0,0;19;True;True;False;True;12,9;;;;;;;;;;
+Carpidecor Salnes, S.L.;ChIJZQxpaldrLw0RIV2wAwWDeKE;Carpintería;2,3;3;0;0,0;19;False;True;False;True;13,4;;;;;;;;;;
+Carpinteria Carbre;ChIJTQJ3O890Lw0RK68m5dFY9Rw;Carpintería;4,3;6;0;0,0;19;True;True;False;False;14,5;;;;;;;;;;
+olicarp;ChIJP9PsScyFJQ0RNfZAtPLe5fU;Carpintería;;;0;0,0;19;False;True;True;False;9,1;;;;;;;;;;olicarp.com
+Carpintería Barcia S.L.;ChIJ9Uvf5Np7Lw0RAFXpG1GriRw;Carpintería metálica y de aluminio;;;0;0,0;19;True;False;False;True;11,7;;;;;;;;;;
+Carpinteria de Madera Mauricio Pereira;ChIJKQCNsuZlLw0Rm5XKNShGjI0;Carpintería;;;0;0,0;20;True;True;False;False;11,8;;;;;;;;;;

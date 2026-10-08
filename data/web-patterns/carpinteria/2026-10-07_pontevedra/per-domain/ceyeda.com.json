@@ -1,0 +1,140 @@
+{
+  "domain": "ceyeda.com",
+  "website": "http://www.ceyeda.com/",
+  "business": "Carpintería Ceyeda, S.L.U.",
+  "cells_top": 6,
+  "solv_pct": 10.9,
+  "pages_analyzed": [
+    "https://ceyeda.com/",
+    "https://ceyeda.com/proyectos/"
+  ],
+  "cms": "WordPress",
+  "lang": "es-ES",
+  "title": "Home - Ceyeda carpintería",
+  "meta_description": null,
+  "h1_text": "El arte de trabajar la madera | La tecnología y la ingeniería son nuestras aliadas | La madera , sus derivados y las nuevas tendencias es la base de nuestro trabajo y la materia con la que fabricamos los sueños y proyectos de nuestros clientes.",
+  "rendered_with_js": false,
+  "h1_count": 5,
+  "h1_keyword_match": false,
+  "title_has_location": false,
+  "h1_has_location": false,
+  "h2_count": 3,
+  "headings": {
+    "https://ceyeda.com/": {
+      "h1": [
+        "El arte de trabajar la madera",
+        "El arte de trabajar la madera",
+        "La tecnología y la ingeniería son nuestras aliadas",
+        "La tecnología y la ingeniería son nuestras aliadas",
+        "La madera , sus derivados y las nuevas tendencias es la base de nuestro trabajo y la materia con la que fabricamos los sueños y proyectos de nuestros clientes."
+      ],
+      "h2": [
+        "Entregamos la máxima calidad en todos nuestros productos y servicios",
+        "NUESTRO TRABAJO",
+        "Trabaja con nosotros"
+      ],
+      "h3": [
+        "Empresa / quienes somos",
+        "Calidad / como trabajamos",
+        "Servicios / que hacemos",
+        "Actualidad / cosas que pasan",
+        "Contacto / aquí estamos",
+        "Empleados / para los de casa",
+        "Diseño de productos",
+        "Diseño de estancias",
+        "Fabricación e instalación",
+        "DISEÑO & CREATIVIDAD",
+        "QUE HACEMOS",
+        "Diseño de mobiliario a medida.",
+        "Fabricación de pequeñas y grandes series",
+        "Montamos nuestros trabajos donde se requiera.",
+        "COMENCEMOS"
+      ]
+    },
+    "https://ceyeda.com/proyectos/": {
+      "h1": [
+        "Servicios",
+        "Grandes Proyectos",
+        "Donde sea",
+        "Proyectos a medida"
+      ],
+      "h2": [],
+      "h3": []
+    }
+  },
+  "schema_types": [
+    "BreadcrumbList",
+    "ListItem",
+    "Organization",
+    "WebPage",
+    "WebSite"
+  ],
+  "has_localbusiness_schema": false,
+  "has_organization_schema": true,
+  "has_faq_schema": false,
+  "has_service_schema": false,
+  "has_breadcrumb_schema": true,
+  "has_review_schema": false,
+  "schema_completeness_pct": 23,
+  "schema_invalid_blocks": 0,
+  "n_services_listed": 3,
+  "service_headings": [
+    "Diseño de mobiliario a medida.",
+    "Entregamos la máxima calidad en todos nuestros productos y servicios",
+    "Servicios / que hacemos"
+  ],
+  "has_hero": true,
+  "has_reviews_block": false,
+  "has_faq_block": false,
+  "has_gallery": true,
+  "floating_whatsapp": false,
+  "nap_in_footer": false,
+  "phone_on_page": false,
+  "has_map_embed": false,
+  "faq_count": 0,
+  "trust_signals": [
+    "certificados",
+    "fsc",
+    "mas de 20 años",
+    "más de 25 años",
+    "pefc"
+  ],
+  "tel_links": 0,
+  "whatsapp_links": 0,
+  "has_form": false,
+  "first_cta": "abajo",
+  "internal_links_count": 14,
+  "external_links_count": 3,
+  "internal_by_category": {
+    "otros": 10,
+    "contacto": 1,
+    "legal": 3
+  },
+  "pillar_map": [
+    "/",
+    "/actualidad/",
+    "/aviso-legal/",
+    "/ayudas/",
+    "/calidad/",
+    "/contacto/",
+    "/empresa/",
+    "/en/",
+    "/plan-de-igualdad/",
+    "/politica-de-privacidad/",
+    "/protocolo-de-acoso/",
+    "/proyectos/",
+    "/uso-de-cookies/",
+    "/wp-content/uploads/2025/11/protocolo_desconexion_digital_ceyeda.pdf"
+  ],
+  "content_words_count": 951,
+  "services_page_words": 482,
+  "mobile_performance": null,
+  "lighthouse_seo": null,
+  "lighthouse_accessibility": null,
+  "lighthouse_best_practices": null,
+  "mobile_lcp_ms": null,
+  "mobile_cls": null,
+  "mobile_tbt_ms": null,
+  "mobile_fcp_ms": null,
+  "pagespeed_error": "PageSpeed HTTP 429 (cuota sin clave agotada)"
+}

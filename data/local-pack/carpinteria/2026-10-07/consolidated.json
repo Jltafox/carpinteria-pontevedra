@@ -1,0 +1,4455 @@
+{
+  "meta": {
+    "skill": "local-pack-multi-city",
+    "keyword": "carpintería",
+    "date": "2026-10-07",
+    "device": "mobile",
+    "google_domain": "google.es",
+    "gl": "es",
+    "hl": "es",
+    "top_pack": 3,
+    "top_organic": 10,
+    "source": "SerpAPI · engine=google + engine=google_maps (Local Pack)",
+    "cities": [
+      {
+        "city": "Santiago de Compostela",
+        "location": "Santiago de Compostela,Galicia,Spain",
+        "maps_ll": "@42.8782,-8.5448,14z"
+      },
+      {
+        "city": "Pontevedra",
+        "location": "Pontevedra,Galicia,Spain",
+        "maps_ll": "@42.4299,-8.6446,14z"
+      },
+      {
+        "city": "Barcelona",
+        "location": "Barcelona,Catalonia,Spain",
+        "maps_ll": "@41.3851,2.1734,14z"
+      },
+      {
+        "city": "Madrid Centro",
+        "location": "Centro,Community of Madrid,Spain",
+        "maps_ll": "@40.4169,-3.7035,14z"
+      },
+      {
+        "city": "Valencia",
+        "location": "Valencia,Valencian Community,Spain",
+        "maps_ll": "@39.4699,-0.3763,14z"
+      }
+    ],
+    "requests_made": 10,
+    "credits_before": 250,
+    "credits_after": 240,
+    "credits_used": 10,
+    "maps_requests": 5
+  },
+  "businesses": [
+    {
+      "name": "Carpintería Angel Otero",
+      "place_id": "ChIJhUROc0T-Lg0RnCoPq5JGDFM",
+      "domain": "carpinteriaangelotero.com",
+      "categories": [
+        "Carpintería",
+        "Servicio de restauración de muebles antiguos",
+        "Ebanista",
+        "Carpintero",
+        "Fábrica de muebles",
+        "Taller de instalación de puertas y ventanas",
+        "Servicio de instalación de suelos de madera"
+      ],
+      "cities_seen": [
+        "Santiago de Compostela"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.8,
+      "total_reviews": 122,
+      "pack_positions": {
+        "Santiago de Compostela": 1
+      },
+      "organic_positions": {},
+      "website": "https://carpinteriaangelotero.com/",
+      "address": "Rúa Ponte Munín, N⁰14, 15893 Santiago de Compostela, A Coruña",
+      "phone": "696 94 33 13",
+      "lat": 42.8526801,
+      "lng": -8.5297267
+    },
+    {
+      "name": "Carpintería Ceyeda, S.L.U.",
+      "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+      "domain": "ceyeda.com",
+      "categories": [
+        "Carpintería",
+        "Fábrica de muebles"
+      ],
+      "cities_seen": [
+        "Pontevedra"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 12,
+      "pack_positions": {
+        "Pontevedra": 1
+      },
+      "organic_positions": {},
+      "website": "http://www.ceyeda.com/",
+      "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra",
+      "phone": "986 70 88 01",
+      "lat": 42.4042902,
+      "lng": -8.5723174
+    },
+    {
+      "name": "Carpinteria Guarque S.L.",
+      "place_id": "ChIJWUrTKECjpBIRsebf2K8s3EY",
+      "domain": "carpinteriaguarque.es",
+      "categories": [
+        "Carpintería",
+        "Fábrica de muebles",
+        "Tienda de muebles de cocina",
+        "Establecimiento de venta de madera",
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Barcelona"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 257,
+      "pack_positions": {
+        "Barcelona": 1
+      },
+      "organic_positions": {},
+      "website": "http://www.carpinteriaguarque.es/",
+      "address": "Carrer de l'Amistat, 25, Sant Martí, 08005 Barcelona",
+      "phone": "932 25 36 65",
+      "lat": 41.4005301,
+      "lng": 2.205829
+    },
+    {
+      "name": "Carpintería Javier Serrano",
+      "place_id": "ChIJVxhHCMknQg0R6IUoP8MEoSY",
+      "domain": "carpinteriajavierserrano.com",
+      "categories": [
+        "Exposición",
+        "Tienda de armarios",
+        "Fábrica de puertas",
+        "Fábrica de muebles"
+      ],
+      "cities_seen": [
+        "Madrid Centro"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.7,
+      "total_reviews": 186,
+      "pack_positions": {
+        "Madrid Centro": 1
+      },
+      "organic_positions": {},
+      "website": "https://www.carpinteriajavierserrano.com/",
+      "address": "C. del Laurel, 7, Arganzuela, 28005 Madrid",
+      "phone": "692 18 35 18",
+      "lat": 40.4035529,
+      "lng": -3.7050663999999998
+    },
+    {
+      "name": "Carpintería Gregorio Rodríguez",
+      "place_id": "ChIJf9yICvNPYA0R3QX2srpxZUU",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Valencia"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.7,
+      "total_reviews": 15,
+      "pack_positions": {
+        "Valencia": 1
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Plaça de Patraix, 2, Patraix, 46018 València, Valencia",
+      "phone": "667 25 77 84",
+      "lat": 39.4624532,
+      "lng": -0.3918814
+    },
+    {
+      "name": "Carpintería Fernández",
+      "place_id": "ChIJRW3OIOL_Lg0RjSEmXZxmegw",
+      "domain": "carpinteriafernandez.es",
+      "categories": [
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Santiago de Compostela"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.4,
+      "total_reviews": 7,
+      "pack_positions": {
+        "Santiago de Compostela": 2
+      },
+      "organic_positions": {},
+      "website": "https://www.carpinteriafernandez.es/",
+      "address": "Calle Coto da Nai, 52, Bajo, 15892 Santiago de Compostela, A Coruña",
+      "phone": "649 47 44 07",
+      "lat": 42.8605187,
+      "lng": -8.500374299999999
+    },
+    {
+      "name": "Carpimoble",
+      "place_id": "ChIJ6____xtwLw0RQuHRDDBgQec",
+      "domain": "carpimoble.es",
+      "categories": [
+        "Carpintería",
+        "Tienda de armarios",
+        "Carpintero",
+        "Fábrica de muebles",
+        "Tienda de muebles"
+      ],
+      "cities_seen": [
+        "Pontevedra"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.5,
+      "total_reviews": 93,
+      "pack_positions": {
+        "Pontevedra": 2
+      },
+      "organic_positions": {},
+      "website": "https://www.carpimoble.es/",
+      "address": "Parque Empresarial O Campiño, Monte do Louredo, 2, Parcela A2 (Polígono Industrial, 36158 Marcón, Pontevedra",
+      "phone": "630 11 77 84",
+      "lat": 42.4102554,
+      "lng": -8.5900363
+    },
+    {
+      "name": "Carpinteria Jesadi",
+      "place_id": "ChIJbTQiLwuZpBIRd16B2Tl2eFQ",
+      "domain": "carpinteria.solucionamedida.com",
+      "categories": [
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Barcelona"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.9,
+      "total_reviews": 110,
+      "pack_positions": {
+        "Barcelona": 2
+      },
+      "organic_positions": {},
+      "website": "https://carpinteria.solucionamedida.com/carpinteria-jesadi.html",
+      "address": "Carrer de Barcelona, 157, 08901 L'Hospitalet de Llobregat, Barcelona",
+      "phone": "661 81 91 76",
+      "lat": 41.359939999999995,
+      "lng": 2.09719
+    },
+    {
+      "name": "Carpintería Cruz",
+      "place_id": "ChIJVykxfRAnQg0R4HtjlV9JXz4",
+      "domain": "carpinteriacruz.com",
+      "categories": [
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Madrid Centro"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.7,
+      "total_reviews": 94,
+      "pack_positions": {
+        "Madrid Centro": 2
+      },
+      "organic_positions": {},
+      "website": "https://carpinteriacruz.com/",
+      "address": "Calle del Dr Sánchez, 37, Puente de Vallecas, 28018 Madrid",
+      "phone": "665 01 20 91",
+      "lat": 40.3820544,
+      "lng": -3.6661002
+    },
+    {
+      "name": "El taller de Miguel | Carpintería",
+      "place_id": "ChIJay2ibFFFYA0RiszFjx9CsD0",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Valencia"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.9,
+      "total_reviews": 22,
+      "pack_positions": {
+        "Valencia": 2
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "C/ del Comte de Torrefiel, 24, Rascaña, 46019 València, Valencia",
+      "phone": "627 41 29 66",
+      "lat": 39.4932034,
+      "lng": -0.37586149999999996
+    },
+    {
+      "name": "Carpinteros K27",
+      "place_id": "ChIJCV9mpbPPgYUReCnp_ZAn-Do",
+      "domain": "carpinterosk27.es",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Santiago de Compostela"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 5,
+      "pack_positions": {
+        "Santiago de Compostela": 3
+      },
+      "organic_positions": {},
+      "website": "https://www.carpinterosk27.es/",
+      "address": "R. de Montero Rios, 48, 15701 Santiago de Compostela, A Coruña",
+      "phone": "634 06 21 09",
+      "lat": 42.8754833,
+      "lng": -8.549119899999999
+    },
+    {
+      "name": "CARPINTERIA MARTINEZ PAZ S.L.",
+      "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+      "domain": null,
+      "categories": [
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Pontevedra"
+      ],
+      "n_cities": 1,
+      "avg_rating": 3.5,
+      "total_reviews": 11,
+      "pack_positions": {
+        "Pontevedra": 3
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "RÚA CANCELA, 9, 36143 Pontevedra",
+      "phone": "986 84 76 25",
+      "lat": 42.3990268,
+      "lng": -8.6375054
+    },
+    {
+      "name": "Carpintería - SAVIA Mobles",
+      "place_id": "ChIJLeDMm9WZpBIR1x4Eu7rtV8I",
+      "domain": "saviamobles.com",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Barcelona"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 89,
+      "pack_positions": {
+        "Barcelona": 3
+      },
+      "organic_positions": {},
+      "website": "http://www.saviamobles.com/",
+      "address": "Carrer de la Renclusa, 29, 08905 L'Hospitalet de Llobregat, Barcelona",
+      "phone": "600 22 32 76",
+      "lat": 41.370763499999995,
+      "lng": 2.1064974999999997
+    },
+    {
+      "name": "Carpintería José Miguel Prieto",
+      "place_id": "ChIJkV57f1MoQg0R9tfnZJx1Wg4",
+      "domain": "ebanisteriajoseprieto.com",
+      "categories": [
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Madrid Centro"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.1,
+      "total_reviews": 24,
+      "pack_positions": {
+        "Madrid Centro": 3
+      },
+      "organic_positions": {},
+      "website": "http://www.ebanisteriajoseprieto.com/",
+      "address": "C. de San Valeriano, 11, Loc 4, Tetuán, 28039 Madrid",
+      "phone": "914 59 99 30",
+      "lat": 40.4508976,
+      "lng": -3.7081945999999997
+    },
+    {
+      "name": "Carpintería Escribano",
+      "place_id": "ChIJmZMhdfdFYA0Rcml2JmUr-lg",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Valencia"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.6,
+      "total_reviews": 12,
+      "pack_positions": {
+        "Valencia": 3
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "C/ de l'Enginyer la Cierva, 15, Bajo - B, La Zaidía, 46009 València, Valencia",
+      "phone": "623 81 48 20",
+      "lat": 39.4880771,
+      "lng": -0.3853137
+    }
+  ],
+  "organic_domains": [
+    {
+      "domain": "habitissimo.es",
+      "domain_type": "directorio",
+      "n_cities": 4,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona",
+        "Madrid Centro",
+        "Valencia"
+      ],
+      "positions": {
+        "Santiago de Compostela": 5,
+        "Barcelona": 4,
+        "Madrid Centro": 3,
+        "Valencia": 3
+      },
+      "best_rank": 3,
+      "urls": [
+        "https://www.habitissimo.es/pro/carpinteria-franjuar",
+        "https://www.habitissimo.es/empresas/carpinteros/valencia/valencia",
+        "https://www.habitissimo.es/empresas/carpinteros/alicante"
+      ],
+      "titles": [
+        "Carpintería Franjuar - Opiniones & Precios",
+        "Las 10 mejores empresas de carpinteros en Valencia (Ciudad)",
+        "Las 10 mejores empresas de carpinteros en Alicante"
+      ]
+    },
+    {
+      "domain": "qdq.com",
+      "domain_type": "directorio",
+      "n_cities": 3,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona",
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Santiago de Compostela": 6,
+        "Barcelona": 5,
+        "Madrid Centro": 1
+      },
+      "best_rank": 1,
+      "urls": [
+        "https://www.qdq.com/carpinteria-el-remedio-337882",
+        "https://www.qdq.com/carpinteria-llopis-109421",
+        "https://www.qdq.com/a/carpinteria-y-ebanisteria/madrid/arganda-del-rey",
+        "https://www.qdq.com/carpinteria-villaca%C3%B1as-sl-338433",
+        "https://www.qdq.com/a/carpinteria-y-ebanisteria/toledo/talavera-de-la-reina"
+      ],
+      "titles": [
+        "CARPINTERÍA EL REMEDIO, Carpintería y Ebanistería en Malagón, Ciudad Real",
+        "Carpintería Llopis, Carpintería y Ebanistería en Altea, Alicante",
+        "Carpintería y Ebanistería en Arganda Del Rey Madrid",
+        "CARPINTERÍA VILLACAÑAS S.L., Carpintería y Ebanistería en Alcorcón, Madrid",
+        "Carpintería y Ebanistería en Talavera De La Reina Toledo"
+      ]
+    },
+    {
+      "domain": "viladecans.cat",
+      "domain_type": "negocio/otro",
+      "n_cities": 3,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona",
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Santiago de Compostela": 10,
+        "Barcelona": 1,
+        "Madrid Centro": 8
+      },
+      "best_rank": 1,
+      "urls": [
+        "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria"
+      ],
+      "titles": [
+        "Taller Viladecans Repara: Reparación de muebles y carpintería"
+      ]
+    },
+    {
+      "domain": "carpinteriacuetara.com",
+      "domain_type": "negocio/otro",
+      "n_cities": 3,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona",
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Santiago de Compostela": 8,
+        "Barcelona": 8,
+        "Madrid Centro": 5
+      },
+      "best_rank": 5,
+      "urls": [
+        "https://carpinteriacuetara.com/carpinteria-en-asturias"
+      ],
+      "titles": [
+        "Carpintería de Madera en Asturias - Panes"
+      ]
+    },
+    {
+      "domain": "facebook.com",
+      "domain_type": "red social",
+      "n_cities": 3,
+      "cities_seen": [
+        "Pontevedra",
+        "Barcelona",
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Pontevedra": 9,
+        "Barcelona": 9,
+        "Madrid Centro": 6
+      },
+      "best_rank": 6,
+      "urls": [
+        "https://www.facebook.com/domingosantanacarpinteros/",
+        "https://www.facebook.com/carpinteriaucha/",
+        "https://www.facebook.com/carpinteria.sanjose.valencia/?locale=es_ES"
+      ],
+      "titles": [
+        "Carpinteros las palmas | Las Palmas de Gran Canaria",
+        "Carpintería Ebanistería Ucha | Vigo",
+        "Carpintería San José | Valencia"
+      ]
+    },
+    {
+      "domain": "paxinasgalegas.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Santiago de Compostela": 1,
+        "Madrid Centro": 9
+      },
+      "best_rank": 1,
+      "urls": [
+        "https://www.paxinasgalegas.es/dosil-144895em.html",
+        "https://www.paxinasgalegas.es/hurruya-652296em.html"
+      ],
+      "titles": [
+        "Carpintería de Madera Dosil en Noia",
+        "Carpintería Hurruya en Pontevedra"
+      ]
+    },
+    {
+      "domain": "paginasamarillas.es",
+      "domain_type": "directorio",
+      "n_cities": 2,
+      "cities_seen": [
+        "Pontevedra",
+        "Valencia"
+      ],
+      "positions": {
+        "Pontevedra": 1,
+        "Valencia": 5
+      },
+      "best_rank": 1,
+      "urls": [
+        "https://www.paginasamarillas.es/a/carpinteria/pontevedra/",
+        "https://www.paginasamarillas.es/a/carpinterias-de-madera/alicante/alicante/",
+        "https://www.paginasamarillas.es/a/carpinterias-de-madera/madrid/madrid/",
+        "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/",
+        "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/valencia/"
+      ],
+      "titles": [
+        "Carpintería en Pontevedra (provincia)",
+        "Carpinterías de madera en Alicante",
+        "Carpinterías de madera en Madrid capital",
+        "Carpinterías de madera en Valencia (provincia)",
+        "Carpinterías de madera en València (Valencia)"
+      ]
+    },
+    {
+      "domain": "cronoshare.com",
+      "domain_type": "directorio",
+      "n_cities": 2,
+      "cities_seen": [
+        "Pontevedra",
+        "Valencia"
+      ],
+      "positions": {
+        "Pontevedra": 5,
+        "Valencia": 1
+      },
+      "best_rank": 1,
+      "urls": [
+        "https://www.cronoshare.com/servicios/carpinteros/a-coruna/a-coruna",
+        "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia"
+      ],
+      "titles": [
+        "Carpinteros en A Coruña | Muebles y estructuras a medida",
+        "Carpinteros en Valencia | Muebles y estructuras a medida"
+      ]
+    },
+    {
+      "domain": "profemadera.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona"
+      ],
+      "positions": {
+        "Santiago de Compostela": 2,
+        "Barcelona": 2
+      },
+      "best_rank": 2,
+      "urls": [
+        "https://profemadera.es/recurso/manual-completo-de-la-madera-la-carpinteria-y-la-ebanisteria/"
+      ],
+      "titles": [
+        "Manual completo de la madera, la carpintería y la ebanistería"
+      ]
+    },
+    {
+      "domain": "taskia.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Pontevedra",
+        "Valencia"
+      ],
+      "positions": {
+        "Pontevedra": 2,
+        "Valencia": 4
+      },
+      "best_rank": 2,
+      "urls": [
+        "https://www.taskia.es/servicios-de-carpinteria-en-pontevedra",
+        "https://www.taskia.es/servicios-de-carpinteria-en-valencia",
+        "https://www.taskia.es/servicios-de-carpinteria-en-valencia-valencia"
+      ],
+      "titles": [
+        "Carpinteros a domicilio en Pontevedra",
+        "Carpinteros a domicilio en València",
+        "Carpinteros a domicilio en Valencia/València"
+      ]
+    },
+    {
+      "domain": "prontopro.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Pontevedra",
+        "Valencia"
+      ],
+      "positions": {
+        "Pontevedra": 3,
+        "Valencia": 2
+      },
+      "best_rank": 2,
+      "urls": [
+        "https://prontopro.es/a-coruna-carpinteria",
+        "https://prontopro.es/sevilla-carpinteria",
+        "https://prontopro.es/valencia-carpintero"
+      ],
+      "titles": [
+        "Los mejores 40 Carpinteros en A Coruña - ProntoPro",
+        "Los mejores 40 Carpinteros en Sevilla - ProntoPro",
+        "Los mejores 40 Carpinteros en Valencia - ProntoPro"
+      ]
+    },
+    {
+      "domain": "tuformacionprofesional.com",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona"
+      ],
+      "positions": {
+        "Santiago de Compostela": 4,
+        "Barcelona": 3
+      },
+      "best_rank": 3,
+      "urls": [
+        "https://www.tuformacionprofesional.com/fp/carpinteria-y-mueble/"
+      ],
+      "titles": [
+        "Grado Medio en Carpintería y Mueble ➡️ TuFP"
+      ]
+    },
+    {
+      "domain": "tallerestemino.com",
+      "domain_type": "negocio/otro",
+      "n_cities": 2,
+      "cities_seen": [
+        "Santiago de Compostela",
+        "Barcelona"
+      ],
+      "positions": {
+        "Santiago de Compostela": 9,
+        "Barcelona": 6
+      },
+      "best_rank": 6,
+      "urls": [
+        "https://www.tallerestemino.com/servicios/carpinteria-metalica-para-interiores/"
+      ],
+      "titles": [
+        "Carpintería Metálica para Interiores en Burgos"
+      ]
+    },
+    {
+      "domain": "extremadura.com",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Pontevedra"
+      ],
+      "positions": {
+        "Pontevedra": 4
+      },
+      "best_rank": 4,
+      "urls": [
+        "https://www.extremadura.com/paginas/badajoz/carpinterias"
+      ],
+      "titles": [
+        "Guía de Carpinterías en Badajoz | extremadura .com"
+      ]
+    },
+    {
+      "domain": "multimap.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Madrid Centro": 4
+      },
+      "best_rank": 4,
+      "urls": [
+        "https://www.multimap.es/servicios/carpinteria-madera/zamora"
+      ],
+      "titles": [
+        "Servicios de Carpintería madera en Zamora - MULTIMAP"
+      ]
+    },
+    {
+      "domain": "carpinterialaspalmas.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Pontevedra"
+      ],
+      "positions": {
+        "Pontevedra": 6
+      },
+      "best_rank": 6,
+      "urls": [
+        "https://www.carpinterialaspalmas.es/"
+      ],
+      "titles": [
+        "Carpinteria en Las Palmas | Carpinterías Las Palmas: Carpintería Las Palmas"
+      ]
+    },
+    {
+      "domain": "juntito.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Valencia"
+      ],
+      "positions": {
+        "Valencia": 6
+      },
+      "best_rank": 6,
+      "urls": [
+        "https://juntito.es/servicios-de-carpinteros/"
+      ],
+      "titles": [
+        "Servicios de los Carpinteros en Alicante | Juntito - Precios Razonables y Calidad Garantizada"
+      ]
+    },
+    {
+      "domain": "educa2.madrid.org",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Santiago de Compostela"
+      ],
+      "positions": {
+        "Santiago de Compostela": 7
+      },
+      "best_rank": 7,
+      "urls": [
+        "https://www.educa2.madrid.org/web/ace_tetuan/taller-de-carpinteria"
+      ],
+      "titles": [
+        "Taller de carpintería | A.C.E. TETUÁN - EducaMadrid - Comunidad de Madrid |"
+      ]
+    },
+    {
+      "domain": "fuentespina.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Barcelona"
+      ],
+      "positions": {
+        "Barcelona": 7
+      },
+      "best_rank": 7,
+      "urls": [
+        "https://www.fuentespina.es/empresas-y-negocios/ebanisteria-carpinteria-francisco-j-martin-moreno"
+      ],
+      "titles": [
+        "Ebanisteria - Carpintería Francisco J. Martín Moreno"
+      ]
+    },
+    {
+      "domain": "trustlocal.es",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Madrid Centro"
+      ],
+      "positions": {
+        "Madrid Centro": 7
+      },
+      "best_rank": 7,
+      "urls": [
+        "https://trustlocal.es/sevilla/la-algaba/carpintero/carpinteria-false/"
+      ],
+      "titles": [
+        "Carpintería False en La Algaba | Experiencias - Trustlocal"
+      ]
+    },
+    {
+      "domain": "carpinteria-madera.las24h.com",
+      "domain_type": "negocio/otro",
+      "n_cities": 1,
+      "cities_seen": [
+        "Valencia"
+      ],
+      "positions": {
+        "Valencia": 7
+      },
+      "best_rank": 7,
+      "urls": [
+        "https://carpinteria-madera.las24h.com/valencia/valencia.html"
+      ],
+      "titles": [
+        "Carpintería de Madera en Valencia"
+      ]
+    }
+  ],
+  "watchlist": {
+    "Fervenza": [],
+    "Mucarce": [],
+    "Pose Mato": [],
+    "Muebles Mato": [],
+    "Life Home": [],
+    "Deco Ideas": [],
+    "Carpintería Estelar": [],
+    "Maisk Mobles": []
+  },
+  "cities": [
+    {
+      "slug": "santiago-de-compostela",
+      "city": "Santiago de Compostela",
+      "location": "Santiago de Compostela,Galicia,Spain",
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": true,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Angel Otero",
+          "place_id": "ChIJhUROc0T-Lg0RnCoPq5JGDFM",
+          "data_cid": "5984235600617613980",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Servicio de restauración de muebles antiguos",
+            "Ebanista",
+            "Carpintero",
+            "Fábrica de muebles",
+            "Taller de instalación de puertas y ventanas",
+            "Servicio de instalación de suelos de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 122,
+          "address": "Rúa Ponte Munín, N⁰14, 15893 Santiago de Compostela, A Coruña",
+          "phone": "696 94 33 13",
+          "lat": 42.8526801,
+          "lng": -8.5297267,
+          "website": "https://carpinteriaangelotero.com/",
+          "domain": "carpinteriaangelotero.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Fernández",
+          "place_id": "ChIJRW3OIOL_Lg0RjSEmXZxmegw",
+          "data_cid": "899143897377546637",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 4.4,
+          "reviews": 7,
+          "address": "Calle Coto da Nai, 52, Bajo, 15892 Santiago de Compostela, A Coruña",
+          "phone": "649 47 44 07",
+          "lat": 42.8605187,
+          "lng": -8.500374299999999,
+          "website": "https://www.carpinteriafernandez.es/",
+          "domain": "carpinteriafernandez.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpinteros K27",
+          "place_id": "ChIJCV9mpbPPgYUReCnp_ZAn-Do",
+          "data_cid": "4249189752112753016",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": "R. de Montero Rios, 48, 15701 Santiago de Compostela, A Coruña",
+          "phone": "634 06 21 09",
+          "lat": 42.8754833,
+          "lng": -8.549119899999999,
+          "website": "https://www.carpinterosk27.es/",
+          "domain": "carpinterosk27.es",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Angel Otero",
+          "place_id": "ChIJhUROc0T-Lg0RnCoPq5JGDFM",
+          "data_cid": "5984235600617613980",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Servicio de restauración de muebles antiguos",
+            "Ebanista",
+            "Carpintero",
+            "Fábrica de muebles",
+            "Taller de instalación de puertas y ventanas",
+            "Servicio de instalación de suelos de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 122,
+          "address": "Rúa Ponte Munín, N⁰14, 15893 Santiago de Compostela, A Coruña",
+          "phone": "696 94 33 13",
+          "lat": 42.8526801,
+          "lng": -8.5297267,
+          "website": "https://carpinteriaangelotero.com/",
+          "domain": "carpinteriaangelotero.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Fernández",
+          "place_id": "ChIJRW3OIOL_Lg0RjSEmXZxmegw",
+          "data_cid": "899143897377546637",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 4.4,
+          "reviews": 7,
+          "address": "Calle Coto da Nai, 52, Bajo, 15892 Santiago de Compostela, A Coruña",
+          "phone": "649 47 44 07",
+          "lat": 42.8605187,
+          "lng": -8.500374299999999,
+          "website": "https://www.carpinteriafernandez.es/",
+          "domain": "carpinteriafernandez.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpinteros K27",
+          "place_id": "ChIJCV9mpbPPgYUReCnp_ZAn-Do",
+          "data_cid": "4249189752112753016",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": "R. de Montero Rios, 48, 15701 Santiago de Compostela, A Coruña",
+          "phone": "634 06 21 09",
+          "lat": 42.8754833,
+          "lng": -8.549119899999999,
+          "website": "https://www.carpinterosk27.es/",
+          "domain": "carpinterosk27.es",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carpintería Educa",
+          "place_id": "ChIJrVVReBX-Lg0RARamUE9eASI",
+          "data_cid": "2450343367014749697",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa de Santiago de Chile, 14, 15701 Santiago de Compostela, A Coruña",
+          "phone": "981 59 55 20",
+          "lat": 42.8723011,
+          "lng": -8.5507955,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería Milsa",
+          "place_id": "ChIJs_8XFxQALw0RqbKFyr33sPs",
+          "data_cid": "18136268093939626665",
+          "category": "Oficinas de empresa",
+          "types": [
+            "Oficinas de empresa"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 9,
+          "address": "Marrociños, 15893 Santiago de Compostela, A Coruña",
+          "phone": null,
+          "lat": 42.8439725,
+          "lng": -8.5017972,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Carpintería Márquez Vilela",
+          "place_id": "ChIJ6enpaRcCLw0RwEmPyayO49c",
+          "data_cid": "15556434410634955200",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 3.8,
+          "reviews": 28,
+          "address": "Pol. Ind. Nuevo, Calle Das Palmeiras, 65 -A (Pol Ind Nuevo Milladoiro 15895, Rúa das Palmeiras, 65, 15895 O Milladoiro, A Coruña",
+          "phone": "981 93 79 14",
+          "lat": 42.8525947,
+          "lng": -8.584755,
+          "website": "https://www.marquezyvilela.es/",
+          "domain": "marquezyvilela.es",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Mosquera (Santiago de Compostela)",
+          "place_id": "ChIJYcO2R03-Lg0ReuF0fGkTXBc",
+          "data_cid": "1683241704510251386",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 7,
+          "address": "Rúa Casas Hedra, 13, 15707 Santiago de Compostela, A Coruña",
+          "phone": "981 58 75 70",
+          "lat": 42.877745,
+          "lng": -8.5271827,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería Tejo",
+          "place_id": "ChIJEcxVkv3_Lg0RGxEDUun7jks",
+          "data_cid": "5444565979059392795",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Proveedor de muebles a medida",
+            "Carpintero",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Senande, 89 (Sanxoás) - ARINS, 15892 Santiago de Compostela, A Coruña",
+          "phone": "629 82 16 82",
+          "lat": 42.8755246,
+          "lng": -8.5033821,
+          "website": "https://www.carpinteriatejo.es/",
+          "domain": "carpinteriatejo.es",
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Barcala Carpinteiros Sl",
+          "place_id": "ChIJn5R3dT_-Lg0RmsrpiZ6ovoA",
+          "data_cid": "9277037681301899930",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "C. de, Rúa de Alfredo Brañas, 23, 15701 Santiago de Compostela, A Coruña",
+          "phone": null,
+          "lat": 42.8738167,
+          "lng": -8.5473351,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Casal Carpinteros",
+          "place_id": "ChIJzRNT4pr_Lg0R-5xivAluZ5w",
+          "data_cid": "11270097580612295931",
+          "category": "Oficinas de empresa",
+          "types": [
+            "Oficinas de empresa"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 3,
+          "address": "Av. de Lugo, 169, 15703 Santiago de Compostela, A Coruña",
+          "phone": "600 40 04 69",
+          "lat": 42.8788397,
+          "lng": -8.5337253,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Maderas Muvar",
+          "place_id": "ChIJ-WUDghP_Lg0RLGNfFNstJ1Q",
+          "data_cid": "6063865842240545580",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Establecimiento de venta de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.2,
+          "reviews": 17,
+          "address": "Rúa do Cruceiro da Coruña, 197, 15898 Santiago de Compostela, A Coruña",
+          "phone": "981 56 80 00",
+          "lat": 42.906685499999995,
+          "lng": -8.514375099999999,
+          "website": "https://www.muvar.es/",
+          "domain": "muvar.es",
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Pérez Taboada",
+          "place_id": "ChIJCYd34An-Lg0RlDuIcjJS7FE",
+          "data_cid": "5903183588199250836",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 17,
+          "address": "Rúa do Cotón, 25, 15706 Santiago de Compostela, A Coruña",
+          "phone": "635 07 65 68",
+          "lat": 42.8668853,
+          "lng": -8.5720156,
+          "website": "https://www.cmpereztaboada.com/",
+          "domain": "cmpereztaboada.com",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Pau Pau Obradoiros de Carpintería",
+          "place_id": "ChIJPVbCXwD_Lg0R9bUzgvm1ZlI",
+          "data_cid": "5937633241970488821",
+          "category": "Centro de formación",
+          "types": [
+            "Centro de formación",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "R. de Frei Rosendo Salvado, 21, 15701 Santiago de Compostela, A Coruña",
+          "phone": "644 48 43 55",
+          "lat": 42.8721416,
+          "lng": -8.551292799999999,
+          "website": "https://www.instagram.com/paupau.obradoiros/",
+          "domain": "instagram.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "MÓDULO carpintería y diseño",
+          "place_id": "ChIJZU7gRSz_Lg0RhlALX5cIA6g",
+          "data_cid": "12106529669529686150",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa de Santiago de Guayaquil, 15702 Santiago de Compostela, A Coruña",
+          "phone": "660 18 26 53",
+          "lat": 42.8743226,
+          "lng": -8.5436406,
+          "website": "https://www.instagram.com/mo_modulo?igsh=anVkYTkyeno4eHU4",
+          "domain": "instagram.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Carpintería Rodeiro",
+          "place_id": "ChIJ3ZXJNoQCLw0RNH1-cKm03o4",
+          "data_cid": "10294864438045343028",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "As Buceleiras 14, 15895 Bugallido, A Coruña",
+          "phone": "619 67 94 20",
+          "lat": 42.8447326,
+          "lng": -8.622214699999999,
+          "website": "http://carpinteriarodeiro.es/",
+          "domain": "carpinteriarodeiro.es",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Aluminios Cabeal",
+          "place_id": "ChIJre8RbR__Lg0RQ9i6UIgUQrg",
+          "data_cid": "13277197227144173635",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 3.6,
+          "reviews": 33,
+          "address": "Pol. Del Tambre, Vial de Faraday, 1, 15890 Santiago de Compostela, A Coruña",
+          "phone": "981 93 63 50",
+          "lat": 42.910793399999996,
+          "lng": -8.5126276,
+          "website": "https://www.cabeal.es/",
+          "domain": "cabeal.es",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Aluminios Jesús Freire Miramontes",
+          "place_id": "ChIJt-i3VD__Lg0RdR7g7QPbVXI",
+          "data_cid": "8238731903266463349",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 7,
+          "address": "Castro, 17, 15890 Santiago de Compostela, A Coruña",
+          "phone": "699 10 13 72",
+          "lat": 42.8942725,
+          "lng": -8.485254099999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Maderas Muvar S.L. Carpinteria",
+          "place_id": "ChIJ7zOdnxT_Lg0RvsXMpxtI-Ug",
+          "data_cid": "5258313323548296638",
+          "category": "Establecimiento de venta de madera",
+          "types": [
+            "Establecimiento de venta de madera"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Via Isaac Peral, 24, 15898 Santiago de Compostela, A Coruña",
+          "phone": null,
+          "lat": 42.911848299999996,
+          "lng": -8.5076171,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Focus Interior Spaces",
+          "place_id": "ChIJmWqFFoWrLw0RsHaxUESX5sg",
+          "data_cid": "14476424371896415920",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": "Rúa Hedras, 6, Loft 0i, 15895 O Milladoiro, A Coruña",
+          "phone": null,
+          "lat": 42.8546206,
+          "lng": -8.5845503,
+          "website": "https://focusinteriorspaces.com/",
+          "domain": "focusinteriorspaces.com",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Tocandomadera",
+          "place_id": "ChIJ87ARLbB1Lg0RE5wPM0m71G0",
+          "data_cid": "7914156368260471827",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios",
+            "Service establishment",
+            "Tienda de muebles de cocina"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 11,
+          "address": null,
+          "phone": "644 54 14 15",
+          "lat": 42.8351934,
+          "lng": -8.5864361,
+          "website": "http://www.tocandomadera.es/",
+          "domain": "tocandomadera.es",
+          "snippet": null
+        }
+      ],
+      "local_links": [
+        {
+          "position": 1,
+          "name": "Casal Carpinteros Oficinas de empresa Av. de Lugo, 169, 15703 Santiago de Compostela, A Coruña",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Educa Carpintería metálica y de aluminio Rúa de Santiago de Chile, 14, 15701 Santiago de Compostela, A Coruña",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 3,
+          "name": "Barcala Carpinteiros Sl Carpintero C. de, Rúa de Alfredo Brañas, 23, 15701 Santiago de Compostela, A Coruña",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 4,
+          "name": null,
+          "domain": "instagram.com",
+          "url": "https://www.instagram.com/paupau.obradoiros/"
+        },
+        {
+          "position": 5,
+          "name": null,
+          "domain": "carpinteriacrego.com",
+          "url": "http://www.carpinteriacrego.com/"
+        },
+        {
+          "position": 6,
+          "name": "Mosquera (Santiago de Compostela) Carpintería metálica y de aluminio Rúa Casas Hedra, 13, 15707 Santiago de Compostela, A Coruña",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 7,
+          "name": null,
+          "domain": "galparreformas.es",
+          "url": "https://galparreformas.es/"
+        },
+        {
+          "position": 8,
+          "name": null,
+          "domain": "fcreformas.es",
+          "url": "https://fcreformas.es/"
+        },
+        {
+          "position": 9,
+          "name": null,
+          "domain": "carpinteriafernandez.es",
+          "url": "https://www.carpinteriafernandez.es/"
+        },
+        {
+          "position": 10,
+          "name": null,
+          "domain": "cmpereztaboada.com",
+          "url": "https://www.cmpereztaboada.com/"
+        }
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "serp_position": 1,
+          "title": "Carpintería de Madera Dosil en Noia",
+          "url": "https://www.paxinasgalegas.es/dosil-144895em.html",
+          "domain": "paxinasgalegas.es",
+          "domain_type": "negocio/otro",
+          "description": "Diseño y fabricación de escaleras, mobiliario en madera, ventanas, puertas y todo tipo de trabajos de carpintería. Más de 24 años en el sector (desde 2002).",
+          "snippet_type": [
+            "imagen"
+          ]
+        },
+        {
+          "rank": 2,
+          "serp_position": 2,
+          "title": "Manual completo de la madera, la carpintería y la ebanistería",
+          "url": "https://profemadera.es/recurso/manual-completo-de-la-madera-la-carpinteria-y-la-ebanisteria/",
+          "domain": "profemadera.es",
+          "domain_type": "negocio/otro",
+          "description": "Manual completo de la madera, la carpintería y la ebanistería. Escuchar el texto. Publicado el 6 de julio de 2022. Guardado en Carpintería , Ebanistería , ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 3,
+          "serp_position": 3,
+          "title": "Carpintería Hurruya en Pontevedra",
+          "url": "https://www.paxinasgalegas.es/hurruya-652296em.html",
+          "domain": "paxinasgalegas.es",
+          "domain_type": "negocio/otro",
+          "description": "Carpintería de madera en general. Realizamos todo tipo de reformas, pintura, rehabilitación, restauración, placas de yeso laminado, etc. 676 014 601 · Enviar ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 4,
+          "serp_position": 4,
+          "title": "Grado Medio en Carpintería y Mueble ➡️ TuFP",
+          "url": "https://www.tuformacionprofesional.com/fp/carpinteria-y-mueble/",
+          "domain": "tuformacionprofesional.com",
+          "domain_type": "negocio/otro",
+          "description": "Este programa te prepara para desarrollar una serie de actividades profesionales, desde la fabricación y montaje de muebles hasta el diseño e instalación de ...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 5,
+          "serp_position": 5,
+          "title": "Carpintería Franjuar - Opiniones & Precios",
+          "url": "https://www.habitissimo.es/pro/carpinteria-franjuar",
+          "domain": "habitissimo.es",
+          "domain_type": "directorio",
+          "description": "Contacta y pide presupuesto a Carpintería Franjuar - Parquetistas: teléfono, opiniones, ofertas, fotos, proyectos...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 6,
+          "serp_position": 6,
+          "title": "CARPINTERÍA EL REMEDIO, Carpintería y Ebanistería en Malagón, Ciudad Real",
+          "url": "https://www.qdq.com/carpinteria-el-remedio-337882",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "CARPINTERÍA EL REMEDIO. Carpintería y EbanisteríaCalle Cervantes 7, 13420, Malagón, Ciudad Real. Abierto. Cómo llegar. Ver teléfono",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 7,
+          "serp_position": 7,
+          "title": "Taller de carpintería | A.C.E. TETUÁN - EducaMadrid - Comunidad de Madrid |",
+          "url": "https://www.educa2.madrid.org/web/ace_tetuan/taller-de-carpinteria",
+          "domain": "educa2.madrid.org",
+          "domain_type": "negocio/otro",
+          "description": "· Realizar operaciones de trazado, corte y mecanizado en tablones de madera natural y tableros. · Realizar la primera fase de lijado en caras interiores, el ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 8,
+          "serp_position": 8,
+          "title": "Carpintería de Madera en Asturias - Panes",
+          "url": "https://carpinteriacuetara.com/carpinteria-en-asturias",
+          "domain": "carpinteriacuetara.com",
+          "domain_type": "negocio/otro",
+          "description": "Carpintería BP Cuétara estamos en Panes, Asturias y somos expertos en el arte de trabajar con la madera: ventanas, puertas, escaleras, estructuras...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 9,
+          "serp_position": 9,
+          "title": "Carpintería Metálica para Interiores en Burgos",
+          "url": "https://www.tallerestemino.com/servicios/carpinteria-metalica-para-interiores/",
+          "domain": "tallerestemino.com",
+          "domain_type": "negocio/otro",
+          "description": "Dale vida a tus espacios con nuestra carpintería metálica para interiores en Burgos. Barandillas, escaleras y detalles únicos que fusionan calidad y diseño ...",
+          "snippet_type": [
+            "imagen"
+          ]
+        },
+        {
+          "rank": 10,
+          "serp_position": 10,
+          "title": "Taller Viladecans Repara: Reparación de muebles y carpintería",
+          "url": "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria",
+          "domain": "viladecans.cat",
+          "domain_type": "negocio/otro",
+          "description": "Taller Viladecans Repara: Reparación de muebles y carpintería ... Aprenderemos a cuidar, reparar y mantener nuestros muebles de madera. Apúntate a nuestro ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        }
+      ],
+      "serp": {
+        "blocks": [
+          "inline_images",
+          "related_questions",
+          "organic_results",
+          "ask_ai_mode",
+          "related_searches"
+        ],
+        "ai_overview": false,
+        "ai_overview_needs_extra_call": false,
+        "featured_snippet": null,
+        "people_also_ask": [
+          "¿Qué es la carpintería?",
+          "¿Cuánto cobra un carpintero por un día?",
+          "¿Qué tipos de carpintería hay?",
+          "¿Cómo se llama la persona que trabaja la madera?"
+        ],
+        "related_searches": [
+          "Ciclo carpintería",
+          "Fp carpintería asturias",
+          "Fp carpintería online",
+          "Técnico en carpintería y mueble madrid",
+          "FP carpintería Alicante",
+          "Fabricación e instalación de carpintería y mueble",
+          "Carpinteria e moble",
+          "Curso de carpintería",
+          "Grado Medio en carpintería y mueble",
+          "Familia profesional carpinteria",
+          "Curso de carpinteria y mueble",
+          "Fp carpintería asignaturas"
+        ],
+        "knowledge_graph": null,
+        "local_pack_places_shown": 0,
+        "local_pack_more_places": false
+      },
+      "warnings": [
+        "local_pack_missing: Google no mostró Local Pack en la SERP (top 3 tomado de Google Maps)"
+      ]
+    },
+    {
+      "slug": "pontevedra",
+      "city": "Pontevedra",
+      "location": "Pontevedra,Galicia,Spain",
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": true,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Ceyeda, S.L.U.",
+          "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+          "data_cid": "3890915998017314636",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 12,
+          "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra",
+          "phone": "986 70 88 01",
+          "lat": 42.4042902,
+          "lng": -8.5723174,
+          "website": "http://www.ceyeda.com/",
+          "domain": "ceyeda.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpimoble",
+          "place_id": "ChIJ6____xtwLw0RQuHRDDBgQec",
+          "data_cid": "16663705855737323842",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios",
+            "Carpintero",
+            "Fábrica de muebles",
+            "Tienda de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.5,
+          "reviews": 93,
+          "address": "Parque Empresarial O Campiño, Monte do Louredo, 2, Parcela A2 (Polígono Industrial, 36158 Marcón, Pontevedra",
+          "phone": "630 11 77 84",
+          "lat": 42.4102554,
+          "lng": -8.5900363,
+          "website": "https://www.carpimoble.es/",
+          "domain": "carpimoble.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "CARPINTERIA MARTINEZ PAZ S.L.",
+          "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+          "data_cid": "18282799762492075361",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 3.5,
+          "reviews": 11,
+          "address": "RÚA CANCELA, 9, 36143 Pontevedra",
+          "phone": "986 84 76 25",
+          "lat": 42.3990268,
+          "lng": -8.6375054,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Ceyeda, S.L.U.",
+          "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+          "data_cid": "3890915998017314636",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 12,
+          "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra",
+          "phone": "986 70 88 01",
+          "lat": 42.4042902,
+          "lng": -8.5723174,
+          "website": "http://www.ceyeda.com/",
+          "domain": "ceyeda.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpimoble",
+          "place_id": "ChIJ6____xtwLw0RQuHRDDBgQec",
+          "data_cid": "16663705855737323842",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios",
+            "Carpintero",
+            "Fábrica de muebles",
+            "Tienda de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.5,
+          "reviews": 93,
+          "address": "Parque Empresarial O Campiño, Monte do Louredo, 2, Parcela A2 (Polígono Industrial, 36158 Marcón, Pontevedra",
+          "phone": "630 11 77 84",
+          "lat": 42.4102554,
+          "lng": -8.5900363,
+          "website": "https://www.carpimoble.es/",
+          "domain": "carpimoble.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "CARPINTERIA MARTINEZ PAZ S.L.",
+          "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+          "data_cid": "18282799762492075361",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 3.5,
+          "reviews": 11,
+          "address": "RÚA CANCELA, 9, 36143 Pontevedra",
+          "phone": "986 84 76 25",
+          "lat": 42.3990268,
+          "lng": -8.6375054,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Hermanos Garrido S.l.",
+          "place_id": "ChIJpwFoKQxwLw0RQSqDysT39RQ",
+          "data_cid": "1510385674635913793",
+          "category": "Ebanista",
+          "types": [
+            "Ebanista"
+          ],
+          "unclaimed": true,
+          "rating": 4.2,
+          "reviews": 9,
+          "address": "Rúa Cruceiro, 45, 36143 Pontevedra",
+          "phone": "986 84 76 85",
+          "lat": 42.4059041,
+          "lng": -8.6504978,
+          "website": "http://www.chgarrido.com/",
+          "domain": "chgarrido.com",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería y Ebanistería Leins",
+          "place_id": "ChIJOxjzGbFxLw0RsbtzDZKnDBM",
+          "data_cid": "1372656232173910961",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de mobiliario para dormitorios",
+            "Ebanista",
+            "Tienda de armarios",
+            "Proveedor de puertas",
+            "Carpintero",
+            "Tienda de muebles de cocina",
+            "Servicio de instalación de suelos de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 8,
+          "address": "Rúa Doutor Loureiro Crespo, 64, 36004 Pontevedra",
+          "phone": "620 25 27 93",
+          "lat": 42.4282648,
+          "lng": -8.6308937,
+          "website": "http://www.carpinteriaebanisterialeins.com/",
+          "domain": "carpinteriaebanisterialeins.com",
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "GRUPO ARTA",
+          "place_id": "ChIJMZHn8cVxLw0R-Qfq3wlOwmU",
+          "data_cid": "7332508947630917625",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de puertas",
+            "Tienda de muebles",
+            "Tienda de muebles de cocina"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 59,
+          "address": "Av. de Vigo, 67, bajo derecha, 36003 Pontevedra",
+          "phone": "886 30 45 13",
+          "lat": 42.4202175,
+          "lng": -8.638838999999999,
+          "website": "http://www.grupoarta.com/",
+          "domain": "grupoarta.com",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Carpintería Abilleira",
+          "place_id": "ChIJzzMCzR9yLw0R4JFO9Ww_khM",
+          "data_cid": "1410259370524971488",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Aldea Touceda, 1, 36157 Pontevedra",
+          "phone": "660 82 76 78",
+          "lat": 42.4606224,
+          "lng": -8.6406686,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "CARPINTERIA CARVEDRA",
+          "place_id": "ChIJ3Ts7dTZxLw0RleB50dFVaR8",
+          "data_cid": "2263434647381336213",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 3,
+          "address": "Rúa de Santa Margarida, 11, 36162 Pontevedra",
+          "phone": "636 17 49 32",
+          "lat": 42.4379047,
+          "lng": -8.6254583,
+          "website": "http://www.carvedra.com/",
+          "domain": "carvedra.com",
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Carpinteria de Madera Puga",
+          "place_id": "ChIJs2uMpjV3Lw0RpUceXzY2Fd8",
+          "data_cid": "16074814052120807333",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Lugar Reigosa, 129, 36828 Ponte Caldelas, Pontevedra",
+          "phone": "986 75 70 16",
+          "lat": 42.4082556,
+          "lng": -8.5690476,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Manufacturas Madereras Xeve",
+          "place_id": "ChIJvyy5HLZxLw0RT2DnmJwAFcA",
+          "data_cid": "13840969702373285967",
+          "category": "Fábrica",
+          "types": [
+            "Fábrica"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 33,
+          "address": "36151 Gatomorto, Pontevedra",
+          "phone": "986 87 94 26",
+          "lat": 42.4617691,
+          "lng": -8.6048717,
+          "website": "http://www.maderasxeve.com/",
+          "domain": "maderasxeve.com",
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Carpinox",
+          "place_id": "ChIJiUGB0bhvLw0Ri4fann-jhWQ",
+          "data_cid": "7243375344216606603",
+          "category": "Fábrica de acero inoxidable",
+          "types": [
+            "Fábrica de acero inoxidable"
+          ],
+          "unclaimed": true,
+          "rating": 4.8,
+          "reviews": 4,
+          "address": "36910, Pontevedra",
+          "phone": "609 90 45 96",
+          "lat": 42.4022028,
+          "lng": -8.6852406,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Maderas Pazos s.l.",
+          "place_id": "ChIJmfGTp65xLw0RlMzpbHqV8-A",
+          "data_cid": "16209463836882357396",
+          "category": "Establecimiento de venta de madera",
+          "types": [
+            "Establecimiento de venta de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.5,
+          "reviews": 64,
+          "address": "Rúa San Mauro, 75, 36004 Pontevedra",
+          "phone": "986 85 27 60",
+          "lat": 42.4271038,
+          "lng": -8.622005,
+          "website": "http://www.maderaspazos.com/",
+          "domain": "maderaspazos.com",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Macen Mart S.L.",
+          "place_id": "ChIJz2hoaN5tLw0RSZmoTMGLqgU",
+          "data_cid": "408292378561517897",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 4.5,
+          "reviews": 2,
+          "address": "Camiño Xalouriño, 12, 36995 O Sartal, Pontevedra",
+          "phone": "986 77 08 33",
+          "lat": 42.4597972,
+          "lng": -8.686036399999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Carpinteria Inox Pontevedra S L L",
+          "place_id": "ChIJvXC5wCVuLw0R5K3fNpx2rvE",
+          "data_cid": "17414987222395891172",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Servicio de corte de vidrio"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 16,
+          "address": "Cabanas salcedo S/N, 36143, Pontevedra",
+          "phone": "986 84 77 26",
+          "lat": 42.4086952,
+          "lng": -8.6407375,
+          "website": "https://carpinteriainoxpontevedra.com/",
+          "domain": "carpinteriainoxpontevedra.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Carpintaría San Brais",
+          "place_id": "ChIJ2ZhKyzVwLw0RmQCc4Y7x07c",
+          "data_cid": "13246196524999508121",
+          "category": "Tienda de armarios",
+          "types": [
+            "Tienda de armarios"
+          ],
+          "unclaimed": false,
+          "rating": 4.5,
+          "reviews": 8,
+          "address": "Rúa de San Brais, 17, 36160 Pontevedra",
+          "phone": null,
+          "lat": 42.4169392,
+          "lng": -8.6429371,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Mouriño Y Barreiro s.l.",
+          "place_id": "ChIJhxBIZ_pzLw0RoVkSE6QOOec",
+          "data_cid": "16661364394291255713",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 6,
+          "address": "Polig. a Granxa do Bao, parcela 31, 36157 Pontevedra",
+          "phone": "650 48 04 38",
+          "lat": 42.443869899999996,
+          "lng": -8.6516156,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Aluminios J.B. Tenorio, S.L.",
+          "place_id": "ChIJ__oMEK5xLw0Rghc8tW_tR84",
+          "data_cid": "14864110159197378434",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 11,
+          "address": "Lugar Cons, 15, 36164 Pontevedra",
+          "phone": "986 85 91 01",
+          "lat": 42.44612,
+          "lng": -8.61185,
+          "website": "https://www.aluminiosjbtenorio.es/",
+          "domain": "aluminiosjbtenorio.es",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Montecelo",
+          "place_id": "ChIJ6fqdEghxLw0R8yVdm0rngVk",
+          "data_cid": "6449690448991430131",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Instalación de persianas",
+            "Servicio de reparación de cristales",
+            "Tienda de mamparas de ducha"
+          ],
+          "unclaimed": true,
+          "rating": 4.2,
+          "reviews": 18,
+          "address": "Av. Montecelo, 25, 36164 Mourente, Pontevedra",
+          "phone": "639 82 36 89",
+          "lat": 42.433168599999995,
+          "lng": -8.6146538,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Peón",
+          "place_id": "ChIJxVBDX9BxLw0Ri_2Q082IWRw",
+          "data_cid": "2042814323588398475",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.2,
+          "reviews": 6,
+          "address": "Calle Gandarela, 1 BAJO, 36153 Gandarela, Pontevedra",
+          "phone": "986 85 92 07",
+          "lat": 42.4164257,
+          "lng": -8.6656084,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Manufacturas del Lerez",
+          "place_id": "ChIJ0-8ldodxLw0RJgf0R20VKy4",
+          "data_cid": "3326776308846036774",
+          "category": "Fábrica",
+          "types": [
+            "Fábrica"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "A Piolla, 9A, Lerez, 36156 Pontevedra",
+          "phone": "986 87 11 42",
+          "lat": 42.451823999999995,
+          "lng": -8.625024,
+          "website": "http://www.manufacturaslerez.com/",
+          "domain": "manufacturaslerez.com",
+          "snippet": null
+        }
+      ],
+      "local_links": [
+        {
+          "position": 1,
+          "name": null,
+          "domain": "instagram.com",
+          "url": "https://www.instagram.com/carpinteria_amengo_manacho/"
+        },
+        {
+          "position": 2,
+          "name": null,
+          "domain": "carpimoble.es",
+          "url": "https://www.carpimoble.es/"
+        },
+        {
+          "position": 3,
+          "name": null,
+          "domain": "oconcarpinteria.es",
+          "url": "https://www.oconcarpinteria.es/"
+        },
+        {
+          "position": 4,
+          "name": null,
+          "domain": "carpinteriainoxpontevedra.com",
+          "url": "https://carpinteriainoxpontevedra.com/"
+        },
+        {
+          "position": 5,
+          "name": null,
+          "domain": "lujocarpinteros.es",
+          "url": "https://lujocarpinteros.es/"
+        },
+        {
+          "position": 6,
+          "name": "Montecelo Carpintería metálica y de aluminio Av. Montecelo, 25, 36164 Mourente, Pontevedra",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 7,
+          "name": "CARPINTERIA HERMANOS CARABELOS S.L Carpintería Pol. Ind. de A Facha, PARCELA 19, REDONDE, 36118, Pontevedra",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 8,
+          "name": "Carpinteria Hijos de Enrique Gallego C.B. Carpintería Acuña nº8, 36141 Vilaboa, Pontevedra",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 9,
+          "name": null,
+          "domain": "maderaspazos.com",
+          "url": "http://www.maderaspazos.com/"
+        },
+        {
+          "position": 10,
+          "name": null,
+          "domain": "somoslaventana.com",
+          "url": "http://www.somoslaventana.com/"
+        }
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "serp_position": 1,
+          "title": "Carpintería en Pontevedra (provincia)",
+          "url": "https://www.paginasamarillas.es/a/carpinteria/pontevedra/",
+          "domain": "paginasamarillas.es",
+          "domain_type": "directorio",
+          "description": "Carpintería O Coto, somos una empresa de carpintería de madera ubicada en Vigo. Creada en 1985, mas de... Cómo ir. Contactar. +34661216008. Llamar ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 2,
+          "serp_position": 2,
+          "title": "Carpinteros a domicilio en Pontevedra",
+          "url": "https://www.taskia.es/servicios-de-carpinteria-en-pontevedra",
+          "domain": "taskia.es",
+          "domain_type": "negocio/otro",
+          "description": "Soy carpintero de madera con experiencia y taller propio, especializado en trabajos a medida, reparaciones y pequeños arreglos de hogar.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 3,
+          "serp_position": 3,
+          "title": "Los mejores 40 Carpinteros en A Coruña - ProntoPro",
+          "url": "https://prontopro.es/a-coruna-carpinteria",
+          "domain": "prontopro.es",
+          "domain_type": "negocio/otro",
+          "description": "Reformas y rehabilitaciones en viviendas y locales comerciales. Reformas integrales, reformas parciales. Albañileria, pintura, carpinteria interior y exterior, ...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 4,
+          "serp_position": 4,
+          "title": "Guía de Carpinterías en Badajoz | extremadura .com",
+          "url": "https://www.extremadura.com/paginas/badajoz/carpinterias",
+          "domain": "extremadura.com",
+          "domain_type": "negocio/otro",
+          "description": "Carpintería Alfonso Herrera ofrece todo tipo de carpinterías: obra nueva, reformas, cocinas, armarios... Llamar.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 5,
+          "serp_position": 5,
+          "title": "Carpinteros en A Coruña | Muebles y estructuras a medida",
+          "url": "https://www.cronoshare.com/servicios/carpinteros/a-coruna/a-coruna",
+          "domain": "cronoshare.com",
+          "domain_type": "directorio",
+          "description": "Encuentra los mejores carpinteros en A Coruña. Carpinteros para muebles a medida, muebles de cocina, armarios empotrados, arreglar muebles, etc.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 6,
+          "serp_position": 6,
+          "title": "Carpinteria en Las Palmas | Carpinterías Las Palmas: Carpintería Las Palmas",
+          "url": "https://www.carpinterialaspalmas.es/",
+          "domain": "carpinterialaspalmas.es",
+          "domain_type": "negocio/otro",
+          "description": "En la carpintería Las Palmas Vega Rocha somos expertos en reformas y revestimientos de paredes y techos de madera. Trabajamos con diferentes tipos de maderas, ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 7,
+          "serp_position": 7,
+          "title": "Los mejores 40 Carpinteros en Sevilla - ProntoPro",
+          "url": "https://prontopro.es/sevilla-carpinteria",
+          "domain": "prontopro.es",
+          "domain_type": "negocio/otro",
+          "description": "Encuentra los mejores Carpinteros en Sevilla: consulta opiniones, disponibilidad y contacta fácilmente.",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 8,
+          "serp_position": 8,
+          "title": "Carpinterías de madera en Alicante",
+          "url": "https://www.paginasamarillas.es/a/carpinterias-de-madera/alicante/alicante/",
+          "domain": "paginasamarillas.es",
+          "domain_type": "directorio",
+          "description": "Carpinterías de madera en Alicante (Alicante) ; Creando Cocinas y Más · +34602512442. Llamar ; Hr Electricidad · 637749503. Llamar ; Carpinteria Rumbeu · 965206113.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 9,
+          "serp_position": 9,
+          "title": "Carpinteros las palmas | Las Palmas de Gran Canaria",
+          "url": "https://www.facebook.com/domingosantanacarpinteros/",
+          "domain": "facebook.com",
+          "domain_type": "red social",
+          "description": "Contamos con el mejor equipo del sector y los mejores materiales No esperes más para iniciar tu idea 662 302 882 928 273 952 #carpinteria # ...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 10,
+          "serp_position": 10,
+          "title": "Carpinterías de madera en Madrid capital",
+          "url": "https://www.paginasamarillas.es/a/carpinterias-de-madera/madrid/madrid/",
+          "domain": "paginasamarillas.es",
+          "domain_type": "directorio",
+          "description": "280 resultados de carpinterías de madera en Madrid. Puertas de madera, escaleras de madera y otros servicios de carpintería y contrachapado como estantes de ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        }
+      ],
+      "serp": {
+        "blocks": [
+          "inline_images",
+          "related_questions",
+          "organic_results",
+          "ask_ai_mode",
+          "related_searches"
+        ],
+        "ai_overview": false,
+        "ai_overview_needs_extra_call": false,
+        "featured_snippet": null,
+        "people_also_ask": [
+          "¿Cuáles son 5 cosas que hace un carpintero?",
+          "¿Cuánto se cobra por la hora de un carpintero?",
+          "¿Cómo se escribe carpintería?",
+          "¿Cómo se llama la persona que trabaja la madera?"
+        ],
+        "related_searches": [
+          "Carpintería de madera",
+          "Carpintería cerca de mi",
+          "Carpintería de madera Las Palmas",
+          "Carpintería Sevilla",
+          "Carpintería juanser",
+          "Carpintería Juanser reseñas",
+          "Carpintería Ebanistería Ortiz",
+          "Carpintería de madera en Sevilla",
+          "Carpintería en gran canaria",
+          "Carpintería machota",
+          "Talleres de carpintería sevilla",
+          "KarpiCan carpintería de madera en Las Palmas reseñas"
+        ],
+        "knowledge_graph": null,
+        "local_pack_places_shown": 0,
+        "local_pack_more_places": false
+      },
+      "warnings": [
+        "local_pack_missing: Google no mostró Local Pack en la SERP (top 3 tomado de Google Maps)"
+      ]
+    },
+    {
+      "slug": "barcelona",
+      "city": "Barcelona",
+      "location": "Barcelona,Catalonia,Spain",
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": true,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpinteria Guarque S.L.",
+          "place_id": "ChIJWUrTKECjpBIRsebf2K8s3EY",
+          "data_cid": "5106005211300751025",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles",
+            "Tienda de muebles de cocina",
+            "Establecimiento de venta de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 257,
+          "address": "Carrer de l'Amistat, 25, Sant Martí, 08005 Barcelona",
+          "phone": "932 25 36 65",
+          "lat": 41.4005301,
+          "lng": 2.205829,
+          "website": "http://www.carpinteriaguarque.es/",
+          "domain": "carpinteriaguarque.es",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpinteria Jesadi",
+          "place_id": "ChIJbTQiLwuZpBIRd16B2Tl2eFQ",
+          "data_cid": "6086744887225572983",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 110,
+          "address": "Carrer de Barcelona, 157, 08901 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "661 81 91 76",
+          "lat": 41.359939999999995,
+          "lng": 2.09719,
+          "website": "https://carpinteria.solucionamedida.com/carpinteria-jesadi.html",
+          "domain": "carpinteria.solucionamedida.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería - SAVIA Mobles",
+          "place_id": "ChIJLeDMm9WZpBIR1x4Eu7rtV8I",
+          "data_cid": "14003922952589156055",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 89,
+          "address": "Carrer de la Renclusa, 29, 08905 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "600 22 32 76",
+          "lat": 41.370763499999995,
+          "lng": 2.1064974999999997,
+          "website": "http://www.saviamobles.com/",
+          "domain": "saviamobles.com",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpinteria Guarque S.L.",
+          "place_id": "ChIJWUrTKECjpBIRsebf2K8s3EY",
+          "data_cid": "5106005211300751025",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles",
+            "Tienda de muebles de cocina",
+            "Establecimiento de venta de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 257,
+          "address": "Carrer de l'Amistat, 25, Sant Martí, 08005 Barcelona",
+          "phone": "932 25 36 65",
+          "lat": 41.4005301,
+          "lng": 2.205829,
+          "website": "http://www.carpinteriaguarque.es/",
+          "domain": "carpinteriaguarque.es",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpinteria Jesadi",
+          "place_id": "ChIJbTQiLwuZpBIRd16B2Tl2eFQ",
+          "data_cid": "6086744887225572983",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 110,
+          "address": "Carrer de Barcelona, 157, 08901 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "661 81 91 76",
+          "lat": 41.359939999999995,
+          "lng": 2.09719,
+          "website": "https://carpinteria.solucionamedida.com/carpinteria-jesadi.html",
+          "domain": "carpinteria.solucionamedida.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería - SAVIA Mobles",
+          "place_id": "ChIJLeDMm9WZpBIR1x4Eu7rtV8I",
+          "data_cid": "14003922952589156055",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 89,
+          "address": "Carrer de la Renclusa, 29, 08905 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "600 22 32 76",
+          "lat": 41.370763499999995,
+          "lng": 2.1064974999999997,
+          "website": "http://www.saviamobles.com/",
+          "domain": "saviamobles.com",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carpintería Rodríguez",
+          "place_id": "ChIJq56MgeWYpBIR5f3EBXTcdnQ",
+          "data_cid": "8392137346522611173",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 30,
+          "address": "Av. Ponent, 13, 08905 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "616 49 79 03",
+          "lat": 41.3692406,
+          "lng": 2.1152580999999997,
+          "website": "http://www.fusteriarodriguez.com/",
+          "domain": "fusteriarodriguez.com",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería Ángel Ramajo Garcia",
+          "place_id": "ChIJgd4ESvmipBIR3TXTbnZYT6U",
+          "data_cid": "11911836805106972125",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 22,
+          "address": "Carrer de la Volta d'en Colomines, 4, Ciutat Vella, 08003 Barcelona",
+          "phone": "933 19 86 82",
+          "lat": 41.384476299999996,
+          "lng": 2.1792086999999998,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Arreglos carpintería",
+          "place_id": "ChIJLQSJk1ijpBIRpiV7LH2MICA",
+          "data_cid": "2315004677713503654",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Ebanista",
+            "Cerrajero"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 154,
+          "address": "Para visitas a esta dirección contactar antes, Carrer de la Diputació, 329, Bajos, 08009 Barcelona",
+          "phone": "613 00 79 94",
+          "lat": 41.3939741,
+          "lng": 2.1716257,
+          "website": "https://instagram.com/arreglos_carpinteria_domicilio?igshid=YmMyMTA2M2Y=",
+          "domain": "instagram.com",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Carpintería El Madero Barcelona",
+          "place_id": "ChIJpbsZGByjpBIRYZaEaFK2jUQ",
+          "data_cid": "4939804831352395361",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 11,
+          "address": "Carrer del Dos de Maig, 315, Eixample, 08025 Barcelona",
+          "phone": "623 42 77 43",
+          "lat": 41.411262799999996,
+          "lng": 2.1760541,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería Emilio Campos",
+          "place_id": "ChIJSzW2e_aipBIRYYiO06AIpRE",
+          "data_cid": "1271431956639156321",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 2.4,
+          "reviews": 15,
+          "address": "Carrer de Montjuïc del Carme, 6, Ciutat Vella, 08001 Barcelona",
+          "phone": "933 17 88 30",
+          "lat": 41.382854599999995,
+          "lng": 2.1700293999999998,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Decomad - Carpinteria ebanisteria",
+          "place_id": "ChIJZ59vLvWipBIR5fM0qx5z3NI",
+          "data_cid": "15194145818399798245",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 7,
+          "address": "Carrer del Tigre, 4, Ciutat Vella, 08001 Barcelona",
+          "phone": "629 26 09 33",
+          "lat": 41.3829035,
+          "lng": 2.1650142999999997,
+          "website": "http://decomad.es/",
+          "domain": "decomad.es",
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Carpintería Ortega e Hijos",
+          "place_id": "ChIJcyKlx7WipBIR5uWwa0A63rI",
+          "data_cid": "12888803231940011494",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 3.9,
+          "reviews": 12,
+          "address": "C. de Tenerife, 73, Horta-Guinardó, 08024 Barcelona",
+          "phone": "932 19 17 45",
+          "lat": 41.4170811,
+          "lng": 2.1629397999999997,
+          "website": "http://ortegacarpinteros.com/",
+          "domain": "ortegacarpinteros.com",
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Carpintería Barreros",
+          "place_id": "ChIJo8J2sJSYpBIRQhmUqi4ztv4",
+          "data_cid": "18353913606918379842",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 3.5,
+          "reviews": 11,
+          "address": "Carrer del Comerç, 32, 08902 Barcelona",
+          "phone": "933 31 82 94",
+          "lat": 41.365835399999995,
+          "lng": 2.1259823,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Carpintería Londres",
+          "place_id": "ChIJkUjrdpuipBIRFTDeXukDdq8",
+          "data_cid": "12643297304743129109",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 59,
+          "address": "Carrer de Londres, 92, Eixample, 08036 Barcelona",
+          "phone": "932 00 79 96",
+          "lat": 41.3934261,
+          "lng": 2.1508739,
+          "website": "http://www.fusterialondres.com/",
+          "domain": "fusterialondres.com",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Carpintería Rubio",
+          "place_id": "ChIJxznOYxKYpBIRh6f-McejWsc",
+          "data_cid": "14364974037384210311",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Tienda de armarios"
+          ],
+          "unclaimed": false,
+          "rating": 3.1,
+          "reviews": 18,
+          "address": "Carrer de la Ciutat de Balaguer, 49, Sarrià-Sant Gervasi, 08022 Barcelona",
+          "phone": "655 94 24 64",
+          "lat": 41.404184699999995,
+          "lng": 2.1343215,
+          "website": "https://fusteriarubio.com/",
+          "domain": "fusteriarubio.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Nusiveta Fusteria",
+          "place_id": "ChIJBTQigJijpBIRvImpYSh3nTY",
+          "data_cid": "3935432664712579516",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 48,
+          "address": "Carrer de Bolívar, 11, Gràcia, 08023 Barcelona",
+          "phone": "618 22 33 66",
+          "lat": 41.4092674,
+          "lng": 2.1474667,
+          "website": "http://www.nusiveta.com/",
+          "domain": "nusiveta.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Carpintería de aluminio Hnos Jurado - Tienda Gràcia",
+          "place_id": "ChIJgePg6qOipBIRhVc-E9My1xQ",
+          "data_cid": "1501724882893690757",
+          "category": "Servicio de instalación de ventanas",
+          "types": [
+            "Servicio de instalación de ventanas",
+            "Ventana de aluminio",
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 221,
+          "address": "Carrer Gran de Gràcia, 244, Gràcia, 08012 Barcelona",
+          "phone": "934 15 57 26",
+          "lat": 41.4051204,
+          "lng": 2.1511443,
+          "website": "https://hnosjurado.com/",
+          "domain": "hnosjurado.com",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Tu Carpintería Barcelona",
+          "place_id": "ChIJq8a9y8KjpBIR7qhZ2o9kxOo",
+          "data_cid": "16916756669316835566",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Ventana de aluminio",
+            "Proveedor de puertas",
+            "Proveedor de puertas para garaje",
+            "Tienda de ventanas de plástico",
+            "Tienda de mamparas de ducha",
+            "Servicio de instalación de ventanas",
+            "Proveedor de ventanas"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 24,
+          "address": "C.de les Camèlies, 71, Horta-Guinardó, 08024 Barcelona",
+          "phone": "622 04 60 70",
+          "lat": 41.4134242,
+          "lng": 2.1630026,
+          "website": "https://tucarpinteriabcn.com/",
+          "domain": "tucarpinteriabcn.com",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Carpinteria Ebanisteria Sergio Francos",
+          "place_id": "ChIJv0npK2OYpBIRZGlTbofbWks",
+          "data_cid": "5429893675466582372",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Reformas de baños",
+            "Instalación de persianas",
+            "Ebanista",
+            "Fábrica de puertas",
+            "Tienda de muebles",
+            "Reformas de cocinas",
+            "Carpintería metálica y de aluminio",
+            "Servicio de instalación de ventanas",
+            "Tienda de suministros para trabajar la madera"
+          ],
+          "unclaimed": false,
+          "rating": 3.2,
+          "reviews": 30,
+          "address": "Carrer dels Comtes de Bell-Lloc, 206, Les Corts, 08014 Barcelona ‎, Barcelona",
+          "phone": "934 90 12 19",
+          "lat": 41.384217799999995,
+          "lng": 2.1349500999999997,
+          "website": "http://www.laguia.es/empresas/carpinteria+ebanisteria+barcelona+sergiio+francos/",
+          "domain": "laguia.es",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Fusteria Pagà",
+          "place_id": "ChIJJcmRiMCipBIRY6yzBLjV3BY",
+          "data_cid": "1647426550040341603",
+          "category": "Establecimiento de venta de madera",
+          "types": [
+            "Establecimiento de venta de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 82,
+          "address": "Carrer d'en Grassot, 95, Gràcia, 08025 Barcelona",
+          "phone": "932 07 06 88",
+          "lat": 41.405237199999995,
+          "lng": 2.1651435,
+          "website": "http://fusteriapaga.com/",
+          "domain": "fusteriapaga.com",
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Carpintería Navarro",
+          "place_id": "ChIJ1Z4xuxuZpBIRr_vzssVokQY",
+          "data_cid": "473274634170792879",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 14,
+          "address": "Carrer de Pere Pelegrí, 41, Bajos, 08906 L'Hospitalet de Llobregat, Barcelona",
+          "phone": "660 68 89 24",
+          "lat": 41.368972199999995,
+          "lng": 2.0992086,
+          "website": "https://www.carpinteria-navarro.es/",
+          "domain": "carpinteria-navarro.es",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Carpintería Antonio Barreno",
+          "place_id": "ChIJnVCsOoSYpBIRBJeMLNKnIa0",
+          "data_cid": "12475436963925366532",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Proveedor de puertas",
+            "Tienda de materiales para suelos",
+            "Fábrica de muebles",
+            "Mayorista de muebles",
+            "Reformas",
+            "Servicio de instalación de suelos de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 24,
+          "address": "Carrer de Premià, 21, TDA, Sants-Montjuïc, 08014 Barcelona",
+          "phone": "934 21 22 03",
+          "lat": 41.37665,
+          "lng": 2.13904,
+          "website": "http://www.carpinteriaantoniobarreno.com/",
+          "domain": "carpinteriaantoniobarreno.com",
+          "snippet": null
+        }
+      ],
+      "local_links": [
+        {
+          "position": 1,
+          "name": null,
+          "domain": "carpinteriaguarque.es",
+          "url": "http://www.carpinteriaguarque.es/"
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Woodpeckers Carpintería Carrer de la Neu de Sant Cugat, 3, Ciutat Vella, 08003 Barcelona",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 3,
+          "name": null,
+          "domain": "instagram.com",
+          "url": "https://instagram.com/latelierbymatterdesign"
+        },
+        {
+          "position": 4,
+          "name": null,
+          "domain": "hnosjurado.com",
+          "url": "https://hnosjurado.com/"
+        },
+        {
+          "position": 5,
+          "name": "Carpintería Aluminio Aludan Carpintería metálica y de aluminio Carrer de Piquer, 59, Loc 2, Sants-Montjuïc, 08004 Barcelona",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 6,
+          "name": null,
+          "domain": "fusteriapaga.com",
+          "url": "http://fusteriapaga.com/"
+        },
+        {
+          "position": 7,
+          "name": null,
+          "domain": "saviamobles.com",
+          "url": "http://www.saviamobles.com/"
+        },
+        {
+          "position": 8,
+          "name": null,
+          "domain": "fuster654309881.wordpress.com",
+          "url": "https://fuster654309881.wordpress.com/"
+        },
+        {
+          "position": 9,
+          "name": null,
+          "domain": "carpinteriaantoniobarreno.com",
+          "url": "http://www.carpinteriaantoniobarreno.com/"
+        },
+        {
+          "position": 10,
+          "name": null,
+          "domain": "carpintero-barcelona.com",
+          "url": "https://www.carpintero-barcelona.com/"
+        }
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "serp_position": 1,
+          "title": "Taller Viladecans Repara: Reparación de muebles y carpintería",
+          "url": "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria",
+          "domain": "viladecans.cat",
+          "domain_type": "negocio/otro",
+          "description": "Taller Viladecans Repara: Reparación de muebles y carpintería ... Aprenderemos a cuidar, reparar y mantener nuestros muebles de madera. Apúntate a nuestro ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 2,
+          "serp_position": 2,
+          "title": "Manual completo de la madera, la carpintería y la ebanistería",
+          "url": "https://profemadera.es/recurso/manual-completo-de-la-madera-la-carpinteria-y-la-ebanisteria/",
+          "domain": "profemadera.es",
+          "domain_type": "negocio/otro",
+          "description": "Manual completo de la madera, la carpintería y la ebanistería. Escuchar el texto. Publicado el 6 de julio de 2022. Guardado en Carpintería , Ebanistería , ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 3,
+          "serp_position": 3,
+          "title": "Grado Medio en Carpintería y Mueble ➡️ TuFP",
+          "url": "https://www.tuformacionprofesional.com/fp/carpinteria-y-mueble/",
+          "domain": "tuformacionprofesional.com",
+          "domain_type": "negocio/otro",
+          "description": "Este programa te prepara para desarrollar una serie de actividades profesionales, desde la fabricación y montaje de muebles hasta el diseño e instalación de ...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 4,
+          "serp_position": 4,
+          "title": "Carpintería Franjuar - Opiniones & Precios",
+          "url": "https://www.habitissimo.es/pro/carpinteria-franjuar",
+          "domain": "habitissimo.es",
+          "domain_type": "directorio",
+          "description": "Contacta y pide presupuesto a Carpintería Franjuar - Parquetistas: teléfono, opiniones, ofertas, fotos, proyectos...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 5,
+          "serp_position": 5,
+          "title": "CARPINTERÍA EL REMEDIO, Carpintería y Ebanistería en Malagón, Ciudad Real",
+          "url": "https://www.qdq.com/carpinteria-el-remedio-337882",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "CARPINTERÍA EL REMEDIO. Carpintería y EbanisteríaCalle Cervantes 7, 13420, Malagón, Ciudad Real. Abierto. Cómo llegar. Ver teléfono",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 6,
+          "serp_position": 6,
+          "title": "Carpintería Metálica para Interiores en Burgos",
+          "url": "https://www.tallerestemino.com/servicios/carpinteria-metalica-para-interiores/",
+          "domain": "tallerestemino.com",
+          "domain_type": "negocio/otro",
+          "description": "Dale vida a tus espacios con nuestra carpintería metálica para interiores en Burgos. Barandillas, escaleras y detalles únicos que fusionan calidad y diseño ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 7,
+          "serp_position": 7,
+          "title": "Ebanisteria - Carpintería Francisco J. Martín Moreno",
+          "url": "https://www.fuentespina.es/empresas-y-negocios/ebanisteria-carpinteria-francisco-j-martin-moreno",
+          "domain": "fuentespina.es",
+          "domain_type": "negocio/otro",
+          "description": "Ebanisteria - Carpintería Francisco J. Martín Moreno. Información. Dirección. Fuentespina (Burgos). Fax. Teléfono. 947506149 // 652856626. Email. Web. Accede a ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 8,
+          "serp_position": 8,
+          "title": "Carpintería de Madera en Asturias - Panes",
+          "url": "https://carpinteriacuetara.com/carpinteria-en-asturias",
+          "domain": "carpinteriacuetara.com",
+          "domain_type": "negocio/otro",
+          "description": "Carpintería BP Cuétara estamos en Panes, Asturias y somos expertos en el arte de trabajar con la madera: ventanas, puertas, escaleras, estructuras...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 9,
+          "serp_position": 9,
+          "title": "Carpintería Ebanistería Ucha | Vigo",
+          "url": "https://www.facebook.com/carpinteriaucha/",
+          "domain": "facebook.com",
+          "domain_type": "red social",
+          "description": "Carpintería Ebanistería Ucha. Venta de puertas. Herraje para puertas. 󱞴 Carpenter · 󱛪 +34 986 36 09 75. 󱙶. Follow ...",
+          "snippet_type": [
+            "estrellas",
+            "imagen"
+          ]
+        },
+        {
+          "rank": 10,
+          "serp_position": 10,
+          "title": "Carpintería Llopis, Carpintería y Ebanistería en Altea, Alicante",
+          "url": "https://www.qdq.com/carpinteria-llopis-109421",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "Sobre Carpintería Llopis · Cocinas · Armarios · Tarimas · Puertas · Muebles a Medida · Tableros · Ventanas de madera · Carpintería en General. Publicidad.",
+          "snippet_type": [
+            "imagen"
+          ]
+        }
+      ],
+      "serp": {
+        "blocks": [
+          "knowledge_graph",
+          "inline_images",
+          "related_questions",
+          "answer_box",
+          "organic_results",
+          "ask_ai_mode",
+          "related_searches"
+        ],
+        "ai_overview": false,
+        "ai_overview_needs_extra_call": false,
+        "featured_snippet": "Carpintería",
+        "people_also_ask": [
+          "¿Qué es la carpintería?",
+          "¿Cuánto gana un carpintero en España?",
+          "¿Qué tipos de carpintería hay?",
+          "¿Cómo se llama la persona que trabaja la madera?"
+        ],
+        "related_searches": [
+          "Ciclo carpintería",
+          "Fp carpintería online",
+          "Técnico en carpintería y mueble madrid",
+          "FP carpintería Alicante",
+          "Fabricación e instalación de carpintería y mueble",
+          "Fp carpintería asturias",
+          "Curso de carpintería",
+          "Carpinteria e moble",
+          "Grado Medio en carpintería y mueble",
+          "Familia profesional carpinteria",
+          "Curso de carpinteria y mueble",
+          "FP Carpintería Mallorca"
+        ],
+        "knowledge_graph": "Carpintería",
+        "local_pack_places_shown": 0,
+        "local_pack_more_places": false
+      },
+      "warnings": [
+        "local_pack_missing: Google no mostró Local Pack en la SERP (top 3 tomado de Google Maps)"
+      ]
+    },
+    {
+      "slug": "madrid-centro",
+      "city": "Madrid Centro",
+      "location": "Centro,Community of Madrid,Spain",
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": true,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Javier Serrano",
+          "place_id": "ChIJVxhHCMknQg0R6IUoP8MEoSY",
+          "data_cid": "2783511281316431336",
+          "category": "Exposición",
+          "types": [
+            "Exposición",
+            "Tienda de armarios",
+            "Fábrica de puertas",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 186,
+          "address": "C. del Laurel, 7, Arganzuela, 28005 Madrid",
+          "phone": "692 18 35 18",
+          "lat": 40.4035529,
+          "lng": -3.7050663999999998,
+          "website": "https://www.carpinteriajavierserrano.com/",
+          "domain": "carpinteriajavierserrano.com",
+          "snippet": "Armarios, puertas y muebles a medida. Carpintería y exposición de puertas castellanas, correderas y blindadas, armarios o escaleras, con montaje."
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Cruz",
+          "place_id": "ChIJVykxfRAnQg0R4HtjlV9JXz4",
+          "data_cid": "4494391628016090080",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 94,
+          "address": "Calle del Dr Sánchez, 37, Puente de Vallecas, 28018 Madrid",
+          "phone": "665 01 20 91",
+          "lat": 40.3820544,
+          "lng": -3.6661002,
+          "website": "https://carpinteriacruz.com/",
+          "domain": "carpinteriacruz.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería José Miguel Prieto",
+          "place_id": "ChIJkV57f1MoQg0R9tfnZJx1Wg4",
+          "data_cid": "1034268379003213814",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 24,
+          "address": "C. de San Valeriano, 11, Loc 4, Tetuán, 28039 Madrid",
+          "phone": "914 59 99 30",
+          "lat": 40.4508976,
+          "lng": -3.7081945999999997,
+          "website": "http://www.ebanisteriajoseprieto.com/",
+          "domain": "ebanisteriajoseprieto.com",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Javier Serrano",
+          "place_id": "ChIJVxhHCMknQg0R6IUoP8MEoSY",
+          "data_cid": "2783511281316431336",
+          "category": "Exposición",
+          "types": [
+            "Exposición",
+            "Tienda de armarios",
+            "Fábrica de puertas",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 186,
+          "address": "C. del Laurel, 7, Arganzuela, 28005 Madrid",
+          "phone": "692 18 35 18",
+          "lat": 40.4035529,
+          "lng": -3.7050663999999998,
+          "website": "https://www.carpinteriajavierserrano.com/",
+          "domain": "carpinteriajavierserrano.com",
+          "snippet": "Armarios, puertas y muebles a medida. Carpintería y exposición de puertas castellanas, correderas y blindadas, armarios o escaleras, con montaje."
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Cruz",
+          "place_id": "ChIJVykxfRAnQg0R4HtjlV9JXz4",
+          "data_cid": "4494391628016090080",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 94,
+          "address": "Calle del Dr Sánchez, 37, Puente de Vallecas, 28018 Madrid",
+          "phone": "665 01 20 91",
+          "lat": 40.3820544,
+          "lng": -3.6661002,
+          "website": "https://carpinteriacruz.com/",
+          "domain": "carpinteriacruz.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería José Miguel Prieto",
+          "place_id": "ChIJkV57f1MoQg0R9tfnZJx1Wg4",
+          "data_cid": "1034268379003213814",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 24,
+          "address": "C. de San Valeriano, 11, Loc 4, Tetuán, 28039 Madrid",
+          "phone": "914 59 99 30",
+          "lat": 40.4508976,
+          "lng": -3.7081945999999997,
+          "website": "http://www.ebanisteriajoseprieto.com/",
+          "domain": "ebanisteriajoseprieto.com",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "El Taller del Carpintero",
+          "place_id": "ChIJu2fWzlwoQg0RAzF4JfyLjh4",
+          "data_cid": "2201851182907404547",
+          "category": "Fábrica de muebles",
+          "types": [
+            "Fábrica de muebles",
+            "Tienda de suministros para trabajar la madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 14,
+          "address": "C/ de Donoso Cortés, 62, Chamberí, 28015 Madrid",
+          "phone": "636 48 68 48",
+          "lat": 40.4364524,
+          "lng": -3.7125415,
+          "website": "http://www.eltallerdelcarpintero.es/",
+          "domain": "eltallerdelcarpintero.es",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Ebanistería Carpintería Molina. Muebles a medida",
+          "place_id": "ChIJ0R3NGp0TuS8RI9SABttOPMI",
+          "data_cid": "13996148444574569507",
+          "category": "Fábrica de muebles",
+          "types": [
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 16,
+          "address": "C. Pico de los Artilleros, 83, Moratalaz, 28030 Madrid",
+          "phone": "722 69 39 14",
+          "lat": 40.4039265,
+          "lng": -3.6420462,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Ebanistería Carpintería Ballesteros S.L.U.",
+          "place_id": "ChIJk3lv0skoQg0ReUhRtZcTm7k",
+          "data_cid": "13374305060709812345",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 3.5,
+          "reviews": 11,
+          "address": "C. de Eraso, 31, Salamanca, 28028 Madrid",
+          "phone": "917 25 68 31",
+          "lat": 40.4349133,
+          "lng": -3.6697436999999997,
+          "website": "http://www.ebanisteriaballesteros.com/",
+          "domain": "ebanisteriaballesteros.com",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Puertas Carlos Puebla. Carpintería de madera a medida. Armarios a medida.",
+          "place_id": "ChIJaRB9ZBMvQg0Rl_sA-BOPgRY",
+          "data_cid": "1621734656758053783",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 30,
+          "address": "C. de Caunedo, 5, San Blas-Canillejas, 28037 Madrid",
+          "phone": "913 20 05 84",
+          "lat": 40.437084399999996,
+          "lng": -3.6366180999999997,
+          "website": "http://www.puertascarlospuebla.es/",
+          "domain": "puertascarlospuebla.es",
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería José Javier Sánchez",
+          "place_id": "ChIJ9_gJkx-IQQ0RoA84vekVMJo",
+          "data_cid": "11110404374369144736",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 7,
+          "address": "C. Luis Feito, 26, Loc, Latina, 28047 Madrid",
+          "phone": "670 71 14 86",
+          "lat": 40.3919863,
+          "lng": -3.7448685999999998,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Carpinteria y Reforma En General L.A",
+          "place_id": "ChIJ5ToEUfYHdIQR9ADUr8wuaV8",
+          "data_cid": "6875077762815885556",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.7,
+          "reviews": 6,
+          "address": "C. de Carlos Martín Álvarez, 34, Puente de Vallecas, 28018 Madrid",
+          "phone": "603 47 79 51",
+          "lat": 40.3897365,
+          "lng": -3.663554,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Carpintería, Hnos. Cabello C.B",
+          "place_id": "ChIJ45Hf6k0vQg0RKfqs1u9QBnI",
+          "data_cid": "8216343561213114921",
+          "category": "Ebanista",
+          "types": [
+            "Ebanista"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 6,
+          "address": "C. de Ricardo Ortiz, 50, Cdad. Lineal, 28017 Madrid",
+          "phone": "678 67 79 16",
+          "lat": 40.4259092,
+          "lng": -3.6587364,
+          "website": "http://carpinteroshermanoscabello.com/",
+          "domain": "carpinteroshermanoscabello.com",
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Carpinteria Tradicional Antonio Sanchez",
+          "place_id": "ChIJ58mBIyCIQQ0R3MvCrILJv3M",
+          "data_cid": "8340606597994826716",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 9,
+          "address": "C. Abejuela, 3, Loc Izquierdo, Latina, 28047 Madrid",
+          "phone": "662 06 27 75",
+          "lat": 40.3907364,
+          "lng": -3.745174,
+          "website": "https://carpinteriatradicional.com/",
+          "domain": "carpinteriatradicional.com",
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Carpintería la Navarra S. L.",
+          "place_id": "ChIJz8VDP_koQg0Rp1LnafP1UMk",
+          "data_cid": "14506364825562993319",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.8,
+          "reviews": 4,
+          "address": "Cl. de Don Quijote, 10, Tetuán, 28020 Madrid",
+          "phone": "915 33 52 21",
+          "lat": 40.4476175,
+          "lng": -3.6991183,
+          "website": "http://www.lanavarra.es/",
+          "domain": "lanavarra.es",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Ebanistería Ramírez",
+          "place_id": "ChIJyaAjzRSIQQ0RW7DmFXM9gMM",
+          "data_cid": "14087327198912884827",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 26,
+          "address": "C. de Maqueda, 17, Latina, 28024 Madrid",
+          "phone": "630 40 40 31",
+          "lat": 40.393800999999996,
+          "lng": -3.7637604999999996,
+          "website": "https://instagram.com/ebanisteria_ramirez?igshid=YTQwZjQ0NmI0OA==",
+          "domain": "instagram.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Carpinteria Madosa",
+          "place_id": "ChIJp-FYKJcnQg0RuXjYZlehqJY",
+          "data_cid": "10856104298536270009",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 12,
+          "address": "C. de la Hermandad, 9, Carabanchel, 28025 Madrid",
+          "phone": "915 25 01 17",
+          "lat": 40.3839749,
+          "lng": -3.7277305999999997,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Carpintería Ebanistería Gómez de Bejerano",
+          "place_id": "ChIJ58mBIyCIQQ0RgaQ64hgVLMQ",
+          "data_cid": "14135696527028036737",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.0,
+          "reviews": 6,
+          "address": "C. Abejuela, 3, Latina, 28047 Madrid",
+          "phone": "630 54 31 61",
+          "lat": 40.3907017,
+          "lng": -3.7451862,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Carpintería Ebanistería Nuevo Futuro",
+          "place_id": "ChIJy_eX8pklQg0RJEQEk6UAKio",
+          "data_cid": "3038241609750955044",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "C. de Manuel Badía, 17, Puente de Vallecas, 28018 Madrid",
+          "phone": "626 27 25 43",
+          "lat": 40.3854644,
+          "lng": -3.651132,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Carpintería Dimarca",
+          "place_id": "ChIJmX1jPT8vQg0RV5yXXu7dBJA",
+          "data_cid": "10377663457227414615",
+          "category": "Fábrica de puertas",
+          "types": [
+            "Fábrica de puertas",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 3.1,
+          "reviews": 21,
+          "address": "C. de Virgen de Lluc, 98, Cdad. Lineal, 28027 Madrid",
+          "phone": "610 25 93 04",
+          "lat": 40.4368646,
+          "lng": -3.6458488,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Carpintería Ebanistería David Mellén",
+          "place_id": "ChIJZQgdw8QlQg0Rr2ZvxrOYw6M",
+          "data_cid": "11800443346536588975",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.5,
+          "reviews": 2,
+          "address": "C. del Río Bravo, 8, Puente de Vallecas, 28018 Madrid",
+          "phone": "917 77 91 30",
+          "lat": 40.3875094,
+          "lng": -3.6522839,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "MK Ebanistería",
+          "place_id": "ChIJW-GubnkoQg0RFdWC5tGEDuo",
+          "data_cid": "16865563691599451413",
+          "category": "Ebanista",
+          "types": [
+            "Ebanista",
+            "Tienda de mobiliario para dormitorios",
+            "Tienda de mobiliario infantil",
+            "Carpintería",
+            "Fábrica de muebles",
+            "Tienda de muebles",
+            "Tienda de muebles de cocina",
+            "Tienda de mobiliario de oficina"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 28,
+          "address": "C. de Cebreros, 101, Latina, 28011 Madrid",
+          "phone": "652 38 61 72",
+          "lat": 40.402215399999996,
+          "lng": -3.7534479999999997,
+          "website": "https://www.mkebanisteria.com/",
+          "domain": "mkebanisteria.com",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Carpintería premium",
+          "place_id": "ChIJ61HLqxwvQg0RCGm--djsoWA",
+          "data_cid": "6963106915538594056",
+          "category": "Empresa de construcción",
+          "types": [
+            "Empresa de construcción"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "C. del Castillo de Simancas, San Blas-Canillejas, 28037 Madrid",
+          "phone": "631 47 09 10",
+          "lat": 40.4291558,
+          "lng": -3.6268808,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "local_links": [
+        {
+          "position": 1,
+          "name": null,
+          "domain": "quintanacarpintero.com",
+          "url": "http://quintanacarpintero.com/"
+        },
+        {
+          "position": 2,
+          "name": null,
+          "domain": "carpinteriacruz.com",
+          "url": "https://carpinteriacruz.com/"
+        },
+        {
+          "position": 3,
+          "name": null,
+          "domain": "carpinteriaenmadrid.es",
+          "url": "http://www.carpinteriaenmadrid.es/"
+        },
+        {
+          "position": 4,
+          "name": null,
+          "domain": "carpinteriaarmary.com",
+          "url": "https://carpinteriaarmary.com/"
+        },
+        {
+          "position": 5,
+          "name": null,
+          "domain": "javiersmedina.com",
+          "url": "http://www.javiersmedina.com/contacto"
+        },
+        {
+          "position": 6,
+          "name": "BRICOCHAYTA SL Tienda de bricolaje C. de Sta. Ana, 14, Centro, 28005 Madrid",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 7,
+          "name": null,
+          "domain": "eltallerdelcarpintero.es",
+          "url": "http://www.eltallerdelcarpintero.es/"
+        },
+        {
+          "position": 8,
+          "name": "Ebanistería Carpintería Molina. Muebles a medida Fábrica de muebles C. Pico de los Artilleros, 83, Moratalaz, 28030 Madrid",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 9,
+          "name": null,
+          "domain": "carpinteriamarqueta.com",
+          "url": "https://www.carpinteriamarqueta.com/"
+        },
+        {
+          "position": 10,
+          "name": null,
+          "domain": "ebanisteriaembajadores.es",
+          "url": "https://www.ebanisteriaembajadores.es/"
+        }
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "serp_position": 1,
+          "title": "Carpintería y Ebanistería en Arganda Del Rey Madrid",
+          "url": "https://www.qdq.com/a/carpinteria-y-ebanisteria/madrid/arganda-del-rey",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "En QDQ puedes comparar servicios, ver fotos de trabajos, comprobar especialidades y solicitar presupuesto online; todo pensado para que localices carpinteros y ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 2,
+          "serp_position": 2,
+          "title": "CARPINTERÍA VILLACAÑAS S.L., Carpintería y Ebanistería en Alcorcón, Madrid",
+          "url": "https://www.qdq.com/carpinteria-villaca%C3%B1as-sl-338433",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "CARPINTERÍA VILLACAÑAS S.L.. Carpintería y EbanisteríaCalle Geologicas 66, 28925, Alcorcón, Alcorcón, Madrid. Abierto. Cómo llegar. Ver teléfono",
+          "snippet_type": [
+            "imagen"
+          ]
+        },
+        {
+          "rank": 3,
+          "serp_position": 3,
+          "title": "Carpintería Franjuar - Opiniones & Precios",
+          "url": "https://www.habitissimo.es/pro/carpinteria-franjuar",
+          "domain": "habitissimo.es",
+          "domain_type": "directorio",
+          "description": "Contacta y pide presupuesto a Carpintería Franjuar - Parquetistas: teléfono, opiniones, ofertas, fotos, proyectos...",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 4,
+          "serp_position": 4,
+          "title": "Servicios de Carpintería madera en Zamora - MULTIMAP",
+          "url": "https://www.multimap.es/servicios/carpinteria-madera/zamora",
+          "domain": "multimap.es",
+          "domain_type": "negocio/otro",
+          "description": "En MULTIMAP, nos dedicamos a la carpintería de madera, ofreciendo muebles a medida y acabados personalizados. Nuestro equipo trabaja con los mejores materiales ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 5,
+          "serp_position": 5,
+          "title": "Carpintería de Madera en Asturias - Panes",
+          "url": "https://carpinteriacuetara.com/carpinteria-en-asturias",
+          "domain": "carpinteriacuetara.com",
+          "domain_type": "negocio/otro",
+          "description": "Carpintería BP Cuétara estamos en Panes, Asturias y somos expertos en el arte de trabajar con la madera: ventanas, puertas, escaleras, estructuras...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 6,
+          "serp_position": 6,
+          "title": "Carpintería San José | Valencia",
+          "url": "https://www.facebook.com/carpinteria.sanjose.valencia/?locale=es_ES",
+          "domain": "facebook.com",
+          "domain_type": "red social",
+          "description": "Carpintería San José. Si es con madera, aquí es posible. Trabajamos la madera para sacar lo mejor de ella. A parte de la madera, también somos montadores.",
+          "snippet_type": [
+            "estrellas",
+            "imagen"
+          ]
+        },
+        {
+          "rank": 7,
+          "serp_position": 7,
+          "title": "Carpintería False en La Algaba | Experiencias - Trustlocal",
+          "url": "https://trustlocal.es/sevilla/la-algaba/carpintero/carpinteria-false/",
+          "domain": "trustlocal.es",
+          "domain_type": "negocio/otro",
+          "description": "En Carpintería False, nos dedicamos a transformar la madera en obras maestras que reflejan la esencia y el estilo de nuestros clientes.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 8,
+          "serp_position": 8,
+          "title": "Taller Viladecans Repara: Reparación de muebles y carpintería",
+          "url": "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria",
+          "domain": "viladecans.cat",
+          "domain_type": "negocio/otro",
+          "description": "Taller Viladecans Repara: Reparación de muebles y carpintería ... Aprenderemos a cuidar, reparar y mantener nuestros muebles de madera. Apúntate a nuestro ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 9,
+          "serp_position": 9,
+          "title": "Carpintería de Madera Dosil en Noia",
+          "url": "https://www.paxinasgalegas.es/dosil-144895em.html",
+          "domain": "paxinasgalegas.es",
+          "domain_type": "negocio/otro",
+          "description": "Diseño y fabricación de escaleras, mobiliario en madera, ventanas, puertas y todo tipo de trabajos de carpintería. Más de 24 años en el sector (desde 2002).",
+          "snippet_type": [
+            "imagen"
+          ]
+        },
+        {
+          "rank": 10,
+          "serp_position": 10,
+          "title": "Carpintería y Ebanistería en Talavera De La Reina Toledo",
+          "url": "https://www.qdq.com/a/carpinteria-y-ebanisteria/toledo/talavera-de-la-reina",
+          "domain": "qdq.com",
+          "domain_type": "directorio",
+          "description": "En QDQ puedes comparar servicios, ver fotos de trabajos, comprobar especialidades y solicitar presupuesto online; todo pensado para que localices carpinteros y ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        }
+      ],
+      "serp": {
+        "blocks": [
+          "inline_images",
+          "related_questions",
+          "organic_results",
+          "ask_ai_mode"
+        ],
+        "ai_overview": false,
+        "ai_overview_needs_extra_call": false,
+        "featured_snippet": null,
+        "people_also_ask": [
+          "¿Qué es la carpintería?",
+          "¿Cuánto vale la mano de obra de un carpintero?",
+          "¿Qué tipos de carpintería hay?",
+          "¿Qué diferencia hay entre un ebanista y un carpintero?"
+        ],
+        "related_searches": [],
+        "knowledge_graph": null,
+        "local_pack_places_shown": 0,
+        "local_pack_more_places": false
+      },
+      "warnings": [
+        "local_pack_missing: Google no mostró Local Pack en la SERP (top 3 tomado de Google Maps)"
+      ]
+    },
+    {
+      "slug": "valencia",
+      "city": "Valencia",
+      "location": "Valencia,Valencian Community,Spain",
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": true,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Gregorio Rodríguez",
+          "place_id": "ChIJf9yICvNPYA0R3QX2srpxZUU",
+          "data_cid": "5000528007945127389",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 15,
+          "address": "Plaça de Patraix, 2, Patraix, 46018 València, Valencia",
+          "phone": "667 25 77 84",
+          "lat": 39.4624532,
+          "lng": -0.3918814,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "El taller de Miguel | Carpintería",
+          "place_id": "ChIJay2ibFFFYA0RiszFjx9CsD0",
+          "data_cid": "4445125535538203786",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 22,
+          "address": "C/ del Comte de Torrefiel, 24, Rascaña, 46019 València, Valencia",
+          "phone": "627 41 29 66",
+          "lat": 39.4932034,
+          "lng": -0.37586149999999996,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Escribano",
+          "place_id": "ChIJmZMhdfdFYA0Rcml2JmUr-lg",
+          "data_cid": "6411484732952308082",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 12,
+          "address": "C/ de l'Enginyer la Cierva, 15, Bajo - B, La Zaidía, 46009 València, Valencia",
+          "phone": "623 81 48 20",
+          "lat": 39.4880771,
+          "lng": -0.3853137,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Gregorio Rodríguez",
+          "place_id": "ChIJf9yICvNPYA0R3QX2srpxZUU",
+          "data_cid": "5000528007945127389",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 15,
+          "address": "Plaça de Patraix, 2, Patraix, 46018 València, Valencia",
+          "phone": "667 25 77 84",
+          "lat": 39.4624532,
+          "lng": -0.3918814,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "El taller de Miguel | Carpintería",
+          "place_id": "ChIJay2ibFFFYA0RiszFjx9CsD0",
+          "data_cid": "4445125535538203786",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 22,
+          "address": "C/ del Comte de Torrefiel, 24, Rascaña, 46019 València, Valencia",
+          "phone": "627 41 29 66",
+          "lat": 39.4932034,
+          "lng": -0.37586149999999996,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Escribano",
+          "place_id": "ChIJmZMhdfdFYA0Rcml2JmUr-lg",
+          "data_cid": "6411484732952308082",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 12,
+          "address": "C/ de l'Enginyer la Cierva, 15, Bajo - B, La Zaidía, 46009 València, Valencia",
+          "phone": "623 81 48 20",
+          "lat": 39.4880771,
+          "lng": -0.3853137,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carpintería marítimo",
+          "place_id": "ChIJCSSAIWZIYA0RaVbmPleBPWQ",
+          "data_cid": "7223071589089564265",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 28,
+          "address": "C. del Dr. Lluch, 28, bajo derecha, Poblados Marítimos, 46011 València, Valencia",
+          "phone": "963 67 33 67",
+          "lat": 39.4650537,
+          "lng": -0.3284258,
+          "website": "http://carpinteriamaritimo.es/",
+          "domain": "carpinteriamaritimo.es",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería general manitas reparaciones Valencia carpintería",
+          "place_id": "ChIJ35s8juRHYA0RANI_rBXEcMA",
+          "data_cid": "13866798850036978176",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Electricista",
+            "Cerrajero de emergencia",
+            "Ebanista",
+            "Reformas de cocinas",
+            "Cerrajero",
+            "Pintor",
+            "Fontanero",
+            "Mantenimiento de propiedades",
+            "Reformas"
+          ],
+          "unclaimed": false,
+          "rating": 4.9,
+          "reviews": 35,
+          "address": "Av. del Primat Reig, 44, La Zaidía, 46009 València, Valencia",
+          "phone": "603 54 46 69",
+          "lat": 39.488295199999996,
+          "lng": -0.3692739,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "CARPINTERÍA",
+          "place_id": "ChIJOQXM2flPYA0RrX1mOtewJfI",
+          "data_cid": "17448546769761107373",
+          "category": "Tienda de artículos para el hogar",
+          "types": [
+            "Tienda de artículos para el hogar"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 16,
+          "address": "C. del Mestre Sosa, 37, Extramurs, 46007 València, Valencia",
+          "phone": "963 41 27 38",
+          "lat": 39.4609868,
+          "lng": -0.3834104,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Carpintería y Restauración Alberola",
+          "place_id": "ChIJi8ke4dFIYA0RffcyD4N_sWY",
+          "data_cid": "7399835863618877309",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Servicio de restauración de muebles antiguos"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 16,
+          "address": "Carrer d'Alberola, 19, Quatre Carreres, 46013 València, Valencia",
+          "phone": "660 89 75 75",
+          "lat": 39.45457,
+          "lng": -0.369177,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpinteria Valencia | Rotomadecoración",
+          "place_id": "ChIJt4voVN0AfikRGZnN9yYdK6o",
+          "data_cid": "12261926463649716505",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Service establishment",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": null,
+          "phone": null,
+          "lat": 39.1644608,
+          "lng": -0.2789994,
+          "website": "http://rotomadecoracion.com/",
+          "domain": "rotomadecoracion.com",
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Mg Carpintería Creativa",
+          "place_id": "ChIJo1YukOxFYA0R3FK_vlSD5tM",
+          "data_cid": "15269035986646946524",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Artista"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 14,
+          "address": "C/ del Foc, 36, Benicalap, 46025 València, Valencia",
+          "phone": "653 89 63 54",
+          "lat": 39.5013916,
+          "lng": -0.39224129999999996,
+          "website": "https://carpinteriacreativamanolo.com/",
+          "domain": "carpinteriacreativamanolo.com",
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "CARPINTERÍA ALCÁZAR",
+          "place_id": "ChIJb5zQHutFYA0RIIZDkCjXCH8",
+          "data_cid": "9153802811849541152",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "C. del Empalme, 1, Poblados del Oeste, 46015 València, Valencia",
+          "phone": "963 40 11 35",
+          "lat": 39.496717,
+          "lng": -0.4051842,
+          "website": "https://carpinteriaalcazar.com/",
+          "domain": "carpinteriaalcazar.com",
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Carpintería Villanueva",
+          "place_id": "ChIJJ_r_UHdIYA0RmKdKS9H0nDI",
+          "data_cid": "3647058978011785112",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 6,
+          "address": "Avda de la Malvarrosa de 106, C/ de Vicente la Roda, 35 bajo, pta 1, Poblats Marítims, 46011 València, Valencia",
+          "phone": "678 82 43 33",
+          "lat": 39.479369299999995,
+          "lng": -0.32705239999999997,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Carpinteria Dos De Mayo s.l.",
+          "place_id": "ChIJrSPVGJxPYA0R6TtiM65zvIM",
+          "data_cid": "9492589306613742569",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.5,
+          "reviews": 24,
+          "address": "C/ del Dos de Maig, 10, 46920 Mislata, Valencia",
+          "phone": "963 59 97 15",
+          "lat": 39.4705006,
+          "lng": -0.41619239999999996,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "LCPA CARPINTERIA",
+          "place_id": "ChIJo_6jdwBPYA0RfvWKQn1fmhg",
+          "data_cid": "1772834394915665278",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 6,
+          "address": "C. Major, 85, 46920 Mislata, Valencia",
+          "phone": "601 40 24 01",
+          "lat": 39.4740039,
+          "lng": -0.4126393,
+          "website": "https://lcpacarpinteria.com/",
+          "domain": "lcpacarpinteria.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Carpintería Miguel Ángel",
+          "place_id": "ChIJIYna-85IYA0Rk_pSMmfgZ90",
+          "data_cid": "15953966938813823635",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 30,
+          "address": "Carpintería Metálica Miguel Ángel, C/ dels Sapadors, 25, Quatre Carreres, 46006 València, Valencia",
+          "phone": "676 49 82 70",
+          "lat": 39.4577822,
+          "lng": -0.3682109,
+          "website": "http://www.carpinteriamiguelangel.com/",
+          "domain": "carpinteriamiguelangel.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "carpinteria fustalbo",
+          "place_id": "ChIJY8fHRDBHYA0RSDbgdbkHs6g",
+          "data_cid": "12156068312331073096",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Carrer dels Escultors, 46120 Alboraya, Valencia",
+          "phone": "675 54 58 02",
+          "lat": 39.5005556,
+          "lng": -0.34102319999999997,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Carpinteria San Jose",
+          "place_id": "ChIJ32wyB_9FYA0ROQPkIgbT_pc",
+          "data_cid": "10952423367120257849",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Reformas de cocinas"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 37,
+          "address": "Avinguda de Portugal, 3, Bajo derecha, La Saïdia, 46009 València, Valencia",
+          "phone": "658 44 37 29",
+          "lat": 39.488080499999995,
+          "lng": -0.377297,
+          "website": "http://carpinteriasanjose.es/",
+          "domain": "carpinteriasanjose.es",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Carpintería Miguel Angel Checa",
+          "place_id": "ChIJ3XGIKTxPYA0RDXT5hlGFzL8",
+          "data_cid": "13820567941696549901",
+          "category": "Ebanista",
+          "types": [
+            "Ebanista"
+          ],
+          "unclaimed": true,
+          "rating": 3.6,
+          "reviews": 20,
+          "address": "Carrer de Jacint Labaila, 14, Patraix, 46007 València, Valencia",
+          "phone": "603 12 78 73",
+          "lat": 39.459785499999995,
+          "lng": -0.3910286,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Cerrajería y carpintería metálica, HERRERAS",
+          "place_id": "ChIJy-sOcl5IYA0RqBCJaB-oz0M",
+          "data_cid": "4886308973571543208",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 127,
+          "address": "C/ de Vicent Brull, n 35-37, Poblados Marítimos, 46011 València, Valencia",
+          "phone": "963 67 60 35",
+          "lat": 39.4636378,
+          "lng": -0.333038,
+          "website": "http://www.cerrajeriaherreras.com/",
+          "domain": "cerrajeriaherreras.com",
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Nuevo Estilo Carpintería pvc y aluminio RTP",
+          "place_id": "ChIJ0UFkss5IYA0RjH11krDhTC4",
+          "data_cid": "3336289572462361996",
+          "category": "Proveedor de ventanas PVC",
+          "types": [
+            "Proveedor de ventanas PVC",
+            "Servicio de instalación de ventanas"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 256,
+          "address": "Av. de Peris i Valero, 111, Bajo, Ensanche, 46006 València, Valencia",
+          "phone": "656 76 48 34",
+          "lat": 39.459649999999996,
+          "lng": -0.36966,
+          "website": "https://nuevoestilo.net/",
+          "domain": "nuevoestilo.net",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "CARPINTERIA GARCIA PATIÑO, S.L.",
+          "place_id": "ChIJI_it0GRIYA0RzEfkw-rTX3Q",
+          "data_cid": "8385654036449478604",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Tienda de armarios"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 8,
+          "address": "C. de Tramoyeres, 86, Poblados Marítimos, 46011 València, Valencia",
+          "phone": "963 72 64 18",
+          "lat": 39.474971499999995,
+          "lng": -0.3303308,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "local_links": [
+        {
+          "position": 1,
+          "name": null,
+          "domain": "carpinteriasanjose.es",
+          "url": "http://carpinteriasanjose.es/"
+        },
+        {
+          "position": 2,
+          "name": null,
+          "domain": "nuevoestilo.net",
+          "url": "https://nuevoestilo.net/"
+        },
+        {
+          "position": 3,
+          "name": null,
+          "domain": "cabanyero.es",
+          "url": "https://cabanyero.es/?utm_source=google&utm_medium=gbp&utm_campaign=guillem"
+        },
+        {
+          "position": 4,
+          "name": "Carpintería y Restauración Alberola Carpintero Carrer d'Alberola, 19, Quatre Carreres, 46013 València, Valencia",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 5,
+          "name": null,
+          "domain": "reformaspazel.com",
+          "url": "https://reformaspazel.com/"
+        },
+        {
+          "position": 6,
+          "name": null,
+          "domain": "vhelaluminio.com",
+          "url": "https://vhelaluminio.com/"
+        },
+        {
+          "position": 7,
+          "name": null,
+          "domain": "carpinteriamiguelangel.com",
+          "url": "http://www.carpinteriamiguelangel.com/"
+        },
+        {
+          "position": 8,
+          "name": null,
+          "domain": "carpinteriametalicamilimetro.com",
+          "url": "https://www.carpinteriametalicamilimetro.com/carpinteria-metalica-valencia/"
+        },
+        {
+          "position": 9,
+          "name": "Carpintería Miguel Angel Checa Ebanista Carrer de Jacint Labaila, 14, Patraix, 46007 València, Valencia",
+          "domain": null,
+          "url": null
+        },
+        {
+          "position": 10,
+          "name": null,
+          "domain": "carpinteriamaritimo.es",
+          "url": "http://carpinteriamaritimo.es/"
+        }
+      ],
+      "organic": [
+        {
+          "rank": 1,
+          "serp_position": 1,
+          "title": "Carpinteros en Valencia | Muebles y estructuras a medida",
+          "url": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia",
+          "domain": "cronoshare.com",
+          "domain_type": "directorio",
+          "description": null,
+          "snippet_type": [
+            "imagen"
+          ]
+        },
+        {
+          "rank": 2,
+          "serp_position": 2,
+          "title": "Los mejores 40 Carpinteros en Valencia - ProntoPro",
+          "url": "https://prontopro.es/valencia-carpintero",
+          "domain": "prontopro.es",
+          "domain_type": "negocio/otro",
+          "description": "Encuentra los mejores Carpinteros en Valencia: consulta opiniones, disponibilidad y contacta fácilmente.",
+          "snippet_type": [
+            "estrellas"
+          ]
+        },
+        {
+          "rank": 3,
+          "serp_position": 3,
+          "title": "Las 10 mejores empresas de carpinteros en Valencia (Ciudad)",
+          "url": "https://www.habitissimo.es/empresas/carpinteros/valencia/valencia",
+          "domain": "habitissimo.es",
+          "domain_type": "directorio",
+          "description": "Neofusta · Montajes Peris y Esteban · Victor · Grupo forestia 360 · Deck & Garden · Muebles A Medida -ar- · Camilo Rodriguez Villanueva · Screenmobel.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 4,
+          "serp_position": 4,
+          "title": "Carpinteros a domicilio en València",
+          "url": "https://www.taskia.es/servicios-de-carpinteria-en-valencia",
+          "domain": "taskia.es",
+          "domain_type": "negocio/otro",
+          "description": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 5,
+          "serp_position": 5,
+          "title": "Carpinterías de madera en Valencia (provincia)",
+          "url": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/",
+          "domain": "paginasamarillas.es",
+          "domain_type": "directorio",
+          "description": "484 resultados de carpinterías de madera en la provincia de Valencia. Puertas de madera, escaleras de madera y otros servicios de carpintería y ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 6,
+          "serp_position": 6,
+          "title": "Servicios de los Carpinteros en Alicante | Juntito - Precios Razonables y Calidad Garantizada",
+          "url": "https://juntito.es/servicios-de-carpinteros/",
+          "domain": "juntito.es",
+          "domain_type": "negocio/otro",
+          "description": "La empresa «Juntito» en Alicante también ofrece servicios más extensos, incluida la construcción de casas de madera, troncos, estructuras de entramado, baños, ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 7,
+          "serp_position": 7,
+          "title": "Carpintería de Madera en Valencia",
+          "url": "https://carpinteria-madera.las24h.com/valencia/valencia.html",
+          "domain": "carpinteria-madera.las24h.com",
+          "domain_type": "negocio/otro",
+          "description": "CALIDAD DISEÑO Y SABER SL COSTA Y BORRAS, 42 46017 - VALENCIA (VALENCIA) Tel: 963786468. CARPINTERIA ALDARAH SL CAMINO VIEJO BURJASOT, 226",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 8,
+          "serp_position": 8,
+          "title": "Las 10 mejores empresas de carpinteros en Alicante",
+          "url": "https://www.habitissimo.es/empresas/carpinteros/alicante",
+          "domain": "habitissimo.es",
+          "domain_type": "directorio",
+          "description": "Encuentra empresas de carpinteros en Alicante en nuestro directorio: opiniones, fotos y precio medio de carpinteros.",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 9,
+          "serp_position": 9,
+          "title": "Carpinteros a domicilio en Valencia/València",
+          "url": "https://www.taskia.es/servicios-de-carpinteria-en-valencia-valencia",
+          "domain": "taskia.es",
+          "domain_type": "negocio/otro",
+          "description": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        },
+        {
+          "rank": 10,
+          "serp_position": 10,
+          "title": "Carpinterías de madera en València (Valencia)",
+          "url": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/valencia/",
+          "domain": "paginasamarillas.es",
+          "domain_type": "directorio",
+          "description": "89 resultados de carpinterías de madera en València. Puertas de madera, escaleras de madera y otros servicios de carpintería y contrachapado como estantes ...",
+          "snippet_type": [
+            "estándar"
+          ]
+        }
+      ],
+      "serp": {
+        "blocks": [
+          "inline_images",
+          "related_questions",
+          "organic_results",
+          "ask_ai_mode",
+          "related_searches"
+        ],
+        "ai_overview": false,
+        "ai_overview_needs_extra_call": false,
+        "featured_snippet": null,
+        "people_also_ask": [
+          "¿Cuáles son 5 cosas que hace un carpintero?",
+          "¿Cuánto se cobra por la hora de un carpintero?",
+          "¿Cómo se escribe carpintería?",
+          "¿Cómo se llama la persona que trabaja la madera?"
+        ],
+        "related_searches": [
+          "Carpintería Valencia",
+          "Carpintería de madera",
+          "Carpintería de madera Valencia",
+          "Carpintería de madera cerca de mí ubicación",
+          "Carpintero a domicilio Valencia",
+          "Carpintería madera Alicante",
+          "Carpinteros Valencia baratos",
+          "Restauración carpintería de madera",
+          "Carpintero en Valencia reseñas",
+          "Carpintería Alicante",
+          "Carpintería San José",
+          "Carpinterías en Manises"
+        ],
+        "knowledge_graph": null,
+        "local_pack_places_shown": 0,
+        "local_pack_more_places": false
+      },
+      "warnings": [
+        "local_pack_missing: Google no mostró Local Pack en la SERP (top 3 tomado de Google Maps)"
+      ]
+    }
+  ]
+}

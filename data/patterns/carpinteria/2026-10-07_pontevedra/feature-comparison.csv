@@ -1,0 +1,25 @@
+﻿layer;feature;label;type;n_A;n_B;coverage_pct;value_A;value_B;diff;p_value;significant
+1 · Ficha básica (grid);exact_category;Categoría principal = «Carpintería» (igual que la búsqueda);sí/no;12;88;100;42 %;28 %;13;0,338;False
+1 · Ficha básica (grid);carpentry_category;Categoría principal de la familia carpintería (Carpintería, Carpintero, Ebanista);sí/no;12;88;100;75 %;36 %;39;0,014;True
+1 · Ficha básica (grid);metal_category;Categoría de carpintería metálica / aluminio;sí/no;12;88;100;17 %;34 %;-17;0,328;False
+1 · Ficha básica (grid);name_has_keyword;Nombre con «carpintería/carpintero»;sí/no;12;88;100;58 %;26 %;32;0,04;True
+1 · Ficha básica (grid);has_website;Web propia enlazada en la ficha;sí/no;12;88;100;75 %;51 %;24;0,137;False
+1 · Ficha básica (grid);unclaimed;Ficha sin reclamar;sí/no;12;88;100;8 %;27 %;-19;0,285;False
+1 · Ficha básica (grid);has_reviews;Tiene al menos 1 reseña;sí/no;12;88;100;83 %;84 %;-1;1,0;False
+1 · Ficha básica (grid);reviews_10plus;10 reseñas o más;sí/no;12;88;100;50 %;36 %;14;0,364;False
+1 · Ficha básica (grid);rating_45plus;Nota ≥ 4,5;sí/no;12;88;100;42 %;45 %;-4;1,0;False
+1 · Ficha básica (grid);reviews;Nº de reseñas;mediana;10;74;84;11,5;8,0;3,5;0,368;False
+1 · Ficha básica (grid);rating;Nota media;mediana;10;74;84;4,5;4,5;-0,05;0,925;False
+1 · Ficha básica (grid);distance_center_km;Distancia de la ficha al centro de Pontevedra (km);mediana;12;88;100;4,2;5,2;-1,0;0,463;False
+1 · Ficha básica (grid);reviews;Reseñas ↔ puntos en top 3;Spearman con cells_top;84;;84;-0,04;;;0,685;False
+1 · Ficha básica (grid);rating;Nota ↔ puntos en top 3;Spearman con cells_top;84;;84;0,07;;;0,498;False
+1 · Ficha básica (grid);distance_center_km;Distancia al centro ↔ puntos en top 3;Spearman con cells_top;100;;100;-0,22;;;0,033;True
+2 · Perfil GBP (líderes);secondary_count;Nº de categorías secundarias;Spearman con cells_top;11;;100;0,28;;;0,412;False
+2 · Perfil GBP (líderes);attributes_count;Nº de atributos;Spearman con cells_top;11;;100;-0,12;;;0,71;False
+2 · Perfil GBP (líderes);review_velocity_month;Reseñas/mes (12 meses);Spearman con cells_top;11;;100;0,02;;;0,946;False
+2 · Perfil GBP (líderes);owner_response_rate;% de respuesta del propietario;Spearman con cells_top;9;;82;0,0;;;1,0;False
+2 · Perfil GBP (líderes);last_review_age_days;Antigüedad de la última reseña (días);Spearman con cells_top;9;;82;-0,14;;;0,723;False
+2 · Perfil GBP (líderes);reviews;Nº de reseñas;Spearman con cells_top;9;;82;0,2;;;0,608;False
+3 · Web (líderes);web_words;Palabras en la portada;Spearman con cells_top;8;;100;0,2;;;0,661;False
+3 · Web (líderes);web_services;Servicios en encabezados;Spearman con cells_top;8;;100;0,09;;;0,833;False
+3 · Web (líderes);web_schema_pct;Completitud del schema LocalBusiness (%);Spearman con cells_top;8;;100;0,3;;;0,466;False

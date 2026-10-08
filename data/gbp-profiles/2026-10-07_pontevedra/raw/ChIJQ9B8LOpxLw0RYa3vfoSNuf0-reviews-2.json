@@ -1,0 +1,88 @@
+{
+  "search_metadata": {
+    "id": "6ac6748606ca7f36ec5223db",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/q1jxAVZknPuHtNHueAe7lURQwT_WMRaTlmeC6bVpw5c/6ac6748606ca7f36ec5223db.json",
+    "markdown_endpoint": "https://serpapi.com/searches/q1jxAVZknPuHtNHueAe7lURQwT_WMRaTlmeC6bVpw5c/6ac6748606ca7f36ec5223db.md",
+    "created_at": "2026-10-07 16:34:14 UTC",
+    "processed_at": "2026-10-07 16:34:14 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71ea2c7cd043:0xfdb98d847eefad61!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/q1jxAVZknPuHtNHueAe7lURQwT_WMRaTlmeC6bVpw5c/6ac6748606ca7f36ec5223db.html",
+    "prettify_html_file": "https://serpapi.com/searches/q1jxAVZknPuHtNHueAe7lURQwT_WMRaTlmeC6bVpw5c/6ac6748606ca7f36ec5223db.prettify",
+    "total_time_taken": 2.21
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71ea2c7cd043:0xfdb98d847eefad61",
+    "hl": "es",
+    "next_page_token": "CjEIARIpCgoAP72Hxq1BWK__EhBULPL87ZD8hCziCZsAAAAAGgn9_mECfGrUFYoYACIA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1eXNmaXBRRRAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgICuysfipQE%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace 4 años",
+      "iso_date": "2022-07-25T19:21:58Z",
+      "iso_date_of_last_edit": "2022-07-25T19:21:58Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1eXNmaXBRRRAB",
+      "user": {
+        "name": "Cup Rd",
+        "link": "https://www.google.com/maps/contrib/115714608664644165239?hl=es",
+        "contributor_id": "115714608664644165239",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIfnc7IyNZnLIUMxTUdq6kN4FpuiKO3DbPx_h6hfboVajWfog=s120-c-rp-mo-ba12-br100",
+        "reviews": 43,
+        "photos": 0
+      },
+      "snippet": "Mala instalación por parte de los trabajadores de la empresa,hacen las cosas mal y luego las intentan arreglar chapuceando y parece ser que con el visto bueno del jefe.....los instaladores bordes,con muy poca educación y aunque ya tienen sus años y debian de conocer el oficio parece que no!!!",
+      "extracted_snippet": {
+        "original": "Mala instalación por parte de los trabajadores de la empresa,hacen las cosas mal y luego las intentan arreglar chapuceando y parece ser que con el visto bueno del jefe.....los instaladores bordes,con muy poca educación y aunque ya tienen sus años y debian de conocer el oficio parece que no!!!"
+      },
+      "likes": 2
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURHaEtHdlVBEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDGhKGvUA%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 4 años",
+      "iso_date": "2021-11-18T09:50:49Z",
+      "iso_date_of_last_edit": "2021-11-18T09:50:49Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHaEtHdlVBEAE",
+      "user": {
+        "name": "Ivan Berbes",
+        "link": "https://www.google.com/maps/contrib/111171528902104430373?hl=es",
+        "contributor_id": "111171528902104430373",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWCYnDPnCmWymeMi1H_wOnHrem0nnnLIMzpZMAJuUPyMqa43HT3qQ=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "details": {
+        "aspectos_positivos": "Valor"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURxMXZiMmx3RRAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDq1vb2lwE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-07-07T21:01:43Z",
+      "iso_date_of_last_edit": "2021-07-07T21:01:43Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMXZiMmx3RRAB",
+      "user": {
+        "name": "Alejandro García Permuy",
+        "link": "https://www.google.com/maps/contrib/109211976426256634074?hl=es",
+        "contributor_id": "109211976426256634074",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW_hLblNChCNROTEF1Qjzd2WDVBIhN-97YiQQgnTA-kbdE2DfM=s120-c-rp-mo-ba12-br100",
+        "reviews": 141,
+        "photos": 40
+      },
+      "likes": 0
+    }
+  ]
+}

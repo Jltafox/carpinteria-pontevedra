@@ -1,0 +1,373 @@
+{
+  "search_metadata": {
+    "id": "6ac6748d37ff8db7cac09204",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QuY53anEjGZGsIbaMyWTp0HcHu9Fqz7EndmKNPFjys4/6ac6748d37ff8db7cac09204.json",
+    "markdown_endpoint": "https://serpapi.com/searches/QuY53anEjGZGsIbaMyWTp0HcHu9Fqz7EndmKNPFjys4/6ac6748d37ff8db7cac09204.md",
+    "created_at": "2026-10-07 16:34:21 UTC",
+    "processed_at": "2026-10-07 16:34:21 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f657eb4cd7313:0x35ff4f7c38b4df4c!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/QuY53anEjGZGsIbaMyWTp0HcHu9Fqz7EndmKNPFjys4/6ac6748d37ff8db7cac09204.html",
+    "prettify_html_file": "https://serpapi.com/searches/QuY53anEjGZGsIbaMyWTp0HcHu9Fqz7EndmKNPFjys4/6ac6748d37ff8db7cac09204.prettify",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Carpintería Ceyeda, S.L.U.",
+    "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+    "data_id": "0xd2f657eb4cd7313:0x35ff4f7c38b4df4c",
+    "data_cid": "3890915998017314636",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f657eb4cd7313%3A0x35ff4f7c38b4df4c&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f657eb4cd7313%3A0x35ff4f7c38b4df4c&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.4042902,
+      "longitude": -8.5723174
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+    "provider_id": "/g/11c2p_s3qj",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOxi0lotZUuh_gL45m3pb2wfvyV-kplOamconUCB6dzPSu7pULYF5vUlw-wwvz8SQzijE9ffAKECOo8KyCkkALbsSRGoAIucdOfB8B8m370u6NhTdRXzhYEb13uow2um32cPTPNirDTfMj=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mb7zqnicHcvBboIwAADQL6pUOpUt2aEgGiMKE1jmLkYKpUhLCW3p5Cd33t-4eHm39_fLtO7Vm-Nwhma1lDWvjKoGIjtddXpGpHDq4aoUIMrB2G9FVMU_DeRSf-eGXeroZSFQX7iWjvdP0PY8vor_nAf-spyS1Kz6PDpvFmPOLbB2nLz0Y2pu4SuleB8GsfT296BtcVSo9LSVeGdIGVPf8z2BVtAsjywrT18TO4fFHBlpXSOQS5IsOTbDOqOH27udQwgBe0pA9wB9wEjY",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 12
+      }
+    ],
+    "rating": 5,
+    "reviews": 12,
+    "type": [
+      "Carpintería",
+      "Fábrica de muebles"
+    ],
+    "type_ids": [
+      "furniture_maker",
+      "furniture_manufacturer"
+    ],
+    "extensions": [
+      {
+        "service_options": [
+          "Servicios en las instalaciones"
+        ]
+      },
+      {
+        "accessibility": [
+          "Acceso para sillas de ruedas",
+          "Aparcamiento adaptado para sillas de ruedas"
+        ]
+      },
+      {
+        "planning": [
+          "Se necesita cita"
+        ]
+      },
+      {
+        "payments": [
+          "Tarjetas de crédito"
+        ]
+      },
+      {
+        "parking": [
+          "Con aparcamiento propio",
+          "Parking gratuito"
+        ]
+      }
+    ],
+    "service_options": {
+      "servicios_en_las_instalaciones": true
+    },
+    "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra",
+    "country": "España",
+    "website": "http://www.ceyeda.com/",
+    "phone": "986 70 88 01",
+    "open_state": "Cerrado · Apertura: 7:00 (jue)",
+    "plus_code": "CC3H+P3 Puentecaldelas",
+    "hours": [
+      {
+        "miércoles": "7:00–14:30"
+      },
+      {
+        "jueves": "7:00–14:30"
+      },
+      {
+        "viernes": "7:00–14:30"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "Cerrado"
+      },
+      {
+        "martes": "7:00–14:30"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0xd2f657eb4cd7313%3A0x35ff4f7c38b4df4c&engine=google_maps_posts",
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipO_ziYJ69ciIDEP5ZtJqdtrM9RPUD20pESUm2ZF=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+Ceyeda,+S.L.U.&ludocid=3890915998017314636&lpsid=CIHM0ogKEOmSg7-a2_KUWg&source=sh/x/loc/post&lsig=AB86z5V-nLfd8Q91gSxM20zfBVTO",
+        "description": "CEYEDA fabrica igualdad.\n\nEn CEYEDA estamos acostumbrados a hablar de precisión, calidad y mejora continua. Son valores que guían nuestro trabajo en cada proyecto. Pero una empresa no se construye solo con madera y maquinaria: se construye, sobre todo, con personas.\n\nPor eso hemos dado un paso adelante y puesto en marcha nuestro Plan de Igualdad 2025-2029, un documento que formaliza y refuerza nuestro compromiso con la igualdad de oportunidades, el desarrollo profesional, la conciliación y el respeto dentro de la organización.\n\nEl plan recoge medidas concretas orientadas a garantizar que todas las personas que forman parte de CEYEDA puedan desarrollar su talento en igualdad de condiciones, aportar nuevas perspectivas y crecer profesionalmente, con independencia de su género u otras circunstancias personales.\n\nEn paralelo, hemos actualizado nuestro Protocolo de Prevención y Actuación frente al Acoso, reforzando así las garantías de un entorno de trabajo seguro, respetuoso y alineado con los valores de la empresa.\n\nSomos conscientes de que este tipo de compromisos no se cumplen con un documento, sino con el trabajo diario. Por eso entendemos el Plan de Igualdad no como un trámite, sino como una herramienta viva que irá evolucionando con nosotros.\n\nSeguimos fabricando proyectos de calidad. Y construyendo, también, una empresa mejor.",
+        "date": "8 jun 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPpZQFIl_r4NM4_xpQ3NGEaPdemj4WeZ2cKns2G=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+Ceyeda,+S.L.U.&ludocid=3890915998017314636&lpsid=CIHM0ogKELnV77iO3aOkdA&source=sh/x/loc/post&lsig=AB86z5V-nLfd8Q91gSxM20zfBVTO",
+        "description": "CEYEDA en Navalia Exhibition 2026\nStand de Ibercisa",
+        "date": "8 jun 2026"
+      }
+    ],
+    "images": [
+      {
+        "title": "Todas",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzcFFr3cdntymR3-FY-ofvFCEfu1RAfSR8peiymr_iXu_N7sf39LGBZfhhaZ76VzEYqodmZ9z8Qpn7Q60UJ4j7FyC5qrqsC8Xq_Mcd2VVshOL3YEsHvna384X6ZSGsJeCkBsBIWQmH65Vy=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/ewfJJXicHcTBboIwGADgJ6qgVcAlHoRQmVE30CFwIaa01Glb4C8aeEnPexuTfYfv7yWMaeDDsu4CT2qt6zvrgXVUK8OUmVAtrboBRAGBtY6S79NZjpSQDtNKmUEmGJEcaf4gQcj7abLmx8Rr2HWQXXnN-vLgAsfL3cYvuBCXwnXSMcxbXcliOXpxo9zYsX-281-XDMGi7VoIvKwt97SapSmIrx3OQ4ge6oK9eeYUxw1sWXDzwf88xzJyFumwek5t20bif4rUG94cR18"
+      },
+      {
+        "title": "Del propietario",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvWVky1Vw8wK8ZcZKeVHxoCxKO2yhKyUQbQGsqSgPHThVCNN9pbqK1KWpK52JccgKPqd3IBR4KjiziIW0i5LFLMQ8xVSJhSAT9k4BdDjIkT9y_ZibJkPUPlYNoOR9X0gvPbO3LI6nXCmzh=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/AyRNJ3icHcTdboIwGADQJ0KKqIElu1AWB3wI5cei3CyhkhaLFFYm4Et67duY7Fyc15MPQ6c-dL3h5oJJyZrqT1W_VLZD1Q4LKm8665RGlab0rZvgLBf3nIjZIKM1glXQAiriTtKZIFrOHOZjXMbfqk8ZdjNOnDC0u7IHA_IO1kufUga4v5jeLlnBtX7UXo7qdbAPDrE1kdTn6TazxWp3-bp6IrPnn6IufYGPuDmHMkrsE2J3XEZm4G3ak3N78M_RQAhp_H-qtW-7xEc2"
+      },
+      {
+        "title": "Vídeos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGmPTkyIARoa5EcEsZY1O5PXtZgl6PCJkjEnKUi3hwLl3GTB2MOn7yZjTWblqSN9WBvWxo4U0IBsAHgzkGw1bDQMKWnhb0Ke2UBtoPNleynU2ADQLRkeJ7QwjuPnY_lmlbEmI1zCpAQSIm=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/ksYJlHicHcTdboIwGADQJ0IKzJmZ7KIoQcSfgpBObpbRNO2g_crWKsOX3LVvY-K5OPd_6dxgl76vZDQTxgjFL5b_MgOOg5sxo30xWI9Zz_p4U5KKQqpJ1U8ZLs3XPGGJbc7BcU4-XCPUK1lt-y6BvP6O5LhTUVrF4f4Ii6npKtqqn9PhjcZX-mdeapTFFm_ErU_HoF0X-5yCbFHOwzp2hhwUn6AO8brYlT3fLoqxuxA4fyqt2kRnwW014OKU6fcxQAh58jnz4AGrV0e-"
+      }
+    ],
+    "user_reviews": {
+      "most_relevant": [
+        {
+          "username": "Dolores Muñiz",
+          "rating": 5,
+          "contributor_id": "105240061306680145159",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLRNQOCHGmcTLskceWEnnYgb2t9U_R2J8JKI-GNk3Y5EmIFag=s120-c-rp-mo-br100",
+          "description": "Excelente carpintería de muebles con diseños personalizados.Trato muy profesional y amable, buscando siempre las soluciones más adecuadas para cada caso con precios muy competitivos. Muy recomendable.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOMDZhbVhREAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICN06amXQ%7C%7C?hl=es",
+          "date": "Hace 2 años",
+          "date_iso8601": "2024-01-17T15:54:32+00:00"
+        },
+        {
+          "username": "--",
+          "rating": 5,
+          "contributor_id": "114156477419861078219",
+          "user_review_count": 194,
+          "user_photo_count": 17,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWXQoyupF648Hdjbktt_dT1sGU_QqO4ldd7yeBvNTPsREZmTrwy=s120-c-rp-mo-ba12-br100",
+          "description": "Auténticos profesionales",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xST2MyZGlUM0Y1YldabWRIUm9NMmR4VlRoRVdVRRAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOlROc2diT3F5bWZmdHRoM2dxVThEWUE%7C%7C?hl=es",
+          "date": "Hace 7 meses",
+          "date_iso8601": "2026-02-09T10:44:59+00:00"
+        },
+        {
+          "username": "sabino martinez gonzalez",
+          "rating": 5,
+          "contributor_id": "103332028678445800789",
+          "user_review_count": 19,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLtmHnI5sUP4_XkmuzCViXOsjIxM0oGbqOzlSx_AC7dWW3xLw=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xTU1qQmhNMVJZVjNSamFXMTJWVWRVYzNGMExYYxAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOm1MMjBhM1RYV3RjaW12VUdUc3F0LXc%7C%7C?hl=es",
+          "date": "Hace 4 meses",
+          "date_iso8601": "2026-05-20T08:09:58+00:00"
+        },
+        {
+          "username": "BERNARDO BLANCO",
+          "rating": 5,
+          "contributor_id": "115699511737090849854",
+          "user_review_count": 6,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKZ5hqCGtZj1rnWKNuBKv0-Pm6JiTzqd-nVffpwFMlEJorPvg=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4NVNsVkhVVmxxYlZweFFUbFBPVlUzYVhObVdXYxAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOk85SlVHUVlqbVpxQTlPOVU3aXNmWWc%7C%7C?hl=es",
+          "date": "Hace 9 meses",
+          "date_iso8601": "2025-12-17T17:54:26+00:00"
+        },
+        {
+          "username": "Pilar Abal",
+          "rating": 5,
+          "contributor_id": "113485142756490043110",
+          "user_review_count": 24,
+          "user_photo_count": 62,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVrz6DxbAHBEUWwitDpYIRHiW-3x6Keqx-pECO9p2XoVfXKxv94=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJc2N6ZWVBEAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgMCIsczeeA%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-04-02T21:16:03+00:00"
+        },
+        {
+          "username": "Julian Gonzalez Otero",
+          "rating": 5,
+          "contributor_id": "110903207720906744003",
+          "user_review_count": 2,
+          "user_photo_count": 37,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJhVOfE5Sgh0RUbDqOn7pcwCeJgBNSACR4ErfzlnP3EqJbsPg=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6bzdxeFdnEAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICzo7qxWg%7C%7C?hl=es",
+          "date": "Hace 2 años",
+          "date_iso8601": "2024-06-04T14:56:44+00:00"
+        },
+        {
+          "username": "ignacio quesada casqueiro",
+          "rating": 5,
+          "contributor_id": "105269597603714274171",
+          "user_review_count": 94,
+          "user_photo_count": 58,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXjJwmKyQdYQjpE5zIso1LaB0d88iUReKsAfYdH7ety34xTrtXldw=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPOExQNmVREAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICO8LP6eQ%7C%7C?hl=es",
+          "date": "Hace 4 años",
+          "date_iso8601": "2022-05-30T21:04:00+00:00"
+        },
+        {
+          "username": "Miguel Angel Nogueira Castro",
+          "rating": 5,
+          "contributor_id": "102927029934157044034",
+          "user_review_count": 0,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIBPX88Dx9jWUsU7AnVwh7n-oC2zTEW-2momw9fEBnlpty03g=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM4b3ZDN1N3EAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgIC8ovC7Sw%7C%7C?hl=es",
+          "date": "Hace 6 años",
+          "date_iso8601": "2020-06-28T15:00:06+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "Otras personas también buscan",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Carpinteria de Madera Puga",
+            "data_id": "0x0:0xdf1536365f1e47a5",
+            "data_cid": "16074814052120807333",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdf1536365f1e47a5&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdf1536365f1e47a5&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4082556,
+              "longitude": -8.5690476
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xdf1536365f1e47a5%218m2%213d42.4082556%214d-8.5690476&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 5,
+            "reviews": 1,
+            "thumbnail": "https://www.google.es/maps/vt/data=_o291-5afb0s0791WbF3941QJdkCpoCIROhJ9lcftwnZRN2qLTNpEktxR1utE786foTi_zu1-4BjXeej8ttzBcYnYF4AfzPkQYMhIzbc920ugheOXTj05gbQ7Tgy-0eJpDfKnSjhlIq1_JBfHFcEICerYXMxZige",
+            "type": [
+              "Carpintería"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Carpintería De La Fuente e Hijos, S.L.",
+            "data_id": "0x0:0x24d12b8e3af47b03",
+            "data_cid": "2652949545372384003",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x24d12b8e3af47b03&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x24d12b8e3af47b03&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.398871799999995,
+              "longitude": -8.5274546
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x24d12b8e3af47b03%218m2%213d42.398871799999995%214d-8.5274546&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4,
+            "reviews": 20,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM5RbyzN-xiBPe7irQQkkvDlYCg_IUlJY6CjUP-BkZ_5F3xvRuskmukFbgTQeLhaoElliTXkjM21mFy0LoRJBiNkxG4WFi9H8y1_AInBEuwj_dTLzRo8k8xeL0WW9pCYxf3Gnq2JQ=w156-h156-n-k-no",
+            "type": [
+              "Carpintería",
+              "Ebanista",
+              "Tienda de armarios",
+              "Fábrica de puertas",
+              "Fábrica de muebles",
+              "Tienda de muebles de cocina",
+              "Empresa de instalación de cubiertas",
+              "Empresa de instalación de escaleras",
+              "Servicio de instalación de ventanas",
+              "Servicio de instalación de suelos de madera"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Carpintería Aluncia",
+            "data_id": "0x0:0x3e2092688f3eb08c",
+            "data_cid": "4476739007383777420",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3e2092688f3eb08c&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3e2092688f3eb08c&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.3944571,
+              "longitude": -8.555312599999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x3e2092688f3eb08c%218m2%213d42.3944571%214d-8.555312599999999&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 0,
+            "reviews": 0,
+            "thumbnail": "https://www.google.es/maps/vt/data=13B-3eqJeYGvdgmknubdjRj1BaO8dc2kicXAhjmlsPjcexHaIopIt0Xkv0qUOo_zK0V161MStbdvU8ZCshxBBgZUI73S63n5VTK7fzs_OatDWEU5Ra1LAFagK6ioKNr_8ACcwdREgCEsTGaxWotFZeQIR8PiFHe3",
+            "type": [
+              "Carpintero"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "CARPINTERIA MARTINEZ PAZ S.L.",
+            "data_id": "0x0:0xfdb98d847eefad61",
+            "data_cid": "18282799762492075361",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfdb98d847eefad61&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfdb98d847eefad61&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.3990268,
+              "longitude": -8.6375054
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xfdb98d847eefad61%218m2%213d42.3990268%214d-8.6375054&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 3.5,
+            "reviews": 11,
+            "thumbnail": "https://www.google.es/maps/vt/data=ONBrTzzMiKx-k8Df32CiwTG-NRmK9GcBW2Edj8lOeXMaK4_T-Qf9H3cqOza_EMM2IiWaQWN9weizAaVkDordn856QY8Kp2dEjmx4GgohbTpeCKcXrX_HXlsKRiD_lBDvtHDDSfExy_MUaGs2SVvfJRX21hN-_ekh",
+            "type": [
+              "Carpintero"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Carpimoble",
+            "data_id": "0x0:0xe74160300cd1e142",
+            "data_cid": "16663705855737323842",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe74160300cd1e142&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe74160300cd1e142&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4102554,
+              "longitude": -8.5900363
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xe74160300cd1e142%218m2%213d42.4102554%214d-8.5900363&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.5,
+            "reviews": 93,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNC0IL95qR0QAEeEfFMR3QE_YOOTLcpVfvIERM9uMLWxy5FqprHUno7eFKb6pdOw5DKq-gUL_3rk-ZOnsvT6KiTUCQN8sa4-h7sX--9kHnxhhXXHeCURImrnf_kkIabpbw5JzY=w156-h156-n-k-no",
+            "type": [
+              "Carpintería",
+              "Tienda de armarios",
+              "Carpintero",
+              "Fábrica de muebles",
+              "Tienda de muebles"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.es/search?q=local+guide+program&ibp=gwp;0,26,OjAKLiIqQ2FycGludGVyw61hIENleWVkYSwgUy5MLlUuIFBvbnRlIENhbGRlbGFzKAI&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjAKLiIqQ2FycGludGVyw61hIENleWVkYSwgUy5MLlUuIFBvbnRlIENhbGRlbGFzKAI&q=local+guide+program"
+  }
+}

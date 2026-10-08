@@ -1,0 +1,86 @@
+{
+  "place_id": "ChIJOxjzGbFxLw0RsbtzDZKnDBM",
+  "name": "Carpintería y Ebanistería Leins",
+  "data_id": "0xd2f71b119f3183b:0x130ca7920d73bbb1",
+  "address": "Rúa Doutor Loureiro Crespo, 64, 36004 Pontevedra",
+  "phone": "620 25 27 93",
+  "website": "http://www.carpinteriaebanisterialeins.com/",
+  "domain": "carpinteriaebanisterialeins.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintero",
+  "secondary_categories": [
+    "Tienda de mobiliario para dormitorios",
+    "Ebanista",
+    "Tienda de armarios",
+    "Proveedor de puertas",
+    "Carpintería",
+    "Tienda de muebles de cocina",
+    "Servicio de instalación de suelos de madera"
+  ],
+  "attributes": [],
+  "attributes_count": 0,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "10:00–13:00, 19:30–21:00"
+    },
+    {
+      "jueves": "10:00–13:00, 19:30–21:00"
+    },
+    {
+      "viernes": "10:00–13:00, 19:30–21:00"
+    },
+    {
+      "sábado": "10:30–13:00"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "10:00–13:00, 19:30–21:00"
+    },
+    {
+      "martes": "10:00–13:00, 19:30–21:00"
+    }
+  ],
+  "photo_groups": [],
+  "n_photos": null,
+  "has_posts": true,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 4,
+  "total_reviews": 8,
+  "rating_distribution": {
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 6
+  },
+  "reviews_sampled": 8,
+  "last_review_age_days": 701,
+  "reviews_last_12m": 0,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.0,
+  "owner_response_rate": 0,
+  "reviews_with_text_pct": 50,
+  "avg_review_length": 172,
+  "review_topics": [],
+  "review_highlights": [
+    "Muy muy recomendados.",
+    "No tengo buena experiencia con ellos y a la hora de pagar te llevas sorpresa...",
+    "Muy contenta con el trabajo realizado 👍"
+  ],
+  "grid": {
+    "cells_top": 8,
+    "solv_pct": 8.8,
+    "avr": 9.8,
+    "reach_median_km": 2.2,
+    "reach_max_km": 3.4
+  }
+}

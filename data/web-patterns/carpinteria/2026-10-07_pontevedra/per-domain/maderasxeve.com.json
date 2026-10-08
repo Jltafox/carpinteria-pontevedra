@@ -1,0 +1,98 @@
+{
+  "domain": "maderasxeve.com",
+  "website": "http://www.maderasxeve.com/",
+  "business": "Manufacturas Madereras Xeve",
+  "cells_top": 5,
+  "solv_pct": 6.8,
+  "pages_analyzed": [
+    "http://www.maderasxeve.com/"
+  ],
+  "cms": "WordPress",
+  "lang": "es",
+  "title": "Maderas Xeve – Fábrica de molduras y briquetas en Pontevedra.",
+  "meta_description": "Fábrica de molduras y briquetas en Pontevedra.",
+  "h1_text": "Maderas Xeve",
+  "rendered_with_js": false,
+  "h1_count": 1,
+  "h1_keyword_match": false,
+  "title_has_location": true,
+  "h1_has_location": false,
+  "h2_count": 1,
+  "headings": {
+    "http://www.maderasxeve.com/": {
+      "h1": [
+        "Maderas Xeve"
+      ],
+      "h2": [
+        "Manufacturas Madereras Xeve S.L. es una empresa perteneciente al sector maderero y su principal actividad es la fabricación, aserrado y preparado industrial de estructuras/molduras de madera y piezas de carpintería y ebanistería."
+      ],
+      "h3": [
+        "986 87 94 26",
+        "Briquetas de biomasa",
+        "Molduras de madera",
+        "Cubrecercos"
+      ]
+    }
+  },
+  "schema_types": [
+    "SiteNavigationElement",
+    "WPFooter",
+    "WPHeader",
+    "WebPage",
+    "WebSite"
+  ],
+  "has_localbusiness_schema": false,
+  "has_organization_schema": false,
+  "has_faq_schema": false,
+  "has_service_schema": false,
+  "has_breadcrumb_schema": false,
+  "has_review_schema": false,
+  "schema_completeness_pct": 0,
+  "schema_invalid_blocks": 0,
+  "n_services_listed": 2,
+  "service_headings": [
+    "Manufacturas Madereras Xeve S.L. es una empresa perteneciente al sector maderero y su principal actividad es la fabricación, aserrado y preparado industrial de estructuras/molduras de madera y piezas de carpintería y ebanistería.",
+    "Molduras de madera"
+  ],
+  "has_hero": true,
+  "has_reviews_block": false,
+  "has_faq_block": false,
+  "has_gallery": false,
+  "floating_whatsapp": true,
+  "nap_in_footer": false,
+  "phone_on_page": true,
+  "has_map_embed": false,
+  "faq_count": 0,
+  "trust_signals": [
+    "desde 1985"
+  ],
+  "tel_links": 0,
+  "whatsapp_links": 0,
+  "has_form": false,
+  "first_cta": "medio",
+  "internal_links_count": 8,
+  "external_links_count": 0,
+  "internal_by_category": {
+    "servicio": 4,
+    "otros": 4
+  },
+  "pillar_map": [
+    "/",
+    "/briquetas-de-madera/",
+    "/fabrica-madera-pontevedra/",
+    "/fabrica-molduras-briquetas-galicia/",
+    "/fabrica-molduras-guarniciones-pino-galicia/",
+    "/situacion-fabrica/"
+  ],
+  "content_words_count": 69,
+  "services_page_words": null,
+  "mobile_performance": null,
+  "lighthouse_seo": null,
+  "lighthouse_accessibility": null,
+  "lighthouse_best_practices": null,
+  "mobile_lcp_ms": null,
+  "mobile_cls": null,
+  "mobile_tbt_ms": null,
+  "mobile_fcp_ms": null,
+  "pagespeed_error": "PageSpeed HTTP 429 (cuota sin clave agotada)"
+}

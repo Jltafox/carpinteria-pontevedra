@@ -1,0 +1,625 @@
+{
+  "search_metadata": {
+    "id": "6ac6744c3d40b6a3fb7d04b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VguTH52usJdwtkOOhf6Nn3cjnn8Ch8s0ogEk_JWTPbI/6ac6744c3d40b6a3fb7d04b4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VguTH52usJdwtkOOhf6Nn3cjnn8Ch8s0ogEk_JWTPbI/6ac6744c3d40b6a3fb7d04b4.md",
+    "created_at": "2026-10-07 16:33:16 UTC",
+    "processed_at": "2026-10-07 16:33:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71c5f1e79131:0x65c24e09dfea07f9!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/VguTH52usJdwtkOOhf6Nn3cjnn8Ch8s0ogEk_JWTPbI/6ac6744c3d40b6a3fb7d04b4.html",
+    "prettify_html_file": "https://serpapi.com/searches/VguTH52usJdwtkOOhf6Nn3cjnn8Ch8s0ogEk_JWTPbI/6ac6744c3d40b6a3fb7d04b4.prettify",
+    "total_time_taken": 2.53
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71c5f1e79131:0x65c24e09dfea07f9",
+    "hl": "es",
+    "next_page_token": "CjEIARIpCgoAP72GVkWC7h__EhDDoAfnHoR7CWDWrigAAAAAGgn92RYCZWRYLuEYACIA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wRVYzVlZWalZUYVVSVFYyMTFWVFZDZEVKZmRVRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmpEV3VVVjVTaURTV211VTVCdEJfdUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 11 meses",
+      "iso_date": "2025-10-25T13:22:15Z",
+      "iso_date_of_last_edit": "2025-10-25T13:22:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRVYzVlZWalZUYVVSVFYyMTFWVFZDZEVKZmRVRRAB",
+      "user": {
+        "name": "Antón Noche Arozamena",
+        "link": "https://www.google.com/maps/contrib/108543333661145736084?hl=es",
+        "contributor_id": "108543333661145736084",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXFsUrMVlng2No7XycLuT9rtzbw_6V2vJdFgOIQ_UJmQQm_KMc=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 2
+      },
+      "snippet": "Un taller agradable con buenos y competentes trabajadores, con proyectos muy variados",
+      "extracted_snippet": {
+        "original": "Un taller agradable con buenos y competentes trabajadores, con proyectos muy variados"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 11 meses",
+        "iso_date": "2025-11-07T16:29:34Z",
+        "iso_date_of_last_edit": "2025-11-07T16:29:34Z",
+        "snippet": "Muchas gracias!!",
+        "extracted_snippet": {
+          "original": "Muchas gracias!!"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kaWNsRjNkV2gyZFRoSGQzcFdRME5HWkV0UWJsRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmdiclF3dWh2dThHd3pWQ0NGZEtQblE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 11 meses",
+      "iso_date": "2025-10-25T09:43:35Z",
+      "iso_date_of_last_edit": "2025-10-25T10:47:12Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaWNsRjNkV2gyZFRoSGQzcFdRME5HWkV0UWJsRRAB",
+      "user": {
+        "name": "Teresa Gomez Raido",
+        "link": "https://www.google.com/maps/contrib/100566153986929028185?hl=es",
+        "contributor_id": "100566153986929028185",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIgTxQaPTvWS8-cuNtB-q_c9TKrR_BeY6SDvvrvgGkNJ0S4lA=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Profesionales serios y con un trato exquisito,utilizando materiales de alta calidad .Rubén te asesora y te ayuda a que tu proyecto sea una realidad.Sin duda Grupo Arta es un diez.",
+      "extracted_snippet": {
+        "original": "Profesionales serios y con un trato exquisito,utilizando materiales de alta calidad .Rubén te asesora y te ayuda a que tu proyecto sea una realidad.Sin duda Grupo Arta es un diez."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 11 meses",
+        "iso_date": "2025-11-07T16:29:47Z",
+        "iso_date_of_last_edit": "2025-11-07T16:29:47Z",
+        "snippet": "Gracias Teresa!\n\nUn placer",
+        "extracted_snippet": {
+          "original": "Gracias Teresa!\n\nUn placer"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taeloxbFBiMTh0Um1seGVtSTVWRU5JV1ZKdk1rRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOkZzZ1lPb18tRmlxemI5VENIWVJvMkE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-23T12:48:29Z",
+      "iso_date_of_last_edit": "2025-09-23T12:48:29Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeloxbFBiMTh0Um1seGVtSTVWRU5JV1ZKdk1rRRAB",
+      "user": {
+        "name": "Marta Acosta Veiga",
+        "link": "https://www.google.com/maps/contrib/109198093060946076704?hl=es",
+        "contributor_id": "109198093060946076704",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIGLJ0-fUum117FoxlRD3UbIff7nlWjB6uWJghnG-gV6YM0_Qc=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 9
+      },
+      "snippet": "El trabajo realizado fue excelente. Los acabados son de gran calidad y se nota la dedicación en cada detalle. Cumplieron con lo que les pedí y hasta mejoraron mis ideas. La atención al cliente en su showroom es muy buena, siempre dispuestos a escuchar. Muy profesionales y totalmente recomendables para cualquier proyecto.",
+      "extracted_snippet": {
+        "original": "El trabajo realizado fue excelente. Los acabados son de gran calidad y se nota la dedicación en cada detalle. Cumplieron con lo que les pedí y hasta mejoraron mis ideas. La atención al cliente en su showroom es muy buena, siempre dispuestos a escuchar. Muy profesionales y totalmente recomendables para cualquier proyecto."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-29T20:07:42Z",
+        "iso_date_of_last_edit": "2025-09-29T20:07:42Z",
+        "snippet": "Muchas gracias por el comentario Marta!\n\nClientes como tú hacen todo mucho más fácil.",
+        "extracted_snippet": {
+          "original": "Muchas gracias por el comentario Marta!\n\nClientes como tú hacen todo mucho más fácil."
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aQ1QwZHZiMlUzWlc5MlpqWlBVR1paV1U5bE4xRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmZCT0dvb2U3ZW92ZjZPUGZZWU9lN1E%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-21T14:39:44Z",
+      "iso_date_of_last_edit": "2025-09-21T14:39:44Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQ1QwZHZiMlUzWlc5MlpqWlBVR1paV1U5bE4xRRAB",
+      "user": {
+        "name": "Carla Martínez",
+        "link": "https://www.google.com/maps/contrib/101175053652127393718?hl=es",
+        "contributor_id": "101175053652127393718",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXD3Qa2o5m-7oT5Y2lt8_o4O2zKA6_-eq6VROpmxwtKkL1VbDkrZQ=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 1
+      },
+      "snippet": "Han sido muy rápidos en realizar la reforma. Han tenido un trato excepcional y trabajan con mucha profesionalidad. Sin duda volveré a contratar los servicios si necesito volver a hacer reformas.",
+      "extracted_snippet": {
+        "original": "Han sido muy rápidos en realizar la reforma. Han tenido un trato excepcional y trabajan con mucha profesionalidad. Sin duda volveré a contratar los servicios si necesito volver a hacer reformas."
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-25T10:12:45Z",
+        "iso_date_of_last_edit": "2025-09-25T10:12:45Z",
+        "snippet": "Muchísimas gracias por el comentario Carla! Y nos enorgullece haber cumplido con las expectativas. ",
+        "extracted_snippet": {
+          "original": "Muchísimas gracias por el comentario Carla! Y nos enorgullece haber cumplido con las expectativas. "
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5b2EzRk1iV0ZFUTJKa2JHTnphVEF0TUdsbVFuYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOk9oa3FMbWFEQ2JkbGNzaTAtMGlmQnc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-21T14:39:38Z",
+      "iso_date_of_last_edit": "2025-09-21T14:39:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b2EzRk1iV0ZFUTJKa2JHTnphVEF0TUdsbVFuYxAB",
+      "user": {
+        "name": "estefania nieto",
+        "link": "https://www.google.com/maps/contrib/104386883856454769524?hl=es",
+        "contributor_id": "104386883856454769524",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUDxhJw2Ly3Ql21_F1YKGKN-Wef2pMG-OqCFXJkH437WAqgbNw=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "100% recomendable. Ya es el segundo trabajo que me hacen en casa y la verdad, no puedo estar más agradecida por su profesionalidad y limpieza durante el tiempo que emplearon. Gracias!",
+      "extracted_snippet": {
+        "original": "100% recomendable. Ya es el segundo trabajo que me hacen en casa y la verdad, no puedo estar más agradecida por su profesionalidad y limpieza durante el tiempo que emplearon. Gracias!"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-25T10:13:01Z",
+        "iso_date_of_last_edit": "2025-09-25T10:13:01Z",
+        "snippet": "Gracias Estefanía! \n\nHa sido un placer.",
+        "extracted_snippet": {
+          "original": "Gracias Estefanía! \n\nHa sido un placer."
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4NWFUZGpVMmRQY2xWQ1RsVkJOMWRhY2twMlJXYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOkx5aTdjU2dPclVCTlVBN1dackp2RWc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-21T14:37:54Z",
+      "iso_date_of_last_edit": "2025-09-21T14:37:54Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NWFUZGpVMmRQY2xWQ1RsVkJOMWRhY2twMlJXYxAB",
+      "user": {
+        "name": "Miguel Asencio Laguna",
+        "link": "https://www.google.com/maps/contrib/107419230192829427243?hl=es",
+        "contributor_id": "107419230192829427243",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXzwBnXjh927Cdl1fRfL64m9Ct2KweyHflXdE_2g4qpJyuHYy2o=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 2
+      },
+      "snippet": "Muy buen servicio, un trato inmejorable! Cumplen las fechas acordadas y todo muy profesional, 100% recomendado",
+      "extracted_snippet": {
+        "original": "Muy buen servicio, un trato inmejorable! Cumplen las fechas acordadas y todo muy profesional, 100% recomendado"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-29T20:08:02Z",
+        "iso_date_of_last_edit": "2025-09-29T20:08:02Z",
+        "snippet": "Gracias Miguel!\n\n",
+        "extracted_snippet": {
+          "original": "Gracias Miguel!\n\n"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25BdFkxUXdjVEk1YTJwWFV6VnNiRzlvT1VSV2JGRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOnAtY1QwcTI5a2pXUzVsbG9oOURWbFE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-18T16:35:45Z",
+      "iso_date_of_last_edit": "2025-09-18T16:38:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFkxUXdjVEk1YTJwWFV6VnNiRzlvT1VSV2JGRRAB",
+      "user": {
+        "name": "ADRIAN MARTINEZ TORREGROSA",
+        "link": "https://www.google.com/maps/contrib/112780146778283320856?hl=es",
+        "contributor_id": "112780146778283320856",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLjFAZXdUR3O1eBQwkk4pTCKXt60JSjQ-Vy0uX55Divm_y3Yw=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Desde el primer contacto mostraron ser bastantes profesionales, puntualidad y atención al detalle. El resultado superó mis expectativas.\nMuy satisfecho con el trabajo.",
+      "extracted_snippet": {
+        "original": "Desde el primer contacto mostraron ser bastantes profesionales, puntualidad y atención al detalle. El resultado superó mis expectativas.\nMuy satisfecho con el trabajo."
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-21T07:45:58Z",
+        "iso_date_of_last_edit": "2025-09-21T07:45:58Z",
+        "snippet": "Muchas gracias Adrián!\n\n",
+        "extracted_snippet": {
+          "original": "Muchas gracias Adrián!\n\n"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pFeVdtNVZYekp0V2xKb09FWnFTWEUwYzBGRmFHYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOjEyWm5VXzJtWlJoOEZqSXE0c0FFaGc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-18T16:34:11Z",
+      "iso_date_of_last_edit": "2025-09-18T16:34:11Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeVdtNVZYekp0V2xKb09FWnFTWEUwYzBGRmFHYxAB",
+      "user": {
+        "name": "Krystel",
+        "link": "https://www.google.com/maps/contrib/103776934294988683108?hl=es",
+        "contributor_id": "103776934294988683108",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLUttT7YcLsP6nHthAZXXnhIuvI-E6pkSEjvRSwudbUO4lJ6cK=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Muy profesionales, calidades muy buenas en la reforma del dormitorio y cocina que me realizaron. Trato muy bueno y comprometidos con las fechas.",
+      "extracted_snippet": {
+        "original": "Muy profesionales, calidades muy buenas en la reforma del dormitorio y cocina que me realizaron. Trato muy bueno y comprometidos con las fechas."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-21T07:46:48Z",
+        "iso_date_of_last_edit": "2025-09-21T07:46:48Z",
+        "snippet": "Gracias por el comentario!\n\nUn placer haber participado en este proyecto.",
+        "extracted_snippet": {
+          "original": "Gracias por el comentario!\n\nUn placer haber participado en este proyecto."
+        }
+      }
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWemMxRkJMVVJaVUc5SWRYTm5hME15WWxkRmMyYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlVzc1FBLURZUG9IdXNna0MyYldFc2c%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-17T14:02:01Z",
+      "iso_date_of_last_edit": "2025-09-17T14:02:01Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWemMxRkJMVVJaVUc5SWRYTm5hME15WWxkRmMyYxAB",
+      "user": {
+        "name": "Cristina Martín Pozo",
+        "link": "https://www.google.com/maps/contrib/104201153350780042052?hl=es",
+        "contributor_id": "104201153350780042052",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJV_zUxXcVlX4Pdg76DG415jq2mhIkZ6jp7rYlPfZ-nxjYGpQ=s120-c-rp-mo-br100",
+        "reviews": 9,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-18T16:07:40Z",
+        "iso_date_of_last_edit": "2025-09-18T16:07:40Z",
+        "snippet": "Buenas tardes Cristina,\n\nNos gustaría saber a qué se debe esta mala reseña. Ya que no nos consta ningún proyecto reciente con ninguna clienta que se llame Cristina.\n\nPuede aclarárnoslo por favor?\n\nDe ser solo por hacer daño, esperemos que sea feliz con ello y esperemos que trabaje el karma.\n\nGracias!!\n",
+        "extracted_snippet": {
+          "original": "Buenas tardes Cristina,\n\nNos gustaría saber a qué se debe esta mala reseña. Ya que no nos consta ningún proyecto reciente con ninguna clienta que se llame Cristina.\n\nPuede aclarárnoslo por favor?\n\nDe ser solo por hacer daño, esperemos que sea feliz con ello y esperemos que trabaje el karma.\n\nGracias!!\n"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSa1psUm5iVFJ2TTNwMlRFOXVkMUZmUVhCWWJuYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlRkZlRnbTRvM3p2TE9ud1FfQXBYbnc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-15T20:17:48Z",
+      "iso_date_of_last_edit": "2025-09-15T20:17:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSa1psUm5iVFJ2TTNwMlRFOXVkMUZmUVhCWWJuYxAB",
+      "user": {
+        "name": "Daniel Paniagua Infante",
+        "link": "https://www.google.com/maps/contrib/115920989205747322283?hl=es",
+        "contributor_id": "115920989205747322283",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL9axz0mxED_V5F2FZQACm0iaCkZaw9xLadhOQR-ObsVw1Prg=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 0
+      },
+      "snippet": "Todo genial",
+      "extracted_snippet": {
+        "original": "Todo genial"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace 9 meses",
+        "iso_date": "2025-12-15T15:47:14Z",
+        "iso_date_of_last_edit": "2025-12-15T15:47:14Z",
+        "snippet": "Gracias Daniel!",
+        "extracted_snippet": {
+          "original": "Gracias Daniel!"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214aU9XVkdkR3R5YkRsSFZGSldXR05GVmtSQ1FWRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmxiOWVGdGtybDlHVFJWWGNFVkRCQVE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-15T18:40:17Z",
+      "iso_date_of_last_edit": "2025-09-15T18:40:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aU9XVkdkR3R5YkRsSFZGSldXR05GVmtSQ1FWRRAB",
+      "user": {
+        "name": "Abraham Elías",
+        "link": "https://www.google.com/maps/contrib/103374890889993286970?hl=es",
+        "contributor_id": "103374890889993286970",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK5jQic_-fg3QygzdUKPQatot_MkPvscz5pRQ-x8n4p0oKQSw=s120-c-rp-mo-ba12-br100",
+        "reviews": 16,
+        "photos": 1
+      },
+      "snippet": "Grandes Profesionales , serios y de confianza. Sus servicios superaron mis expectativas. 100% recomendables.",
+      "extracted_snippet": {
+        "original": "Grandes Profesionales , serios y de confianza. Sus servicios superaron mis expectativas. 100% recomendables."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-18T16:05:52Z",
+        "iso_date_of_last_edit": "2025-09-18T16:05:52Z",
+        "snippet": "Gracias Abraham!\n\nNos alegra haber cumplido las expectativas.\n\nUn saludo ",
+        "extracted_snippet": {
+          "original": "Gracias Abraham!\n\nNos alegra haber cumplido las expectativas.\n\nUn saludo "
+        }
+      }
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT200elZXdGxOVmR1TmxoUVZ6UjFUbFJ1VDJ4SlRYYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOm4zVWtlNVduNlhQVzR1TlRuT2xJTXc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-15T18:32:02Z",
+      "iso_date_of_last_edit": "2025-09-15T18:32:02Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200elZXdGxOVmR1TmxoUVZ6UjFUbFJ1VDJ4SlRYYxAB",
+      "user": {
+        "name": "TOP GEARS PONTEVEDRA 164 ###",
+        "link": "https://www.google.com/maps/contrib/117512247657372151772?hl=es",
+        "contributor_id": "117512247657372151772",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWXn0JGNcCWoto1U7YwVAADbmHakHYLnLrs3cUFR5b_hWAt3_BW=s120-c-rp-mo-ba12-br100",
+        "reviews": 18,
+        "photos": 11
+      },
+      "snippet": "Todo según lo hablado , el tiempo de entrega y los costes finales",
+      "extracted_snippet": {
+        "original": "Todo según lo hablado , el tiempo de entrega y los costes finales"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-18T16:05:18Z",
+        "iso_date_of_last_edit": "2025-09-18T16:05:18Z",
+        "snippet": "Muchas gracias!",
+        "extracted_snippet": {
+          "original": "Muchas gracias!"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsV2FtUlJXVUZHVjBWbWFGUnNkSGg2Um1FMFFtYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOklWamRRWUFGV0VmaFRsdHh6RmE0Qmc%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-09-15T14:02:09Z",
+      "iso_date_of_last_edit": "2025-09-15T14:02:09Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsV2FtUlJXVUZHVjBWbWFGUnNkSGg2Um1FMFFtYxAB",
+      "user": {
+        "name": "Carmen",
+        "link": "https://www.google.com/maps/contrib/108697515931506306794?hl=es",
+        "contributor_id": "108697515931506306794",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJHGMEsyw8JWmwl-r6__09unYLTUkEwfnu7EeFyoCRxDyV0Zw=s120-c-rp-mo-ba12-br100",
+        "reviews": 16,
+        "photos": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-15T18:02:12Z",
+        "iso_date_of_last_edit": "2025-09-15T18:02:12Z",
+        "snippet": "Buenas tardes Carmen,\n\nNos gustaría saber a qué se debe esta mala reseña. Ya que no nos consta ningún proyecto reciente con ninguna clienta que se llame Carmen.\n\nPuede aclarárnoslo por favor?\n\nGracias",
+        "extracted_snippet": {
+          "original": "Buenas tardes Carmen,\n\nNos gustaría saber a qué se debe esta mala reseña. Ya que no nos consta ningún proyecto reciente con ninguna clienta que se llame Carmen.\n\nPuede aclarárnoslo por favor?\n\nGracias"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210TVRERk1WMnB2VG5JMGFHcEdaakpDTXpWUk1VRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmtMTDFMV2pvTnI0aGpGZjJCMzVRMUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-07-05T18:05:57Z",
+      "iso_date_of_last_edit": "2025-07-05T18:05:57Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TVRERk1WMnB2VG5JMGFHcEdaakpDTXpWUk1VRRAB",
+      "user": {
+        "name": "roberto sampedro",
+        "link": "https://www.google.com/maps/contrib/100341239170655628722?hl=es",
+        "contributor_id": "100341239170655628722",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXuqPlCmzRT3SKPkrSoHZb7UOEa5U-CEIOz2xzhVLyPn6R6v2xU=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 6
+      },
+      "snippet": "Seriedad y profesionalidad, trabajo de calidad.",
+      "extracted_snippet": {
+        "original": "Seriedad y profesionalidad, trabajo de calidad."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-15T11:27:35Z",
+        "iso_date_of_last_edit": "2025-09-15T11:27:35Z",
+        "snippet": "Muchas gracias Roberto!",
+        "extracted_snippet": {
+          "original": "Muchas gracias Roberto!"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2podGRVYzRSMlJHVjBGdUxYQmZRVGc0WTBwa1UyYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOjhtdUc4R2RGV0FuLXBfQTg4Y0pkU2c%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-07-05T17:14:10Z",
+      "iso_date_of_last_edit": "2025-07-05T17:14:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podGRVYzRSMlJHVjBGdUxYQmZRVGc0WTBwa1UyYxAB",
+      "user": {
+        "name": "Shira VT",
+        "link": "https://www.google.com/maps/contrib/105932213469056686434?hl=es",
+        "contributor_id": "105932213469056686434",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJTCz8N2_Go84W93QoNrfJW37hiRfOBwF74tCWtAQjVYneGVw=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsa1FVcEpWRXg1ZEU1ZmNsbG5RbGRUZGw5ZlFuYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOklkQUpJVEx5dE5fcllnQldTdl9fQnc%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-07-02T11:01:34Z",
+      "iso_date_of_last_edit": "2025-07-02T11:01:34Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa1FVcEpWRXg1ZEU1ZmNsbG5RbGRUZGw5ZlFuYxAB",
+      "user": {
+        "name": "Iria Rodríguez de Jesús",
+        "link": "https://www.google.com/maps/contrib/103153236120988724456?hl=es",
+        "contributor_id": "103153236120988724456",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIGnMFUWuZsbggsyVkjWXcG_YJhrBk6YFjZaUoO7XGTonoWMQ=s120-c-rp-mo-ba12-br100",
+        "reviews": 13,
+        "photos": 32
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-07-03T13:57:02Z",
+        "iso_date_of_last_edit": "2025-07-03T13:57:02Z",
+        "snippet": "Hola, \n\nNos sorprende ver una reseña negativa sin ningún comentario, especialmente cuando no nos consta que hayas sido cliente de nuestra empresa.\n\nSi ha habido algún malentendido o experiencia desafortunada, estaremos encantados de aclararlo o ayudarte en lo que necesites. Nuestro compromiso con la calidad y el trato personalizado es una prioridad — y si hay algo que mejorar, preferimos saberlo con palabras, no con silencios de una estrella 😉\n\nQuedamos a tu disposición por aquí o directamente en nuestras oficinas.\n\nUn saludo",
+        "extracted_snippet": {
+          "original": "Hola, \n\nNos sorprende ver una reseña negativa sin ningún comentario, especialmente cuando no nos consta que hayas sido cliente de nuestra empresa.\n\nSi ha habido algún malentendido o experiencia desafortunada, estaremos encantados de aclararlo o ayudarte en lo que necesites. Nuestro compromiso con la calidad y el trato personalizado es una prioridad — y si hay algo que mejorar, preferimos saberlo con palabras, no con silencios de una estrella 😉\n\nQuedamos a tu disposición por aquí o directamente en nuestras oficinas.\n\nUn saludo"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNVHlxNjN1enN2OTNRRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEMTyq63uzsv93QE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-05-06T09:21:04Z",
+      "iso_date_of_last_edit": "2025-05-06T09:21:04Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VNVHlxNjN1enN2OTNRRRAB",
+      "user": {
+        "name": "Juan García Escriu",
+        "link": "https://www.google.com/maps/contrib/107154693800037653941?hl=es",
+        "contributor_id": "107154693800037653941",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-BVq2QddJ2PXh_G-zhzc7EJt2O-Qboll9VpG4SvJoslCm_bsemA=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 0
+      },
+      "snippet": "Contraté los servicios de Grupo Arta para toda la carpintería en una reforma integral de alto nivel en Madrid. El resultado ha sido espectacular. Pendientes de cada detalle en todo momento y sobre todo resolutivos cuando surgían problemas. Muy recomendables. Gracias! 🙏",
+      "extracted_snippet": {
+        "original": "Contraté los servicios de Grupo Arta para toda la carpintería en una reforma integral de alto nivel en Madrid. El resultado ha sido espectacular. Pendientes de cada detalle en todo momento y sobre todo resolutivos cuando surgían problemas. Muy recomendables. Gracias! 🙏"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-15T11:28:18Z",
+        "iso_date_of_last_edit": "2025-09-15T11:28:18Z",
+        "snippet": "Muchas gracias Juan!\n\nHa sido un placer poder desarrollar tu proyecto y que el resultado haya sido tan satisfactorio",
+        "extracted_snippet": {
+          "original": "Muchas gracias Juan!\n\nHa sido un placer poder desarrollar tu proyecto y que el resultado haya sido tan satisfactorio"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNZaXMtSU1BEAE!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEICAgMCYis-IMA%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Fecha de edición: Hace un año",
+      "iso_date": "2025-05-03T08:08:35Z",
+      "iso_date_of_last_edit": "2025-05-06T08:13:32Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaXMtSU1BEAE",
+      "user": {
+        "name": "Alba García López",
+        "link": "https://www.google.com/maps/contrib/110419053672171377819?hl=es",
+        "contributor_id": "110419053672171377819",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVp1ZxIjIOjB2POIxJBJ8TVUb2NhU9p-pMef_ljAMBQuIiAWRgIEw=s120-c-rp-mo-br100",
+        "reviews": 10,
+        "photos": 0
+      },
+      "snippet": "Una cocina preciosa, hecha con mucho mimo y todos los detalles de gran calidad. Magnífica atención y consejos de Rubén y equipo. Estamos encantados!",
+      "extracted_snippet": {
+        "original": "Una cocina preciosa, hecha con mucho mimo y todos los detalles de gran calidad. Magnífica atención y consejos de Rubén y equipo. Estamos encantados!"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2025-09-15T11:29:15Z",
+        "iso_date_of_last_edit": "2025-09-15T11:29:15Z",
+        "snippet": "Muchas gracias Alba, ha sido un placer!\n\nUna cocina preciosa y que ahora toca disfrutar!",
+        "extracted_snippet": {
+          "original": "Muchas gracias Alba, ha sido un placer!\n\nUna cocina preciosa y que ahora toca disfrutar!"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNZNnA2a25nRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEICAgMCY6p6kngE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-05-03T12:23:53Z",
+      "iso_date_of_last_edit": "2025-05-03T12:23:53Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNnA2a25nRRAB",
+      "user": {
+        "name": "Jorge Torres",
+        "link": "https://www.google.com/maps/contrib/111277545659287952897?hl=es",
+        "contributor_id": "111277545659287952897",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLfxl9uW0UPmCTviaoQ2RM6U5tImg8EBLK20oGcORrVG0ZTZg=s120-c-rp-mo-ba12-br100",
+        "reviews": 41,
+        "photos": 1
+      },
+      "snippet": "Excepcionales!",
+      "extracted_snippet": {
+        "original": "Excepcionales!"
+      },
+      "likes": 1
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNZcXREcDlBRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEICAgMCYqtDp9AE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-05-03T10:04:44Z",
+      "iso_date_of_last_edit": "2025-05-03T10:04:44Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcXREcDlBRRAB",
+      "user": {
+        "name": "Juan jose Sanchez",
+        "link": "https://www.google.com/maps/contrib/113930180329878419888?hl=es",
+        "contributor_id": "113930180329878419888",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJHuvBLHeLMmoMvZ5355ETjeJChD4pQh_Do11f7Cy9bjP4jJQ=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 1
+      },
+      "snippet": "Innovación y diseño.  Acabados impecables. Sin duda profesionales de confianza, por lo que recomiendo 100% tanto para cocinas y armarios como trabajos de carpintería en general.",
+      "extracted_snippet": {
+        "original": "Innovación y diseño.  Acabados impecables. Sin duda profesionales de confianza, por lo que recomiendo 100% tanto para cocinas y armarios como trabajos de carpintería en general."
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f71c5f1e79131%3A0x65c24e09dfea07f9&engine=google_maps_reviews&hl=es&next_page_token=CjEIARIpCgoAP72GlqZQHE__EhAHeGt5p9xsxhdFxMMAAAAAGgn93pwCaWplAcQYACIA%3A21&num=20&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GlqZQHE__EhAHeGt5p9xsxhdFxMMAAAAAGgn93pwCaWplAcQYACIA:21"
+  }
+}

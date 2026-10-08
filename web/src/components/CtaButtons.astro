@@ -1,0 +1,18 @@
+---
+import { phoneLabel, telHref, waHref } from '../lib/site';
+
+interface Props {
+  servicio?: string;
+  zona?: string;
+}
+const { servicio, zona } = Astro.props;
+const params = new URLSearchParams();
+if (servicio) params.set('servicio', servicio);
+if (zona) params.set('zona', zona);
+const quote = '/presupuesto/' + (params.size ? `?${params}` : '');
+---
+<div class="ctas">
+  <a class="btn btn-primary" href={quote}>Pedir presupuesto</a>
+  <a class="btn" href={telHref()}>Llamar · {phoneLabel()}</a>
+  <a class="btn btn-wa" href={waHref()}>WhatsApp</a>
+</div>

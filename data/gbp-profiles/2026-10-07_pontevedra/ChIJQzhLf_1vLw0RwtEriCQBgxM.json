@@ -1,0 +1,87 @@
+{
+  "place_id": "ChIJQzhLf_1vLw0RwtEriCQBgxM",
+  "name": "Amengo - Ebanistería, mueblería y carpintería al detalle.",
+  "data_id": "0xd2f6ffd7f4b3843:0x13830124882bd1c2",
+  "address": "Rúa República Arxentina, 19, 36915 Marín, Pontevedra",
+  "phone": "644 35 70 40",
+  "website": "https://www.instagram.com/carpinteria_amengo_manacho/",
+  "domain": "instagram.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Ebanista",
+  "secondary_categories": [],
+  "attributes": [],
+  "attributes_count": 0,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "8:00–15:00"
+    },
+    {
+      "jueves": "8:00–15:00"
+    },
+    {
+      "viernes": "8:00–15:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "8:00–15:00"
+    },
+    {
+      "martes": "8:00–15:00"
+    }
+  ],
+  "photo_groups": [],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 5,
+  "total_reviews": 36,
+  "rating_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 36
+  },
+  "reviews_sampled": 25,
+  "last_review_age_days": 119,
+  "reviews_last_12m": 12,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 1.0,
+  "owner_response_rate": 100,
+  "reviews_with_text_pct": 92,
+  "avg_review_length": 209,
+  "review_topics": [
+    "precio (4)",
+    "idea (3)",
+    "diseño (3)",
+    "unas (3)",
+    "fecha (2)",
+    "artista (2)",
+    "palabras (2)",
+    "puerta (2)"
+  ],
+  "review_highlights": [
+    "Buen profesional, buena disposición trabajando y seriedad con los plazos.",
+    "La experiencia fue muy positiva.",
+    "Quedamos muy contentos con el trabajo que nos hizo"
+  ],
+  "grid": {
+    "cells_top": 6,
+    "solv_pct": 9.5,
+    "avr": 8.6,
+    "reach_median_km": 1.4,
+    "reach_max_km": 2.8
+  }
+}

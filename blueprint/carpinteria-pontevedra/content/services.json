@@ -1,0 +1,171 @@
+{
+  "cocinas-a-medida": {
+    "topic": "cocinas a medida",
+    "card": "Diseño con render, fabricación en taller propio y montaje por nuestro equipo.",
+    "intro": "Diseñamos tu cocina sobre plano, la fabricamos a medida en nuestro taller de A Estrada y la monta nuestro propio equipo. Desde la primera visita hasta el último ajuste hablas con las mismas personas.",
+    "subservices": [
+      {"h3": "Diseño de cocina con render 3D", "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto."},
+      {"h3": "Fabricación de muebles de cocina en taller propio", "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra."},
+      {"h3": "Encimeras de porcelánico, granito y Silestone", "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno."},
+      {"h3": "Electrodomésticos de varias marcas", "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto."},
+      {"h3": "Reforma de cocina (parte de carpintería)", "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva."},
+      {"h3": "Montaje por equipo propio", "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra."}
+    ],
+    "materials": [
+      "Elegimos contigo frentes, cantos, herrajes y acabados: madera, lacados o laminados de alta presión. El objetivo es que la cocina dure y que el día a día sea cómodo, con cajones de cierre suave, interiores bien aprovechados y zonas de trabajo bien iluminadas."
+    ],
+    "price_question": "¿Cuánto cuesta una cocina a medida",
+    "price": {
+      "text": "El precio de una cocina a medida depende sobre todo de los metros lineales, de la gama de frentes y herrajes, de la encimera y de si incluye electrodomésticos. Tras la visita te damos un presupuesto detallado, partida por partida.",
+      "factors": ["Metros lineales y distribución (lineal, en L, en U, con isla)", "Gama de frentes, cantos y herrajes", "Material de la encimera", "Electrodomésticos incluidos o no"],
+      "ranges": [
+        {"label": "Cocina económica completa de unos 3 m lineales (muebles, electrodomésticos y encimera)", "value": "≈ 7.000 €"},
+        {"label": "Cocina económica completa de 5–6 m lineales", "value": "≈ 9.000 €"},
+        {"label": "Cocina de alta calidad completa de 3 m lineales", "value": "≈ 12.000 €"},
+        {"label": "Cocina de alta calidad completa de 5–6 m lineales", "value": "≈ 15.000 €"}
+      ]
+    },
+    "faqs": [
+      {"q": "¿Cuánto cuesta una cocina a medida?", "a": "Depende de los metros lineales, los materiales y de si incluye electrodomésticos y encimera. Tras la visita te damos un presupuesto detallado, partida por partida, para que sepas exactamente qué pagas."},
+      {"q": "¿El diseño de la cocina tiene coste?", "a": "Hacemos una valoración económica con la representación de tu cocina. Tiene un coste que se descuenta del presupuesto si decides hacerla con nosotros."},
+      {"q": "¿Cuánto se tarda en tener la cocina?", "a": "Te llamamos en menos de 2 días, visitamos la vivienda en 3–4 días laborables y te entregamos el presupuesto en 3–4 días. El plazo de fabricación y montaje te lo confirmamos en el presupuesto, según el proyecto."},
+      {"q": "¿Qué encimera me conviene?", "a": "El porcelánico y el granito resisten muy bien el calor y el rayado; el Silestone ofrece mucha variedad de acabados y es fácil de limpiar. En la visita vemos cuál encaja con tu forma de cocinar y tu presupuesto."},
+      {"q": "¿Incluís los electrodomésticos?", "a": "Sí, si quieres. Trabajamos con distintas marcas sin exclusividades, así que ajustamos la selección a tu presupuesto."},
+      {"q": "¿Os encargáis de la reforma completa de la cocina?", "a": "Nos encargamos de toda la parte de carpintería: muebles, encimeras, paneles y montaje. Si la reforma necesita otros gremios, lo hablamos en la visita para coordinar los tiempos."}
+    ]
+  },
+  "armarios-a-medida": {
+    "topic": "armarios y vestidores a medida",
+    "card": "Armarios empotrados y vestidores a la medida exacta del hueco.",
+    "intro": "Fabricamos armarios empotrados y vestidores a la medida exacta del hueco, con el interior pensado para lo que vas a guardar. Sin módulos estándar que dejan espacios perdidos.",
+    "subservices": [
+      {"h3": "Armarios empotrados", "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio."},
+      {"h3": "Vestidores", "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas."},
+      {"h3": "Frentes e interiores de armario", "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra."},
+      {"h3": "Despensas a medida", "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano."},
+      {"h3": "Huecos irregulares y bajo cubierta", "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia."}
+    ],
+    "materials": [
+      "La humedad es el gran enemigo de los armarios en Galicia. Elegimos tableros y acabados adecuados, dejamos ventilación cuando hace falta y cuidamos los herrajes para que puertas y cajones sigan funcionando con los años."
+    ],
+    "price_question": "¿Cuánto cuesta un armario a medida",
+    "price": {
+      "text": "El precio de un armario empotrado se suele calcular por metro cuadrado de frente y depende del tipo de puerta, del acabado y del interior que elijas. En la visita medimos el hueco y te damos un precio cerrado.",
+      "factors": ["Metros de frente y altura", "Puertas abatibles o correderas", "Acabado de las puertas", "Interior: cajones, zapateros, barras e iluminación"]
+    },
+    "faqs": [
+      {"q": "¿Cuánto cuesta un armario empotrado por m²?", "a": "Depende del tipo de puerta, el acabado y el interior. En la visita medimos el hueco y te damos un precio cerrado con todo incluido: fabricación, interior y montaje."},
+      {"q": "¿Y un vestidor a medida?", "a": "Un vestidor se presupuesta según sus metros lineales y su distribución interior: más cajones y accesorios suben el precio; más zonas de colgar lo bajan. Te proponemos varias distribuciones antes de cerrar el presupuesto."},
+      {"q": "¿Aprovecháis huecos irregulares o abuhardillados?", "a": "Sí, es una de las ventajas de fabricar a medida: adaptamos cada módulo a techos inclinados, pilares o paredes que no están a escuadra."},
+      {"q": "¿Se puede renovar solo el frente de un armario?", "a": "Sí. Si el armazón está en buen estado, cambiamos las puertas y reorganizamos el interior, que suele salir bastante más económico que un armario nuevo."},
+      {"q": "¿Cuánto tarda la instalación?", "a": "La visita es en 3–4 días laborables y el presupuesto llega en otros 3–4 días. En el presupuesto te confirmamos el plazo de fabricación y de montaje."}
+    ]
+  },
+  "muebles-a-medida": {
+    "topic": "muebles a medida",
+    "card": "Salones, librerías, dormitorios, muebles de baño y mobiliario para locales.",
+    "intro": "Muebles de madera hechos para tu casa: librerías, salones, dormitorios, muebles de baño o mobiliario para tu local. Diseñamos contigo cada pieza y la fabricamos en nuestro taller.",
+    "subservices": [
+      {"h3": "Muebles de salón y librerías", "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera."},
+      {"h3": "Dormitorios juveniles e infantiles", "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas."},
+      {"h3": "Muebles de baño a medida", "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad."},
+      {"h3": "Recibidores y zapateros", "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos."},
+      {"h3": "Mobiliario para locales", "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local."}
+    ],
+    "materials": [
+      "Trabajamos con madera maciza y con tableros de calidad según el uso de cada mueble, y cuidamos los acabados: barnices, lacados y aceites. Antes de fabricar revisamos contigo medidas, materiales y colores para que no haya sorpresas."
+    ],
+    "price_question": "¿Cuánto cuestan los muebles a medida",
+    "price": {
+      "text": "Cada mueble a medida es distinto, así que el precio sale del diseño: tamaño, material, acabado y herrajes. Con las medidas y unas fotos del espacio te podemos orientar antes de la visita.",
+      "factors": ["Tamaño y número de piezas", "Madera maciza o tablero", "Acabado: barniz, lacado o aceite", "Herrajes y complementos"]
+    },
+    "faqs": [
+      {"q": "¿Cuánto cuestan los muebles a medida?", "a": "Depende del tamaño, el material y el acabado. Con las medidas y unas fotos del espacio podemos darte una primera orientación, y tras la visita un presupuesto cerrado."},
+      {"q": "¿Qué madera utilizáis?", "a": "Según el mueble y su uso: madera maciza para las piezas que lo piden y tableros de calidad para grandes superficies o zonas húmedas. Te explicamos las opciones en la visita."},
+      {"q": "¿Hacéis muebles de baño resistentes a la humedad?", "a": "Sí. Elegimos materiales y acabados preparados para la humedad del baño y cuidamos el sellado de cantos y uniones."},
+      {"q": "¿Puedo traer mi propio diseño o una foto de referencia?", "a": "Claro. Partimos de tu idea, de un boceto o de una foto, y la adaptamos a las medidas reales y a lo que se puede fabricar."},
+      {"q": "¿También hacéis muebles para negocios?", "a": "Sí, fabricamos mostradores, expositores y mobiliario a medida para comercios y hostelería."}
+    ]
+  },
+  "rehabilitacion-de-madera": {
+    "topic": "rehabilitación de madera",
+    "card": "Tejados y cubiertas, armazones, vigas y forjados de madera en viviendas.",
+    "intro": "Recuperamos tejados, vigas, armazones y forjados de madera en viviendas. Valoramos el estado real de la estructura y te proponemos qué se puede reparar y qué conviene sustituir.",
+    "subservices": [
+      {"h3": "Tejados y cubiertas de madera", "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición."},
+      {"h3": "Armazones y estructuras de madera", "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas."},
+      {"h3": "Vigas de madera", "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos."},
+      {"h3": "Forjados de madera", "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones."},
+      {"h3": "Refuerzo y sustitución de piezas dañadas", "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda."}
+    ],
+    "materials": [
+      "En rehabilitación la clave es el diagnóstico: localizar la causa del daño (filtraciones, condensación o falta de ventilación) y corregirla, para que la madera nueva no vuelva a deteriorarse. Usamos madera apta para uso estructural y cuidamos los encuentros con muros y cubierta."
+    ],
+    "price_question": "¿Cuánto cuesta rehabilitar un tejado o un forjado de madera",
+    "price": {
+      "text": "Cada rehabilitación es distinta: el precio depende de cuánta estructura hay que sustituir, del acceso a la cubierta o al forjado y del estado de la madera. Por eso siempre empezamos con una visita de diagnóstico.",
+      "factors": ["Superficie de cubierta o forjado", "Piezas a reforzar frente a piezas a sustituir", "Accesos, andamios y medios auxiliares", "Estado de la madera y causa del daño"]
+    },
+    "faqs": [
+      {"q": "¿Se puede rehabilitar un forjado de madera o hay que sustituirlo?", "a": "Muchas veces se puede rehabilitar: si las vigas conservan sección suficiente, se refuerzan y se renueva el entablado. En la visita comprobamos el estado de cada pieza y te decimos qué se puede salvar."},
+      {"q": "¿Cómo sé si una viga de madera está dañada?", "a": "Señales habituales: deformaciones visibles, madera blanda al pincharla, serrín o pequeños orificios, manchas de humedad y crujidos nuevos. Ante cualquiera de ellas conviene revisarla cuanto antes."},
+      {"q": "¿Necesito proyecto técnico o licencia?", "a": "Depende del alcance de la obra y del ayuntamiento. Si la rehabilitación lo requiere, te lo indicamos en la visita para que la obra se tramite correctamente."},
+      {"q": "¿Cuánto dura una rehabilitación de tejado o forjado?", "a": "Depende de la superficie y del estado de la estructura. Tras la visita de diagnóstico te damos el presupuesto con el plazo de ejecución."},
+      {"q": "¿Trabajáis en casas de piedra y viviendas antiguas?", "a": "Sí. Las casas tradicionales gallegas, con muros de piedra y estructura de madera, son uno de los trabajos más habituales en rehabilitación."},
+      {"q": "¿Hacéis también la parte de albañilería?", "a": "Nos centramos en la carpintería y la estructura de madera. Si la obra necesita otros gremios, lo hablamos en la visita para coordinar los trabajos."}
+    ]
+  },
+  "carpinteria-exterior": {
+    "topic": "carpintería exterior de madera",
+    "card": "Porches, pérgolas, cobertizos y puertas exteriores de madera.",
+    "intro": "Porches, pérgolas, cobertizos y puertas de madera hechos a medida y pensados para el clima gallego: lluvia, humedad y viento.",
+    "subservices": [
+      {"h3": "Porches de madera a medida", "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela."},
+      {"h3": "Pérgolas", "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato."},
+      {"h3": "Cobertizos de madera", "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible."},
+      {"h3": "Puertas exteriores de madera", "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente."},
+      {"h3": "Muebles de exterior a medida", "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie."}
+    ],
+    "materials": [
+      "En exterior, la elección de la madera y su protección marcan cuánto dura el trabajo. Usamos maderas aptas para intemperie, evitamos los puntos donde se acumula el agua y te explicamos el mantenimiento que necesita cada acabado."
+    ],
+    "price_question": "¿Cuánto cuesta un porche de madera",
+    "price": {
+      "text": "El precio de un porche o una pérgola depende sobre todo de sus metros, del tipo de madera y de la cubierta. Con las medidas y unas fotos de la fachada te podemos orientar antes de la visita.",
+      "factors": ["Superficie y altura", "Tipo de madera y acabado", "Cubierta: teja, panel, policarbonato o lamas", "Cimentación y anclajes"]
+    },
+    "faqs": [
+      {"q": "¿Cuánto cuesta un porche de madera?", "a": "Depende de los metros, la madera y el tipo de cubierta. Con las medidas y unas fotos de la fachada podemos orientarte, y tras la visita te damos un presupuesto cerrado."},
+      {"q": "¿Qué madera aguanta mejor el clima gallego?", "a": "Para exterior se usan maderas con buena durabilidad natural o tratadas para intemperie, siempre con un acabado protector. En la visita te recomendamos la opción según la orientación y la exposición a la lluvia."},
+      {"q": "¿Un porche necesita licencia?", "a": "Depende del ayuntamiento y de las dimensiones: en muchos casos hace falta licencia o comunicación previa. Te lo indicamos en la visita."},
+      {"q": "¿Qué mantenimiento lleva la madera exterior?", "a": "Una revisión anual y renovar el acabado protector cada pocos años, según la exposición al sol y a la lluvia. Te explicamos el mantenimiento concreto de tu porche o pérgola."},
+      {"q": "¿Hacéis puertas exteriores a medida?", "a": "Sí, fabricamos puertas de exterior en madera a la medida del hueco."}
+    ]
+  },
+  "suelos-de-madera": {
+    "topic": "suelos de madera",
+    "card": "Tarima, parquet, pulido y barnizado, escaleras y rodapiés.",
+    "intro": "Instalamos, pulimos y barnizamos suelos de madera: tarima, parquet, escaleras y rodapiés, en viviendas nuevas y en reformas.",
+    "subservices": [
+      {"h3": "Tarima de madera", "text": "Instalación de tarima maciza o multicapa, flotante o clavada sobre rastrel, según el soporte y el uso de la estancia."},
+      {"h3": "Parquet", "text": "Colocación de parquet en distintos formatos y reparación de zonas dañadas."},
+      {"h3": "Pulido y barnizado", "text": "Recuperamos suelos de madera antiguos: pulido, reparación de juntas y barnizado o aceitado."},
+      {"h3": "Escaleras y rodapiés", "text": "Revestimiento de escaleras con madera y rodapiés a juego con el suelo."}
+    ],
+    "materials": [
+      "Antes de instalar un suelo de madera comprobamos la humedad del soporte, que es la causa más habitual de que una tarima se levante. Elegimos el sistema de colocación y la madera según el uso de cada estancia."
+    ],
+    "price_question": "¿Cuánto cuesta un suelo de madera",
+    "price": {
+      "text": "El precio depende de los metros cuadrados, de la madera elegida, del sistema de colocación y del estado del soporte.",
+      "factors": ["Metros cuadrados", "Tipo de madera: maciza o multicapa", "Sistema de colocación", "Estado y nivelación del soporte"]
+    },
+    "faqs": [
+      {"q": "¿Tarima o parquet?", "a": "La tarima suele tener piezas más largas y anchas; el parquet, piezas más pequeñas y más variedad de dibujos. Te ayudamos a elegir según la estancia, el uso y el presupuesto."},
+      {"q": "¿Se puede pulir un suelo de madera antiguo?", "a": "Si la madera tiene grosor suficiente, sí: se pule, se reparan las juntas y se vuelve a barnizar o aceitar."},
+      {"q": "¿Se puede poner tarima sobre el suelo actual?", "a": "En muchos casos sí, con una tarima flotante sobre el pavimento existente, siempre que esté nivelado y seco. Lo comprobamos en la visita."},
+      {"q": "¿Cuánto tarda la instalación?", "a": "Depende de los metros y del estado del soporte; te damos el plazo en el presupuesto."}
+    ]
+  }
+}

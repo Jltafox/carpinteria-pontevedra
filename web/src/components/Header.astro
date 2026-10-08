@@ -1,0 +1,19 @@
+---
+import { fill, phoneLabel, services, telHref } from '../lib/site';
+---
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/">{fill('{{marca}}')}</a>
+    <nav class="nav" aria-label="Principal">
+      <details class="menu">
+        <summary>Servicios</summary>
+        <ul>
+          {services.map((s) => <li><a href={s.route}>{s.h1}</a></li>)}
+        </ul>
+      </details>
+      <a href="/proyectos/">Trabajos</a>
+      <a class="tel" href={telHref()}>{phoneLabel()}</a>
+      <a class="btn btn-small btn-primary" href="/presupuesto/">Presupuesto</a>
+    </nav>
+  </div>
+</header>

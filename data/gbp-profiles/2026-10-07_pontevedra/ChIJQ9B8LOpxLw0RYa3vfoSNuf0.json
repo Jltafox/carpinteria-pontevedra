@@ -1,0 +1,61 @@
+{
+  "place_id": "ChIJQ9B8LOpxLw0RYa3vfoSNuf0",
+  "name": "CARPINTERIA MARTINEZ PAZ S.L.",
+  "data_id": "0xd2f71ea2c7cd043:0xfdb98d847eefad61",
+  "address": "RÚA CANCELA, 9, 36143 Pontevedra",
+  "phone": "986 84 76 25",
+  "website": null,
+  "domain": null,
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintero",
+  "secondary_categories": [],
+  "attributes": [],
+  "attributes_count": 0,
+  "missing_attributes": [],
+  "has_hours": false,
+  "hours": null,
+  "photo_groups": [
+    "Todas",
+    "Street View y 360°"
+  ],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 3.5,
+  "total_reviews": 11,
+  "rating_distribution": {
+    "1": 4,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 7
+  },
+  "reviews_sampled": 11,
+  "last_review_age_days": 352,
+  "reviews_last_12m": 1,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.1,
+  "owner_response_rate": 0,
+  "reviews_with_text_pct": 45,
+  "avg_review_length": 232,
+  "review_topics": [
+    "palabra (2)",
+    "estrella (2)"
+  ],
+  "review_highlights": [
+    "Trató muy amable y muy buenos profesionales, responsable",
+    "No le podria dar ni una estrella!!."
+  ],
+  "grid": {
+    "cells_top": 13,
+    "solv_pct": 23.8,
+    "avr": 6.4,
+    "reach_median_km": 2.3,
+    "reach_max_km": 4.7
+  }
+}

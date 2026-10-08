@@ -1,0 +1,175 @@
+{
+  "search_metadata": {
+    "id": "6ac674a537ff8d645fc82e89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uk-5WWgxlHRKvIZP4sUoNCh1PVmjaCx37YMxC1cUiBw/6ac674a537ff8d645fc82e89.json",
+    "markdown_endpoint": "https://serpapi.com/searches/uk-5WWgxlHRKvIZP4sUoNCh1PVmjaCx37YMxC1cUiBw/6ac674a537ff8d645fc82e89.md",
+    "created_at": "2026-10-07 16:34:45 UTC",
+    "processed_at": "2026-10-07 16:34:45 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f6fe95bf6e5f1:0xf795eb60af719ff7!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/uk-5WWgxlHRKvIZP4sUoNCh1PVmjaCx37YMxC1cUiBw/6ac674a537ff8d645fc82e89.html",
+    "prettify_html_file": "https://serpapi.com/searches/uk-5WWgxlHRKvIZP4sUoNCh1PVmjaCx37YMxC1cUiBw/6ac674a537ff8d645fc82e89.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJ8eX2W-lvLw0R959xr2Drlfc",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Carpintería Osvaldo Romero",
+    "place_id": "ChIJ8eX2W-lvLw0R959xr2Drlfc",
+    "data_id": "0xd2f6fe95bf6e5f1:0xf795eb60af719ff7",
+    "data_cid": "17840424299390935031",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6fe95bf6e5f1%3A0xf795eb60af719ff7&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6fe95bf6e5f1%3A0xf795eb60af719ff7&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.3914542,
+      "longitude": -8.6946377
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8eX2W-lvLw0R959xr2Drlfc",
+    "provider_id": "/g/11sc6k1xqb",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwNwfq-YjNe_kJDyvzr8c4v7xG8v8Mp7wAMKFa0uQQXCLpEQCOp10oYOpnRnEGjNi9I45hdBSgsNaPCLTrwn1alzPGB9p3O4dJlW3vXKah0IwfCRKkV99JP-s2qlUSAW9IjeA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5cl5zXicHcTbboIwAADQL6qUwSJdsoeCSrjIRZ2Xp6WphQq1rRTp5gf6D_sbk52H8_fk46jNh-MI7s1apVrB7oYNVMmRyXFG1dVpB2IMoMbBOOyveWML29zAqSvYd58ufqfHEFB_mv_EwRSs9dzidbYi8F7XxyjXyzoqtQvVqdRyI5dxV1xQ4r_zc7htTUGqKN8NVrpEPKo4RNor_XMqDt50zAiHiW2iTdbvEUorYN5u4muLDyjpGP60LoQQ8P8pkC9XOEQQ",
+    "type": [
+      "Carpintería"
+    ],
+    "type_ids": [
+      "furniture_maker"
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Acceso para sillas de ruedas"
+        ]
+      }
+    ],
+    "address": "C. Pumariño, 5, 36900 Marín, Pontevedra",
+    "country": "España",
+    "website": "http://www.osvaldoromerocarpinteria.es/",
+    "phone": "609 14 19 27",
+    "open_state": "Abierto · Cierre: 20:00",
+    "plus_code": "98R4+H4 Marín",
+    "hours": [
+      {
+        "miércoles": "9:00–20:00"
+      },
+      {
+        "jueves": "9:00–20:00"
+      },
+      {
+        "viernes": "9:00–20:00"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "9:00–20:00"
+      },
+      {
+        "martes": "9:00–20:00"
+      }
+    ],
+    "images": [
+      {
+        "title": "Todas",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLDjLg1TWsMsUCLuToI22WXR1_HImJNbV9HQb8-h85uv3KyLKOjFZK52gjQlDkTPZOYs0JiOlGReyu4WiUSxoXub5pK59pQ3QsAt48GhmyeMqDScXtXl5jjQpdzgqol7VIn7Q=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/wR5gJXicHcTdToMwGADQJ-r4WwOYeLFIHAw27MYAd2NCbVpqoZ1fq-ID-g57myWei3P7E9YaePA8JaIV15or5oB9Uj1bNtsV1ZPHDSAKCLzNoRuXtKkyWfGg6WAP56fKNboIw64_Bm95Me0OQ5vmZEiQSLD7isqlKmv5fClxyCVR2Ufzcqlfwd-Ntdoe2eLW3Xg-_ejeDdiUODUkIrCx62QrpoXtr9mJ9rZXWEpi3n_5Vau4LeaYPH4Hvu8j8T9F8x3fXURi"
+      },
+      {
+        "title": "Interior",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9To-DxcAGc6eVO6g0vYA7AJ20tgXtFacS7Lfwu3iEc1xsjCYGENliNR60OFyOYBcemmXozgUKJ9R-Qel8zOkkEHOvdWCczV_rm_pZzWyrdyBl9DacwKjlibQssdnwkOMpb6JQtiqg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4b6jYXicHcRLDoIwFADAE1WqJigmLlBQg0qDP8QNwUctlUKRVhFu6BG8jYmzmO8n07pSE8MQ2bDHpGSCPhWtQZaalroHsjBYpRAopAzbD3lrHSRy3mAvwaQnYjL8iuyR7Q2wZme9SGA_2tya55C70H-r-zxaur7g_s7EZNGSaAa0KM6yY8e1Z-1QQMW4I3nursgrDefQneK6iKtLF7Z12s6E5STQrO-CXwOl0rLJyba6ml6g-YNNmz7GGGX_AZU_IidHSQ"
+      },
+      {
+        "title": "Mobiliario",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TuBHcZBWifM_1HAQxVxDh1UfTXOH4wdd8eGt6qjs9Ry08hyMPhMsVBCMnDgBHHp0owegb6laujMdIHztunMukIv1IcM72L1qaj5uE4O18V0xJ7Lsr3AgkThG14FHsFmkPav-hY=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/JV-pknicHcRRboIwGADgE1VaZYomewCdlsWqM4i6l4WV2grYon8rsAvuDN7GxO_he_wra2uYeF6lBj1pjKyEA3HjRluhbY-biydrQBwQeOFqf-7GiYso_4725xP7ITT8atN2psjulBzW1G_yPBALO7wWMN52OFAd2ygGaTRleiYjSmtsGiF_h1XmCpbH9M86zVwZ30nM2ai_JNeseHMf_poEKW4_R0u4DUJZJmpB_DmF-aXcZHekju8NwRgj9Zoj_QR-4ESZ"
+      },
+      {
+        "title": "Del propietario",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtPI-d5A9eyPcbg6DtVRz2qbUYv1Rmrm1cx6xC49t0YOZCxistJku3L-pHQ8awVcP2-YYli7U-lqdhbc4Up8RLeqovS2JpW6K9Rnmoe0t2ZadvZeVIvtJqsRT-JxuY-B6Sx1mR1Q=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/MEzo4XicHcRNjoIwGADQE33SooNi4sKfxcgYxSqYspPSABlKi_3A6g09grcx8S3e-1UhGjv3vKYaj0qty0b2Vt6EblG2OBJaeaWxICxYb7m_1I-QYbyF4mcZykcs8jLYYMqefpcnfKBM3RQVLnDrSYiEH7K1qy1G__14B-b3OLveUxH7wHlTTxNouqLKxSQxM7aTnR5OfmQuwV_IWqUlQT-7FkMm0-2AUWfZGSLXc1gFJ0cVo8fFnRJCoPouoP0AFM9Fqw"
+      },
+      {
+        "title": "Street View y 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=malGv4R8mgiu4Zd6_OsU-g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=86.76381&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/b_hxCnicHc1BCsIwEADA3-TWpK2lRiF49CgIXryUNMZ0IWkWd5vqc3yWv1G8D8znPTEj7ZUifnjPBfyK8PSRKrQy5ByitwgkXU6qNIqnJY2zhXhAO2e4mWTjsXRnnQIs3fXWDye6VEG4cXAR_Mw_gDRQkWwdQ_QyIInVtG0nJtPutHjZ1ehebvuNbgQCu8nU4t_cczFNXX8Bx6Y6Fw"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "search_term": "Otras personas también buscan",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Carpintería O Con",
+            "data_id": "0x0:0x92c58008dee0dfb0",
+            "data_cid": "10576000075536850864",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x92c58008dee0dfb0&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x92c58008dee0dfb0&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.3563419,
+              "longitude": -8.731505
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x92c58008dee0dfb0%218m2%213d42.3563419%214d-8.731505&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.8,
+            "reviews": 40,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLffwSvqBoNg8EfnCPAAdNIR6oHDz7YrluF9GxL_FsRv1_hKLORzK6qv7PTAAjkAIy75CigXhMmHgKAldYKzR8ECRcyQik2WmxFGBIb4XA2Aux9WzNBnYGy1ZzE7LQwFRFHIny8IsTr528I=w156-h156-n-k-no",
+            "type": [
+              "Carpintería",
+              "Reformas de baños",
+              "Reformas de cocinas",
+              "Reformas"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Amengo - Ebanistería, mueblería y carpintería al detalle.",
+            "data_id": "0x0:0x13830124882bd1c2",
+            "data_cid": "1405968765084750274",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x13830124882bd1c2&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x13830124882bd1c2&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.3900897,
+              "longitude": -8.695777
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x13830124882bd1c2%218m2%213d42.3900897%214d-8.695777&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 5,
+            "reviews": 36,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR8NppqMWYdr5btervCCCPcsCX3D-6j4We5dQkBvt8c6-LmimrpxRbISsuUlK5aYnjdSqtgCSgDnXRSaQqYP-cvbWVMx0Au_IPH4y_7kzOG6OhSgum4lyVGxbh-KhjVoZ-gIkI=w156-h156-n-k-no",
+            "type": [
+              "Ebanista"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Carpinteria de Madera Mauricio Pereira",
+            "data_id": "0x0:0x8d8c462835ca959b",
+            "data_cid": "10199604394602435995",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8d8c462835ca959b&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8d8c462835ca959b&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.348647199999995,
+              "longitude": -8.7375167
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x8d8c462835ca959b%218m2%213d42.348647199999995%214d-8.7375167&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 0,
+            "reviews": 0,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjQVRNCNxIdUyqnqLSzRIZufJujsoK5CNZWwUK2XdN4D0OkiO8UJFzVWL2rk1zWbEK_a1Ii8lf_NS7PZ0s3Q81d4Eaj2WBVMTXTGLUny_BGXJqkC946EsITw6i7H34oQF_eeIQ=w156-h156-n-k-no",
+            "type": [
+              "Carpintería"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.es/search?q=local+guide+program&ibp=gwp;0,26,OigKJiIiQ2FycGludGVyw61hIE9zdmFsZG8gUm9tZXJvIE1hcsOtbigC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COigKJiIiQ2FycGludGVyw61hIE9zdmFsZG8gUm9tZXJvIE1hcsOtbigC&q=local+guide+program"
+  }
+}

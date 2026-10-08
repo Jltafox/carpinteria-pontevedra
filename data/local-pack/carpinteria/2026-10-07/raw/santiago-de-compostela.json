@@ -1,0 +1,496 @@
+{
+  "search_metadata": {
+    "id": "6ac622fcf7e9966c434fd3c7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9aO-AKGMGCPSlsRs3hg6a63tQ3E4T-mRy7KniTkFkPM/6ac622fcf7e9966c434fd3c7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9aO-AKGMGCPSlsRs3hg6a63tQ3E4T-mRy7KniTkFkPM/6ac622fcf7e9966c434fd3c7.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/9aO-AKGMGCPSlsRs3hg6a63tQ3E4T-mRy7KniTkFkPM/6ac622fcf7e9966c434fd3c7.json_with_pixel_position",
+    "created_at": "2026-10-07 10:46:20 UTC",
+    "processed_at": "2026-10-07 10:46:20 UTC",
+    "google_url": "https://www.google.es/search?q=carpinter%C3%ADa&oq=carpinter%C3%ADa&uule=w+CAIQICIkU2FudGlhZ28gZGUgQ29tcG9zdGVsYSxHYWxpY2lhLFNwYWlu&hl=es&gl=es&sourceid=chrome-mobile&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9aO-AKGMGCPSlsRs3hg6a63tQ3E4T-mRy7KniTkFkPM/6ac622fcf7e9966c434fd3c7.html",
+    "total_time_taken": 5.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "carpintería",
+    "location_requested": "Santiago de Compostela,Galicia,Spain",
+    "location_used": "Santiago de Compostela,Galicia,Spain",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es",
+    "device": "mobile"
+  },
+  "search_information": {
+    "query_displayed": "carpintería",
+    "results_for": "Santiago de Compostela"
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw%3A1791369984335&udm=2&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ9AF6BQiLARAA#imgrc=pIQiQvY53qqvVM",
+      "source": "https://es.wikipedia.org/wiki/Carpinter%C3%ADa",
+      "thumbnail": "https://serpapi.com/searches/6ac622fcf7e9966c434fd3c7/images/HUjerydaP_G_7otY-zS1X90vcaWOH4Pg2P_D_5spj4g.jpeg",
+      "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Havana_-_Cuba_-_2566.jpg/1280px-Havana_-_Cuba_-_2566.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "title": "Carpintería - Wikipedia, la enciclopedia libre",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw%3A1791369984335&udm=2&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ9AF6BQiPARAA#imgrc=rEWrSateTJzhzM",
+      "source": "https://torneiro.es/la-carpinteria-de-madera-un-oficio-que-traspasa-generaciones/",
+      "thumbnail": "https://serpapi.com/searches/6ac622fcf7e9966c434fd3c7/images/o76xQUEXeU1fx8DwcLp7IXZPLsNLhTjQfDnJRV2E4lY.jpeg",
+      "original": "https://torneiro.es/wp-content/uploads/2025/03/Carpinteria-de-madera-Valoria-scaled.jpg",
+      "title": "La carpintería de madera, un oficio que traspasa generaciones ...",
+      "source_name": "Maquinaria Torneiro"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw%3A1791369984335&udm=2&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ9AF6BQirARAA#imgrc=92W3PB0-X3cDEM",
+      "source": "https://postgradoindustrial.com/materiales-de-carpinteria/",
+      "thumbnail": "https://serpapi.com/searches/6ac622fcf7e9966c434fd3c7/images/BK37rlP7YShi8xDmaExHiPCiP4FfOc2vksOr84UHveI.jpeg",
+      "original": "https://postgradoindustrial.com/wp-content/uploads/materiales-de-carpinteria.png",
+      "title": "Qué materiales de carpintería se necesitan para un taller ...",
+      "source_name": "Escuela de Postgrado Industrial"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw%3A1791369984335&udm=2&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ9AF6BQiqARAA#imgrc=TgYQlilP6A-e0M",
+      "source": "https://www.emagister.com/blog/las-cuatro-tecnicas-basicas-de-carpinteria-que-deberias-conocer/",
+      "thumbnail": "https://serpapi.com/searches/6ac622fcf7e9966c434fd3c7/images/bxAUqbNTrAFdooQkeZL8dVJEBmLEm_boT3sUij8fUFA.jpeg",
+      "original": "https://www.emagister.com/blog/wp-content/uploads/2022/05/GettyImages-505274864.jpg",
+      "title": "Las cuatro técnicas básicas de carpintería que deberías conocer ...",
+      "source_name": "Emagister"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "¿Qué es la carpintería?",
+      "type": "ai_overview",
+      "page_token": "rYlw73icHdBdboIwAADg7DI-jr_hjIlZ1kFBInUUWqAvC7YgSikoRsC33WWn2mmW7DvC9_0jT6r5fUrr260f1po2juPzseuOsnwuB60YZsU1Xkh5KHizXr4ujbeKb9xhBB_dCCLS99TBeqyvJtHYpKSSUDeyaRtEpQJFIhuDwYByJV84BFKY9LNwJMke8sof9R0R-xKa9oU77zPxej8iExUE35mHd8xnE_JRnBmrCTlBhV1BQwfGzO3mWIkrs8ApPNcdawMpWjZgncIE0uGQ9X15zidhwJ6YwsOPrZEn2MAWHJMsN3MZVCxtYqhDh7iiFrFBcTMtD0rsEQRWbsGL0CH2TgHAPpr3KYsTCxU7spqpAjXxwjFRtc8a7KfE3mZWcE48hBcVv2-sxf_Y5qtqb-v-2h3_AHZ1eIQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rYlw73icHdBdboIwAADg7DI-jr_hjIlZ1kFBInUUWqAvC7YgSikoRsC33WWn2mmW7DvC9_0jT6r5fUrr260f1po2juPzseuOsnwuB60YZsU1Xkh5KHizXr4ujbeKb9xhBB_dCCLS99TBeqyvJtHYpKSSUDeyaRtEpQJFIhuDwYByJV84BFKY9LNwJMke8sof9R0R-xKa9oU77zPxej8iExUE35mHd8xnE_JRnBmrCTlBhV1BQwfGzO3mWIkrs8ApPNcdawMpWjZgncIE0uGQ9X15zidhwJ6YwsOPrZEn2MAWHJMsN3MZVCxtYqhDh7iiFrFBcTMtD0rsEQRWbsGL0CH2TgHAPpr3KYsTCxU7spqpAjXxwjFRtc8a7KfE3mZWcE48hBcVv2-sxf_Y5qtqb-v-2h3_AHZ1eIQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK/UXXDqSBlcyBsYSBjYXJwaW50ZXLDrWE/IiwibGsiOiJHaEp4ZFdVZ1pYTWdZMkZ5Y0dsdWRHVnlhV0UiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK%2FUXXDqSBlcyBsYSBjYXJwaW50ZXLDrWE%2FIiwibGsiOiJHaEp4ZFdVZ1pYTWdZMkZ5Y0dsdWRHVnlhV0UiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0%3D"
+    },
+    {
+      "question": "¿Cuánto cobra un carpintero por un día?",
+      "type": "ai_overview",
+      "page_token": "3u0NOHicHdBRboIwGADg7DI-ThB1mYlZggLKpI7av0BfFmiRSguioohvu8tOtdNs2Qm-5Pv61oda_TxdZds2l9lw2HXdc3E8Fjp_zi_D9NLXfMhTrbOUq9n0ZWq-7fncua7txWlth9A0dIkN4vqQRbLElQncmFTbJVpG3l0KbUu2xA6i-Awxs5Bit8Si-4yykkQUCUfEqPQXomIxduiYRGYfxspKLTuFSG6ykZZbkCRz0SkAegFLqKCWt8RoKVZihFZuySO03VVa85X0EUx85EFP9GsPqlWJyQzyKPrMud93bjFG2n_PlbRYxSdR3OgNER-JKjru6nGgcJkZok49WTtS2KFpr5IYWgosyKuJRUoc_on3tBY24OMhBPzgpa5AGSYv_Q57THOvdQK36KnCKY_ZYUukzB16hXCw57e5Nfj_nH_uq3bWnI_FL3kQhRQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3u0NOHicHdBRboIwGADg7DI-ThB1mYlZggLKpI7av0BfFmiRSguioohvu8tOtdNs2Qm-5Pv61oda_TxdZds2l9lw2HXdc3E8Fjp_zi_D9NLXfMhTrbOUq9n0ZWq-7fncua7txWlth9A0dIkN4vqQRbLElQncmFTbJVpG3l0KbUu2xA6i-Awxs5Bit8Si-4yykkQUCUfEqPQXomIxduiYRGYfxspKLTuFSG6ykZZbkCRz0SkAegFLqKCWt8RoKVZihFZuySO03VVa85X0EUx85EFP9GsPqlWJyQzyKPrMud93bjFG2n_PlbRYxSdR3OgNER-JKjru6nGgcJkZok49WTtS2KFpr5IYWgosyKuJRUoc_on3tBY24OMhBPzgpa5AGSYv_Q57THOvdQK36KnCKY_ZYUukzB16hXCw57e5Nfj_nH_uq3bWnI_FL3kQhRQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK/Q3XDoW50byBjb2JyYSB1biBjYXJwaW50ZXJvIHBvciB1biBkw61hPyIsImxrIjoiR2lwb2IzY2diWFZqYUNCa2IyVnpJR0VnWTJGeWNHVnVkR1Z5SUdOb1lYSm5aU0JtYjNJZ1lTQmtZWGtvQUEiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK%2FQ3XDoW50byBjb2JyYSB1biBjYXJwaW50ZXJvIHBvciB1biBkw61hPyIsImxrIjoiR2lwb2IzY2diWFZqYUNCa2IyVnpJR0VnWTJGeWNHVnVkR1Z5SUdOb1lYSm5aU0JtYjNJZ1lTQmtZWGtvQUEiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0%3D"
+    },
+    {
+      "question": "¿Qué tipos de carpintería hay?",
+      "type": "ai_overview",
+      "page_token": "nC1upXicHdBdboIwAADg7DI-igVh0cQsQf4ko66VUujLUiiK0gJTFORtd9mpdpol-47wff_Ic1P_vtyrvu9ua00bhmF-atuTLOflTeO3Z1NoBZcy50W9tl4t8HYsNu59Z2-_djYiXZc4eBEH8Cl0EedOsstIaAq64nsq3EiXS-rK56EODaiAzKhncQU-xAS3hcEepUSL95RNImCIU_jgSvo0lSCRgu99UxKXWdhfVZGD9NKzMfdDN25wGOuMcLoC0QQpdthILxVkF7mMHIZ5Eg4w6K6I3Mxk0R-Ia_J8sTpEFNDcE3p2Bnfikv5Qe0tB6xHVlc8aNCKAWx5AS6Sd7VbCRsAOspT0CWFRqUwjvmAkdDjyRtgEt2dE8FRcpEr8dhKk93FT6DzFZ6w8PVY9oLHk2EEjVggQNDsWj40x-__cfB5Vv-6u7ekPlymCIA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nC1upXicHdBdboIwAADg7DI-igVh0cQsQf4ko66VUujLUiiK0gJTFORtd9mpdpol-47wff_Ic1P_vtyrvu9ua00bhmF-atuTLOflTeO3Z1NoBZcy50W9tl4t8HYsNu59Z2-_djYiXZc4eBEH8Cl0EedOsstIaAq64nsq3EiXS-rK56EODaiAzKhncQU-xAS3hcEepUSL95RNImCIU_jgSvo0lSCRgu99UxKXWdhfVZGD9NKzMfdDN25wGOuMcLoC0QQpdthILxVkF7mMHIZ5Eg4w6K6I3Mxk0R-Ia_J8sTpEFNDcE3p2Bnfikv5Qe0tB6xHVlc8aNCKAWx5AS6Sd7VbCRsAOspT0CWFRqUwjvmAkdDjyRtgEt2dE8FRcpEr8dhKk93FT6DzFZ6w8PVY9oLHk2EEjVggQNDsWj40x-__cfB5Vv-6u7ekPlymCIA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK/UXXDqSB0aXBvcyBkZSBjYXJwaW50ZXLDrWEgaGF5PyIsImxrIjoiR2h0eGRXVWdkR2x3YnlCa1pTQmpZWEp3YVc1MFpYSnBZU0JvWVhrIiwiYnMiOiJjNVdQT3dyQ1FCQ0d0ZDFLeEdwRkdEdEpvWmdMQ0hvQ2U1dHhkelNSWkNkdXNraU9ZMmxoNVFFQ3ljWE1SbEVzYmZfWGZDTkNJZXRxNjVvYlVBNEpna0tieGFZZzI5eHhGWTdrOE96SVd4ODlSckVUUVYxdFhITTFCWVBpdlVWdzVwdGd5Tmg2UlhjYmN4bEVmSUhVcVFnMHQxT3ZJLVNqb0NLMFI0SkRXMERRV001NllpMm1iNklpempnSFRUOVFFR0c1Q2lkeTdNRjg0aWNRZDc0NGlyQWxiQjRwUTA2UUpKaWlmeTRqbTdOQjZLb1c5M2pxNUJRMTJaWjBLUmZxdjg2Z193USIsImlkIjoiZmNfQUNQR2F1LVVGTHpud040UHdjcWp3QVFfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK%2FUXXDqSB0aXBvcyBkZSBjYXJwaW50ZXLDrWEgaGF5PyIsImxrIjoiR2h0eGRXVWdkR2x3YnlCa1pTQmpZWEp3YVc1MFpYSnBZU0JvWVhrIiwiYnMiOiJjNVdQT3dyQ1FCQ0d0ZDFLeEdwRkdEdEpvWmdMQ0hvQ2U1dHhkelNSWkNkdXNraU9ZMmxoNVFFQ3ljWE1SbEVzYmZfWGZDTkNJZXRxNjVvYlVBNEpna0tieGFZZzI5eHhGWTdrOE96SVd4ODlSckVUUVYxdFhITTFCWVBpdlVWdzVwdGd5Tmg2UlhjYmN4bEVmSUhVcVFnMHQxT3ZJLVNqb0NLMFI0SkRXMERRV001NllpMm1iNklpempnSFRUOVFFR0c1Q2lkeTdNRjg0aWNRZDc0NGlyQWxiQjRwUTA2UUpKaWlmeTRqbTdOQjZLb1c5M2pxNUJRMTJaWjBLUmZxdjg2Z193USIsImlkIjoiZmNfQUNQR2F1LVVGTHpud040UHdjcWp3QVFfNiJ9"
+    },
+    {
+      "question": "¿Cómo se llama la persona que trabaja la madera?",
+      "type": "ai_overview",
+      "page_token": "onMMKHicHdBdbpswAABg7TJ9bDCUrIkUTWI1SVDi1b8Bv0yOTcKPAYu4JeWtR9gddqqdZtNu8On7_G3rvv3z5VflvbutF4tpmh6vw3C15WN5W6jbR68XWll7VrpdL78uwbeL3sB3nXwfdYK5c-KFBLTPpOn8W9lIqGa50z2C6gUpnQpS2AzzVnvSyPAYyb3p9jPb-rcTTLdn60ZVg0AFMGZ5VZw6FFMr7geWOBxmhx9cHhh4njgFAPfpSIGZ0HbV0nRVkxOe6bYaigZPRXgH6p-BAbkkcDUQKJwJTESEm0QAasMlJVx7DJBCEIw0lxcWuYikhqIwdkIkku0yf2zQLFi2KztJdIA-WE6sstgTW1HNs73s0xlWJsEg2RU594LLY9nFEWsINiG6q94knAw15mTWje1E-vwkAudUa1_zUCQI2taEcX-GODgD9EpD8WSmh4t-30QP_683Py-dX7txuP4FDUiMIA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=onMMKHicHdBdbpswAABg7TJ9bDCUrIkUTWI1SVDi1b8Bv0yOTcKPAYu4JeWtR9gddqqdZtNu8On7_G3rvv3z5VflvbutF4tpmh6vw3C15WN5W6jbR68XWll7VrpdL78uwbeL3sB3nXwfdYK5c-KFBLTPpOn8W9lIqGa50z2C6gUpnQpS2AzzVnvSyPAYyb3p9jPb-rcTTLdn60ZVg0AFMGZ5VZw6FFMr7geWOBxmhx9cHhh4njgFAPfpSIGZ0HbV0nRVkxOe6bYaigZPRXgH6p-BAbkkcDUQKJwJTESEm0QAasMlJVx7DJBCEIw0lxcWuYikhqIwdkIkku0yf2zQLFi2KztJdIA-WE6sstgTW1HNs73s0xlWJsEg2RU594LLY9nFEWsINiG6q94knAw15mTWje1E-vwkAudUa1_zUCQI2taEcX-GODgD9EpD8WSmh4t-30QP_683Py-dX7txuP4FDUiMIA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK/Q8OzbW8gc2UgbGxhbWEgbGEgcGVyc29uYSBxdWUgdHJhYmFqYSBsYSBtYWRlcmE/IiwibGsiOiJjNVBTVHo2OE9UZGZvVGhWSVNjbk1UZFJJU2RSb1NDMXFEZ19MMUdoc0RSVm9hUW9NU2t4Q3l5Y201aVNXcFFJQUEiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFdrTXdXbVZ5TlZCbVVFZFJja1JWV0Zab1NtSmZNRmhPZEhsTVpqVnVNbnBRYkdNMFVGUTFTakJ3WmpSUlZGa3RMVmRxV1RBNGVqWnZObFJpVGtsVVkwNXlVMGxQYkhwcldEYzFjVTlCY0hCeFJYbEhjVTVqWVRWSFp4SVhRVU5RUjJGMUxWVkdUSHB1ZDA0MFVIZGpjV3AzUVZFYUlrRkVjM0k1WmxKWlNYVk5hREo2WkUxV2EwcFFjWGhNY1hCNFNFcFdRM1k0Y2xFIiwiZmN2IjoiMyIsImVpIjoiQUNQR2F1LVVGTHpud040UHdjcWp3QVEiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4xeU9lOC0iLCJxdWVzdGlvbiI6IsK%2FQ8OzbW8gc2UgbGxhbWEgbGEgcGVyc29uYSBxdWUgdHJhYmFqYSBsYSBtYWRlcmE%2FIiwibGsiOiJjNVBTVHo2OE9UZGZvVGhWSVNjbk1UZFJJU2RSb1NDMXFEZ19MMUdoc0RSVm9hUW9NU2t4Q3l5Y201aVNXcFFJQUEiLCJicyI6ImM1V1BPd3JDUUJDR3RkMUt4R3BGR0R0Sm9aZ0xDSG9DZTV0eGR6U1JaQ2R1c2tpT1kybGg1UUVDeWNYTVJsRXNiZl9YZkNOQ0lldHE2NW9iVUE0SmdrS2J4YVlnMjl4eEZZN2s4T3pJV3g4OVJyRVRRVjF0WEhNMUJZUGl2VVZ3NXB0Z3lOaDZSWGNiY3hsRWZJSFVxUWcwdDFPdkktU2pvQ0swUjRKRFcwRFFXTTU2WWkybWI2SWl6amdIVFQ5UUVHRzVDaWR5N01GODRpY1FkNzQ0aXJBbGJCNHBRMDZRSkppaWZ5NGptN05CNktvVzkzanE1QlExMlpaMEtSZnF2ODZnX3dRIiwiaWQiOiJmY19BQ1BHYXUtVUZMem53TjRQd2NxandBUV82In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Carpintería de Madera Dosil en Noia",
+      "link": "https://www.paxinasgalegas.es/dosil-144895em.html",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVe4BPjSkSMq_lCwwdcjvjJTAOwWUWbCVjhw3AC6Hbes2PDweylrqN3WJ9KbdcxKJQ6jCckYy3adG99PFbXO01-xrkmWf3LtAT_NuH9_QZuv2E7PyhMeBX4PwzJz-lQvdGqu5jZVK0Vw&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.paxinasgalegas.es",
+      "thumbnail": "https://serpapi.com/searches/6ac622fcf7e9966c434fd3c7/images/do1EaCemHiBgZ8wxdHO6nKr99cj-5pAADAQHw-wI_Zg.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOSQfgF_chGtwBvLW8wkRyRuZ3YEJjDeewln0W4QYBY8x-x7f4tAA_vfn97LujA5R00dVSo9GJkeOVZAwuQLqwheSXw42927XcSGNS5-mbLdIUyKBGENGJKsUaYxm44ecfuPGeRGN-H2yGSdjMMegKG6uJFQXX05x_ZoTfOM7LaLZnT4_Kyd8iZNgVYWCYzv5NCLHgcwuaKq3W4ORMZ8LxKadKi6V53PXJPFg3KYeNkZY73va5DU4VgCRuoCBF7A4Dp4JWn57osWcj2BjOOvs5nL7paMWxEo9d6fXLvpQ7WZFSKgQZsZnBPBvj6X8PN8CrQAAAA.webp",
+      "snippet": "Diseño y fabricación de escaleras, mobiliario en madera, ventanas, puertas y todo tipo de trabajos de carpintería. Más de 24 años en el sector (desde 2002).",
+      "about_this_result": {
+        "source": {
+          "description": "Diseño y fabricación de escaleras, mobiliario en madera, ventanas, puertas y todo tipo de trabajos de carpintería. Más de 24 años en el sector (desde 2002).",
+          "source_info_link": "https://www.paxinasgalegas.es/dosil-144895em.html",
+          "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOSQfgF_chGtwBvLW8wkRyRuZ3YEJjDeewln0W4QYBY8x-x7f4tAA_vfn97LujA5R00dVSo9GJkeOVZAwuQLqwheSXw42927XcSGNS5-mbLdIUyKBGENGJKsUaYxm44ecfuPGeRGN-H2yGSdjMMegKG6uJFQXX05x_ZoTfOM7LaLZnT4_Kyd8iZNgVYWCYzv5NCLHgcwuaKq3W4ORMZ8LxKadKi6V53PXJPFg3KYeNkZY73va5DU4VgCRuoCBF7A4Dp4JWn57osWcj2BjOOvs5nL7paMWxEo9d6fXLvpQ7WZFSKgQZsZnBPBvj6X8PN8CrQAAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmU0QlBqU2tTTXFfbEN3d2RjanZqSlRBT3dXVVdiQ1ZqaHczQUM2SGJlczJQRHdleWxycU4zV0o5S2JkY3hLSlE2akNja1l5M2FkRzk5UEZiWE8wMS14cmttV2YzTHRBVF9OdUg5X1FadXYyRTdQeWhNZUJYNFB3ekp6LWxRdmRHcXU1alpWSzBWdxIEGgIIABqcBBIAGgIIASIAKgA6AEIECAEQDkonCAESH1NhbnRpYWdvIGRlIENvbXBvc3RlbGEsIEdhbGljaWEaAggCWgByAHoAgkDXAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRWvz5ZAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmU0QlBqU2tTTXFfbEN3d2RjanZqSlRBT3dXVVdiQ1ZqaHczQUM2SGJlczJQRHdleWxycU4zV0o5S2JkY3hLSlE2akNja1l5M2FkRzk5UEZiWE8wMS14cmttV2YzTHRBVF9OdUg5X1FadXYyRTdQeWhNZUJYNFB3ekp6LWxRdmRHcXU1alpWSzBWdzo-PGI-Q2FycGludGVyw61hPC9iPiBkZSBNYWRlcmEgRG9zaWwgZW4gTm9pYSAtIFDDoXhpbmFzIEdhbGVnYXNCoQFEaXNlw7FvIHkgZmFicmljYWNpw7NuIGRlIGVzY2FsZXJhcywgbW9iaWxpYXJpbyBlbiBtYWRlcmEsIHZlbnRhbmFzLCBwdWVydGFzIHkgdG9kbyB0aXBvIGRlIHRyYWJham9zIGRlIGNhcnBpbnRlcsOtYS4gTcOhcyBkZSAyNCBhw7FvcyBlbiBlbCBzZWN0b3IgKGRlc2RlIDIwMDIpLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmU0QlBqU2tTTXFfbEN3d2RjanZqSlRBT3dXVVdiQ1ZqaHczQUM2SGJlczJQRHdleWxycU4zV0o5S2JkY3hLSlE2akNja1l5M2FkRzk5UEZiWE8wMS14cmttV2YzTHRBVF9OdUg5X1FadXYyRTdQeWhNZUJYNFB3ekp6LWxRdmRHcXU1alpWSzBWdxIEGgIIABqcBBIAGgIIASIAKgA6AEIECAEQDkonCAESH1NhbnRpYWdvIGRlIENvbXBvc3RlbGEsIEdhbGljaWEaAggCWgByAHoAgkDXAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRWvz5ZAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmU0QlBqU2tTTXFfbEN3d2RjanZqSlRBT3dXVVdiQ1ZqaHczQUM2SGJlczJQRHdleWxycU4zV0o5S2JkY3hLSlE2akNja1l5M2FkRzk5UEZiWE8wMS14cmttV2YzTHRBVF9OdUg5X1FadXYyRTdQeWhNZUJYNFB3ekp6LWxRdmRHcXU1alpWSzBWdzo-PGI-Q2FycGludGVyw61hPC9iPiBkZSBNYWRlcmEgRG9zaWwgZW4gTm9pYSAtIFDDoXhpbmFzIEdhbGVnYXNCoQFEaXNlw7FvIHkgZmFicmljYWNpw7NuIGRlIGVzY2FsZXJhcywgbW9iaWxpYXJpbyBlbiBtYWRlcmEsIHZlbnRhbmFzLCBwdWVydGFzIHkgdG9kbyB0aXBvIGRlIHRyYWJham9zIGRlIGNhcnBpbnRlcsOtYS4gTcOhcyBkZSAyNCBhw7FvcyBlbiBlbCBzZWN0b3IgKGRlc2RlIDIwMDIpLiICEAFIAFgAaAA",
+      "source": "Páxinas Galegas"
+    },
+    {
+      "position": 2,
+      "title": "Manual completo de la madera, la carpintería y la ebanistería",
+      "link": "https://profemadera.es/recurso/manual-completo-de-la-madera-la-carpinteria-y-la-ebanisteria/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFVjhKDJbPcxxw_oaLk5HZ2o-ZgthxRxkYlOt9Eqlext_ZdW-o-2jbZk3LP78AE9AZRZqBWhqqsvGwdJZVzBGJaWFjcd9N7AxJcdUTEET-CcdBQeNqVwINHMzcYSsq3i0OoUMDuqdl0I-S-Kr2MGiMwPPBbUBPpaRh6LAlCzHArPoZqhUBYk3jwlOgOd9AWZGOsHm&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://profemadera.es",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAkUlEQVR4AWP4utn4HS78oU7w3YcGYVIwWA8-M2EW_seGgZr_Aw0hBYP14DKP-haOWjhq4ccmEUlyMNkWflmsye5e4MNACgbpGZoWLgmTcgHiKhzYheoWQg3-jwNXDayFoxaOWgiiodliBTZMg2xBOLMPzZLm00xlQZABpGCQHvKrp0YRUqsnsJ6hbeGohaMWAgCGnWdW40goQgAAAABJRU5ErkJggg.png",
+      "snippet": "Manual completo de la madera, la carpintería y la ebanistería. Escuchar el texto. Publicado el 6 de julio de 2022. Guardado en Carpintería , Ebanistería , ...",
+      "about_this_result": {
+        "source": {
+          "description": "Manual completo de la madera, la carpintería y la ebanistería. Escuchar el texto. Publicado el 6 de julio de 2022. Guardado en Carpintería , Ebanistería , ...",
+          "source_info_link": "https://profemadera.es/recurso/manual-completo-de-la-madera-la-carpinteria-y-la-ebanisteria/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAkUlEQVR4AWP4utn4HS78oU7w3YcGYVIwWA8-M2EW_seGgZr_Aw0hBYP14DKP-haOWjhq4ccmEUlyMNkWflmsye5e4MNACgbpGZoWLgmTcgHiKhzYheoWQg3-jwNXDayFoxaOWgiiodliBTZMg2xBOLMPzZLm00xlQZABpGCQHvKrp0YRUqsnsJ6hbeGohaMWAgCGnWdW40goQgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZWamhLREpiUGN4eHdfb2FMazVIWjJvLVpndGh4UnhrWWxPdDlFcWxleHRfWmRXLW8tMmpiWmszTFA3OEFFOUFaUlpxQldocXFzdkd3ZEpaVnpCR0phV0ZqY2Q5TjdBeEpjZFVURUVULUNjZEJRZU5xVndJTkhNemNZU3NxM2kwT29VTUR1cWRsMEktUy1LcjJNR2lNd1BQQmJVQlBwYVJoNkxBbEN6SEFyUG9acWhVQllrM2p3bE9nT2Q5QVdaR09zSG0SBBoCCAAa2AQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAtAQIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEV7YhhQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGVmpoS0RKYlBjeHh3X29hTGs1SFoyby1aZ3RoeFJ4a1lsT3Q5RXFsZXh0X1pkVy1vLTJqYlprM0xQNzhBRTlBWlJacUJXaHFxc3ZHd2RKWlZ6QkdKYVdGamNkOU43QXhKY2RVVEVFVC1DY2RCUWVOcVZ3SU5ITXpjWVNzcTNpME9vVU1EdXFkbDBJLVMtS3IyTUdpTXdQUEJiVUJQcGFSaDZMQWxDekhBclBvWnFoVUJZazNqd2xPZ09kOUFXWkdPc0htOlRNYW51YWwgY29tcGxldG8gZGUgbGEgbWFkZXJhLCBsYSA8Yj5jYXJwaW50ZXLDrWE8L2I-IHkgbGEgZWJhbmlzdGVyw61hIC0gUHJvZmVtYWRlcmFCrgE8Yj5NYW51YWwgY29tcGxldG8gZGUgbGEgbWFkZXJhLCBsYSBjYXJwaW50ZXLDrWEgeSBsYSBlYmFuaXN0ZXLDrWE8L2I-LiBFc2N1Y2hhciBlbCB0ZXh0by4gUHVibGljYWRvIGVsIDYgZGUganVsaW8gZGUgMjAyMi4gR3VhcmRhZG8gZW4gQ2FycGludGVyw61hICwgRWJhbmlzdGVyw61hICwmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZWamhLREpiUGN4eHdfb2FMazVIWjJvLVpndGh4UnhrWWxPdDlFcWxleHRfWmRXLW8tMmpiWmszTFA3OEFFOUFaUlpxQldocXFzdkd3ZEpaVnpCR0phV0ZqY2Q5TjdBeEpjZFVURUVULUNjZEJRZU5xVndJTkhNemNZU3NxM2kwT29VTUR1cWRsMEktUy1LcjJNR2lNd1BQQmJVQlBwYVJoNkxBbEN6SEFyUG9acWhVQllrM2p3bE9nT2Q5QVdaR09zSG0SBBoCCAAa2AQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAtAQIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEV7YhhQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGVmpoS0RKYlBjeHh3X29hTGs1SFoyby1aZ3RoeFJ4a1lsT3Q5RXFsZXh0X1pkVy1vLTJqYlprM0xQNzhBRTlBWlJacUJXaHFxc3ZHd2RKWlZ6QkdKYVdGamNkOU43QXhKY2RVVEVFVC1DY2RCUWVOcVZ3SU5ITXpjWVNzcTNpME9vVU1EdXFkbDBJLVMtS3IyTUdpTXdQUEJiVUJQcGFSaDZMQWxDekhBclBvWnFoVUJZazNqd2xPZ09kOUFXWkdPc0htOlRNYW51YWwgY29tcGxldG8gZGUgbGEgbWFkZXJhLCBsYSA8Yj5jYXJwaW50ZXLDrWE8L2I-IHkgbGEgZWJhbmlzdGVyw61hIC0gUHJvZmVtYWRlcmFCrgE8Yj5NYW51YWwgY29tcGxldG8gZGUgbGEgbWFkZXJhLCBsYSBjYXJwaW50ZXLDrWEgeSBsYSBlYmFuaXN0ZXLDrWE8L2I-LiBFc2N1Y2hhciBlbCB0ZXh0by4gUHVibGljYWRvIGVsIDYgZGUganVsaW8gZGUgMjAyMi4gR3VhcmRhZG8gZW4gQ2FycGludGVyw61hICwgRWJhbmlzdGVyw61hICwmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Profemadera"
+    },
+    {
+      "position": 3,
+      "title": "Carpintería Hurruya en Pontevedra",
+      "link": "https://www.paxinasgalegas.es/hurruya-652296em.html",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVQA-uCOVeHaW-yo47iEFoMwHEvGHTtqpG_or5no0awmy7U_DbaguYjCmjiu5Dtitd_-GZpFievJy6Kap6IBiJZWIuTmI2kckFZSbwfrjhNLwbxTLjB27K9yVXWwviPjNdgjDB57H5k1Fk&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.paxinasgalegas.es",
+      "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOSQfgF_chGtwBvLW8wkRyRuZ3YEJjDeewln0W4QYBY8x-x7f4tAA_vfn97LujA5R00dVSo9GJkeOVZAwuQLqwheSXw42927XcSGNS5-mbLdIUyKBGENGJKsUaYxm44ecfuPGeRGN-H2yGSdjMMegKG6uJFQXX05x_ZoTfOM7LaLZnT4_Kyd8iZNgVYWCYzv5NCLHgcwuaKq3W4ORMZ8LxKadKi6V53PXJPFg3KYeNkZY73va5DU4VgCRuoCBF7A4Dp4JWn57osWcj2BjOOvs5nL7paMWxEo9d6fXLvpQ7WZFSKgQZsZnBPBvj6X8PN8CrQAAAA.webp",
+      "snippet": "Carpintería de madera en general. Realizamos todo tipo de reformas, pintura, rehabilitación, restauración, placas de yeso laminado, etc. 676 014 601 · Enviar ...",
+      "about_this_result": {
+        "source": {
+          "description": "Carpintería de madera en general. Realizamos todo tipo de reformas, pintura, rehabilitación, restauración, placas de yeso laminado, etc. 676 014 601 · Enviar ...",
+          "source_info_link": "https://www.paxinasgalegas.es/hurruya-652296em.html",
+          "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOSQfgF_chGtwBvLW8wkRyRuZ3YEJjDeewln0W4QYBY8x-x7f4tAA_vfn97LujA5R00dVSo9GJkeOVZAwuQLqwheSXw42927XcSGNS5-mbLdIUyKBGENGJKsUaYxm44ecfuPGeRGN-H2yGSdjMMegKG6uJFQXX05x_ZoTfOM7LaLZnT4_Kyd8iZNgVYWCYzv5NCLHgcwuaKq3W4ORMZ8LxKadKi6V53PXJPFg3KYeNkZY73va5DU4VgCRuoCBF7A4Dp4JWn57osWcj2BjOOvs5nL7paMWxEo9d6fXLvpQ7WZFSKgQZsZnBPBvj6X8PN8CrQAAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlFBLXVDT1ZlSGFXLXlvNDdpRUZvTXdIRXZHSFR0cXBHX29yNW5vMGF3bXk3VV9EYmFndVlqQ21qaXU1RHRpdGRfLUdacEZpZXZKeTZLYXA2SUJpSlpXSXVUbUkya2NrRlpTYndmcmpoTkx3YnhUTGpCMjdLOXlWWFd3dmlQak5kZ2pEQjU3SDVrMUZrEgQaAggAGrAEEgAaACIAKgA6AEIECAEQDkonCAESH1NhbnRpYWdvIGRlIENvbXBvc3RlbGEsIEdhbGljaWEaAggCWgByAHoAgkDtAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRVYf5FAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlFBLXVDT1ZlSGFXLXlvNDdpRUZvTXdIRXZHSFR0cXBHX29yNW5vMGF3bXk3VV9EYmFndVlqQ21qaXU1RHRpdGRfLUdacEZpZXZKeTZLYXA2SUJpSlpXSXVUbUkya2NrRlpTYndmcmpoTkx3YnhUTGpCMjdLOXlWWFd3dmlQak5kZ2pEQjU3SDVrMUZrOjw8Yj5DYXJwaW50ZXLDrWE8L2I-IEh1cnJ1eWEgZW4gUG9udGV2ZWRyYSAtIFDDoXhpbmFzIEdhbGVnYXNCtwE8Yj5DYXJwaW50ZXLDrWEgZGUgbWFkZXJhIGVuIGdlbmVyYWw8L2I-LiBSZWFsaXphbW9zIHRvZG8gdGlwbyBkZSByZWZvcm1hcywgcGludHVyYSwgcmVoYWJpbGl0YWNpw7NuLCByZXN0YXVyYWNpw7NuLCBwbGFjYXMgZGUgeWVzbyBsYW1pbmFkbywgZXRjLiA2NzYgMDE0IDYwMSAmbWlkZG90OyBFbnZpYXImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlFBLXVDT1ZlSGFXLXlvNDdpRUZvTXdIRXZHSFR0cXBHX29yNW5vMGF3bXk3VV9EYmFndVlqQ21qaXU1RHRpdGRfLUdacEZpZXZKeTZLYXA2SUJpSlpXSXVUbUkya2NrRlpTYndmcmpoTkx3YnhUTGpCMjdLOXlWWFd3dmlQak5kZ2pEQjU3SDVrMUZrEgQaAggAGrAEEgAaACIAKgA6AEIECAEQDkonCAESH1NhbnRpYWdvIGRlIENvbXBvc3RlbGEsIEdhbGljaWEaAggCWgByAHoAgkDtAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRVYf5FAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlFBLXVDT1ZlSGFXLXlvNDdpRUZvTXdIRXZHSFR0cXBHX29yNW5vMGF3bXk3VV9EYmFndVlqQ21qaXU1RHRpdGRfLUdacEZpZXZKeTZLYXA2SUJpSlpXSXVUbUkya2NrRlpTYndmcmpoTkx3YnhUTGpCMjdLOXlWWFd3dmlQak5kZ2pEQjU3SDVrMUZrOjw8Yj5DYXJwaW50ZXLDrWE8L2I-IEh1cnJ1eWEgZW4gUG9udGV2ZWRyYSAtIFDDoXhpbmFzIEdhbGVnYXNCtwE8Yj5DYXJwaW50ZXLDrWEgZGUgbWFkZXJhIGVuIGdlbmVyYWw8L2I-LiBSZWFsaXphbW9zIHRvZG8gdGlwbyBkZSByZWZvcm1hcywgcGludHVyYSwgcmVoYWJpbGl0YWNpw7NuLCByZXN0YXVyYWNpw7NuLCBwbGFjYXMgZGUgeWVzbyBsYW1pbmFkbywgZXRjLiA2NzYgMDE0IDYwMSAmbWlkZG90OyBFbnZpYXImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Páxinas Galegas"
+    },
+    {
+      "position": 4,
+      "title": "Grado Medio en Carpintería y Mueble ➡️ TuFP",
+      "link": "https://www.tuformacionprofesional.com/fp/carpinteria-y-mueble/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVhiSWZTjrFfAvuLo0KgMHBi0c397dDegZq5Hg2eyD8HxdQQr92_9sM44mxFPpdw_m-IedZGnn0KIFk6QDXNYbT8-fsJ6Mhe2kYhn4TXqEEbm_32kY9sBSb6SB3BAKpmnBiTEnoacHlRtjrZ--G4lDf8-2UpmS&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.tuformacionprofesional.com",
+      "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAACQBQCdASocABwAPrUurVanIacnG_DgFolsALElQKkABIKZLt5db8R-cZXae9IgFn7tzej-AAD--LMPSk_WfuA-Vla5n0sKHvtAc3TxJ-cB0kyxglLZdr7Bwvxd9BKnE5WKYd2HlzZlJTkRUjnd5ZSNEq-pYefR7IBPVpotfa0Wd4_q5_q4f8mXuO4mfRvxgTIs-aWBf69dwMHCGJMF87UNcZjg4_062LetRXlVmO0oYDciWLVSTxdgUmmQijxfAAA.webp",
+      "snippet": "Este programa te prepara para desarrollar una serie de actividades profesionales, desde la fabricación y montaje de muebles hasta el diseño e instalación de ...",
+      "about_this_result": {
+        "source": {
+          "description": "Este programa te prepara para desarrollar una serie de actividades profesionales, desde la fabricación y montaje de muebles hasta el diseño e instalación de ...",
+          "source_info_link": "https://www.tuformacionprofesional.com/fp/carpinteria-y-mueble/",
+          "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAACQBQCdASocABwAPrUurVanIacnG_DgFolsALElQKkABIKZLt5db8R-cZXae9IgFn7tzej-AAD--LMPSk_WfuA-Vla5n0sKHvtAc3TxJ-cB0kyxglLZdr7Bwvxd9BKnE5WKYd2HlzZlJTkRUjnd5ZSNEq-pYefR7IBPVpotfa0Wd4_q5_q4f8mXuO4mfRvxgTIs-aWBf69dwMHCGJMF87UNcZjg4_062LetRXlVmO0oYDciWLVSTxdgUmmQijxfAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhpU1daVGpyRmZBdnVMbzBLZ01IQmkwYzM5N2REZWdacTVIZzJleUQ4SHhkUVFyOTJfOXNNNDRteEZQcGR3X20tSWVkWkdubjBLSUZrNlFEWE5ZYlQ4LWZzSjZNaGUya1lobjRUWHFFRWJtXzMya1k5c0JTYjZTQjNCQUtwbW5CaVRFbm9hY0hsUnRqclotLUc0bERmOC0yVXBtUxIEGgIIABqkBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCABAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUWVq9AGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhpU1daVGpyRmZBdnVMbzBLZ01IQmkwYzM5N2REZWdacTVIZzJleUQ4SHhkUVFyOTJfOXNNNDRteEZQcGR3X20tSWVkWkdubjBLSUZrNlFEWE5ZYlQ4LWZzSjZNaGUya1lobjRUWHFFRWJtXzMya1k5c0JTYjZTQjNCQUtwbW5CaVRFbm9hY0hsUnRqclotLUc0bERmOC0yVXBtUzpHR3JhZG8gTWVkaW8gZW4gPGI-Q2FycGludGVyw61hPC9iPiB5IE11ZWJsZSAtIFR1IEZvcm1hY2nDs24gUHJvZmVzaW9uYWxCrwFFc3RlIHByb2dyYW1hIHRlIHByZXBhcmEgcGFyYSBkZXNhcnJvbGxhciB1bmEgc2VyaWUgZGUgYWN0aXZpZGFkZXMgcHJvZmVzaW9uYWxlcywgZGVzZGUgbGEgPGI-ZmFicmljYWNpw7NuIHkgbW9udGFqZSBkZSBtdWVibGVzPC9iPiBoYXN0YSBlbCBkaXNlw7FvIGUgaW5zdGFsYWNpw7NuIGRlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhpU1daVGpyRmZBdnVMbzBLZ01IQmkwYzM5N2REZWdacTVIZzJleUQ4SHhkUVFyOTJfOXNNNDRteEZQcGR3X20tSWVkWkdubjBLSUZrNlFEWE5ZYlQ4LWZzSjZNaGUya1lobjRUWHFFRWJtXzMya1k5c0JTYjZTQjNCQUtwbW5CaVRFbm9hY0hsUnRqclotLUc0bERmOC0yVXBtUxIEGgIIABqkBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCABAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUWVq9AGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmhpU1daVGpyRmZBdnVMbzBLZ01IQmkwYzM5N2REZWdacTVIZzJleUQ4SHhkUVFyOTJfOXNNNDRteEZQcGR3X20tSWVkWkdubjBLSUZrNlFEWE5ZYlQ4LWZzSjZNaGUya1lobjRUWHFFRWJtXzMya1k5c0JTYjZTQjNCQUtwbW5CaVRFbm9hY0hsUnRqclotLUc0bERmOC0yVXBtUzpHR3JhZG8gTWVkaW8gZW4gPGI-Q2FycGludGVyw61hPC9iPiB5IE11ZWJsZSAtIFR1IEZvcm1hY2nDs24gUHJvZmVzaW9uYWxCrwFFc3RlIHByb2dyYW1hIHRlIHByZXBhcmEgcGFyYSBkZXNhcnJvbGxhciB1bmEgc2VyaWUgZGUgYWN0aXZpZGFkZXMgcHJvZmVzaW9uYWxlcywgZGVzZGUgbGEgPGI-ZmFicmljYWNpw7NuIHkgbW9udGFqZSBkZSBtdWVibGVzPC9iPiBoYXN0YSBlbCBkaXNlw7FvIGUgaW5zdGFsYWNpw7NuIGRlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 1519
+          },
+          "extensions": [
+            "4,7(1.519) Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+          ]
+        }
+      },
+      "source": "Tu Formación Profesional"
+    },
+    {
+      "position": 5,
+      "title": "Carpintería Franjuar - Opiniones & Precios",
+      "link": "https://www.habitissimo.es/pro/carpinteria-franjuar",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAViYEMqpAme5HTEFOMYZs0FA1EZ7TgIohRB1U7TZhuNmPQv50UbHBbqkC77Eka2esCjpx2VWsBm3cLN24hVJ4ifJMEG1-4-9Iv3m6rohjTqvRwrm8pVemzLfglgPlDIWZO6DI-UP8bhWTD&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.habitissimo.es",
+      "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp",
+      "snippet": "Contacta y pide presupuesto a Carpintería Franjuar - Parquetistas: teléfono, opiniones, ofertas, fotos, proyectos...",
+      "about_this_result": {
+        "source": {
+          "description": "Contacta y pide presupuesto a Carpintería Franjuar - Parquetistas: teléfono, opiniones, ofertas, fotos, proyectos...",
+          "source_info_link": "https://www.habitissimo.es/pro/carpinteria-franjuar",
+          "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmlZRU1xcEFtZTVIVEVGT01ZWnMwRkExRVo3VGdJb2hSQjFVN1RaaHVObVBRdjUwVWJIQmJxa0M3N0VrYTJlc0NqcHgyVldzQm0zY0xOMjRoVko0aWZKTUVHMS00LTlJdjNtNnJvaGpUcXZSd3JtOHBWZW16TGZnbGdQbERJV1pPNkRJLVVQOGJoV1REEgQaAggAGuADEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAugMIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEV-7hXQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZpWUVNcXBBbWU1SFRFRk9NWVpzMEZBMUVaN1RnSW9oUkIxVTdUWmh1Tm1QUXY1MFViSEJicWtDNzdFa2EyZXNDanB4MlZXc0JtM2NMTjI0aFZKNGlmSk1FRzEtNC05SXYzbTZyb2hqVHF2UndybThwVmVtekxmZ2xnUGxESVdaTzZESS1VUDhiaFdURDpEPGI-Q2FycGludGVyw61hPC9iPiBGcmFuanVhciAtIE9waW5pb25lcyAmYW1wOyBQcmVjaW9zIHwgaGFiaXRpc3NpbW9CfTxiPkNvbnRhY3RhIHkgcGlkZSBwcmVzdXB1ZXN0byBhIENhcnBpbnRlcsOtYSBGcmFuanVhcjwvYj4gLSBQYXJxdWV0aXN0YXM6IHRlbMOpZm9ubywgb3BpbmlvbmVzLCBvZmVydGFzLCBmb3RvcywgcHJveWVjdG9zLi4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmlZRU1xcEFtZTVIVEVGT01ZWnMwRkExRVo3VGdJb2hSQjFVN1RaaHVObVBRdjUwVWJIQmJxa0M3N0VrYTJlc0NqcHgyVldzQm0zY0xOMjRoVko0aWZKTUVHMS00LTlJdjNtNnJvaGpUcXZSd3JtOHBWZW16TGZnbGdQbERJV1pPNkRJLVVQOGJoV1REEgQaAggAGuADEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAugMIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEV-7hXQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZpWUVNcXBBbWU1SFRFRk9NWVpzMEZBMUVaN1RnSW9oUkIxVTdUWmh1Tm1QUXY1MFViSEJicWtDNzdFa2EyZXNDanB4MlZXc0JtM2NMTjI0aFZKNGlmSk1FRzEtNC05SXYzbTZyb2hqVHF2UndybThwVmVtekxmZ2xnUGxESVdaTzZESS1VUDhiaFdURDpEPGI-Q2FycGludGVyw61hPC9iPiBGcmFuanVhciAtIE9waW5pb25lcyAmYW1wOyBQcmVjaW9zIHwgaGFiaXRpc3NpbW9CfTxiPkNvbnRhY3RhIHkgcGlkZSBwcmVzdXB1ZXN0byBhIENhcnBpbnRlcsOtYSBGcmFuanVhcjwvYj4gLSBQYXJxdWV0aXN0YXM6IHRlbMOpZm9ubywgb3BpbmlvbmVzLCBvZmVydGFzLCBmb3RvcywgcHJveWVjdG9zLi4uIgIQAUgAWABoAA",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 3.3,
+            "reviews": 61
+          },
+          "extensions": [
+            "3,3(61) Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+          ]
+        }
+      },
+      "source": "habitissimo"
+    },
+    {
+      "position": 6,
+      "title": "CARPINTERÍA EL REMEDIO, Carpintería y Ebanistería en Malagón, Ciudad Real",
+      "link": "https://www.qdq.com/carpinteria-el-remedio-337882",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVgIIBIHO14tAxCwLI29X7SG9IMr5i4hrbfkK8aQRXMLKrVtQJSXVd9H_IeRadceeVF7EyhmT3Uc0xRf4Chg7Ny63Wyd4R6pGjJMoNGx4W7-1_0pnwdP9P3entfKIoPeyFFG35Tm0Zew&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoFCIoBEAE&uoh=1",
+      "displayed_link": "https://www.qdq.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwDGB4DGB4DGB4DGB4DGB4DGB4DGB4FGyABGRwDGB4DGB4DGB4DGB5Z3VPlAAAADXRSTlMAwMplsp9X-Qk5hQRGEefnpgAAAI9JREFUKJF9kesSABEIRkMua_X-r7s3I6vy_TDD4SQA5oQAZhyRs5inO37DDOqoRzEPplBPU_yGEVnOJ2HLDoyGM8HBdVXWqXC2PDoK6znIvC8JOMo0RVu-lYxK0QTlPYvfdVGY73E0GoU58iOdgv6ymGFD6_qhk7meK-S6tayMzVFB_TUy6uylJgNI7Te9AOnKEc51LxQzAAAAAElFTkSuQmCC.png",
+      "snippet": "CARPINTERÍA EL REMEDIO. Carpintería y EbanisteríaCalle Cervantes 7, 13420, Malagón, Ciudad Real. Abierto. Cómo llegar. Ver teléfono",
+      "about_this_result": {
+        "source": {
+          "description": "CARPINTERÍA EL REMEDIO. Carpintería y EbanisteríaCalle Cervantes 7, 13420, Malagón, Ciudad Real. Abierto. Cómo llegar. Ver teléfono",
+          "source_info_link": "https://www.qdq.com/carpinteria-el-remedio-337882",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwDGB4DGB4DGB4DGB4DGB4DGB4DGB4FGyABGRwDGB4DGB4DGB4DGB5Z3VPlAAAADXRSTlMAwMplsp9X-Qk5hQRGEefnpgAAAI9JREFUKJF9kesSABEIRkMua_X-r7s3I6vy_TDD4SQA5oQAZhyRs5inO37DDOqoRzEPplBPU_yGEVnOJ2HLDoyGM8HBdVXWqXC2PDoK6znIvC8JOMo0RVu-lYxK0QTlPYvfdVGY73E0GoU58iOdgv6ymGFD6_qhk7meK-S6tayMzVFB_TUy6uylJgNI7Te9AOnKEc51LxQzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmdJSUJJSE8xNHRBeEN3TEkyOVg3U0c5SU1yNWk0aHJiZmtLOGFRUlhNTEtyVnRRSlNYVmQ5SF9JZVJhZGNlZVZGN0V5aG1UM1VjMHhSZjRDaGc3Tnk2M1d5ZDRSNnBHakpNb05HeDRXNy0xXzBwbndkUDlQM2VudGZLSW9QZXlGRkczNVRtMFpldxIEGgIIABqGBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDiAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRU9QVxAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmdJSUJJSE8xNHRBeEN3TEkyOVg3U0c5SU1yNWk0aHJiZmtLOGFRUlhNTEtyVnRRSlNYVmQ5SF9JZVJhZGNlZVZGN0V5aG1UM1VjMHhSZjRDaGc3Tnk2M1d5ZDRSNnBHakpNb05HeDRXNy0xXzBwbndkUDlQM2VudGZLSW9QZXlGRkczNVRtMFpldzphPGI-Q0FSUElOVEVSw41BPC9iPiBFTCBSRU1FRElPLCA8Yj5DYXJwaW50ZXLDrWE8L2I-IHkgRWJhbmlzdGVyw61hIGVuIE1hbGFnw7NuLCBDaXVkYWQgUmVhbCAtIFFEUUKJAUNBUlBJTlRFUsONQSBFTCBSRU1FRElPLiBDYXJwaW50ZXLDrWEgeSBFYmFuaXN0ZXLDrWFDYWxsZSBDZXJ2YW50ZXMgNywgMTM0MjAsIE1hbGFnw7NuLCBDaXVkYWQgUmVhbC4gQWJpZXJ0by4gQ8OzbW8gbGxlZ2FyLiBWZXIgdGVsw6lmb25vIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmdJSUJJSE8xNHRBeEN3TEkyOVg3U0c5SU1yNWk0aHJiZmtLOGFRUlhNTEtyVnRRSlNYVmQ5SF9JZVJhZGNlZVZGN0V5aG1UM1VjMHhSZjRDaGc3Tnk2M1d5ZDRSNnBHakpNb05HeDRXNy0xXzBwbndkUDlQM2VudGZLSW9QZXlGRkczNVRtMFpldxIEGgIIABqGBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDiAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRU9QVxAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmdJSUJJSE8xNHRBeEN3TEkyOVg3U0c5SU1yNWk0aHJiZmtLOGFRUlhNTEtyVnRRSlNYVmQ5SF9JZVJhZGNlZVZGN0V5aG1UM1VjMHhSZjRDaGc3Tnk2M1d5ZDRSNnBHakpNb05HeDRXNy0xXzBwbndkUDlQM2VudGZLSW9QZXlGRkczNVRtMFpldzphPGI-Q0FSUElOVEVSw41BPC9iPiBFTCBSRU1FRElPLCA8Yj5DYXJwaW50ZXLDrWE8L2I-IHkgRWJhbmlzdGVyw61hIGVuIE1hbGFnw7NuLCBDaXVkYWQgUmVhbCAtIFFEUUKJAUNBUlBJTlRFUsONQSBFTCBSRU1FRElPLiBDYXJwaW50ZXLDrWEgeSBFYmFuaXN0ZXLDrWFDYWxsZSBDZXJ2YW50ZXMgNywgMTM0MjAsIE1hbGFnw7NuLCBDaXVkYWQgUmVhbC4gQWJpZXJ0by4gQ8OzbW8gbGxlZ2FyLiBWZXIgdGVsw6lmb25vIgIQAUgAWABoAA",
+      "source": "QDQ"
+    },
+    {
+      "position": 7,
+      "title": "Taller de carpintería | A.C.E. TETUÁN - EducaMadrid - Comunidad de Madrid |",
+      "link": "https://www.educa2.madrid.org/web/ace_tetuan/taller-de-carpinteria",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV7RcGPU3wqwub4GjzGeyGRhxicBYxPUlMYGS-bEYIIbntNEVFHACwc2aGx3VX4cX0Wq7h_RjQNiaHshZz65rPkp0-o3gVNoww2lskbRcGC8o96tmsfOapPuqGSuxSFohrQj-gxbFKuMax39m6rEH05NAZsa3Bvc6C&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoFCI0BEAE&uoh=1",
+      "displayed_link": "https://www.educa2.madrid.org",
+      "snippet": "· Realizar operaciones de trazado, corte y mecanizado en tablones de madera natural y tableros. · Realizar la primera fase de lijado en caras interiores, el ...",
+      "about_this_result": {
+        "source": {
+          "description": "· Realizar operaciones de trazado, corte y mecanizado en tablones de madera natural y tableros. · Realizar la primera fase de lijado en caras interiores, el ...",
+          "source_info_link": "https://www.educa2.madrid.org/web/ace_tetuan/taller-de-carpinteria"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjdSY0dQVTN3cXd1YjRHanpHZXlHUmh4aWNCWXhQVWxNWUdTLWJFWUlJYm50TkVWRkhBQ3djMmFHeDNWWDRjWDBXcTdoX1JqUU5pYUhzaFp6NjVyUGtwMC1vM2dWTm93dzJsc2tiUmNHQzhvOTZ0bXNmT2FwUHVxR1N1eFNGb2hyUWotZ3hiRkt1TWF4MzltNnJFSDA1TkFac2EzQnZjNkMSBBoCCAAatAQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAkAQIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVQ6ulQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVY3UmNHUFUzd3F3dWI0R2p6R2V5R1JoeGljQll4UFVsTVlHUy1iRVlJSWJudE5FVkZIQUN3YzJhR3gzVlg0Y1gwV3E3aF9SalFOaWFIc2haejY1clBrcDAtbzNnVk5vd3cybHNrYlJjR0M4bzk2dG1zZk9hcFB1cUdTdXhTRm9oclFqLWd4YkZLdU1heDM5bTZyRUgwNU5BWnNhM0J2YzZDOlRUYWxsZXIgZGUgPGI-Y2FycGludGVyw61hPC9iPiB8IEEuQy5FLiBURVRVw4FOIC0gRWR1Y2FNYWRyaWQgLSBDb211bmlkYWQgZGUgTWFkcmlkIHxCrgHCtyA8Yj5SZWFsaXphciBvcGVyYWNpb25lcyBkZSB0cmF6YWRvLCBjb3J0ZSB5IG1lY2FuaXphZG8gZW4gdGFibG9uZXMgZGUgbWFkZXJhIG5hdHVyYWwgeSB0YWJsZXJvczwvYj4uIMK3IFJlYWxpemFyIGxhIHByaW1lcmEgZmFzZSBkZSBsaWphZG8gZW4gY2FyYXMgaW50ZXJpb3JlcywgZWwmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjdSY0dQVTN3cXd1YjRHanpHZXlHUmh4aWNCWXhQVWxNWUdTLWJFWUlJYm50TkVWRkhBQ3djMmFHeDNWWDRjWDBXcTdoX1JqUU5pYUhzaFp6NjVyUGtwMC1vM2dWTm93dzJsc2tiUmNHQzhvOTZ0bXNmT2FwUHVxR1N1eFNGb2hyUWotZ3hiRkt1TWF4MzltNnJFSDA1TkFac2EzQnZjNkMSBBoCCAAatAQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAkAQIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVQ6ulQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVY3UmNHUFUzd3F3dWI0R2p6R2V5R1JoeGljQll4UFVsTVlHUy1iRVlJSWJudE5FVkZIQUN3YzJhR3gzVlg0Y1gwV3E3aF9SalFOaWFIc2haejY1clBrcDAtbzNnVk5vd3cybHNrYlJjR0M4bzk2dG1zZk9hcFB1cUdTdXhTRm9oclFqLWd4YkZLdU1heDM5bTZyRUgwNU5BWnNhM0J2YzZDOlRUYWxsZXIgZGUgPGI-Y2FycGludGVyw61hPC9iPiB8IEEuQy5FLiBURVRVw4FOIC0gRWR1Y2FNYWRyaWQgLSBDb211bmlkYWQgZGUgTWFkcmlkIHxCrgHCtyA8Yj5SZWFsaXphciBvcGVyYWNpb25lcyBkZSB0cmF6YWRvLCBjb3J0ZSB5IG1lY2FuaXphZG8gZW4gdGFibG9uZXMgZGUgbWFkZXJhIG5hdHVyYWwgeSB0YWJsZXJvczwvYj4uIMK3IFJlYWxpemFyIGxhIHByaW1lcmEgZmFzZSBkZSBsaWphZG8gZW4gY2FyYXMgaW50ZXJpb3JlcywgZWwmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "EducaMadrid"
+    },
+    {
+      "position": 8,
+      "title": "Carpintería de Madera en Asturias - Panes",
+      "link": "https://carpinteriacuetara.com/carpinteria-en-asturias",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVkwX3idag1D7M-0Kk02Zn2EWBxSGc8xegJVwKeEGNd0jsHTD8S6LciWSMRkEd7VZNNPe6UyTCfAi5Q94MgelInmJemnphR83rRYuPICsDEAFWNme2z8GfcjfVoKL5DSDxteQ_ZnQ07PpvHx8r&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoFCIkBEAE&uoh=1",
+      "displayed_link": "https://carpinteriacuetara.com",
+      "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASogABAAPtEutFooIagoGAEAGgliALToI-lbrO09nG5zDKhpzAAA_vJwYCrccfjj2dXYijLrOP_NMm6Uvk853fkGh0fUuMqHVK5UPqIf-AN9Qq8LbJ_VFgsJoXJzRTAdPCeFr7-wH6Zl-VvyMqmStWaAI48jA2mOHyUAnf7b0EUjlzRnwx8Y_lBBN79gmYPTsqM6KTlPHXdMmd4AAAA.webp",
+      "snippet": "Carpintería BP Cuétara estamos en Panes, Asturias y somos expertos en el arte de trabajar con la madera: ventanas, puertas, escaleras, estructuras...",
+      "about_this_result": {
+        "source": {
+          "description": "Carpintería BP Cuétara estamos en Panes, Asturias y somos expertos en el arte de trabajar con la madera: ventanas, puertas, escaleras, estructuras...",
+          "source_info_link": "https://carpinteriacuetara.com/carpinteria-en-asturias",
+          "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASogABAAPtEutFooIagoGAEAGgliALToI-lbrO09nG5zDKhpzAAA_vJwYCrccfjj2dXYijLrOP_NMm6Uvk853fkGh0fUuMqHVK5UPqIf-AN9Qq8LbJ_VFgsJoXJzRTAdPCeFr7-wH6Zl-VvyMqmStWaAI48jA2mOHyUAnf7b0EUjlzRnwx8Y_lBBN79gmYPTsqM6KTlPHXdMmd4AAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmt3WDNpZGFnMUQ3TS0wS2swMlpuMkVXQnhTR2M4eGVnSlZ3S2VFR05kMGpzSFREOFM2TGNpV1NNUmtFZDdWWk5OUGU2VXlUQ2ZBaTVROTRNZ2VsSW5tSmVtbnBoUjgzclJZdVBJQ3NERUFGV05tZTJ6OEdmY2pmVm9LTDVEU0R4dGVRX1puUTA3UHB2SHg4chIEGgIIABrxAxIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDNAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRVWVek_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmt3WDNpZGFnMUQ3TS0wS2swMlpuMkVXQnhTR2M4eGVnSlZ3S2VFR05kMGpzSFREOFM2TGNpV1NNUmtFZDdWWk5OUGU2VXlUQ2ZBaTVROTRNZ2VsSW5tSmVtbnBoUjgzclJZdVBJQ3NERUFGV05tZTJ6OEdmY2pmVm9LTDVEU0R4dGVRX1puUTA3UHB2SHg4cjoxPGI-Q2FycGludGVyw61hPC9iPiBkZSBNYWRlcmEgZW4gQXN0dXJpYXMgLSBQYW5lc0KeATxiPkNhcnBpbnRlcsOtYSBCUCBDdcOpdGFyYTwvYj4gZXN0YW1vcyBlbiBQYW5lcywgQXN0dXJpYXMgeSBzb21vcyBleHBlcnRvcyBlbiBlbCBhcnRlIGRlIHRyYWJhamFyIGNvbiBsYSBtYWRlcmE6IHZlbnRhbmFzLCBwdWVydGFzLCBlc2NhbGVyYXMsIGVzdHJ1Y3R1cmFzLi4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmt3WDNpZGFnMUQ3TS0wS2swMlpuMkVXQnhTR2M4eGVnSlZ3S2VFR05kMGpzSFREOFM2TGNpV1NNUmtFZDdWWk5OUGU2VXlUQ2ZBaTVROTRNZ2VsSW5tSmVtbnBoUjgzclJZdVBJQ3NERUFGV05tZTJ6OEdmY2pmVm9LTDVEU0R4dGVRX1puUTA3UHB2SHg4chIEGgIIABrxAxIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDNAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRVWVek_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmt3WDNpZGFnMUQ3TS0wS2swMlpuMkVXQnhTR2M4eGVnSlZ3S2VFR05kMGpzSFREOFM2TGNpV1NNUmtFZDdWWk5OUGU2VXlUQ2ZBaTVROTRNZ2VsSW5tSmVtbnBoUjgzclJZdVBJQ3NERUFGV05tZTJ6OEdmY2pmVm9LTDVEU0R4dGVRX1puUTA3UHB2SHg4cjoxPGI-Q2FycGludGVyw61hPC9iPiBkZSBNYWRlcmEgZW4gQXN0dXJpYXMgLSBQYW5lc0KeATxiPkNhcnBpbnRlcsOtYSBCUCBDdcOpdGFyYTwvYj4gZXN0YW1vcyBlbiBQYW5lcywgQXN0dXJpYXMgeSBzb21vcyBleHBlcnRvcyBlbiBlbCBhcnRlIGRlIHRyYWJhamFyIGNvbiBsYSBtYWRlcmE6IHZlbnRhbmFzLCBwdWVydGFzLCBlc2NhbGVyYXMsIGVzdHJ1Y3R1cmFzLi4uIgIQAUgAWABoAA",
+      "source": "carpinteriacuetara.com"
+    },
+    {
+      "position": 9,
+      "title": "Carpintería Metálica para Interiores en Burgos",
+      "link": "https://www.tallerestemino.com/servicios/carpinteria-metalica-para-interiores/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFRpXdTOeyl4VTusbt2cLZ-MMXqASECtuzGov6EAmM79ejLXateCG2rmRp6WTXrtLKxuEVW4wMHrQyFr2cxrp3U0iVxP4zlj1U4qEyyf2YcUufxYBPMhlhkeqI_ktBpmb5vWQVx1OWVby4_OG46qXyLTIOVMvYc7bN66Fti1xaxk49TTiHw&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoFCI4BEAE&uoh=1",
+      "displayed_link": "https://www.tallerestemino.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSALK0b1CjlA4hnyHdnq2dGN1IaJOpM4fU2_Q7aG3Q1yUSr1_xVOAklTw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogACAAPrUurVanIacnG_DgFoloALUhQVYAIjmgskFxBUEkzbIAAP7K1HX7xhqmx9EVomR3teLfQkand1KZCUMqSPyMO__SMg-SKyWbZECdI_qot4fKg4SHFbXi93rEK6guXoRnE4AAAA.webp",
+      "snippet": "Dale vida a tus espacios con nuestra carpintería metálica para interiores en Burgos. Barandillas, escaleras y detalles únicos que fusionan calidad y diseño ...",
+      "about_this_result": {
+        "source": {
+          "description": "Dale vida a tus espacios con nuestra carpintería metálica para interiores en Burgos. Barandillas, escaleras y detalles únicos que fusionan calidad y diseño ...",
+          "source_info_link": "https://www.tallerestemino.com/servicios/carpinteria-metalica-para-interiores/",
+          "icon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogACAAPrUurVanIacnG_DgFoloALUhQVYAIjmgskFxBUEkzbIAAP7K1HX7xhqmx9EVomR3teLfQkand1KZCUMqSPyMO__SMg-SKyWbZECdI_qot4fKg4SHFbXi93rEK6guXoRnE4AAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZScFhkVE9leWw0VlR1c2J0MmNMWi1NTVhxQVNFQ3R1ekdvdjZFQW1NNzllakxYYXRlQ0cycm1ScDZXVFhydExLeHVFVlc0d01IclF5RnIyY3hycDNVMGlWeFA0emxqMVU0cUV5eWYyWWNVdWZ4WUJQTWhsaGtlcUlfa3RCcG1iNXZXUVZ4MU9XVmJ5NF9PRzQ2cVh5TFRJT1ZNdlljN2JONjZGdGkxeGF4azQ5VFRpSHcSBBoCCAAavwQSABoCCAEiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCZBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUGJ2pAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZScFhkVE9leWw0VlR1c2J0MmNMWi1NTVhxQVNFQ3R1ekdvdjZFQW1NNzllakxYYXRlQ0cycm1ScDZXVFhydExLeHVFVlc0d01IclF5RnIyY3hycDNVMGlWeFA0emxqMVU0cUV5eWYyWWNVdWZ4WUJQTWhsaGtlcUlfa3RCcG1iNXZXUVZ4MU9XVmJ5NF9PRzQ2cVh5TFRJT1ZNdlljN2JONjZGdGkxeGF4azQ5VFRpSHc6SjxiPkNhcnBpbnRlcsOtYTwvYj4gTWV0w6FsaWNhIHBhcmEgSW50ZXJpb3JlcyBlbiBCdXJnb3MgLSBUYWxsZXJlcyBUZW1pw7FvQq8BRGFsZSB2aWRhIGEgdHVzIGVzcGFjaW9zIGNvbiBudWVzdHJhIDxiPmNhcnBpbnRlcsOtYSBtZXTDoWxpY2EgcGFyYSBpbnRlcmlvcmVzIGVuIEJ1cmdvczwvYj4uIEJhcmFuZGlsbGFzLCBlc2NhbGVyYXMgeSBkZXRhbGxlcyDDum5pY29zIHF1ZSBmdXNpb25hbiBjYWxpZGFkIHkgZGlzZcOxbyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZScFhkVE9leWw0VlR1c2J0MmNMWi1NTVhxQVNFQ3R1ekdvdjZFQW1NNzllakxYYXRlQ0cycm1ScDZXVFhydExLeHVFVlc0d01IclF5RnIyY3hycDNVMGlWeFA0emxqMVU0cUV5eWYyWWNVdWZ4WUJQTWhsaGtlcUlfa3RCcG1iNXZXUVZ4MU9XVmJ5NF9PRzQ2cVh5TFRJT1ZNdlljN2JONjZGdGkxeGF4azQ5VFRpSHcSBBoCCAAavwQSABoCCAEiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCZBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUGJ2pAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZScFhkVE9leWw0VlR1c2J0MmNMWi1NTVhxQVNFQ3R1ekdvdjZFQW1NNzllakxYYXRlQ0cycm1ScDZXVFhydExLeHVFVlc0d01IclF5RnIyY3hycDNVMGlWeFA0emxqMVU0cUV5eWYyWWNVdWZ4WUJQTWhsaGtlcUlfa3RCcG1iNXZXUVZ4MU9XVmJ5NF9PRzQ2cVh5TFRJT1ZNdlljN2JONjZGdGkxeGF4azQ5VFRpSHc6SjxiPkNhcnBpbnRlcsOtYTwvYj4gTWV0w6FsaWNhIHBhcmEgSW50ZXJpb3JlcyBlbiBCdXJnb3MgLSBUYWxsZXJlcyBUZW1pw7FvQq8BRGFsZSB2aWRhIGEgdHVzIGVzcGFjaW9zIGNvbiBudWVzdHJhIDxiPmNhcnBpbnRlcsOtYSBtZXTDoWxpY2EgcGFyYSBpbnRlcmlvcmVzIGVuIEJ1cmdvczwvYj4uIEJhcmFuZGlsbGFzLCBlc2NhbGVyYXMgeSBkZXRhbGxlcyDDum5pY29zIHF1ZSBmdXNpb25hbiBjYWxpZGFkIHkgZGlzZcOxbyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Talleres Temiño"
+    },
+    {
+      "position": 10,
+      "title": "Taller Viladecans Repara: Reparación de muebles y carpintería",
+      "link": "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFcBvLOidQAIdWTC6DOAkLzfErF9wjgK3bVhGmanlP6e8nAhiQqsT5z8m078r4knEmPxgu6B7PSc5xE-MPoHA12TUJpNajTfBPLNwKzzDo_2ZJVxjHgputsbIyJ-s2iY0kSF39VRER2xgWttfq_YYX-jb7Hyx4OW3a__5ViDN_fS2C5HmOOf3YBHuJmUOtH5VMg&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQFnoFCIwBEAE&uoh=1",
+      "displayed_link": "https://www.viladecans.cat",
+      "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAMKogaKyMBmMH6Z8El1AG8TeTkTP548OroilQjPnOG3bv9z37-VgG-mGdbSJAAD-6MfR_Hb9t46LB_w9G7SQm7mzr6aiSyeJ1_36Opvb-pe90nOVMfCnsWh9B7F2x4ciJ21w4Lf_dlGUpkrt__rmODtPZIj__zmOETRpz95__8WDXQt_G383Zvd2vRZ7m1htl5HlMVseH7Y7ccuDlNW6KCZVAt0Y-8DbU65rz5006nyKRT-t5H-0T0Gql7W8K72f1R6JTC0XQ-yi96pnfq2i_KqyvXgv_e2_pYpsLQ7X5v_FeiPzFfhndNsxOcp5gxUELsSr11_4Pr_H36f92R8Qv3IOm765lKEhyY6SEKf2TjkQI5Al-br-yiOTcZtlWNFQQfdjrmoSaMltezSgd5AC6Z0Z8pcY-P_f82P6OTRAPB4ddXG6AAAA.webp",
+      "snippet": "Taller Viladecans Repara: Reparación de muebles y carpintería ... Aprenderemos a cuidar, reparar y mantener nuestros muebles de madera. Apúntate a nuestro ...",
+      "about_this_result": {
+        "source": {
+          "description": "Taller Viladecans Repara: Reparación de muebles y carpintería ... Aprenderemos a cuidar, reparar y mantener nuestros muebles de madera. Apúntate a nuestro ...",
+          "source_info_link": "https://www.viladecans.cat/es/taller-viladecans-repara-reparacion-de-muebles-y-carpinteria",
+          "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAMKogaKyMBmMH6Z8El1AG8TeTkTP548OroilQjPnOG3bv9z37-VgG-mGdbSJAAD-6MfR_Hb9t46LB_w9G7SQm7mzr6aiSyeJ1_36Opvb-pe90nOVMfCnsWh9B7F2x4ciJ21w4Lf_dlGUpkrt__rmODtPZIj__zmOETRpz95__8WDXQt_G383Zvd2vRZ7m1htl5HlMVseH7Y7ccuDlNW6KCZVAt0Y-8DbU65rz5006nyKRT-t5H-0T0Gql7W8K72f1R6JTC0XQ-yi96pnfq2i_KqyvXgv_e2_pYpsLQ7X5v_FeiPzFfhndNsxOcp5gxUELsSr11_4Pr_H36f92R8Qv3IOm765lKEhyY6SEKf2TjkQI5Al-br-yiOTcZtlWNFQQfdjrmoSaMltezSgd5AC6Z0Z8pcY-P_f82P6OTRAPB4ddXG6AAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZjQnZMT2lkUUFJZFdUQzZET0FrTHpmRXJGOXdqZ0szYlZoR21hbmxQNmU4bkFoaVFxc1Q1ejhtMDc4cjRrbkVtUHhndTZCN1BTYzV4RS1NUG9IQTEyVFVKcE5halRmQlBMTndLenpEb18yWkpWeGpIZ3B1dHNiSXlKLXMyaVkwa1NGMzlWUkVSMnhnV3R0ZnFfWVlYLWpiN0h5eDRPVzNhX181VmlETl9mUzJDNUhtT09mM1lCSHVKbVVPdEg1Vk1nEgQaAggAGscEEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQKMECA4QABgAIAAqRgoMY2FycGludGVyw61hFVKuBUAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEy2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RmNCdkxPaWRRQUlkV1RDNkRPQWtMemZFckY5d2pnSzNiVmhHbWFubFA2ZThuQWhpUXFzVDV6OG0wNzhyNGtuRW1QeGd1NkI3UFNjNXhFLU1Qb0hBMTJUVUpwTmFqVGZCUExOd0t6ekRvXzJaSlZ4akhncHV0c2JJeUotczJpWTBrU0YzOVZSRVIyeGdXdHRmcV9ZWVgtamI3SHl4NE9XM2FfXzVWaUROX2ZTMkM1SG1PT2YzWUJIdUptVU90SDVWTWc6RlRhbGxlciBWaWxhZGVjYW5zIFJlcGFyYTogUmVwYXJhY2nDs24gZGUgbXVlYmxlcyB5IDxiPmNhcnBpbnRlcsOtYTwvYj5CrQE8Yj5UYWxsZXIgVmlsYWRlY2FucyBSZXBhcmE8L2I-OiBSZXBhcmFjacOzbiBkZSBtdWVibGVzIHkgY2FycGludGVyw61hIC4uLiBBcHJlbmRlcmVtb3MgYSBjdWlkYXIsIHJlcGFyYXIgeSBtYW50ZW5lciBudWVzdHJvcyBtdWVibGVzIGRlIG1hZGVyYS4gQXDDum50YXRlIGEgbnVlc3RybyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZjQnZMT2lkUUFJZFdUQzZET0FrTHpmRXJGOXdqZ0szYlZoR21hbmxQNmU4bkFoaVFxc1Q1ejhtMDc4cjRrbkVtUHhndTZCN1BTYzV4RS1NUG9IQTEyVFVKcE5halRmQlBMTndLenpEb18yWkpWeGpIZ3B1dHNiSXlKLXMyaVkwa1NGMzlWUkVSMnhnV3R0ZnFfWVlYLWpiN0h5eDRPVzNhX181VmlETl9mUzJDNUhtT09mM1lCSHVKbVVPdEg1Vk1nEgQaAggAGscEEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQKMECA4QABgAIAAqRgoMY2FycGludGVyw61hFVKuBUAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEy2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RmNCdkxPaWRRQUlkV1RDNkRPQWtMemZFckY5d2pnSzNiVmhHbWFubFA2ZThuQWhpUXFzVDV6OG0wNzhyNGtuRW1QeGd1NkI3UFNjNXhFLU1Qb0hBMTJUVUpwTmFqVGZCUExOd0t6ekRvXzJaSlZ4akhncHV0c2JJeUotczJpWTBrU0YzOVZSRVIyeGdXdHRmcV9ZWVgtamI3SHl4NE9XM2FfXzVWaUROX2ZTMkM1SG1PT2YzWUJIdUptVU90SDVWTWc6RlRhbGxlciBWaWxhZGVjYW5zIFJlcGFyYTogUmVwYXJhY2nDs24gZGUgbXVlYmxlcyB5IDxiPmNhcnBpbnRlcsOtYTwvYj5CrQE8Yj5UYWxsZXIgVmlsYWRlY2FucyBSZXBhcmE8L2I-OiBSZXBhcmFjacOzbiBkZSBtdWVibGVzIHkgY2FycGludGVyw61hIC4uLiBBcHJlbmRlcmVtb3MgYSBjdWlkYXIsIHJlcGFyYXIgeSBtYW50ZW5lciBudWVzdHJvcyBtdWVibGVzIGRlIG1hZGVyYS4gQXDDum50YXRlIGEgbnVlc3RybyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Ajuntament de Viladecans"
+    }
+  ],
+  "ask_ai_mode": [
+    {
+      "position": 1,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Casal+Carpinteros+Oficinas+de+empresa+Av.+de+Lugo,+169,+15703+Santiago+de+Compostela,+A+Coru%C3%B1a&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ2egTegQIYBAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Casal+Carpinteros+Oficinas+de+empresa+Av.+de+Lugo%2C+169%2C+15703+Santiago+de+Compostela%2C+A+Coru%C3%B1a"
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Carpinter%C3%ADa+Educa+Carpinter%C3%ADa+met%C3%A1lica+y+de+aluminio+R%C3%BAa+de+Santiago+de+Chile,+14,+15701+Santiago+de+Compostela,+A+Coru%C3%B1a&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ2egTegQIaRAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Carpinter%C3%ADa+Educa+Carpinter%C3%ADa+met%C3%A1lica+y+de+aluminio+R%C3%BAa+de+Santiago+de+Chile%2C+14%2C+15701+Santiago+de+Compostela%2C+A+Coru%C3%B1a"
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Barcala+Carpinteiros+Sl+Carpintero+C.+de,+R%C3%BAa+de+Alfredo+Bra%C3%B1as,+23,+15701+Santiago+de+Compostela,+A+Coru%C3%B1a&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ2egTegQIaBAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Barcala+Carpinteiros+Sl+Carpintero+C.+de%2C+R%C3%BAa+de+Alfredo+Bra%C3%B1as%2C+23%2C+15701+Santiago+de+Compostela%2C+A+Coru%C3%B1a"
+    },
+    {
+      "position": 4,
+      "link": "https://www.instagram.com/paupau.obradoiros/"
+    },
+    {
+      "position": 5,
+      "link": "http://www.carpinteriacrego.com/"
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Mosquera+(Santiago+de+Compostela)+Carpinter%C3%ADa+met%C3%A1lica+y+de+aluminio+R%C3%BAa+Casas+Hedra,+13,+15707+Santiago+de+Compostela,+A+Coru%C3%B1a&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ2egTegQIZRAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Mosquera+%28Santiago+de+Compostela%29+Carpinter%C3%ADa+met%C3%A1lica+y+de+aluminio+R%C3%BAa+Casas+Hedra%2C+13%2C+15707+Santiago+de+Compostela%2C+A+Coru%C3%B1a"
+    },
+    {
+      "position": 7,
+      "link": "https://galparreformas.es/"
+    },
+    {
+      "position": 8,
+      "link": "https://fcreformas.es/"
+    },
+    {
+      "position": 9,
+      "link": "https://www.carpinteriafernandez.es/"
+    },
+    {
+      "position": 10,
+      "link": "https://www.cmpereztaboada.com/"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ciclo carpintería",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Ciclo+carpinter%C3%ADa&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Ciclo+carpinter%C3%ADa"
+    },
+    {
+      "block_position": 1,
+      "query": "Fp carpintería asturias",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Fp+carpinter%C3%ADa+asturias&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Fp+carpinter%C3%ADa+asturias"
+    },
+    {
+      "block_position": 1,
+      "query": "Fp carpintería online",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Fp+carpinter%C3%ADa+online&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Fp+carpinter%C3%ADa+online"
+    },
+    {
+      "block_position": 1,
+      "query": "Técnico en carpintería y mueble madrid",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=T%C3%A9cnico+en+carpinter%C3%ADa+y+mueble+madrid&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=T%C3%A9cnico+en+carpinter%C3%ADa+y+mueble+madrid"
+    },
+    {
+      "block_position": 1,
+      "query": "FP carpintería Alicante",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=FP+carpinter%C3%ADa+Alicante&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=FP+carpinter%C3%ADa+Alicante"
+    },
+    {
+      "block_position": 1,
+      "query": "Fabricación e instalación de carpintería y mueble",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Fabricaci%C3%B3n+e+instalaci%C3%B3n+de+carpinter%C3%ADa+y+mueble&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Fabricaci%C3%B3n+e+instalaci%C3%B3n+de+carpinter%C3%ADa+y+mueble"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpinteria e moble",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Carpinteria+e+moble&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Carpinteria+e+moble"
+    },
+    {
+      "block_position": 2,
+      "query": "Curso de carpintería",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Curso+de+carpinter%C3%ADa&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Curso+de+carpinter%C3%ADa"
+    },
+    {
+      "block_position": 2,
+      "query": "Grado Medio en carpintería y mueble",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Grado+Medio+en+carpinter%C3%ADa+y+mueble&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Grado+Medio+en+carpinter%C3%ADa+y+mueble"
+    },
+    {
+      "block_position": 2,
+      "query": "Familia profesional carpinteria",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Familia+profesional+carpinteria&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Familia+profesional+carpinteria"
+    },
+    {
+      "block_position": 2,
+      "query": "Curso de carpinteria y mueble",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Curso+de+carpinteria+y+mueble&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Curso+de+carpinteria+y+mueble"
+    },
+    {
+      "block_position": 2,
+      "query": "Fp carpintería asignaturas",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&hl=es&gl=es&sxsrf=APpeQnu4KYQ91yraC8hH5n3s-uFZBP3ZAw:1791369984335&q=Fp+carpinter%C3%ADa+asignaturas&sa=X&ved=2ahUKEwjvlM-c3aeXAxW8M9AFHUHlCEgQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Santiago+de+Compostela%2CGalicia%2CSpain&q=Fp+carpinter%C3%ADa+asignaturas"
+    }
+  ],
+  "pagination": {
+    "current": 1
+  },
+  "serpapi_pagination": {
+    "current": 1
+  }
+}

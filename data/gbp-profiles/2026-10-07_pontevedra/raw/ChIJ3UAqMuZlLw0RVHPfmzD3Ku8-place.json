@@ -1,0 +1,148 @@
+{
+  "search_metadata": {
+    "id": "6ac674a70558c05fc2932d6b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XLZLxYY7dC3euBzFMwSfvDr1hSBhnubbCa-gOjQZwX4/6ac674a70558c05fc2932d6b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XLZLxYY7dC3euBzFMwSfvDr1hSBhnubbCa-gOjQZwX4/6ac674a70558c05fc2932d6b.md",
+    "created_at": "2026-10-07 16:34:47 UTC",
+    "processed_at": "2026-10-07 16:34:47 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f65e6322a40dd:0xef2af7309bdf7354!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/XLZLxYY7dC3euBzFMwSfvDr1hSBhnubbCa-gOjQZwX4/6ac674a70558c05fc2932d6b.html",
+    "prettify_html_file": "https://serpapi.com/searches/XLZLxYY7dC3euBzFMwSfvDr1hSBhnubbCa-gOjQZwX4/6ac674a70558c05fc2932d6b.prettify",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Alberto Parada",
+    "place_id": "ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+    "data_id": "0xd2f65e6322a40dd:0xef2af7309bdf7354",
+    "data_cid": "17233858712232227668",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f65e6322a40dd%3A0xef2af7309bdf7354&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f65e6322a40dd%3A0xef2af7309bdf7354&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.435188499999995,
+      "longitude": -8.6843085
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+    "provider_id": "/g/11fzz18943",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNNvIhlN0_vsP5-YCjMqOMgk_V6QqQVi9mW7LmX-95r1W-wGOw_7wsBLrHdDAYJAag1lN7VLHofNMZe4O2-UExraXAivTS2X0qC0on9JayMKIjikoJMEM1sAN_sLRRdr6RjlDv1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Eb4FOXicHcRRboIwGADgE1VaJxBM9lDRqEjLZBPRF0IQC1io9McyT7gz7DYmfg_f_181DHeYW5asPiZCKSHLB5S6UN1QdsOkUK0ldA6ACrCob-6y5dxsK8lxZuDLRie_YX3ExC1LnH2_T2qvPbphmyLP1uSIxnU0Zu4Ii1BvLkt6CmguiORuEm7UlbNzOYum6LD61XlKa_PzPU1x72PVeUH-ZLttU99UwFaMAOUZhHF80U7cyKUhnyPBGKPqfYG6F2cKREE",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 3
+      }
+    ],
+    "rating": 5,
+    "reviews": 3,
+    "type": [
+      "Carpintero"
+    ],
+    "address": "Rúa Beiramar, 82, 36995 Pontevedra",
+    "country": "España",
+    "website": "https://sites.google.com/view/carpinteriaparada/inicio",
+    "phone": "630 57 27 62",
+    "open_state": "Abierto · Cierre: 20:00",
+    "plus_code": "C8P8+37 Pontevedra",
+    "hours": [
+      {
+        "miércoles": "8:30–13:00, 15:00–20:00"
+      },
+      {
+        "jueves": "8:30–13:00, 15:00–20:00"
+      },
+      {
+        "viernes": "8:30–13:00, 15:00–20:00"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "8:30–13:00, 15:00–20:00"
+      },
+      {
+        "martes": "8:30–13:00, 15:00–20:00"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"He quedado muy contenta con su trabajo.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWJqOpgxUJBDrplOx2BR2nB07OAiEFLNMrokwEYKoBmK9TO9O2llw=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Buena relación calidad-precio.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVxUQkIt1H9U_qzSVflzFG0Kt8cj-YloHXvulE96B6mEUh3lVtK=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "David Loira Entenza",
+          "rating": 5,
+          "contributor_id": "109069438064358990967",
+          "user_review_count": 6,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJjO9baZ_rtWhtu7L585utAxSWcmuYz36sqMlmq89aPOJFb2A=s120-c-rp-mo-br100",
+          "description": "Honradez buen gusto y perfección es lo que define a este carpintero, espectacular el acabado del parquet flotante, armarios, puertas y cocina, sin duda lo volveré a llamar cuando lo necesite. Gran profesional.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCdWYzSmVBEAE!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgIDBuf3JeA%7C%7C?hl=es",
+          "date": "Hace 3 años",
+          "date_iso8601": "2023-01-23T21:20:39+00:00"
+        },
+        {
+          "username": "Yaiza TC",
+          "rating": 5,
+          "contributor_id": "101440129497546702527",
+          "user_review_count": 883,
+          "user_photo_count": 6502,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWJqOpgxUJBDrplOx2BR2nB07OAiEFLNMrokwEYKoBmK9TO9O2llw=s120-c-rp-mo-ba12-br100",
+          "description": "¡Genial! He quedado muy contenta con su trabajo. Es muy trabajador. ¡Lo recomiendo!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN3ck03Mk13EAE!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgICwrM72Mw%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM-LbdvtTrcHTlaK4czLYzo26gBDHa6bmXv5Ha09fs8zJ-k2ZBUOJgv9LYvUAqaveGS5nQazrpbjEKZ4GeGy8gNPE-W5GpjYevq4fzAa2A-ZazqlynwZfu27sl9MY-JTEPCX42oXQ=k-no"
+            }
+          ],
+          "date": "Hace 8 años",
+          "date_iso8601": "2017-11-29T18:32:32+00:00"
+        },
+        {
+          "username": "M. Angel Touriño",
+          "rating": 5,
+          "contributor_id": "104118982519058279952",
+          "user_review_count": 520,
+          "user_photo_count": 261,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVxUQkIt1H9U_qzSVflzFG0Kt8cj-YloHXvulE96B6mEUh3lVtK=s120-c-rp-mo-ba12-br100",
+          "description": "Gran profesional. Buena relación calidad-precio.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNnN05xdzB3RRAB!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgICg7Nqw0wE%7C%7C?hl=es",
+          "date": "Hace 8 años",
+          "date_iso8601": "2017-11-29T19:24:36+00:00"
+        }
+      ]
+    }
+  }
+}

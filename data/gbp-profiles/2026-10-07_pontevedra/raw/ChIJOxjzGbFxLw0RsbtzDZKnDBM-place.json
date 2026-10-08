@@ -1,0 +1,244 @@
+{
+  "search_metadata": {
+    "id": "6ac6749cfbe53bec0345ca15",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/djA-Uc5yf0-7NWseANQkV3g0WhPSQUCPcrPehCUOH9g/6ac6749cfbe53bec0345ca15.json",
+    "markdown_endpoint": "https://serpapi.com/searches/djA-Uc5yf0-7NWseANQkV3g0WhPSQUCPcrPehCUOH9g/6ac6749cfbe53bec0345ca15.md",
+    "created_at": "2026-10-07 16:34:36 UTC",
+    "processed_at": "2026-10-07 16:34:36 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f71b119f3183b:0x130ca7920d73bbb1!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/djA-Uc5yf0-7NWseANQkV3g0WhPSQUCPcrPehCUOH9g/6ac6749cfbe53bec0345ca15.html",
+    "prettify_html_file": "https://serpapi.com/searches/djA-Uc5yf0-7NWseANQkV3g0WhPSQUCPcrPehCUOH9g/6ac6749cfbe53bec0345ca15.prettify",
+    "total_time_taken": 5.78
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJOxjzGbFxLw0RsbtzDZKnDBM",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Carpintería y Ebanistería Leins",
+    "place_id": "ChIJOxjzGbFxLw0RsbtzDZKnDBM",
+    "data_id": "0xd2f71b119f3183b:0x130ca7920d73bbb1",
+    "data_cid": "1372656232173910961",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f71b119f3183b%3A0x130ca7920d73bbb1&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f71b119f3183b%3A0x130ca7920d73bbb1&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.4282648,
+      "longitude": -8.6308937
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOxjzGbFxLw0RsbtzDZKnDBM",
+    "provider_id": "/g/1thx9xtj",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWZqF9eK3LKQttHyAyCfvNOHw-18SOQNdMeMj8seCEB3g9Ejc2xyJoqWphGtLRMIVI_yBAF3LLWUg2fEAjDQIgWrAwzTdQZcTjyjZGSwTf7j-I2ButQfLtjOsG3K-M7kstT049=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9xJjuHicHcTBboIwGADgJ6ogXaIs8VAcIqNAqt2acPFQS7FzFO2vWF_QZ_BtTPwO3_PRAQzuMwiOHZ5oa_VRXZw6S9uD6mEi7X-gB4ekQy4glTj4mIvmtIpVgWnBANae-GV7rer1iKbzbc2qfalKM3dqmSZYx6mR0c1_25MYugzopsx_851PyApTKn501KbEfLFcizMZ73zPGsmNN022HXk7MyiPkguwloKpXYYLVM7-HPDwI16M0zAMUfdeov4FS3NENQ",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 6
+      }
+    ],
+    "rating": 4,
+    "reviews": 8,
+    "type": [
+      "Carpintero",
+      "Tienda de mobiliario para dormitorios",
+      "Ebanista",
+      "Tienda de armarios",
+      "Proveedor de puertas",
+      "Carpintería",
+      "Tienda de muebles de cocina",
+      "Servicio de instalación de suelos de madera"
+    ],
+    "address": "Rúa Doutor Loureiro Crespo, 64, 36004 Pontevedra",
+    "country": "España",
+    "website": "http://www.carpinteriaebanisterialeins.com/",
+    "phone": "620 25 27 93",
+    "open_state": "Cerrado · Apertura: 19:30",
+    "plus_code": "C9H9+8J Pontevedra",
+    "hours": [
+      {
+        "miércoles": "10:00–13:00, 19:30–21:00"
+      },
+      {
+        "jueves": "10:00–13:00, 19:30–21:00"
+      },
+      {
+        "viernes": "10:00–13:00, 19:30–21:00"
+      },
+      {
+        "sábado": "10:30–13:00"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "10:00–13:00, 19:30–21:00"
+      },
+      {
+        "martes": "10:00–13:00, 19:30–21:00"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0xd2f71b119f3183b%3A0x130ca7920d73bbb1&engine=google_maps_posts",
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipO3eYBrRRMzqeylPrlAt2332ALwNwkFIL5Av3kL=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKENjmw_mXhbDUAQ&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "No te pierdas nuestros últimos trabajos.",
+        "date": "hace 2 días"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPjB2vqfVTKgv00U41GkeYnvBOeLsGnFXML0_A8=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKEMydmcyB09Ce-wE&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "Muebles de baño y cocina\nRealizamos diseños en 3D y fabricamos todo tipo de muebles a medida, armarios, cocinas, baño, etc.\nConsúltenos sin ningún compromiso....\n\n#carpinteriaenpontevedra #ebanisteriaenpontevedra",
+        "date": "14 sept 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNaBFP8GwkQsbr9Gw5NDjwsd0iVDo-4Gy9DoYcR=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKEK7gmb7hqt3s5wE&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "¡Bienvenid@s a Carpintería y Ebanistería Leins! Creamos muebles personalizados con amor y precisión. Contacta con nosotros para tu proyecto ideal.\n\n#carpinteriaenpontevedra #ebanisteriaenpontevedra",
+        "date": "14 ago 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPGRbywqHry1Hy6OsNvwfBOEwLwjWO377si8Zhu=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKEOz4rvWHtdG5jwE&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "🪵✨ Transformamos la madera en piezas únicas y a tu medida, con pasión y dedicación artesanal. Sea cual sea tu proyecto, lo hacemos realidad con materiales de la mejor calidad y atención personalizada. 🛠️💡 Ven a conocernos hoy y da vida a tus ideas.\n\n#carpinteriaenpontevedra #ebanisteriaenpontevedra",
+        "date": "14 jul 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipNOVkHwZeGLCwftqxqfQFv02u_f-n6u_C5rsQrl=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKEJyt-KrbnaSnpAE&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "Realizamos diseños en 3D y fabricamos todo tipo de muebles a medida, armarios, cocinas, baño, etc.\n\nConsultenos sin ningún compromiso...\n\n#carpinteriaenpontevedra #ebanisteriaenpontevedra",
+        "date": "12 jun 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOTbj5ewvyuulonHKIUMfJDxAQvyFrANYWeAb7g=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKELvugo-WmIKoew&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "En Carpintería y Ebanistería Leins, elaboramos muebles y trabajos de carpintería a medida con dedicación y detalle.\n¡Contáctanos y transforma tus espacios hoy!",
+        "date": "10 abr 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMGuYpfRVAP3L1DSI4u_9jKZ85-TA_NZMFtejIT=h400-no",
+        "cta": "Llamar ahora",
+        "phone": "620 25 27 93",
+        "post_link": "https://search.google.com/local/posts?q=Carpinter%C3%ADa+y+Ebanister%C3%ADa+Leins&ludocid=1372656232173910961&lpsid=CIHM0ogKEOPryPCOvbKSag&source=sh/x/loc/post&lsig=AB86z5WQeicAto-UGKkOrg-1nk5j",
+        "description": "En Carpintería y Ebanistería Leins creamos muebles únicos y a medida con acabados de calidad. ¡Contáctanos y haz realidad tus ideas en madera!",
+        "date": "10 abr 2026"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Muy muy recomendados.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW9e1aHOBd2PdX-hNRZZWbxzXwnXSjSyTv7_im_c49faG4_QyHt=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"No tengo buena experiencia con ellos y a la hora de pagar te llevas sorpresa...\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJLZbkTBpr4HzO_6GfpmqVbuUhoParmCCT9P4--7ql7sIiAgQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Muy contenta con el trabajo realizado 👍\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUO5-j6NyxGAAn-Z9Av6a3o3mIbvvWVojtJaS9GRIc2jwcbCZso=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "vanessa acuna",
+          "rating": 5,
+          "contributor_id": "111565740452697039922",
+          "user_review_count": 4,
+          "user_photo_count": 5,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW9e1aHOBd2PdX-hNRZZWbxzXwnXSjSyTv7_im_c49faG4_QyHt=s120-c-rp-mo-br100",
+          "description": "Todos unos profesionales. Me sorprendio desde un principio su pronta respuesta y diponibilidad, hasta el punto que me hizo sospechar de que era demasiado bueno como para ser cierto (y considerando que otros carpinteros aun estoy esperando por ellos para que me hagan presupuesto). Hice 2 armarios con ellos (ver fotos), uno para  un bano, y otro con espejos para mi habitacion, fenomenal. Calidad - precio muy bien. Un equipo muy familiar y muy responsables. 40 anos trabajando y se ve. Muy muy recomendados. Gracas Leins!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR5eUpPcVFBEAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDyyJOqQA%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNM9ZOrflpXBbO9hJBEBvLF8N9yD65W--UPyn-sGhMvlEcsswFyVcCsmxzUWlzwcVpU4gKLTBcrNvKlqD5CuHp3GkHwkNfOPBPzmhNOtUa7aMogBotyPzpHXX-J7zWRI23wUVVozg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOjkfIPSSHCxxc3zHkA2bmjZ9xjLUUqY60ijWD8onzg2DwLCONRTB-VGjw4X2dvZh9vuoYdXqDfK0Mc-XesqBV2z6WH1RggYRX4e9wp_Ke2J6DMaVslSAcnL4Aay-_vJ84ivPwj=k-no"
+            }
+          ],
+          "date": "Hace 5 años",
+          "date_iso8601": "2021-02-22T11:45:16+00:00"
+        },
+        {
+          "username": "Flor Malvar",
+          "rating": 5,
+          "contributor_id": "108565872200906069909",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUO5-j6NyxGAAn-Z9Av6a3o3mIbvvWVojtJaS9GRIc2jwcbCZso=s120-c-rp-mo-br100",
+          "description": "Muy contenta con el trabajo realizado 👍",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzbHMtbWZBEAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIC3ls-mfA%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2024-11-05T10:28:07+00:00"
+        },
+        {
+          "username": "Juan Mendoza Pérez",
+          "rating": 1,
+          "contributor_id": "102760462567981581105",
+          "user_review_count": 31,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJLZbkTBpr4HzO_6GfpmqVbuUhoParmCCT9P4--7ql7sIiAgQ=s120-c-rp-mo-ba12-br100",
+          "description": "No tengo buena experiencia con ellos y a la hora de pagar te llevas sorpresa...",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURLc3FtbWlBRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDKsqmmiAE%7C%7C?hl=es",
+          "date": "Fecha de edición: Hace 5 años",
+          "date_iso8601": "2021-05-21T13:09:57+00:00"
+        },
+        {
+          "username": "Lyudanetka",
+          "rating": 5,
+          "contributor_id": "105320930949687469666",
+          "user_review_count": 20,
+          "user_photo_count": 59,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWa4WKTmegfdVnosS1W_L38h6atCCCkquLn2Jrvm4WCCycAt1ZK=s120-c-rp-mo-ba12-br100",
+          "description": "Detallista, serio y responsable. Buen trabajo.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURZdDdDcXJnRRAB!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDYt7CqrgE%7C%7C?hl=es",
+          "date": "Hace 7 años",
+          "date_iso8601": "2019-05-26T15:38:06+00:00"
+        },
+        {
+          "username": "CARMEN COTO",
+          "rating": 5,
+          "contributor_id": "116548267320161258146",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLgRZXSQfaaPnjF46g_k3IA2CAZldl5gSmyNJECwTZeFSbvQA=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURLbXV1N0t3EAE!2m1!1s0x0:0x130ca7920d73bbb1!3m1!1s2@1:CIHM0ogKEICAgIDKmuu7Kw%7C%7C?hl=es",
+          "date": "Hace 5 años",
+          "date_iso8601": "2021-05-08T09:06:57+00:00"
+        }
+      ]
+    }
+  }
+}

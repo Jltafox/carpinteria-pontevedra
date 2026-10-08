@@ -1,0 +1,13 @@
+---
+// Landings servicio × zona: /{servicio}/{zona}/
+import PageView from '../../components/PageView.astro';
+import { pages } from '../../lib/site';
+
+export function getStaticPaths() {
+  return pages
+    .filter((p) => p.type === 'service-area')
+    .map((page) => ({ params: { servicio: page.params.servicio, zona: page.params.zona }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<PageView page={page} />

@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://{{dominio}}/carpinteria/{{zona_slug}}/#pagina",
+      "name": "Carpintería en {{zona}}",
+      "url": "https://{{dominio}}/carpinteria/{{zona_slug}}/",
+      "about": {
+        "@id": "https://{{dominio}}/#negocio"
+      },
+      "spatialCoverage": {
+        "@type": "City",
+        "name": "{{zona}}",
+        "containedInPlace": {
+          "@type": "AdministrativeArea",
+          "name": "Provincia de {{provincia}}"
+        }
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "{{servicio}} en {{zona}}",
+            "url": "https://{{dominio}}/{{servicio_slug}}/{{zona_slug}}/"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://{{dominio}}/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Carpintería en {{zona}}",
+          "item": "https://{{dominio}}/carpinteria/{{zona_slug}}/"
+        }
+      ]
+    }
+  ]
+}

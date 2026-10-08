@@ -1,0 +1,100 @@
+{
+  "search_metadata": {
+    "id": "6ac67492fbbeb59c7d84a735",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GZOV56PhOVVlTXkic7NRywZE_d07xxPWOCMOl1tn5xE/6ac67492fbbeb59c7d84a735.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GZOV56PhOVVlTXkic7NRywZE_d07xxPWOCMOl1tn5xE/6ac67492fbbeb59c7d84a735.md",
+    "created_at": "2026-10-07 16:34:26 UTC",
+    "processed_at": "2026-10-07 16:34:26 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f657eb4cd7313:0x35ff4f7c38b4df4c!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/GZOV56PhOVVlTXkic7NRywZE_d07xxPWOCMOl1tn5xE/6ac67492fbbeb59c7d84a735.html",
+    "prettify_html_file": "https://serpapi.com/searches/GZOV56PhOVVlTXkic7NRywZE_d07xxPWOCMOl1tn5xE/6ac67492fbbeb59c7d84a735.prettify",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f657eb4cd7313:0x35ff4f7c38b4df4c",
+    "hl": "es",
+    "next_page_token": "Ci8IARInCgoAP72I0EjrCt__EhDYWZsKWAY81olK9BAAAAAAGgf_Ao0EjrCtGAAiAA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQwa0pTeXRRRRAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgID0kJSytQE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2019-10-18T16:32:12Z",
+      "iso_date_of_last_edit": "2019-10-18T16:32:12Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwa0pTeXRRRRAB",
+      "user": {
+        "name": "javier vilas",
+        "link": "https://www.google.com/maps/contrib/117375729247809296475?hl=es",
+        "contributor_id": "117375729247809296475",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUIMuAml5PBmOOEK2AAv3WHvtFPnhVfV6LufjklpGF-FWUCstFC=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNVMHZ2LWp3RRAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICU0vv-jwE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-07-22T21:51:29Z",
+      "iso_date_of_last_edit": "2019-07-22T21:51:29Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMHZ2LWp3RRAB",
+      "user": {
+        "name": "Hugo Boubeta",
+        "link": "https://www.google.com/maps/contrib/105222225226320304145?hl=es",
+        "contributor_id": "105222225226320304145",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIJAOtqmD7Zn1zKmgawuUKXkLPwTQODd5HPJCSGS-qpi9ATgg=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNZNXB5Sl93RRAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICY5pyJ_wE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-04-11T22:29:46Z",
+      "iso_date_of_last_edit": "2019-04-11T22:29:46Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZNXB5Sl93RRAB",
+      "user": {
+        "name": "Verónica Tilve Lemos",
+        "link": "https://www.google.com/maps/contrib/117929522920573394227?hl=es",
+        "contributor_id": "117929522920573394227",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI-E8cpuK9nQsR1s9TPgeO7YM6mP4ZEIA4ivquo1rZsWMbTcw=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNRM01yV1ZREAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICQ3MrWVQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 8 años",
+      "iso_date": "2018-04-05T05:21:37Z",
+      "iso_date_of_last_edit": "2018-04-05T05:21:37Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRM01yV1ZREAE",
+      "user": {
+        "name": "Daniel Miranda",
+        "link": "https://www.google.com/maps/contrib/116962362316850634890?hl=es",
+        "contributor_id": "116962362316850634890",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIjD9Yx9axVPxrRm3mjzH47kVEWKH43FPSwNtiG6CEW_0SN_Q=s120-c-rp-mo-ba12-br100",
+        "reviews": 7,
+        "photos": 1
+      },
+      "likes": 0
+    }
+  ]
+}

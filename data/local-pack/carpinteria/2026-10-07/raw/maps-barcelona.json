@@ -1,0 +1,1141 @@
+{
+  "search_metadata": {
+    "id": "6ac625b23f79f5221b36a457",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PpGokkBTUri-JO59RxEWFRBv-p2IT_ZT80AlLSepLc0/6ac625b23f79f5221b36a457.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PpGokkBTUri-JO59RxEWFRBv-p2IT_ZT80AlLSepLc0/6ac625b23f79f5221b36a457.md",
+    "created_at": "2026-10-07 10:57:54 UTC",
+    "processed_at": "2026-10-07 10:57:54 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@41.3851,2.1734,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/PpGokkBTUri-JO59RxEWFRBv-p2IT_ZT80AlLSepLc0/6ac625b23f79f5221b36a457.html",
+    "prettify_html_file": "https://serpapi.com/searches/PpGokkBTUri-JO59RxEWFRBv-p2IT_ZT80AlLSepLc0/6ac625b23f79f5221b36a457.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@41.3851,2.1734,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpinteria Guarque S.L.",
+      "place_id": "ChIJWUrTKECjpBIRsebf2K8s3EY",
+      "data_id": "0x12a4a34028d34a59:0x46dc2cafd8dfe6b1",
+      "data_cid": "5106005211300751025",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a34028d34a59%3A0x46dc2cafd8dfe6b1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a34028d34a59%3A0x46dc2cafd8dfe6b1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.4005301,
+        "longitude": 2.205829
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWUrTKECjpBIRsebf2K8s3EY",
+      "provider_id": "/g/11x9kccc_",
+      "rating": 5,
+      "reviews": 257,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Fábrica de muebles",
+        "Tienda de muebles de cocina",
+        "Establecimiento de venta de madera",
+        "Carpintero"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "furniture_manufacturer",
+        "kitchen_furniture_store",
+        "lumber_store",
+        "woodworker"
+      ],
+      "address": "Carrer de l'Amistat, 25, Sant Martí, 08005 Barcelona",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 16:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 16:00–18:00",
+        "jueves": "9:00–13:00, 16:00–18:00",
+        "viernes": "9:00–13:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00, 16:00–18:00",
+        "martes": "9:00–13:00, 16:00–18:00"
+      },
+      "phone": "932 25 36 65",
+      "website": "http://www.carpinteriaguarque.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"la mejor carpintería de Poblenou!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOcgYJKn4GynbQ5iMMTQemICKuN_t0KaUDjI0IFM98bEx4XqRa7_cbRWh_QMrmUopoBU4rT-LvqOFBvBexFdXFEnnJtwaWEhNAwkt-jbC7fPTO1CZtwl7V71XtWJZCSmqpiFrM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PFleinicHcRRToMwGADgE3WUiEFNfBiVGsAOmSC4FwK10k3aQvsP5gV3B29j4vfw_V4lwOQePG-UN5vBmGEUZycsNxqEhg03yhts5xziztuSZRpVzoePNNPB84_ui9sjY2UhVEKy864FnHXV0ynBCWX3d318CZp534Ut7_e1bAtmVWUmE1WBLdHLMuc0WiJxoZ8NjbVOYe3qWO626zegU0_Cr9cy98kB1jF8D_0G6vRA3tQ8Hallj6uPMUbyf470H35YRUc"
+    },
+    {
+      "position": 2,
+      "title": "Carpinteria Jesadi",
+      "place_id": "ChIJbTQiLwuZpBIRd16B2Tl2eFQ",
+      "data_id": "0x12a4990b2f22346d:0x54787639d9815e77",
+      "data_cid": "6086744887225572983",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4990b2f22346d%3A0x54787639d9815e77&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4990b2f22346d%3A0x54787639d9815e77&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.359939999999995,
+        "longitude": 2.09719
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJbTQiLwuZpBIRd16B2Tl2eFQ",
+      "provider_id": "/g/11h5vtjrnh",
+      "rating": 4.9,
+      "reviews": 110,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Carrer de Barcelona, 157, 08901 L'Hospitalet de Llobregat, Barcelona",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 14:30",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 14:30",
+      "operating_hours": {
+        "miércoles": "8:30–13:30, 14:30–18:00",
+        "jueves": "8:30–13:30, 14:30–18:00",
+        "viernes": "8:30–13:30, 14:30–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:30, 14:30–18:00",
+        "martes": "8:30–13:30, 14:30–18:00"
+      },
+      "phone": "661 81 91 76",
+      "website": "https://carpinteria.solucionamedida.com/carpinteria-jesadi.html",
+      "user_review": "\"Es una carpintería muy profesional, trabajo y trato personal excelente.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8l8-HFmaURmsosaWGeENOT4aBu0aNVTiv5uqI7gt3xX9lMVcUt1YeUh4bUDGQt5LqYGpa2HLBk6eNxur56RVgkJPG6rwep8Hdcw0X7ijiJuN3DkPndmVD6raVJIWRyFlOxIQN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j5-t73icHcTbboIwAADQL0KqyMUle5AwbsGqRKo-dqUpSEuxl4Ff6Dfsb5bsPJzfd2fMpD9cl3feiknJOLWaKiJHQ0ezIlK4TGGtHaLd_T4eRNVGPHLyVOCmFlpqfM3oFzxetji2AEN06X98-yxCZrzltuMHRBqzvtOm2343SXY2fvW8ZxPe5FU8BBQuVvlBjdhQnrJAzXSK8pbM4Bb2j7600EuG09gKlAQKo7K41q-UH5fiDD_nNQDA6f4nzvgHjElFFg"
+    },
+    {
+      "position": 3,
+      "title": "Carpintería - SAVIA Mobles",
+      "place_id": "ChIJLeDMm9WZpBIR1x4Eu7rtV8I",
+      "data_id": "0x12a499d59bcce02d:0xc257edbabb041ed7",
+      "data_cid": "14003922952589156055",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a499d59bcce02d%3A0xc257edbabb041ed7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a499d59bcce02d%3A0xc257edbabb041ed7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.370763499999995,
+        "longitude": 2.1064974999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLeDMm9WZpBIR1x4Eu7rtV8I",
+      "provider_id": "/g/11p0gsx155",
+      "rating": 5,
+      "reviews": 89,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Carrer de la Renclusa, 29, 08905 L'Hospitalet de Llobregat, Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "8:30–17:00",
+        "jueves": "8:30–17:00",
+        "viernes": "8:30–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–17:00",
+        "martes": "8:30–17:00"
+      },
+      "phone": "600 22 32 76",
+      "website": "http://www.saviamobles.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online",
+            "Servicios en las instalaciones"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Aseos unisex"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con la comunidad LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        },
+        {
+          "parking": [
+            "Aparcamiento en la calle de pago"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aseo adaptado para sillas de ruedas",
+            "Bucle magnético asistencial"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"Fueron nuy profesionales y mostraron total compromiso con el proyecto.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMzPxvHr2tyRvjqHSe5eYftG9jwnJSnH44Q3i9Hjd_EqhjrFvO0kaEHxQPO_lLGTnTqxZC40-AOb9TkwLGk4uxuzUUarDW9vY4pYuPUhzVBMl6G9QVcpVULdby3FVQZPFdnsNx_XYDXttLy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tMYtj3icHcTBToMwAADQL2JUqSY18TC3QWOYgAMcuxBWKhW6Am0phZ_c2b8x8R3e751pPagX1-XM2zR933A6KSpJLzQVekP6m9vISimHKHe7MwO_HdfYGiwf9fJp2hGf6BMtvnWA2lm8nwSGMPF-EG7r8jCyVvomAl11wDaJo5KHQSrS0V52EDjb6IrSbg6DDk52WrOskvsvZAo4FFOcsTV_O_LnACU5GfIsrK-L5-fJJfZroT5seS72Z63D5XV-AAA47H_iiD-jCkmu"
+    },
+    {
+      "position": 4,
+      "title": "Carpintería Rodríguez",
+      "place_id": "ChIJq56MgeWYpBIR5f3EBXTcdnQ",
+      "data_id": "0x12a498e5818c9eab:0x7476dc7405c4fde5",
+      "data_cid": "8392137346522611173",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a498e5818c9eab%3A0x7476dc7405c4fde5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a498e5818c9eab%3A0x7476dc7405c4fde5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.3692406,
+        "longitude": 2.1152580999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJq56MgeWYpBIR5f3EBXTcdnQ",
+      "provider_id": "/g/1q5bn6ytc",
+      "rating": 4.6,
+      "reviews": 30,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Av. Ponent, 13, 08905 L'Hospitalet de Llobregat, Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–19:00",
+        "jueves": "9:00–14:00, 16:00–19:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00, 16:00–19:00",
+        "martes": "9:00–14:00, 16:00–19:00"
+      },
+      "phone": "616 49 79 03",
+      "website": "http://www.fusteriarodriguez.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"Recomiendo está carpintería 100 x 100, muy buen servicio y seriedad.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcimdWncz9mN3RREuqq1iatG2BtWSZ2cOqyDBJUMgoe3pyirzN2NCsB4JXENmUIi_uNX7fVNWAx-9XHZNidxf69BpWGAvMAbRtW5ReOI8Vt_s2WdvdFQiYOnbzimLWuQj3t1-xEF97Gg404=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/U9BiWHicHcTdboIwGADQJ6r8bo4lu2gdMo2WiNGiN0ZLLd1sC_TDIS-5673Nkp2L8_tTAzTu1fNudTSR1sqb6J3ouDUgDEy41Z7szs4h7jyMyZdecaUrZviYaBoVRdq3baDOkIUE2PYY8rx9vJPlbi2tiJqH6kYa0pkj8bJMqd4t1Kmn5fS6pwwPKCk_jlRVw_U5IQ3L8H2NLwWwp0Lki5c9nFzIqns136hDbi6j0ivWbz4jCNCQzpNpJmM_fvsOfN9H9f8cmT8UxUei"
+    },
+    {
+      "position": 5,
+      "title": "Carpintería Ángel Ramajo Garcia",
+      "place_id": "ChIJgd4ESvmipBIR3TXTbnZYT6U",
+      "data_id": "0x12a4a2f94a04de81:0xa54f58766ed335dd",
+      "data_cid": "11911836805106972125",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2f94a04de81%3A0xa54f58766ed335dd&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2f94a04de81%3A0xa54f58766ed335dd&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.384476299999996,
+        "longitude": 2.1792086999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgd4ESvmipBIR3TXTbnZYT6U",
+      "provider_id": "/g/1v47ny8s",
+      "rating": 4.1,
+      "reviews": 22,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Carrer de la Volta d'en Colomines, 4, Ciutat Vella, 08003 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 15:00",
+      "hours": "Abierto · Cierre: 15:00",
+      "operating_hours": {
+        "miércoles": "7:30–15:00",
+        "jueves": "7:30–15:00",
+        "viernes": "7:30–13:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:30–15:00",
+        "martes": "7:30–15:00"
+      },
+      "phone": "933 19 86 82",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aseo adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas",
+            "Bucle magnético asistencial"
+          ]
+        }
+      ],
+      "user_review": "\"Un gran profesional de los pocos que quedan en Barcelona.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHTiRj0kDzJchlUw_Mm2O72yWr4stEBH92mO3EWZnTjQLyJk0Y8y5tqze0fuPEeqCNK2q007tGSUdpAZYrH2OpcBE92CUO8F1a3x8QF1fi7HfvmNTfrizi7IHJ0tM5A7e9mAso=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6NUhCnicHcRZjoIwGADgEyE_ZUxhEh-Kg1ZccIEYfZmYTlmEUmjrAhf0DHMbE7-H7_9VGNPqb9uuC3eUS5nX_Ka5YrIxvDEjJoWdq4vWFtM2IUElVowm5f4K1c8QsaJOH79rgWKM-qP60iYMqI9E7IbHc5Ncd6s-quDk9WPTDRyy2zbk3XSzRB0ANvND-teS80lRFLcsCH00TWNv5lzcp7ebOVmJaXYXmyRT5VDiBY3ArMcEc18QLScPBwCs4jOzmjdIq0Or"
+    },
+    {
+      "position": 6,
+      "title": "Arreglos carpintería",
+      "place_id": "ChIJLQSJk1ijpBIRpiV7LH2MICA",
+      "data_id": "0x12a4a3589389042d:0x20208c7d2c7b25a6",
+      "data_cid": "2315004677713503654",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a3589389042d%3A0x20208c7d2c7b25a6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a3589389042d%3A0x20208c7d2c7b25a6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.3939741,
+        "longitude": 2.1716257
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLQSJk1ijpBIRpiV7LH2MICA",
+      "provider_id": "/g/11t4g2xjp9",
+      "rating": 4.9,
+      "reviews": 154,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Ebanista",
+        "Cerrajero"
+      ],
+      "type_id": "woodworker",
+      "type_ids": [
+        "woodworker",
+        "joiner",
+        "locksmith"
+      ],
+      "address": "Para visitas a esta dirección contactar antes, Carrer de la Diputació, 329, Bajos, 08009 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "613 00 79 94",
+      "website": "https://instagram.com/arreglos_carpinteria_domicilio?igshid=YmMyMTA2M2Y=",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con la comunidad LGBTQ+"
+          ]
+        }
+      ],
+      "user_review": "\"Nos ha hecho varios arreglos de carpintería, todos con muy buen resultado.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN3XpoqnuQeHY2oUHti2Xb07kKxVWNWMjBqdumQR8kqacZcz3or3r-hGThlzamqD_23yS1E-cDnYfteD_gBptpIyKMB6grkkdyIR_bvBM-oIA43eyrql0VNanZaWX5-1ftdMfFUnw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7q7u6nicHcRdboIwAADgE1UK1bks2YMMncRAolNBX0gtpVVK_1Hxhh7B25jse_heT-69dl9BIDgaMaWYoL2jlijpqfQjorqAWewcIC6Y_Vy16HJUamVkv6bLQ6R2S3-OyhOctqv7vsiL7BKbuu_Wm8_WYHIkD6QssoD_brl44M4kVYSGv3AOSCIPjadJxWLtdTqssviD2bath3RTna5xBlQ6GyM6WCPgPsfyiItyAsLG11mz2Mnb9y2EEAL-PwHyDd51R3g"
+    },
+    {
+      "position": 7,
+      "title": "Carpintería El Madero Barcelona",
+      "place_id": "ChIJpbsZGByjpBIRYZaEaFK2jUQ",
+      "data_id": "0x12a4a31c1819bba5:0x448db65268849661",
+      "data_cid": "4939804831352395361",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a31c1819bba5%3A0x448db65268849661&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a31c1819bba5%3A0x448db65268849661&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.411262799999996,
+        "longitude": 2.1760541
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJpbsZGByjpBIRYZaEaFK2jUQ",
+      "provider_id": "/g/11stnmt8l4",
+      "rating": 4.7,
+      "reviews": 11,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Fábrica de muebles",
+        "Carpintero"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "furniture_manufacturer",
+        "woodworker"
+      ],
+      "address": "Carrer del Dos de Maig, 315, Eixample, 08025 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:30–19:00",
+        "jueves": "9:30–19:00",
+        "viernes": "9:30–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–19:00",
+        "martes": "9:30–19:00"
+      },
+      "phone": "623 42 77 43",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Sin duda, recomiendaria esta carpintería para cualquier reforma.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP8eC3bX_AHJUDSv8O0G58qo8sIvH6pH2RkMAIrUNL5mK7y87jxOWCFxkhD7TAI6AL6BCUDlsUwzWj9uFXvX7C9x5xQv9TXjIgdo_r6h2BNPgCBzVC_SJRAdNJiOSp2563Kbjp9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TEYRgnicHcThEkIwAADgJxJxZrrrx8wVEpXEP1dyW8KWsdQL9gy9TXd9P77vhw4DFwtVbagxI4yRphpF1ZesG6pumJWsVUl_FkIphYqw5E27gxU2LnmBvCB1EwljbW3CB4PClx7gnn64b5Hfp1FothvrBa16ijO8mu7UtY7IBygEDk7dRqTPd1bb4yqXuYXtyZz20j7mtU-urOgB1Z1oR7DzPuEiCQ7oGgW3OOG6CYzNpeb28jnXNE2h_0ul-wHwwUMh"
+    },
+    {
+      "position": 8,
+      "title": "Carpintería Emilio Campos",
+      "place_id": "ChIJSzW2e_aipBIRYYiO06AIpRE",
+      "data_id": "0x12a4a2f67bb6354b:0x11a508a0d38e8861",
+      "data_cid": "1271431956639156321",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2f67bb6354b%3A0x11a508a0d38e8861&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2f67bb6354b%3A0x11a508a0d38e8861&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.382854599999995,
+        "longitude": 2.1700293999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJSzW2e_aipBIRYYiO06AIpRE",
+      "provider_id": "/g/1tgkdfhm",
+      "rating": 2.4,
+      "reviews": 15,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Fábrica de muebles"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "furniture_manufacturer"
+      ],
+      "address": "Carrer de Montjuïc del Carme, 6, Ciutat Vella, 08001 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "9:00–19:30",
+        "jueves": "9:00–19:30",
+        "viernes": "9:00–19:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:30",
+        "martes": "9:00–19:30"
+      },
+      "phone": "933 17 88 30",
+      "user_review": "\"Muy buena atención y buen precio\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPkNKykuvgGGnIgqj7fCPfYWHPm5eHoIBZDA6E7P_-ta6tgqFGX2S-WbDD1-ue-sw4RZ9N5UdEsQBC0arh4xMJO4cUH2kfN32zKi2MMu_2INYDIaw9sQ_HCpkvI_zo5O6eW8ako=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j1J-cXicHcTvEoEwAADwJ5oy_cGdDxQ1roRz4Us3sxarlraKXtAzeBt3fh9-30-mVCWnmpZnowETguW0kbQmolS0VAMiCo3VWEpApDZ32iovIh5u3rxpmeeViD0fdupE6Tn2o8KkvkCLizu3lnaUAIUtxZ4r7wQPIL667hA0FMjO2F8moXm8LeVu4ei4zoxXsN4a5OhDnoYj2G_uMAiaBKLw7CLcTeQu8Z2Ktyjphbm1aDzGXMy6oa7rIPtPQPkDW0tD8w"
+    },
+    {
+      "position": 9,
+      "title": "Decomad - Carpinteria ebanisteria",
+      "place_id": "ChIJZ59vLvWipBIR5fM0qx5z3NI",
+      "data_id": "0x12a4a2f52e6f9f67:0xd2dc731eab34f3e5",
+      "data_cid": "15194145818399798245",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2f52e6f9f67%3A0xd2dc731eab34f3e5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2f52e6f9f67%3A0xd2dc731eab34f3e5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.3829035,
+        "longitude": 2.1650142999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ59vLvWipBIR5fM0qx5z3NI",
+      "provider_id": "/g/11c5bjgp7d",
+      "rating": 4.3,
+      "reviews": 7,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Carpintero"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "carpenter"
+      ],
+      "address": "Carrer del Tigre, 4, Ciutat Vella, 08001 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "8:00–18:00",
+        "jueves": "8:00–18:00",
+        "viernes": "8:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–18:00",
+        "martes": "8:00–18:00"
+      },
+      "phone": "629 26 09 33",
+      "website": "http://decomad.es/",
+      "user_review": "\"Contacté con ellos para arreglar una cerradura que tenia muy mal colocada.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO7QpPZLqmZP3HY60hPQY1e0GbQYR0JMB79t9xNs4KX85sG0W9_Pb4yESy3ItrOiq9r4thZ1GuJEK5FVeV1x4fmdzSMzP0SltA5FXwPamZzDt_1Gd8WNkOi43pSWWuV1UOpYUQ0YA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aStQ43icHcRbjoIwFADQFSG3oYwyiR_4YtRRikSw_BjFSo0UKr34YIcuwd1MMufjfN4SUZtv2y6l0yvquihFa0ST1xWKCnt5reyiORhj5cb2x3ddqrAfaZb93lTGnB_-BZJFnAgIjhHfwGI16nvoPdeGLncD1wSQent2pK9p_HLm2ISXm9dQlBkJ2sV06c4SkZAnPatTF686BnGJvjvbPdhBZd0E9yQ4DdL1NbxQR8dp2iZkG2q-jYD7wwcBAEv-n1vVH42SRCg"
+    },
+    {
+      "position": 10,
+      "title": "Carpintería Ortega e Hijos",
+      "place_id": "ChIJcyKlx7WipBIR5uWwa0A63rI",
+      "data_id": "0x12a4a2b5c7a52273:0xb2de3a406bb0e5e6",
+      "data_cid": "12888803231940011494",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2b5c7a52273%3A0xb2de3a406bb0e5e6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2b5c7a52273%3A0xb2de3a406bb0e5e6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.4170811,
+        "longitude": 2.1629397999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJcyKlx7WipBIR5uWwa0A63rI",
+      "provider_id": "/g/1tsyxpt9",
+      "rating": 3.9,
+      "reviews": 12,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "C. de Tenerife, 73, Horta-Guinardó, 08024 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "8:00–19:00",
+        "jueves": "8:00–19:00",
+        "viernes": "8:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–19:00",
+        "martes": "8:00–19:00"
+      },
+      "phone": "932 19 17 45",
+      "website": "http://ortegacarpinteros.com/",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kwJFHSI17K_TLXBXdnrNGg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=205.33409&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ErEhY3icHc3NDcIgGADQbbgJtNVoTYiJB__jRQ-9NZQiECkQPiy6jlu5jcYF3vu8dUoBloRAilKm0cgczFNamASOlffKSh4MYOEHMhYk6cfQOW7sKnDnTc_u-bDZXfbF_NheT8266V08bxUSXSuskS4xkDwKjVX-idH3WEUOgDJbUKRZXaIXz6ykM1xVU1qjYJLQjKL_c_MjKyj9AuBDOhQ"
+    },
+    {
+      "position": 11,
+      "title": "Carpintería Barreros",
+      "place_id": "ChIJo8J2sJSYpBIRQhmUqi4ztv4",
+      "data_id": "0x12a49894b076c2a3:0xfeb6332eaa941942",
+      "data_cid": "18353913606918379842",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a49894b076c2a3%3A0xfeb6332eaa941942&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a49894b076c2a3%3A0xfeb6332eaa941942&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.365835399999995,
+        "longitude": 2.1259823
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo8J2sJSYpBIRQhmUqi4ztv4",
+      "provider_id": "/g/1td3_030",
+      "rating": 3.5,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Carrer del Comerç, 32, 08902 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00",
+      "hours": "Abierto · Cierre: 14:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00",
+        "jueves": "9:00–14:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00",
+        "martes": "9:00–14:00"
+      },
+      "phone": "933 31 82 94",
+      "user_review": "\"Un gran profesional, cuidadoso, cumplidor..... y económico.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPHUdBnkn4xUqXfGPoU33UIdvtiNqSTfX7FCYSpfKRqGYZY93m7jDdfZZhwamlnck0TBfjCK0zZqz4jXISpBFKYRDb_d_gHuIopW3pXZ4ibG-mcrlFWHHE6mnp5E_osE2oOpGBp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FMShRHicHcRJDoIwFADQEyHVokYTF4JMIVEjEqEbooWC2OFD6xAv6Bm8jYlv8b6f1hjQS9vmLR41SjW8vut6oEqaWpoRVcJuhrPWFtX22nsAF_soq1x5k84r63MW7lWGcRZXD3Pd9umR5fPAK1JgyaEPC1IssJh3m4oR0j7Pgkt6Q0eXdV6C3qR_O10ep-AGSXHYXMqqbKJ7rOCEISfO9RJagg48OEWRPxMSpn6ptD9ROwhdWD3HCCGr_U8t-QMa6EY3"
+    },
+    {
+      "position": 12,
+      "title": "Carpintería Londres",
+      "place_id": "ChIJkUjrdpuipBIRFTDeXukDdq8",
+      "data_id": "0x12a4a29b76eb4891:0xaf7603e95ede3015",
+      "data_cid": "12643297304743129109",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a29b76eb4891%3A0xaf7603e95ede3015&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a29b76eb4891%3A0xaf7603e95ede3015&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.3934261,
+        "longitude": 2.1508739
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkUjrdpuipBIRFTDeXukDdq8",
+      "provider_id": "/g/1vhntt8d",
+      "rating": 4,
+      "reviews": 59,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Carrer de Londres, 92, Eixample, 08036 Barcelona",
+      "country": "España",
+      "phone": "932 00 79 96",
+      "website": "http://www.fusterialondres.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Lo recomiendo,gente muy profesional y el trato estupendo\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcGDUV9C9U-MJkFF8F-Ee8eFwutw6vQEO96K259njHF6K2A_BIOhOdhO-HtBRw8zEtq_rCMD-YJFrRZkH751R62y0FsRDPw-gWe8MGDEHOoi_VGiQMMkPO5WRDoAm8dVKY47l5dg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mUVOvnicHcZdboIwAADgE1XACRaTPYClINpUmwhhL2QpXev4qdK6xt1wR9httvjy5fv9UdZezcbzBvWykFrLQdyNmLmerJjsguvRk_O7MYAbL0nSfjx88Bydq3gbnwEpe4whBpmAAru7ddHXKaNxtF-G8fRZ4P8kbbqjinaKgsKmzMHvzN7aeUsQaEo8s7e-WIcBi5YPHxuGjg7IWkCSo6yg-tJW-eVESH-kYc2QTkbYVftmtR7CTr66wPd9oJ5yMP0B6AZCVQ"
+    },
+    {
+      "position": 13,
+      "title": "Carpintería Rubio",
+      "place_id": "ChIJxznOYxKYpBIRh6f-McejWsc",
+      "data_id": "0x12a4981263ce39c7:0xc75aa3c731fea787",
+      "data_cid": "14364974037384210311",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4981263ce39c7%3A0xc75aa3c731fea787&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4981263ce39c7%3A0xc75aa3c731fea787&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.404184699999995,
+        "longitude": 2.1343215
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJxznOYxKYpBIRh6f-McejWsc",
+      "provider_id": "/g/12qhd8c4d",
+      "rating": 3.1,
+      "reviews": 18,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Tienda de armarios"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter",
+        "cabinet_store"
+      ],
+      "address": "Carrer de la Ciutat de Balaguer, 49, Sarrià-Sant Gervasi, 08022 Barcelona",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 15:30",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "8:00–13:30, 15:30–19:30",
+        "jueves": "8:00–13:30, 15:30–19:30",
+        "viernes": "8:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:30, 16:30–19:30",
+        "martes": "8:00–13:30, 15:30–19:30"
+      },
+      "phone": "655 94 24 64",
+      "website": "https://fusteriarubio.com/",
+      "user_review": "\"Desconozco cómo trabajan, lo que sé es que no tienen palabra.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNyLRdUWNE4VRbiyoO-JTajDVsdn8EHX-wTzot3KZ3Axx3Jmj0cQKqGqy3fOBbFCYFCDYOGED03Iopu96BXOO85EZoi6NELL5GvRHifXJ4cCJz39pw_EOiU8Q4u-QOk4n5aM0q_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VuszyXicHcTLDYIwAADQiSo1BYMmHgQqikgDQUUvBisCCi3Y8l3QGdzGxHd4308mZSUWilJkaJJynhZJI5I35UwmTE4oL5X0HQsBqFBWZlsVpTe4wf1w8rB6DG75wAlwwvhpHcWd6XgTgS4cuUS7C1r1PXLKJ6T-rrbrAT2IcVub57VpnYmNLYi2vGrmMyMiRNfwheczD7uuZrfBJn9EjkpNZ0Tzqrtikh90X22AT14q0-I9rK_LbgohBNl_CtgPUY9DWg"
+    },
+    {
+      "position": 14,
+      "title": "Nusiveta Fusteria",
+      "place_id": "ChIJBTQigJijpBIRvImpYSh3nTY",
+      "data_id": "0x12a4a39880223405:0x369d772861a989bc",
+      "data_cid": "3935432664712579516",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a39880223405%3A0x369d772861a989bc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a39880223405%3A0x369d772861a989bc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.4092674,
+        "longitude": 2.1474667
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJBTQigJijpBIRvImpYSh3nTY",
+      "provider_id": "/g/11pyc1zdtg",
+      "rating": 5,
+      "reviews": 48,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Carrer de Bolívar, 11, Gràcia, 08023 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "9:00–17:00",
+        "jueves": "9:00–17:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–17:00",
+        "martes": "9:00–17:00"
+      },
+      "phone": "618 22 33 66",
+      "website": "http://www.nusiveta.com/",
+      "user_review": "\"Les pedí unas estanterías a medida, super rápidos y eficientes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0JDGhDvn3k5Di_b6-DkWvKZqkpalrgWgfeyC6RLH88oV5FRENvbZ5JYaGU7DGT-br-i9WtNoeEMwijiG1JDjHPTEJWOLMSMod2-18H7CP5_ihiS0rCQF-Z_NhJXDmBAcS30n7ZQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1_N7anicHcRdboIwAADgE1WKBGEme0CKkA7wBzeUFwJdbSvQatthdsQdYbdZsu_h-_3h1t7N2nFG7i2YUmykX4ZqoqSl0i6ImhymO2MAMU4UbYYpv0KMUo5m6Q0-Em2_Amio57fmMdy7UbOaXel3vDrmWRiqD397TMq5b3x86dL3AKUn0GsgXmpbKpoUT3ETqYvRLdufElzv8qIq1OcSuGEWxHu_FVxUUMeHLWjakuMzmjYRqTwog-bw-nQhhID_T4D8A5r1Q1w"
+    },
+    {
+      "position": 15,
+      "title": "Carpintería de aluminio Hnos Jurado - Tienda Gràcia",
+      "place_id": "ChIJgePg6qOipBIRhVc-E9My1xQ",
+      "data_id": "0x12a4a2a3eae0e381:0x14d732d3133e5785",
+      "data_cid": "1501724882893690757",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2a3eae0e381%3A0x14d732d3133e5785&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2a3eae0e381%3A0x14d732d3133e5785&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.4051204,
+        "longitude": 2.1511443
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgePg6qOipBIRhVc-E9My1xQ",
+      "provider_id": "/g/1q5ccbph4",
+      "rating": 4.9,
+      "reviews": 221,
+      "type": "Servicio de instalación de ventanas",
+      "types": [
+        "Servicio de instalación de ventanas",
+        "Ventana de aluminio",
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "window_installation_service",
+      "type_ids": [
+        "window_installation_service",
+        "aluminum_window",
+        "metalwork"
+      ],
+      "address": "Carrer Gran de Gràcia, 244, Gràcia, 08012 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "9:30–14:00, 15:30–19:00",
+        "jueves": "9:30–14:00, 15:30–19:00",
+        "viernes": "9:30–14:00, 15:30–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–14:00, 16:30–19:00",
+        "martes": "9:00–14:00, 15:30–19:00"
+      },
+      "phone": "934 15 57 26",
+      "website": "https://hnosjurado.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online",
+            "Servicios en las instalaciones"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"Exelente puntualidad.Exelente servicio.Exelente acabado y calidad\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC3hiJtr7IdeLmb7c90YIO-xfYMPhKHlWMCdoQYxtrwmOm5R3OSQxDg4aZPs1OQBw5NIIEUaTy_2eAaDXpku9LYkiPdIDSdjnIiofl4YKIMY54vW9mcXDUQAog7uD0_vqiQni6Tw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nYgpwHicHcRdboIwAADgEyFVYIQlPqA1WScI9SfavRgste2graNF8IgewduY7Hv4Xk_h3M1--n4rggk3hrest6yjRjum3YQa5fOustaj1k_TRaMytgyE_HZdjGqWqUtME0BQ4Y1Xkpdi_dUe82VtMBldN6hCRdug2OER8rD6Ke20wIsh2iC0OlT7x3nG0gqebk2fZKSRZY3grv7VSJprG5I1ykkU3o-Joid4wKnhcQ_B-f4nsZYf-2E-TAEAnvifevoNH8ZF3Q"
+    },
+    {
+      "position": 16,
+      "title": "Tu Carpintería Barcelona",
+      "place_id": "ChIJq8a9y8KjpBIR7qhZ2o9kxOo",
+      "data_id": "0x12a4a3c2cbbdc6ab:0xeac4648fda59a8ee",
+      "data_cid": "16916756669316835566",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a3c2cbbdc6ab%3A0xeac4648fda59a8ee&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a3c2cbbdc6ab%3A0xeac4648fda59a8ee&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.4134242,
+        "longitude": 2.1630026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJq8a9y8KjpBIR7qhZ2o9kxOo",
+      "provider_id": "/g/11q3dzc6cp",
+      "rating": 4.6,
+      "reviews": 24,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Ventana de aluminio",
+        "Proveedor de puertas",
+        "Proveedor de puertas para garaje",
+        "Tienda de ventanas de plástico",
+        "Tienda de mamparas de ducha",
+        "Servicio de instalación de ventanas",
+        "Proveedor de ventanas"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork",
+        "aluminum_window",
+        "door_supplier",
+        "garage_door_supplier",
+        "plast_window_store",
+        "shower_door_shop",
+        "window_installation_service",
+        "window_supplier"
+      ],
+      "address": "C.de les Camèlies, 71, Horta-Guinardó, 08024 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–19:00",
+        "jueves": "9:00–14:00, 16:00–19:00",
+        "viernes": "9:00–14:00, 16:00–19:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00, 16:00–19:00",
+        "martes": "9:00–14:00, 16:00–19:00"
+      },
+      "phone": "622 04 60 70",
+      "website": "https://tucarpinteriabcn.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como de propietarias mujeres"
+          ]
+        },
+        {
+          "service_options": [
+            "Servicios en las instalaciones"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"La mejor carpintería de aluminio de Barcelona.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP57CE4S3CkO1HdKPUlULQWeGJVdSTP9VCIOFfPcttAJvhvt6sWn965su7yapjlf70JamvTFECtnbnpaV4bAb-ulRiFOQ_ppl7AOQF5S7iEzZwgeRpOzWzG4BOmS4QE2pOUaoKl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nYgBhnicHcTbCoIwAADQL_JW6ijowYZWGkwzFXqJueal5jbaNPIH-4b-Jug8nO-n01qqtWWxbmm2QrSMjoo-ieCacm0SMVjtEytlEGUFcJJsSD0AQzdfwgdy9rckLVhxzCq6i8tbfk5XJTygqEmJ1kE8dZP2VcVXvqdG8Mbyzhpgx3iYzlEINa-5xKVbB7UxslMfoewqJQMByiIvB304X14tPUk0V_PO3aIhd7NwIVGBRcI2L8e2baP7Twz-A28BRQI"
+    },
+    {
+      "position": 17,
+      "title": "Carpinteria Ebanisteria Sergio Francos",
+      "place_id": "ChIJv0npK2OYpBIRZGlTbofbWks",
+      "data_id": "0x12a498632be949bf:0x4b5adb876e536964",
+      "data_cid": "5429893675466582372",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a498632be949bf%3A0x4b5adb876e536964&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a498632be949bf%3A0x4b5adb876e536964&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.384217799999995,
+        "longitude": 2.1349500999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJv0npK2OYpBIRZGlTbofbWks",
+      "provider_id": "/g/11b7fhfns2",
+      "rating": 3.2,
+      "reviews": 30,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Reformas de baños",
+        "Instalación de persianas",
+        "Ebanista",
+        "Fábrica de puertas",
+        "Tienda de muebles",
+        "Reformas de cocinas",
+        "Carpintería metálica y de aluminio",
+        "Servicio de instalación de ventanas",
+        "Tienda de suministros para trabajar la madera"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter",
+        "bathroom_remodeler",
+        "blind_supplier",
+        "cabinet_maker",
+        "door_manufacturer",
+        "furniture_store",
+        "kitchen_remodeler",
+        "metalwork",
+        "window_installation_service",
+        "woodworking_supply_store"
+      ],
+      "address": "Carrer dels Comtes de Bell-Lloc, 206, Les Corts, 08014 Barcelona ‎, Barcelona",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–19:00",
+        "jueves": "8:00–13:00, 15:00–19:00",
+        "viernes": "8:00–13:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 15:00–19:00",
+        "martes": "8:00–13:00, 15:00–19:00"
+      },
+      "phone": "934 90 12 19",
+      "website": "http://www.laguia.es/empresas/carpinteria+ebanisteria+barcelona+sergiio+francos/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"Buen profesional con años de experiencia\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR9BCSli5Ohc86pYenYaCNWloSCJdTa-qZ-dS_AIfng3j_J55xIsXBD0KFnTeGhvQy-lA1EXdE43BWAu-qtD--mlQQuZXY6DqQWV__7XOFcmzMKHDVRP_gRjqfTt6VfbJOXC-3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2mfddnicHcRbcoIwFADQFV3BQehjxo8AasVWymMg-JPBEJLakIgJte0Gu4buxhnPx_n_E9aezbPjSOHNuNZcssmwC9XKMmVnVA8Ov7TGADUOQuHn8ErzpzAq5IefCvoYnBummjba11IXUdKVLYwH6AqCtr3i3okkvv-9NTiM3d1alWwjvrIfkGi-wt1q4YU1mmC0McAgs2w64CaIx6yuCHnA6ZoOv2-7l7jK3wnPT2Nf2qDqj0mKI_CW17nruiDuU1A3HvVDkw"
+    },
+    {
+      "position": 18,
+      "title": "Fusteria Pagà",
+      "place_id": "ChIJJcmRiMCipBIRY6yzBLjV3BY",
+      "data_id": "0x12a4a2c08891c925:0x16dcd5b804b3ac63",
+      "data_cid": "1647426550040341603",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4a2c08891c925%3A0x16dcd5b804b3ac63&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4a2c08891c925%3A0x16dcd5b804b3ac63&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.405237199999995,
+        "longitude": 2.1651435
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJcmRiMCipBIRY6yzBLjV3BY",
+      "provider_id": "/g/1td8n7km",
+      "rating": 4.6,
+      "reviews": 82,
+      "type": "Establecimiento de venta de madera",
+      "types": [
+        "Establecimiento de venta de madera",
+        "Carpintero"
+      ],
+      "type_id": "lumber_store",
+      "type_ids": [
+        "lumber_store",
+        "carpenter"
+      ],
+      "address": "Carrer d'en Grassot, 95, Gràcia, 08025 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:30",
+      "hours": "Abierto · Cierre: 14:30",
+      "operating_hours": {
+        "miércoles": "8:30–14:30",
+        "jueves": "8:30–14:30",
+        "viernes": "8:30–14:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–14:30",
+        "martes": "8:30–14:30"
+      },
+      "phone": "932 07 06 88",
+      "website": "http://fusteriapaga.com/",
+      "extensions": [
+        {
+          "offerings": [
+            "Servicio de montaje"
+          ]
+        },
+        {
+          "planning": [
+            "Se necesita cita"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"En resumen, profesionales como la copa de un pino y 100% recomendables.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcytUwpw7jpLhknqq8iwba-J1HkhOEWNC9PE45Co8yU1yg4MhvElJU-cqQYxhl1Zcrvw_WGNUYhENPYrIY3981Nyhp3JUjpeV5aZPx0QZ3gHHzDrEnuv8RaAhQjB7BJBPB9xknG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p88LSnicHcRRboMgGADgE1Eltqku6YN0pM50TpuwRl8WRwz_1AICFe0Fe4bdZsm-h-_3Cc5p-xIEI0QboZQYu7vtDFfSddJtuLoFwrTWIm6DNCXD7cxXx7z2-16fYZDTFP_47xblOBvgg16LY1LS7e6o4pXhVWzfYaZjzhCfqnqBETfczP7reipYDbQoa_NWR0mMixV0lLNed5-7timXsGoikWWPV0PlfY4vbQpVT_YkJyVJlkGeDh6HYYjgf47kH-J7RUQ"
+    },
+    {
+      "position": 19,
+      "title": "Carpintería Navarro",
+      "place_id": "ChIJ1Z4xuxuZpBIRr_vzssVokQY",
+      "data_id": "0x12a4991bbb319ed5:0x69168c5b2f3fbaf",
+      "data_cid": "473274634170792879",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a4991bbb319ed5%3A0x69168c5b2f3fbaf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a4991bbb319ed5%3A0x69168c5b2f3fbaf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.368972199999995,
+        "longitude": 2.0992086
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ1Z4xuxuZpBIRr_vzssVokQY",
+      "provider_id": "/g/11cnrxpvzt",
+      "rating": 4.4,
+      "reviews": 14,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Carrer de Pere Pelegrí, 41, Bajos, 08906 L'Hospitalet de Llobregat, Barcelona",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:30, 15:00–17:00",
+        "jueves": "8:00–13:30, 15:00–17:00",
+        "viernes": "8:00–13:30, 15:00–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:30, 15:00–17:00",
+        "martes": "8:00–13:30, 15:00–17:00"
+      },
+      "phone": "660 68 89 24",
+      "website": "https://www.carpinteria-navarro.es/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas",
+            "Aseo adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas",
+            "Bucle magnético asistencial"
+          ]
+        }
+      ],
+      "user_review": "\"Grandes carpinteros, faenas muy bien realizadas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLerK59RPLqolC5-McKRBlOasgZ6RQKr5RfR_vT5B0oiTh070x38gChNcnAI-tMHZSH_K_-ocK3T_a3qE4mj1ej3Kufb346WRzaWuHd7oMqriqGOwP01qz22JSoZzTAoL6hHOc4sYqRsh_Hg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Lu13_nicHcTdToMwGADQJ-ooK7Bp4gUsxmpBZkeyjJsGa9duAz77gzO8pNe-zZKdi_P_Z0L49o9R1Buy0AC6V5NXTsIY1BgWEoZIu857JH2U58VlKJVj6QPflhb6TYoqyXjR153XbcY_mEv5kYufJi0wnBqDV_iXrPXGvMsxf0Whou2OCiYQSEYa0RH7nAznWJ0Jm46fJMn2fO72E_1aQWXdyb7U1y2O7bxcvu2gnZscyszQWib-YLk3guqna4wxRua-ROMNRGJGpg"
+    },
+    {
+      "position": 20,
+      "title": "Carpintería Antonio Barreno",
+      "place_id": "ChIJnVCsOoSYpBIRBJeMLNKnIa0",
+      "data_id": "0x12a498843aac509d:0xad21a7d22c8c9704",
+      "data_cid": "12475436963925366532",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x12a498843aac509d%3A0xad21a7d22c8c9704&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x12a498843aac509d%3A0xad21a7d22c8c9704&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 41.37665,
+        "longitude": 2.13904
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJnVCsOoSYpBIRBJeMLNKnIa0",
+      "provider_id": "/g/1td81081",
+      "rating": 4.8,
+      "reviews": 24,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Proveedor de puertas",
+        "Tienda de materiales para suelos",
+        "Fábrica de muebles",
+        "Mayorista de muebles",
+        "Reformas",
+        "Servicio de instalación de suelos de madera"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter",
+        "door_supplier",
+        "flooring_store",
+        "furniture_manufacturer",
+        "furniture_wholesaler",
+        "remodeler",
+        "wood_floor_installation_service"
+      ],
+      "address": "Carrer de Premià, 21, TDA, Sants-Montjuïc, 08014 Barcelona",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:30–14:00, 15:00–18:00",
+        "jueves": "8:30–14:00, 15:00–18:00",
+        "viernes": "8:30–14:00, 15:00–18:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "8:30–14:00, 15:00–18:00",
+        "martes": "8:30–14:00, 15:00–18:00"
+      },
+      "phone": "934 21 22 03",
+      "website": "http://www.carpinteriaantoniobarreno.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"Excelente profesional , es mi carpintero de confianza, lo recomiendo 100 %\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOjN27Rajv2Se873OU5XTqzouWqQyRLT2_HASsczSFsFEhBmHYv8A64nkFUkhgCYmAXU4Rbo-kpd5tywSj4dBWOOeCX5PH4HvwYmInBAWQfKtzQJs8LHlBixEAZZhJRXamtEwxl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/akT8-XicHcRJDoIwAADAFyGIoMTEQyGQukQEJCwXg7VSoQvaCsoHfYO_MXEO8_0QpTq51HVKZpNaiJrip8QPJLjCXE2QYHr9qKTUkNSB13eUhc3eXMRV05sJdhazMLXz430Uz-wevePd0TxBkEg0JoEMfOIyWPQOmFu8DdKW1F7BQJ5a8VlobXex1XtIGuviZmGIvdw-QAv2Q8HW3AVZdN2qMdpIZwepe3v5oCzJJs4rpvzhRVfD1DAMjfxHGv8BtI5Ftg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4041.3851%2C2.1734%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "search_metadata": {
+    "id": "6ac674b850849cbe4ccccb8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UUG6QAsmZTYH2RL69UOY0drulYxwT7eIDrQyde77sn0/6ac674b850849cbe4ccccb8a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UUG6QAsmZTYH2RL69UOY0drulYxwT7eIDrQyde77sn0/6ac674b850849cbe4ccccb8a.md",
+    "created_at": "2026-10-07 16:35:04 UTC",
+    "processed_at": "2026-10-07 16:35:04 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f700c296801a7:0x14f5f7c4ca832a41!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/UUG6QAsmZTYH2RL69UOY0drulYxwT7eIDrQyde77sn0/6ac674b850849cbe4ccccb8a.html",
+    "prettify_html_file": "https://serpapi.com/searches/UUG6QAsmZTYH2RL69UOY0drulYxwT7eIDrQyde77sn0/6ac674b850849cbe4ccccb8a.prettify",
+    "total_time_taken": 1.98
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f700c296801a7:0x14f5f7c4ca832a41",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Hermanos Garrido S.l.",
+    "address": "Rúa Cruceiro, 45, 36143 Pontevedra, España",
+    "rating": 4.2,
+    "reviews": 9,
+    "type": "Ebanista"
+  },
+  "topics": [
+    {
+      "keyword": "carpintero",
+      "mentions": 2,
+      "id": "/g/120knfm2"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYMnAzNXJBRRAB!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgICX2p35rAE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2024-10-15T14:18:35Z",
+      "iso_date_of_last_edit": "2024-10-15T14:18:35Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMnAzNXJBRRAB",
+      "user": {
+        "name": "Miro Garrido",
+        "link": "https://www.google.com/maps/contrib/100784676680849981017?hl=es-419",
+        "contributor_id": "100784676680849981017",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK_nRRzegDADTVOEq6OMgPMLihJ4Rh0H7jbl5AKq9GX0yYv9Q=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSaWZtckVnEAE!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgICRifmrEg%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-04-04T20:04:27Z",
+      "iso_date_of_last_edit": "2023-04-04T20:04:27Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSaWZtckVnEAE",
+      "user": {
+        "name": "delfin santiago",
+        "link": "https://www.google.com/maps/contrib/117346154478737085981?hl=es-419",
+        "contributor_id": "117346154478737085981",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKtjvaFcEPLJt2-AGtKdMGris3Brjd3X2or7DdqVsb9hHYqlgnF=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 11,
+        "photos": 0
+      },
+      "snippet": "Le doy un 10 a esta Carpinteria en todos los sentidos seriedad palabra y profesionalidad sin duda le volveré a dar más trabajos fue una suerte haberle conocido muchas gracias por todo",
+      "extracted_snippet": {
+        "original": "Le doy un 10 a esta Carpinteria en todos los sentidos seriedad palabra y profesionalidad sin duda le volveré a dar más trabajos fue una suerte haberle conocido muchas gracias por todo"
+      },
+      "details": {
+        "aspectos_positivos": "Capacidad de respuesta, Puntualidad, Calidad, Profesionalismo, Valor",
+        "servicios": "Reparación de armarios, Instalación, Retroadaptación"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlazlqQVVBEAE!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgIDek9jAUA%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2022-10-18T16:14:38Z",
+      "iso_date_of_last_edit": "2022-10-18T16:14:38Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlazlqQVVBEAE",
+      "user": {
+        "name": "Tresrosas",
+        "link": "https://www.google.com/maps/contrib/104308380073781053301?hl=es-419",
+        "contributor_id": "104308380073781053301",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVD9qMQGfHGqWS0x5hmJrYppBhN1SUD7PQ6nM05U_yVcKM-Jqpc=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 23,
+        "photos": 0
+      },
+      "snippet": "El mejor carpintero, muy atento, trabajan con mucho detalle. Tardan en hacer el trabajo porque están colapsados, pero lo hacen.",
+      "extracted_snippet": {
+        "original": "El mejor carpintero, muy atento, trabajan con mucho detalle. Tardan en hacer el trabajo porque están colapsados, pero lo hacen."
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHbU1QM3NnRRAB!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgIDGmMP3sgE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Editado Hace 4 años",
+      "iso_date": "2021-11-17T12:45:50Z",
+      "iso_date_of_last_edit": "2022-06-03T16:31:43Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHbU1QM3NnRRAB",
+      "user": {
+        "name": "Rori Capa Veiga",
+        "link": "https://www.google.com/maps/contrib/108322334443994464591?hl=es-419",
+        "contributor_id": "108322334443994464591",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIMkNRvVIyQJMaUJz-Cbx4yMcbgbP9vo5oBKrrQJYWB4rH5Yw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Muy buenos profesionales",
+      "extracted_snippet": {
+        "original": "Muy buenos profesionales"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURhNUtyYkhREAE!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgIDa5KrbHQ%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-08-15T19:28:11Z",
+      "iso_date_of_last_edit": "2021-08-15T19:28:11Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhNUtyYkhREAE",
+      "user": {
+        "name": "David C",
+        "link": "https://www.google.com/maps/contrib/116849744270677591277?hl=es-419",
+        "contributor_id": "116849744270677591277",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUQOM2DsETximYtlk7Grc8Dv4A_P5KE5uEWu5kS7KGpWWe-7sSg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 108,
+        "photos": 21
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLdEtxbHd3RRAB!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgICKtKqlwwE%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace 5 años",
+      "iso_date": "2021-03-29T21:01:01Z",
+      "iso_date_of_last_edit": "2021-03-29T21:01:01Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLdEtxbHd3RRAB",
+      "user": {
+        "name": "Bea Hervés",
+        "link": "https://www.google.com/maps/contrib/107366044501938465370?hl=es-419",
+        "contributor_id": "107366044501938465370",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWAsQIyEH66A5f_7G33SCEXBusMJZVaiz2a3XXED0BONQ_OYgw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 4
+      },
+      "details": {
+        "aspectos_negativos": "Capacidad de respuesta, Profesionalismo"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURDcFl1Mm5nRRAB!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgIDCpYu2ngE%7C%7C?hl=es-419",
+      "rating": 3.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-10-04T18:59:33Z",
+      "iso_date_of_last_edit": "2020-10-04T19:00:58Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcFl1Mm5nRRAB",
+      "user": {
+        "name": "Ruben Rodriguez",
+        "link": "https://www.google.com/maps/contrib/105251670769327005936?hl=es-419",
+        "contributor_id": "105251670769327005936",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocINKeO3myeglQq2S1d31Atw8eWmpK1YPZ-HBKktAg9i167xCA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 82,
+        "photos": 4
+      },
+      "snippet": "Acudí en 2 ocasiones la 1° muy bien trabajo bien hecho y en plazo perfecto, la 2° ocasión sigo esperando el presupuesto...",
+      "extracted_snippet": {
+        "original": "Acudí en 2 ocasiones la 1° muy bien trabajo bien hecho y en plazo perfecto, la 2° ocasión sigo esperando el presupuesto..."
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNzMmVXejBBRRAB!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgICs2eWz0AE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-02-07T16:13:29Z",
+      "iso_date_of_last_edit": "2020-02-07T16:13:29Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMmVXejBBRRAB",
+      "user": {
+        "name": "Eduardo Martínez",
+        "link": "https://www.google.com/maps/contrib/101406913121495622912?hl=es-419",
+        "contributor_id": "101406913121495622912",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK5JzzVX8bkrGWcem48WqqJDWujhzseBKX6f91SskHrRRAZuJE=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 196,
+        "photos": 1445
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f700c296801a7%3A0x14f5f7c4ca832a41&engine=google_maps_reviews&hl=es&next_page_token=Ci8IARInCgoAP72I_fkos6__EhDTsTWjPHwIFnT34ZAAAAAAGgf_Ao_fkos6GAAiAA&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72I_fkos6__EhDTsTWjPHwIFnT34ZAAAAAAGgf_Ao_fkos6GAAiAA"
+  }
+}

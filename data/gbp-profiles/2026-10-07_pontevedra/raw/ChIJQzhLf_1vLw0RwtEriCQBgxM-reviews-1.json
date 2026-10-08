@@ -1,0 +1,260 @@
+{
+  "search_metadata": {
+    "id": "6ac67497f6d5ee2c3e3decf1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8NJTvUn3NNlfrhGY0BrSk92ABQRrhOLwSh8MPOL8H9k/6ac67497f6d5ee2c3e3decf1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8NJTvUn3NNlfrhGY0BrSk92ABQRrhOLwSh8MPOL8H9k/6ac67497f6d5ee2c3e3decf1.md",
+    "created_at": "2026-10-07 16:34:31 UTC",
+    "processed_at": "2026-10-07 16:34:31 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f6ffd7f4b3843:0x13830124882bd1c2!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/8NJTvUn3NNlfrhGY0BrSk92ABQRrhOLwSh8MPOL8H9k/6ac67497f6d5ee2c3e3decf1.html",
+    "prettify_html_file": "https://serpapi.com/searches/8NJTvUn3NNlfrhGY0BrSk92ABQRrhOLwSh8MPOL8H9k/6ac67497f6d5ee2c3e3decf1.prettify",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f6ffd7f4b3843:0x13830124882bd1c2",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Amengo - Ebanistería, mueblería y carpintería al detalle.",
+    "address": "Rúa República Arxentina, 19, 36915 Marín, Pontevedra, España",
+    "rating": 5,
+    "reviews": 36,
+    "type": "Ebanista"
+  },
+  "topics": [
+    {
+      "keyword": "precio",
+      "mentions": 4,
+      "id": "/m/01d_1l"
+    },
+    {
+      "keyword": "idea",
+      "mentions": 3,
+      "id": "/m/015hcf"
+    },
+    {
+      "keyword": "diseño",
+      "mentions": 3,
+      "id": "/m/02cwm"
+    },
+    {
+      "keyword": "unas",
+      "mentions": 3,
+      "id": "/m/023j4r"
+    },
+    {
+      "keyword": "fecha",
+      "mentions": 2,
+      "id": "/m/020_g"
+    },
+    {
+      "keyword": "artista",
+      "mentions": 2,
+      "id": "/m/0n1h"
+    },
+    {
+      "keyword": "palabras",
+      "mentions": 2,
+      "id": "/m/052jhp"
+    },
+    {
+      "keyword": "puerta",
+      "mentions": 2,
+      "id": "/m/02dgv"
+    },
+    {
+      "keyword": "seguro",
+      "mentions": 2,
+      "id": "/m/03xks"
+    },
+    {
+      "keyword": "proyecto",
+      "mentions": 2,
+      "id": "/m/0156dy"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5T1JIaHZXbTFLVkZkWFRUa3dhM1Y2VGpSYVVVRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOl9ORHhvWm1KVFdXTTkwa3V6TjRaUUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 3 meses",
+      "iso_date": "2026-06-10T16:28:26Z",
+      "iso_date_of_last_edit": "2026-06-10T16:28:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T1JIaHZXbTFLVkZkWFRUa3dhM1Y2VGpSYVVVRRAB",
+      "user": {
+        "name": "juan carlos Bouzas del Rio",
+        "link": "https://www.google.com/maps/contrib/103114585186553450367?hl=es",
+        "contributor_id": "103114585186553450367",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIYz0w2-JZv7JRmND1Y4aVdMPcPZD1swzB2VSGpTzYsAVoVdw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Gracias Nacho. Un currante, profesional, muy fiable. Magnífico trabajo",
+      "extracted_snippet": {
+        "original": "Gracias Nacho. Un currante, profesional, muy fiable. Magnífico trabajo"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 3 meses",
+        "iso_date": "2026-06-11T06:40:26Z",
+        "iso_date_of_last_edit": "2026-06-11T06:40:26Z",
+        "snippet": "Gracias Juan Carlos, preciosa mesa para muchos años más! Un saludiño.",
+        "extracted_snippet": {
+          "original": "Gracias Juan Carlos, preciosa mesa para muchos años más! Un saludiño."
+        }
+      }
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KTmExTkNUMGh5ZGtaTU5uWjBRM1J4Y21GeVRGRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOmJNa1NCT0hydkZMNnZ0Q3RxcmFyTFE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "iso_date": "2026-05-02T07:03:07Z",
+      "iso_date_of_last_edit": "2026-05-02T07:11:51Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_cl41G6NgVHRAQzAyQohUrefIasKLeMG-sKwozA8R_pWjkCYv6pbgqlyOMC6dWny5lg7Yy7gWkfKRW62c2eciepJQd4V_HkcddsCoOIvDlihpDC_voaUXg1Onlldoqb2Ae9eX0iIc9Kov=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdkCSuYJny3bN5XNHAkUgDQoZaYYe2dCbigqcse3e-vaIb0px-XgDap6tRNaBbx8xmTTVtERmi5fA0bxBwz6iwlQapKmYV6CkMKfK0ejpYYEvlf4H7YFrMPo0LfWlpIIYKLr_Sn8zIy_boP=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc5o35tkh3OpUzQJNm15sVtDL45Qcoa6-FXyti7zbvxY3v14pjKUxNG6RUyZsvTgf67LiDG1nA9yZPSfCdVQZrUUxaV1hDE0Uj4EF3n0SAsa7iZKleEbNHGIyY3gHzgoNAb8Exl2G4Bb1QT=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTmExTkNUMGh5ZGtaTU5uWjBRM1J4Y21GeVRGRRAB",
+      "user": {
+        "name": "Maria Mercedes",
+        "link": "https://www.google.com/maps/contrib/108888506493894542992?hl=es",
+        "contributor_id": "108888506493894542992",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJuAnWQZWGaNtX_BBUrvD9rLZg9YKZ7RQ16ULNi0Gq3eCsSmA=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 3
+      },
+      "snippet": "Es un profesional de los que ya no quedan una persona  de palabra  y  un trabajor  de sacarse el sombrero  responsable y  sus trabajos  son perfectos  ,yo que encantada  de su precio y de su trabajo\nMil gracias",
+      "extracted_snippet": {
+        "original": "Es un profesional de los que ya no quedan una persona  de palabra  y  un trabajor  de sacarse el sombrero  responsable y  sus trabajos  son perfectos  ,yo que encantada  de su precio y de su trabajo\nMil gracias"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 5 meses",
+        "iso_date": "2026-05-02T07:30:35Z",
+        "iso_date_of_last_edit": "2026-05-02T07:30:35Z",
+        "snippet": "Muchas gracias!! Me alegro de que os guste mi trabajo. Un saludiño!",
+        "extracted_snippet": {
+          "original": "Muchas gracias!! Me alegro de que os guste mi trabajo. Un saludiño!"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SQmNVMU9WMjF1TnpsT1REVkZVRWg1Y3pkcFlXYxAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOnRBcU1OV21uNzlOTDVFUEh5czdpYWc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "iso_date": "2026-04-29T11:07:32Z",
+      "iso_date_of_last_edit": "2026-04-29T11:07:32Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQmNVMU9WMjF1TnpsT1REVkZVRWg1Y3pkcFlXYxAB",
+      "user": {
+        "name": "severino Rodríguez Nantes",
+        "link": "https://www.google.com/maps/contrib/114957853276821928263?hl=es",
+        "contributor_id": "114957853276821928263",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLj-YRWDvEZoc7savXu6MiWE0f0CizlptbfVn2VgCob-R5JpA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 25,
+        "photos": 1
+      },
+      "snippet": "Decir que me parece un buen carpintero, la carpintería muy bien equipada.El trato correcto. El trabajo que hizo quedó perfecto. Lo recomiendo",
+      "extracted_snippet": {
+        "original": "Decir que me parece un buen carpintero, la carpintería muy bien equipada.El trato correcto. El trabajo que hizo quedó perfecto. Lo recomiendo"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 5 meses",
+        "iso_date": "2026-04-29T11:34:32Z",
+        "iso_date_of_last_edit": "2026-04-29T11:34:32Z",
+        "snippet": "Muchas gracias, me alegro del resultado!",
+        "extracted_snippet": {
+          "original": "Muchas gracias, me alegro del resultado!"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21vM2JsRmhWVXQ0ZUc1YVVURkpNRU5MUmtaM2QwRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOmo3blFhVUt4eG5aUTFJMENLRkZ3d0E%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 meses",
+      "iso_date": "2026-03-28T11:28:13Z",
+      "iso_date_of_last_edit": "2026-03-28T11:28:13Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeSB2z0LmZFrC_dFCBs7nyPkp2Ex7-qM3TNRvFznk9YlVaM0RxsX9VQOS46g6ji22Biah91J-4MapoIy1I7azyvA0DsdnsCbxzqCK4vs9ktLHNTlLJiZg1ksT3Z5-GYnWH8yGBeU9Hkxf_d=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf6oq3sRzy-MMYLiHxnKy8wqKbKzw1KCsDpPLTXYH11I1xs-8zZ5Ksg198-hr9pObnoOYv8apRSbx5WPBpAPPAO74RlIki_gqQ8VCNkvob92gwZ6svipyLikQRsRO1Ch2v2fHrEHQGAK2pC=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcklygCb63rtx0ZEsZYjlMY05snGzP_Oa55ufTXvP-VZMbpT-uQ2KVI2-FC2txsnF2n4kSXXY62pQOoL4TOrFzp5ja_w4kNmKjsUUUCfx7Why4T1sawO1Z6imAjDvElEKhOl9i-1t_teJ2q=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vM2JsRmhWVXQ0ZUc1YVVURkpNRU5MUmtaM2QwRRAB",
+      "user": {
+        "name": "Laura CZ",
+        "link": "https://www.google.com/maps/contrib/102303817154637030398?hl=es",
+        "contributor_id": "102303817154637030398",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUATuOFizxRB0FPyS9uNsQVR_7j1kpaw-X3aR1NIga7rDElBbJC=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 15,
+        "photos": 5
+      },
+      "snippet": "Contratamos a Carpintería Amengo para nuestra boda y no podemos estar más contentos con el resultado. Desde el primer momento, Manacho, el dueño, no solo nos trató de maravilla, sino que además nos fue dando ideas buenísimas que podíamos incorporar y que hicieron que todo quedara todavía más especial.\n\nNos preparó un cartel de bienvenida impresionante de bonito, un espejo vinilado espectacular —tanto, que en el propio pazo querían quedárselo para otras bodas— y también unos regalos preciosos para algunos invitados especiales que les dejaron completamente sin palabras.\n\nDe verdad, gracias por todo el cariño que se nota que pusiste en cada una de las cosas que te encargamos. Se nota cuando alguien hace su trabajo con gusto, dedicación y cuidando cada detalle, y en vuestro caso fue así desde el principio hasta el final. No pudimos acertar más.\n\nSi necesitas cualquier cosa de madera para tu boda en Galicia, no dudes en contactar con él. Es un auténtico acierto y un gran profesional. 1000% recomendable.",
+      "extracted_snippet": {
+        "original": "Contratamos a Carpintería Amengo para nuestra boda y no podemos estar más contentos con el resultado. Desde el primer momento, Manacho, el dueño, no solo nos trató de maravilla, sino que además nos fue dando ideas buenísimas que podíamos incorporar y que hicieron que todo quedara todavía más especial.\n\nNos preparó un cartel de bienvenida impresionante de bonito, un espejo vinilado espectacular —tanto, que en el propio pazo querían quedárselo para otras bodas— y también unos regalos preciosos para algunos invitados especiales que les dejaron completamente sin palabras.\n\nDe verdad, gracias por todo el cariño que se nota que pusiste en cada una de las cosas que te encargamos. Se nota cuando alguien hace su trabajo con gusto, dedicación y cuidando cada detalle, y en vuestro caso fue así desde el principio hasta el final. No pudimos acertar más.\n\nSi necesitas cualquier cosa de madera para tu boda en Galicia, no dudes en contactar con él. Es un auténtico acierto y un gran profesional. 1000% recomendable."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 meses",
+        "iso_date": "2026-03-28T14:07:55Z",
+        "iso_date_of_last_edit": "2026-03-28T14:07:55Z",
+        "snippet": "Muchas gracias pareja, espero que lo pasaseis muy bien y enhorabuena!! Un abrazo!",
+        "extracted_snippet": {
+          "original": "Muchas gracias pareja, espero que lo pasaseis muy bien y enhorabuena!! Un abrazo!"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KRldUbHJXRTVOU0hjemVVcFJjR1J4T1VvNE0yYxAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOmJFWTlrWE5NSHczeUpRcGRxOUo4M2c%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 meses",
+      "iso_date": "2026-03-13T10:02:53Z",
+      "iso_date_of_last_edit": "2026-03-13T10:02:53Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRldUbHJXRTVOU0hjemVVcFJjR1J4T1VvNE0yYxAB",
+      "user": {
+        "name": "GONZALO MARTIN LORENZO",
+        "link": "https://www.google.com/maps/contrib/105006381444442196999?hl=es",
+        "contributor_id": "105006381444442196999",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKi7g7XwpYiycre6NavEYgPA6fKfEpjQFWG4KfkuG5_11rrig=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 33,
+        "photos": 39
+      },
+      "snippet": "La experiencia fue muy positiva. Trabajo serio y riguroso. Precio ajustado y entrega antes de fecha. Recomendable 100%",
+      "extracted_snippet": {
+        "original": "La experiencia fue muy positiva. Trabajo serio y riguroso. Precio ajustado y entrega antes de fecha. Recomendable 100%"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 meses",
+        "iso_date": "2026-03-14T07:50:20Z",
+        "iso_date_of_last_edit": "2026-03-14T07:50:20Z",
+        "snippet": "Gracias chicos! Ha sido un placer trabajar con vosotros, un saludiño!",
+        "extracted_snippet": {
+          "original": "Gracias chicos! Ha sido un placer trabajar con vosotros, un saludiño!"
+        }
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f6ffd7f4b3843%3A0x13830124882bd1c2&engine=google_maps_reviews&hl=es&next_page_token=Ci8IARInCgoAP72GMcLujV__EhBdQ8MQQxuwAijM5sAAAAAAGgf_AmMcLujVGAAiAA&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72GMcLujV__EhBdQ8MQQxuwAijM5sAAAAAAGgf_AmMcLujVGAAiAA"
+  }
+}

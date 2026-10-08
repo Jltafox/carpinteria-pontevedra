@@ -1,0 +1,19 @@
+---
+import { telHref, waHref } from '../lib/site';
+
+interface Props {
+  servicio?: string;
+  zona?: string;
+}
+const { servicio, zona } = Astro.props;
+const params = new URLSearchParams();
+if (servicio) params.set('servicio', servicio);
+if (zona) params.set('zona', zona);
+const quote = '/presupuesto/' + (params.size ? `?${params}` : '');
+---
+<!-- Barra fija en móvil: el contacto siempre visible (solo 3 de 8 competidores enlazan el teléfono) -->
+<nav class="mobile-cta" aria-label="Contacto rápido">
+  <a href={telHref()}>Llamar</a>
+  <a href={waHref()}>WhatsApp</a>
+  <a class="primary" href={quote}>Presupuesto</a>
+</nav>

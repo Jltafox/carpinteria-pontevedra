@@ -1,0 +1,880 @@
+{
+  "search_metadata": {
+    "id": "6ac625b6d45a38bbd6f39504",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3MlO6zXhH1lEa0wRhKtLo5I5-JXrkU_2q6Feh5ZTKWw/6ac625b6d45a38bbd6f39504.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3MlO6zXhH1lEa0wRhKtLo5I5-JXrkU_2q6Feh5ZTKWw/6ac625b6d45a38bbd6f39504.md",
+    "created_at": "2026-10-07 10:57:58 UTC",
+    "processed_at": "2026-10-07 10:57:59 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@39.4699,-0.3763,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/3MlO6zXhH1lEa0wRhKtLo5I5-JXrkU_2q6Feh5ZTKWw/6ac625b6d45a38bbd6f39504.html",
+    "prettify_html_file": "https://serpapi.com/searches/3MlO6zXhH1lEa0wRhKtLo5I5-JXrkU_2q6Feh5ZTKWw/6ac625b6d45a38bbd6f39504.prettify",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@39.4699,-0.3763,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpintería Gregorio Rodríguez",
+      "place_id": "ChIJf9yICvNPYA0R3QX2srpxZUU",
+      "data_id": "0xd604ff30a88dc7f:0x456571bab2f605dd",
+      "data_cid": "5000528007945127389",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604ff30a88dc7f%3A0x456571bab2f605dd&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604ff30a88dc7f%3A0x456571bab2f605dd&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4624532,
+        "longitude": -0.3918814
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf9yICvNPYA0R3QX2srpxZUU",
+      "provider_id": "/g/11yzqhvf1t",
+      "rating": 4.7,
+      "reviews": 15,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Plaça de Patraix, 2, Patraix, 46018 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "8:00–20:00",
+        "jueves": "8:00–20:00",
+        "viernes": "8:00–20:00",
+        "sábado": "8:00–20:00",
+        "domingo": "Cerrado",
+        "lunes": "8:00–20:00",
+        "martes": "8:00–20:00"
+      },
+      "phone": "667 25 77 84",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPL4gvv-YAv7PeriWNWonx02RGMN8JNyOW061hRe64rzFdFjjGQcNBKY5QQvW_aEAfsVxPnh5qHYAjBtJL3KjpyTF7Y-RmzYMsH7_UN2eqK1faoXoa53jH1SdCLC8z1yOsPLCqtL8-j-Yr_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Q7wpenicHcTBboMgAADQL6JCrdUs2cGaWVOpVdfNcTKGUhlRUGCs-pM772-W7B3e7w-3djJPnjdwf9Mr1Q_syzBNlbRM2g1Vo9frzhhAjRcnbhrGEu965wCJXVgy_dkUjZIPuK2P5yI6FculgXvEa7bf6TW9pUIcK1occhJUlWva7iW-m_dHKXkwZyQWB3vCfi6m5ZqGBNTjSs4mC9u3YsvmHN079aG6wBcZer0lOIlWtFxMiZPZ4ggIQHT7_I0ghID_T4H8A7c_Rv0"
+    },
+    {
+      "position": 2,
+      "title": "El taller de Miguel | Carpintería",
+      "place_id": "ChIJay2ibFFFYA0RiszFjx9CsD0",
+      "data_id": "0xd6045516ca22d6b:0x3db0421f8fc5cc8a",
+      "data_cid": "4445125535538203786",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6045516ca22d6b%3A0x3db0421f8fc5cc8a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6045516ca22d6b%3A0x3db0421f8fc5cc8a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4932034,
+        "longitude": -0.37586149999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJay2ibFFFYA0RiszFjx9CsD0",
+      "provider_id": "/g/11h2nmvrqz",
+      "rating": 4.9,
+      "reviews": 22,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "C/ del Comte de Torrefiel, 24, Rascaña, 46019 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–18:00",
+        "jueves": "9:00–14:00, 16:00–18:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00, 16:00–18:00",
+        "martes": "9:00–14:00, 16:00–18:00"
+      },
+      "phone": "627 41 29 66",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmME_YVjRvyMrdzT6QHoxPCHHkPLnPFisNtVDhNHmPC4AF5Yxj5zSp-0tbcvTW62vfGrsrupJbXRV_lUyOD0nm03r5YE5hiFbByD53FUYhmiTM_0VDMBJH-VoIDAqH4-a2W2-Fe2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VdGco3icHcRRkoIgAADQE5Gk0Ucz-2ESUZOttUb55SSZWAIG5GYX7Azdppnex3u_hHOtnXheI4JBpXXVlHdbGq6VK5UbcC29yhytBdx6YdS1jYxnecYu266PzemZjjdUP5KI0muyUgmp7doxLNZUJtEoJCh7XNDzrwXQFbxL92O_O8-NNfd2WRy2LG92_S-GSsLAoGyGRE2KaY9RQHaZkHUa55DheLqkgOkFDm90BI7-3gek9H_-hxBCIL5zoD7X9UQt"
+    },
+    {
+      "position": 3,
+      "title": "Carpintería Escribano",
+      "place_id": "ChIJmZMhdfdFYA0Rcml2JmUr-lg",
+      "data_id": "0xd6045f775219399:0x58fa2b6526766972",
+      "data_cid": "6411484732952308082",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6045f775219399%3A0x58fa2b6526766972&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6045f775219399%3A0x58fa2b6526766972&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4880771,
+        "longitude": -0.3853137
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmZMhdfdFYA0Rcml2JmUr-lg",
+      "provider_id": "/g/11xj3zr13",
+      "rating": 4.6,
+      "reviews": 12,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "C/ de l'Enginyer la Cierva, 15, Bajo - B, La Zaidía, 46009 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "8:00–14:00, 15:30–19:00",
+        "jueves": "8:00–14:00, 15:30–19:00",
+        "viernes": "8:00–14:00, 15:30–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–14:00, 15:30–19:00",
+        "martes": "8:00–14:00, 15:30–19:00"
+      },
+      "phone": "623 81 48 20",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aseo adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPpatlJYqjMvKE1CZgAlT2otHXq-0jpRwOYMPnvoyoMj0zTmudCpOutQ_PrKZFDBmE18-vmDwu0lzRSf6RehUmlQZGWJKIGq3D2_gDbfYVPwiwSDPob-HNZzNFNDuRk9Lu53sM4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IblhV3icHcRLEoIgAADQE5GY1VQzLUr6mkb21U1TZpiBoIBMXrAzdJtmeov3_WRKCTm0LJo5LcI5oamWaZXwQqWFaiWcWaS6SgkSaY3dWlCGxVXRVVTmfu1NbTcmY7pvc7U4lwDmIjSbyMdFzd_cz2GzZ_ruio1W2wuuvHiGJmxq90HNkNGQNuHu0QvT7MDoNp6fVt5yXjqofSHo9oiO2DzNDmF-A4sgboJZgHT4Gqx115F-Z2RsCCHI_ieg-AFGmEYi"
+    },
+    {
+      "position": 4,
+      "title": "Carpintería marítimo",
+      "place_id": "ChIJCSSAIWZIYA0RaVbmPleBPWQ",
+      "data_id": "0xd60486621802409:0x643d81573ee65669",
+      "data_cid": "7223071589089564265",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd60486621802409%3A0x643d81573ee65669&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd60486621802409%3A0x643d81573ee65669&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4650537,
+        "longitude": -0.3284258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJCSSAIWZIYA0RaVbmPleBPWQ",
+      "provider_id": "/g/11cmtvlvfh",
+      "rating": 4.7,
+      "reviews": 28,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "C. del Dr. Lluch, 28, bajo derecha, Poblados Marítimos, 46011 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "8:00–17:00",
+        "jueves": "8:00–17:00",
+        "viernes": "8:00–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–17:00",
+        "martes": "8:00–17:00"
+      },
+      "phone": "963 67 33 67",
+      "website": "http://carpinteriamaritimo.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNILbdbJS2FC4wS0Ms3-TbiY_YgbAeP7mXiwDJuJXe3Iu-sb7U7WKWX-HnMvjkd_N2ioNJpC1SSZdmk8OHKdjO8bVKzKKhTwbu22GVENIyS7wqMOhmkqCCdW7MU7VN-B-B61g4a7hA9ycUf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z-3uJnicHcTbboIwAADQL6rczOqW7AE7N6GjLEEu-mLsZS1CKVqwcT_p8_5myc7D-X2oaRrti-f1KlpIY2QvZiuuzAyTGKYFM9qT15O1gFkvRrex1yT5pJymRfiOlq7wMxuBHW33x72ksfiCumndWzqnjYiSGVgKS1jjugHbIbudO34kYWtIOqKgKA5cd6t8i_k5X9EK_2Csdo7OYfhRbUhyL6C7ZLnS3QUhXsOshBUBa7B-CuTyBFX8fGfl96sLfN8H6n8Ghj-SEEZp"
+    },
+    {
+      "position": 5,
+      "title": "Carpintería general manitas reparaciones Valencia carpintería",
+      "place_id": "ChIJ35s8juRHYA0RANI_rBXEcMA",
+      "data_id": "0xd6047e48e3c9bdf:0xc070c415ac3fd200",
+      "data_cid": "13866798850036978176",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6047e48e3c9bdf%3A0xc070c415ac3fd200&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6047e48e3c9bdf%3A0xc070c415ac3fd200&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.488295199999996,
+        "longitude": -0.3692739
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ35s8juRHYA0RANI_rBXEcMA",
+      "provider_id": "/g/11z7r8ttc7",
+      "rating": 4.9,
+      "reviews": 35,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Electricista",
+        "Cerrajero de emergencia",
+        "Ebanista",
+        "Reformas de cocinas",
+        "Cerrajero",
+        "Pintor",
+        "Fontanero",
+        "Mantenimiento de propiedades",
+        "Reformas"
+      ],
+      "address": "Av. del Primat Reig, 44, La Zaidía, 46009 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto 24 horas",
+      "hours": "Abierto 24 horas",
+      "operating_hours": {
+        "miércoles": "Abierto 24 horas",
+        "jueves": "Abierto 24 horas",
+        "viernes": "Abierto 24 horas",
+        "sábado": "Abierto 24 horas",
+        "domingo": "Abierto 24 horas",
+        "lunes": "Abierto 24 horas",
+        "martes": "Abierto 24 horas"
+      },
+      "phone": "603 54 46 69",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmML4iVQ0ztkha--X3IyROa2uAocMhtKaHqe13lWLckqIN-smuYgb0pIuRERAjAdgn16LWI-PEyhLRAlVDQW4bYGTNskM-90FeMXDOqJ-n3juPphBsWyUOfoD45XwJLaDUn19Vn_QIOYw5xz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EUEbknicHcTNboIwAADgJ6qUgSYu2aEb6qpFhCg_p6V2tVVKC7Ydw5fceW-zZN_h-_2RzvX2OQiUjGbCGKG4t_zOjHZcuxkzXSDu1FrAbIDevnrVpSS-ljl8uFZSAOoIT0VGnzwyLJVuR98HHkaqIqwd8B7YzjfiDHvsi1WBbuhT6HBBKgwOq0mSAqkyyav43GyOe9umYAnXPK2TbNgCHd38oZevtppO2cUk8bwet4QmJx0uS_2R46wZ59-PlzGEEAL5PwP6D8vmR1k"
+    },
+    {
+      "position": 6,
+      "title": "CARPINTERÍA",
+      "place_id": "ChIJOQXM2flPYA0RrX1mOtewJfI",
+      "data_id": "0xd604ff9d9cc0539:0xf225b0d73a667dad",
+      "data_cid": "17448546769761107373",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604ff9d9cc0539%3A0xf225b0d73a667dad&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604ff9d9cc0539%3A0xf225b0d73a667dad&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4609868,
+        "longitude": -0.3834104
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOQXM2flPYA0RrX1mOtewJfI",
+      "provider_id": "/g/1hc2b6fvd",
+      "rating": 4.4,
+      "reviews": 16,
+      "type": "Tienda de artículos para el hogar",
+      "types": [
+        "Tienda de artículos para el hogar"
+      ],
+      "address": "C. del Mestre Sosa, 37, Extramurs, 46007 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "9:00–19:30",
+        "jueves": "9:00–19:30",
+        "viernes": "9:00–14:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:30",
+        "martes": "9:00–19:30"
+      },
+      "phone": "963 41 27 38",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOFAkUa_e3B36v7L54ZZYtzrU8GR7KiTKdOVYl_dhtXE35OCY9lEZaa3sA8ZhS6NhQgTWnNEr8plxh6wk1exMSvrwiOHPcIRKBiTJSCq9t6gZy6cK2ws8HahkJJvq8RP7WPl-4b=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SOO5vnicHcTbboIwAADQL-Ki1VKX-ICEqaCCgBf6QmptWkIFbDtw_uC-YX-zZOfh_P4IY3r94ThSAJt3HZfsSzNFu9aw1ti0ezhcEa0tqh0_GHr5SD795kQqBlYADt5uPsO4NG91QuvMi-sivifnUlZ3Ya4hmCdBuZAhJgRoH2GRw4M48uLSHkKFevkScGwm7LXPBzXWySal2yxe1UWUB8-FgRx_QxpPR402RDRRNDxRlnqXVFqz23KcuK5rif-p1f4BcUREpQ"
+    },
+    {
+      "position": 7,
+      "title": "Carpintería y Restauración Alberola",
+      "place_id": "ChIJi8ke4dFIYA0RffcyD4N_sWY",
+      "data_id": "0xd6048d1e11ec98b:0x66b17f830f32f77d",
+      "data_cid": "7399835863618877309",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6048d1e11ec98b%3A0x66b17f830f32f77d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6048d1e11ec98b%3A0x66b17f830f32f77d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.45457,
+        "longitude": -0.369177
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJi8ke4dFIYA0RffcyD4N_sWY",
+      "provider_id": "/g/11bw2g4320",
+      "rating": 4.8,
+      "reviews": 16,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Servicio de restauración de muebles antiguos"
+      ],
+      "address": "Carrer d'Alberola, 19, Quatre Carreres, 46013 València, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 15:30",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "8:30–13:30, 15:30–19:30",
+        "jueves": "8:30–13:30, 15:30–19:30",
+        "viernes": "8:30–13:30, 15:30–19:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:30, 15:30–19:30",
+        "martes": "8:30–13:30, 15:30–19:30"
+      },
+      "phone": "660 89 75 75",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMkJE8L4tDkqdL2CLJi0Fm59-i29sYvZmJHy2zcvKLkn6tnAHwGWWok5BlMdMyIViX6rLNN38k-V43f8WYyIePm25WNL9qTYhtossnVRMPQufEv-H5BWbV4zM5bWajr6-sAI2lJTg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/407CT3icHcTbboIwGADgJ6pgoQSWeIGnAbZEF0PH7rQisJ6Uv2LwDfcIe5sl-y6-35_OuRu8eZ7qgllrbauaBzSDsMY1xs2E1V47nACQAC9djTelmSw2MQ3dWt4vFK9o0ftbTRLU4wTq8UsX2YRfYtxRaSJn0uz5zrmVZKnYhU151X9GAy3LIJaoCoNrzOspb_YaE17S5H6sO2cBTPXB9ofHdTOijCz5uQpfjJz56XuIEKQ5VsWxXTznvu-j7n-BzB_jqETU"
+    },
+    {
+      "position": 8,
+      "title": "Carpinteria Valencia | Rotomadecoración",
+      "place_id": "ChIJt4voVN0AfikRGZnN9yYdK6o",
+      "data_id": "0x297e00dd54e88bb7:0xaa2b1d26f7cd9919",
+      "data_cid": "12261926463649716505",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x297e00dd54e88bb7%3A0xaa2b1d26f7cd9919&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x297e00dd54e88bb7%3A0xaa2b1d26f7cd9919&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.1644608,
+        "longitude": -0.2789994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJt4voVN0AfikRGZnN9yYdK6o",
+      "provider_id": "/g/11z36dq8kx",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Service establishment",
+        "Carpintero"
+      ],
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "8:30–19:30",
+        "jueves": "8:30–19:30",
+        "viernes": "8:30–19:30",
+        "sábado": "9:00–15:00",
+        "domingo": "Cerrado",
+        "lunes": "8:30–19:30",
+        "martes": "8:30–19:30"
+      },
+      "website": "http://rotomadecoracion.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPFtAWL5DwiOp-0B05HDu59zZLZBPfEG1iXSL4300LrymnA6dIrbKcNCEDcsbxLkfOWb_6lxVUT3dUh8B8BpCwQw-WPozdXR1pTdJrwFQt54KiuKi7fCJHolXPE35kmCQkSfb9hEBNzdL06=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bY7UJXicHcTBboMgAADQL6JiLK5dsoOgXVdJq2s7TS_LBBUjCgGcnT-5c_9myd7hPX6Fc9o-e54UwapVqpX1ZGvD1Ojq0a2YGrzWfFkLmPUi8q3lkO1cVFAUz91JA4gh2scT2i43esNZk7z6XXmm6wBCan6GMQr5m6lSdiRJzGx1p31zKqrPUN4_rpeAX8UGb7Amcz6DIlMLL999feEHM-9yh9ZpN6XdU0MOeyXLLAlQP5C8PzfVViT4uHAKw5fZhxAC8T8D4x9UJkZx"
+    },
+    {
+      "position": 9,
+      "title": "Mg Carpintería Creativa",
+      "place_id": "ChIJo1YukOxFYA0R3FK_vlSD5tM",
+      "data_id": "0xd6045ec902e56a3:0xd3e68354bebf52dc",
+      "data_cid": "15269035986646946524",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6045ec902e56a3%3A0xd3e68354bebf52dc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6045ec902e56a3%3A0xd3e68354bebf52dc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.5013916,
+        "longitude": -0.39224129999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo1YukOxFYA0R3FK_vlSD5tM",
+      "provider_id": "/g/1th0zptb",
+      "rating": 4.6,
+      "reviews": 14,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Artista"
+      ],
+      "address": "C/ del Foc, 36, Benicalap, 46025 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00",
+      "hours": "Abierto · Cierre: 14:00",
+      "operating_hours": {
+        "miércoles": "8:00–14:00",
+        "jueves": "8:00–14:00",
+        "viernes": "8:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–14:00",
+        "martes": "8:00–14:00"
+      },
+      "phone": "653 89 63 54",
+      "website": "https://carpinteriacreativamanolo.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPzUFp1JHYOPt57PKbLlBS-hLRDqtwEEQl7yePPE5LnTk01ZTDtWnsaiKb34e2WiH2zMLVsreAaeeGzd18K5-gVDjTB2JID14cbf1g9NKV97s-1svTe_TF6DjZBJzwA-Y6yZxdX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HvNOw3icHcTRVoIwGADgJ5owFMnO6QIapkC2amJy04H5O7Q5kH9J8oI9Q2_TOX4X399vbW2L946j6_FINY3S8I3QycZYMHYkm5OjuhKRSHTCx0urT3xYz1uaLLYv3PoBT6tMR--kzt7Y2fZx_KqDK3Ae-5kRXy4tBLMbg-UhrcYT8DaHhTc8Zzl2EJYAT8OO3qU-UTk7ishLloxOZLWnarZK81mAhOJFwKeYT9mxiJKhD8l2ei1-dh8PPXVdl9S3JTH_MmZDeA"
+    },
+    {
+      "position": 10,
+      "title": "CARPINTERÍA ALCÁZAR",
+      "place_id": "ChIJb5zQHutFYA0RIIZDkCjXCH8",
+      "data_id": "0xd6045eb1ed09c6f:0x7f08d72890438620",
+      "data_cid": "9153802811849541152",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6045eb1ed09c6f%3A0x7f08d72890438620&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6045eb1ed09c6f%3A0x7f08d72890438620&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.496717,
+        "longitude": -0.4051842
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJb5zQHutFYA0RIIZDkCjXCH8",
+      "provider_id": "/g/11g4d1k0rh",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "C. del Empalme, 1, Poblados del Oeste, 46015 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "8:00–14:00, 15:30–18:00",
+        "jueves": "8:00–14:00, 15:30–18:00",
+        "viernes": "8:00–14:00, 15:30–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–14:00, 15:30–18:00",
+        "martes": "8:00–14:00, 15:30–18:00"
+      },
+      "phone": "963 40 11 35",
+      "website": "https://carpinteriaalcazar.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOB1DmJ6T6Q818XSRMeoKfwhrUdr_Bbba5VLZP-FvDilyB-wrA_E6FkfPXSvzq_AeO7aJUzy92ShrmxiMQNck3gns8idyO8ZkhMo-862xJRHh37RGDJ5P6ESSIZQ22F21R77BaS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IW62_nicHcTbToMwAADQL-qAkpVqsgcQUHHIpWIIL4R1HSVcyloGgx_cN-xvTDwP5_ng0zSqV03ruLmrhag7dlNMUjFMbJh2VPRaLSulAFWa_TaPXR85htsH6Acl2MA5SUMmvi4Ll9lZls7pVO1_j0UM_NltutUBi7RLD_ntJc7JvF1Lm0VWFWTb-gIJl_29CZNv2pr1oHBzXiNctDwUACN4D9IPblrpuxvsY-QR8lkkEPrQSC3LqchhMXRdB_x_CoY_aJVDZw"
+    },
+    {
+      "position": 11,
+      "title": "Carpintería Villanueva",
+      "place_id": "ChIJJ_r_UHdIYA0RmKdKS9H0nDI",
+      "data_id": "0xd60487750fffa27:0x329cf4d14b4aa798",
+      "data_cid": "3647058978011785112",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd60487750fffa27%3A0x329cf4d14b4aa798&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd60487750fffa27%3A0x329cf4d14b4aa798&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.479369299999995,
+        "longitude": -0.32705239999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJ_r_UHdIYA0RmKdKS9H0nDI",
+      "provider_id": "/g/1tjrr9cc",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Avda de la Malvarrosa de 106, C/ de Vicente la Roda, 35 bajo, pta 1, Poblats Marítims, 46011 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "9:00–17:00",
+        "jueves": "9:00–17:00",
+        "viernes": "9:00–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–17:30",
+        "martes": "9:00–17:00"
+      },
+      "phone": "678 82 43 33",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNno1CupgUm8gV8mX2qVY3CJrP-psQhV7y3sRBknfPboAVIKyaYQDgmChBqySAgRNvt5ZlHTkti6bpFVNG2ZAYAPBdHHYaH8dnGSzg7Lj8n2_O0lbUVkS4jop6XichjVryHcFsL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DHlgMXicHcRJDoIwAADAFyEILsTEQ8FIXYIo2oAXAwVboZu0avCDvsHfmDiH-X6oMUrPbJtRb0CkJKx-6LrDUphamAGW3CZdobWFtQ3Cp2I8FnIYPhQ5cZ8gn2fuHeVeuO4SS-k9RdPe04egFdeklACtNn2R7xeEhzS49ykgh_hpxmcGj625TUq1RHHknkEOkqCCMC-gX4kofZPptvGFe9k5rDyhNh01Uk2yG6YN6nqIl3o7fw0dx7Hof2yJH_fPRf4"
+    },
+    {
+      "position": 12,
+      "title": "Carpinteria Dos De Mayo s.l.",
+      "place_id": "ChIJrSPVGJxPYA0R6TtiM65zvIM",
+      "data_id": "0xd604f9c18d523ad:0x83bc73ae33623be9",
+      "data_cid": "9492589306613742569",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604f9c18d523ad%3A0x83bc73ae33623be9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604f9c18d523ad%3A0x83bc73ae33623be9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4705006,
+        "longitude": -0.41619239999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJrSPVGJxPYA0R6TtiM65zvIM",
+      "provider_id": "/g/11bbrlj4y5",
+      "rating": 4.5,
+      "reviews": 24,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "address": "C/ del Dos de Maig, 10, 46920 Mislata, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "8:00–14:00, 15:30–20:00",
+        "jueves": "8:00–14:00, 15:30–20:00",
+        "viernes": "8:00–14:00, 15:30–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–14:00, 15:30–20:00",
+        "martes": "8:00–14:00, 15:30–20:00"
+      },
+      "phone": "963 59 97 15",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPyT4C8-RcX8xMOZVkniQpf13bAdyFo3b1DFsrhu3UNzQE7iU0r7MJaXHj77rV4qYpTiQauNOfTPlVzBZcsaYCbvrpYff9QDd8qK5onr4uowluQ2jK9EdwedoFhXmMYocfq_Abzjw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BI32D3icHcRRboIwGADgEyEgLKDJHhAlywxqFyTAywKFUrD0Ly2VyQ13BG9j4vfwPf_pNAm1NU1GnVUL0LJGq0Zi4FPDpxWGwWxlqZSBlRmEd8GGyyNxQ9_4wZn_F5-L9MY7JIjtVEH9iMCp7H2kJNXO9bSgg9ddLenF32X21XueTN0xF0mHSn06k-TC0mVXYFXmYXWXIidkg_a1Px4_gEtXw8w0WvfHzaGemxoimg1xDpiMv0G19PPnbFuWZdD32OAvckFHiA"
+    },
+    {
+      "position": 13,
+      "title": "LCPA CARPINTERIA",
+      "place_id": "ChIJo_6jdwBPYA0RfvWKQn1fmhg",
+      "data_id": "0xd604f0077a3fea3:0x189a5f7d428af57e",
+      "data_cid": "1772834394915665278",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604f0077a3fea3%3A0x189a5f7d428af57e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604f0077a3fea3%3A0x189a5f7d428af57e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4740039,
+        "longitude": -0.4126393
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo_6jdwBPYA0RfvWKQn1fmhg",
+      "provider_id": "/g/11nvjbp_t2",
+      "rating": 4.3,
+      "reviews": 6,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "C. Major, 85, 46920 Mislata, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "operating_hours": {
+        "miércoles": "10:00–13:30, 17:00–20:00",
+        "jueves": "10:00–13:30, 17:00–20:00",
+        "viernes": "10:00–13:30, 17:00–20:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "10:00–13:30, 17:00–20:00"
+      },
+      "phone": "601 40 24 01",
+      "website": "https://lcpacarpinteria.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMINbgg5VaE_tmZ40TUleikN1JrPHvIlL4mViIJnLpaEHBr9MxnaqIEDOkxUgYOzFwSQYr020p1aMx_WVtb9hkpJoPXSqqQm_43TASH-21G4c0lOPvfz_DSjecGUET0qmU28risyJrCbRy6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g37HEXicHcTJjoIwAADQL0IKohlNPLigQERwWFwupDSdwtCNtoPoT87Zv5lk3uG9fxtjpF7aNm2mEyIEofhHY4UEN5ibCRLMJgpqbSFtr7eDpCwOTzUhsxL6lWF3D-QFxW13ciKVBkNIjx4r2zDiRwn9YKMW8chhH_q7pBsLckte-0d2vingAunAeKwupakXTScjkV6zvj-zypvm6yywXOfgIUCTdPh6VbvsG6ND4eegZ4X7oVr9jNS2_nzOVw8HAGA1_yOL_wEk5UhA"
+    },
+    {
+      "position": 14,
+      "title": "Carpintería Miguel Ángel",
+      "place_id": "ChIJIYna-85IYA0Rk_pSMmfgZ90",
+      "data_id": "0xd6048cefbda8921:0xdd67e0673252fa93",
+      "data_cid": "15953966938813823635",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6048cefbda8921%3A0xdd67e0673252fa93&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6048cefbda8921%3A0xdd67e0673252fa93&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4577822,
+        "longitude": -0.3682109
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIYna-85IYA0Rk_pSMmfgZ90",
+      "provider_id": "/g/11hbpdhxbq",
+      "rating": 4.3,
+      "reviews": 30,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Carpintería Metálica Miguel Ángel, C/ dels Sapadors, 25, Quatre Carreres, 46006 València, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–19:00",
+        "jueves": "8:00–13:00, 15:00–19:00",
+        "viernes": "8:00–13:00, 15:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 15:00–19:00",
+        "martes": "8:00–13:00, 15:00–19:00"
+      },
+      "phone": "676 49 82 70",
+      "website": "http://www.carpinteriamiguelangel.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNkU5D45riAoVyHpunBT3dcYPJr5oNRX6pPxQ1urm6TKAYur6028bzgwdiJwBmdJdc6zojNAQbqHWZXtQheQXcm4ntO0KT0DxlL7Rn7A93CpwjbH24PEx5nf7RM9a4nPPhKkcHo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OFVld3icHcTbEoFAAADQL0pLN8x4WDHTFNmaEG-1pUV7sbspftA3-BszzsP5fojWQs1NsyXWqOG8aetO1RJzpmumR5hTs5GFUgZWJvSfoqXxfe-sbEdeIT-8AtGxZWZV-IRC6fA4zV2BhmTcSepmETx10gWTaflu-uoa9ktahRV23_wWw6R8BMdzrhNSJzmmNtM7EGVgNbQbL2UenFm-6G9lMLHRenDYxUu3s8JmCJHojgO-6McAAIP8xwb7AdamRTo"
+    },
+    {
+      "position": 15,
+      "title": "carpinteria fustalbo",
+      "place_id": "ChIJY8fHRDBHYA0RSDbgdbkHs6g",
+      "data_id": "0xd60473044c7c763:0xa8b307b975e03648",
+      "data_cid": "12156068312331073096",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd60473044c7c763%3A0xa8b307b975e03648&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd60473044c7c763%3A0xa8b307b975e03648&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.5005556,
+        "longitude": -0.34102319999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJY8fHRDBHYA0RSDbgdbkHs6g",
+      "provider_id": "/g/11mvg6sc3q",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "address": "Carrer dels Escultors, 46120 Alboraya, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "8:00–20:00",
+        "jueves": "8:00–20:00",
+        "viernes": "8:00–20:00",
+        "sábado": "8:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "8:00–20:00",
+        "martes": "8:00–20:00"
+      },
+      "phone": "675 54 58 02"
+    },
+    {
+      "position": 16,
+      "title": "Carpinteria San Jose",
+      "place_id": "ChIJ32wyB_9FYA0ROQPkIgbT_pc",
+      "data_id": "0xd6045ff07326cdf:0x97fed30622e40339",
+      "data_cid": "10952423367120257849",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6045ff07326cdf%3A0x97fed30622e40339&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6045ff07326cdf%3A0x97fed30622e40339&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.488080499999995,
+        "longitude": -0.377297
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ32wyB_9FYA0ROQPkIgbT_pc",
+      "provider_id": "/g/11fmbk9m21",
+      "rating": 4.3,
+      "reviews": 37,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Reformas de cocinas"
+      ],
+      "address": "Avinguda de Portugal, 3, Bajo derecha, La Saïdia, 46009 València, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Apertura: 9:30 (jue)",
+      "hours": "Cierra pronto · 13:30 · Apertura: 9:30 (jue)",
+      "operating_hours": {
+        "miércoles": "9:30–13:30",
+        "jueves": "9:30–13:30",
+        "viernes": "9:30–13:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–13:30",
+        "martes": "9:30–13:30"
+      },
+      "phone": "658 44 37 29",
+      "website": "http://carpinteriasanjose.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMmLDswwGd6wm3ISYBYsX3I5KjAilkM3E7aIwPvZT6BMOHkRhkY-0u3T3nscpjczjhd2Iwu3Ao5GkrKKGMH_4d05odRKWK-nxXN9eZlPq0ZZxjsdt1zIqdgtaquGNxoMvPA1HnD=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3VT2LHicHcRRboMgGADgE1FxzC5d0gddFyWM1rRNVn1ZDBiZIqg_iukFe4beZsm-h-_5UM4N8B4EWpFNY22j6xnqSVjjauM2wvZBM1UASEAQfyyD7nn_dQDvU7n1PaGXIingRmjE2vhXd5x8vlXU50t53Sb8lHVn1RUIz-RKDIihFfdWyRfqZxLbKO0mxlKe_bxKHFl5Zt8MmfV23NWlzkdclmsL0oV3OsrGVeOcHlfLlzwOM3PY-xBjjNT_Apk_xYJFzw"
+    },
+    {
+      "position": 17,
+      "title": "Carpintería Miguel Angel Checa",
+      "place_id": "ChIJ3XGIKTxPYA0RDXT5hlGFzL8",
+      "data_id": "0xd604f3c298871dd:0xbfcc855186f9740d",
+      "data_cid": "13820567941696549901",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604f3c298871dd%3A0xbfcc855186f9740d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604f3c298871dd%3A0xbfcc855186f9740d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.459785499999995,
+        "longitude": -0.3910286
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3XGIKTxPYA0RDXT5hlGFzL8",
+      "provider_id": "/g/11xckb155",
+      "rating": 3.6,
+      "reviews": 20,
+      "unclaimed_listing": true,
+      "type": "Ebanista",
+      "types": [
+        "Ebanista"
+      ],
+      "address": "Carrer de Jacint Labaila, 14, Patraix, 46007 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–20:00",
+        "jueves": "9:00–14:00, 16:00–20:00",
+        "viernes": "9:00–14:00, 16:00–20:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00, 16:00–20:00",
+        "martes": "9:00–14:00, 16:00–20:00"
+      },
+      "phone": "603 12 78 73",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d9qlHLE5yHY1j9zkyj5aBQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=223.52533&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sFWzZnicHc1RCsIgGADg2_iWOofQAgmCYA-99NhT_HOmbm6a2mwdp1t1m6ILfN_nbXIOaUdIylGpvFhVgn0qlzYBsPZeOwXBJiz9RJaKZPOYuhms2weYve1F39xdezrytb1UQ_Ma14HD4Yxkd5XOqjmLpCBKg3X5idH3WEdICRWxpciIhqEVimCsxpzxukbBZmkERf_n5hdRUfoF8Qo6QA"
+    },
+    {
+      "position": 18,
+      "title": "Cerrajería y carpintería metálica, HERRERAS",
+      "place_id": "ChIJy-sOcl5IYA0RqBCJaB-oz0M",
+      "data_id": "0xd60485e720eebcb:0x43cfa81f688910a8",
+      "data_cid": "4886308973571543208",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd60485e720eebcb%3A0x43cfa81f688910a8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd60485e720eebcb%3A0x43cfa81f688910a8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.4636378,
+        "longitude": -0.333038
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy-sOcl5IYA0RqBCJaB-oz0M",
+      "provider_id": "/g/11c31v0rms",
+      "rating": 4.6,
+      "reviews": 127,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "C/ de Vicent Brull, n 35-37, Poblados Marítimos, 46011 València, Valencia",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:30",
+      "hours": "Abierto · Cierre: 18:30",
+      "operating_hours": {
+        "miércoles": "8:30–18:30",
+        "jueves": "8:30–18:30",
+        "viernes": "8:30–18:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–18:30",
+        "martes": "8:30–14:30"
+      },
+      "phone": "963 67 60 35",
+      "website": "http://www.cerrajeriaherreras.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNFC3F7nVY1acZ0DT0EVLzWBHSmbCRHCKIYR4v3CBdTcthUj2uHBWhHKxnp29X6hPEHcf7uVdT5dQ1-oZneM3fJUOH-yHzvpoPrDlL9BhcZVWTtHcDSP0xTqzl8Y-bNDHaIHaq-jA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ittflXicHcRbcoIwFADQFUWCVK2d8UOCzvVRixpB-MMLknFCgiSgskOX0N10pufj_L6FtbX5chwpvEGpdSmL1hQNamULZQeoK6dsMmMIGmfOulpWuyXzlhMVJW6GKQ04XUTbPvbhWF3YAdhmlRw-Oo_5OUcrTrdhC34sYPNU9XB6HotwAXidtFHOR_neJTpVxbd3XZ9-gLyg72odNoHcTn2BaRRzCxgcQ_rk915-JuSyCyBbQXYnt_ns4VJKifgfifoDl8ZEbA"
+    },
+    {
+      "position": 19,
+      "title": "Nuevo Estilo Carpintería pvc y aluminio RTP",
+      "place_id": "ChIJ0UFkss5IYA0RjH11krDhTC4",
+      "data_id": "0xd6048ceb26441d1:0x2e4ce1b092757d8c",
+      "data_cid": "3336289572462361996",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd6048ceb26441d1%3A0x2e4ce1b092757d8c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd6048ceb26441d1%3A0x2e4ce1b092757d8c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.459649999999996,
+        "longitude": -0.36966
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0UFkss5IYA0RjH11krDhTC4",
+      "provider_id": "/g/1tfk15jh",
+      "rating": 4.8,
+      "reviews": 256,
+      "type": "Proveedor de ventanas PVC",
+      "types": [
+        "Proveedor de ventanas PVC",
+        "Servicio de instalación de ventanas"
+      ],
+      "address": "Av. de Peris i Valero, 111, Bajo, Ensanche, 46006 València, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 16:00",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 16:00–20:00",
+        "jueves": "9:00–13:30, 16:00–20:00",
+        "viernes": "9:00–13:30, 16:00–20:00",
+        "sábado": "10:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 16:00–20:00",
+        "martes": "9:00–13:30, 16:00–20:00"
+      },
+      "phone": "656 76 48 34",
+      "website": "https://nuevoestilo.net/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aseo adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético asistencial"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPuRQpL-rHfLldV-0RlB_59uINlN4Xq4DLjsuKOOPu_AI-nf9tsUfs_XYBB4oO9_erkmfVhGrkcTtN7hdbYyZDqkFThlrTieT_jBprejUgsGWUYcIo0vcV2FCmwPqsksCHDchM8YQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PjQK6XicHcTdboIwGADQJ6p0G8Zhsgt-ohIRkACKN43WQoVCoV8L2SPuEfY2S3Yuzu8P13qErWUJ_rFqpGwEM8AUlYNmg15R2VuNugMgCpbrz6PoU5OdxwipQx2JZ4lwJjyydkwYi9i-TnYQtWCOSZIa4oZoqB0NRQ3kWnmeLROHMNX1dcn3qqO5jjf8-ai-b8HU7XIuVP5iOWm9UbG2aGB_KSoaSjzT8n3n90s6QQf-IaD89Fmdv5Y3jDHi_1M0_AGk3UeN"
+    },
+    {
+      "position": 20,
+      "title": "CARPINTERIA GARCIA PATIÑO, S.L.",
+      "place_id": "ChIJI_it0GRIYA0RzEfkw-rTX3Q",
+      "data_id": "0xd604864d0adf823:0x745fd3eac3e447cc",
+      "data_cid": "8385654036449478604",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd604864d0adf823%3A0x745fd3eac3e447cc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd604864d0adf823%3A0x745fd3eac3e447cc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 39.474971499999995,
+        "longitude": -0.3303308
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJI_it0GRIYA0RzEfkw-rTX3Q",
+      "provider_id": "/g/1tlbkxn0",
+      "rating": 4,
+      "reviews": 8,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Tienda de armarios"
+      ],
+      "address": "C. de Tramoyeres, 86, Poblados Marítimos, 46011 València, Valencia",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 17:00–20:30",
+        "jueves": "9:00–13:30, 17:00–20:30",
+        "viernes": "9:00–13:30, 17:00–20:30",
+        "sábado": "10:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 17:00–20:30",
+        "martes": "9:00–13:30, 17:00–20:30"
+      },
+      "phone": "963 72 64 18",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tzhg-hesYnlOXyBn0eldGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=121.880844&pitch=7.7322755&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1TpfYnicHc3NDcIgGADQbbiVn9qmaEJMvHg0Jh70ZJB-AgkFAlisKzmR22hc4L3P25QS84aQXBJAmS3UaJ_gchMl1iFoBzLajFWYyMxIMY_p5qV12yh9sKM4vYxuDOSLd4fzsvMU3Lg_InW7KmfBF5FBJmWwrj8xhRHrJHNGVXCKjFi3aJFVsJZhzinvOhRtUUYMeFi17dD36B_ewywYpV89zDzL"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4039.4699%2C-0.3763%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}
