@@ -86,7 +86,7 @@ SERVICES = [
 
 # ── Zonas ────────────────────────────────────────────────────────────────────────
 ZONES = {
-    "pontevedra": {"name": "Pontevedra", "province": "Pontevedra", "phase": 1, "hub": True,
+    "pontevedra": {"name": "Pontevedra", "province": "Pontevedra", "phase": 1, "hub": False,  # la home hace de hub
                    "searches": 796, "gbp_listing": "probable primera ficha",
                    "areas": ["Casco histórico", "A Parda", "Monteporreiro", "Lérez", "Mourente", "Salcedo",
                              "Campañó", "Xeve", "Lourizán"],
@@ -101,6 +101,7 @@ ZONES = {
                  "areas": ["Portonovo", "Vilalonga", "Dorrón", "Nantes", "Adina"],
                  "nearby": ["Meaño", "Cambados", "O Grove", "Meis", "Ribadumia"]},
 }
+HOME_ZONE = "pontevedra"  # la home ataca esta zona: sustituye a su hub
 PHASE_2_ZONES = ["Caldas de Reis", "A Estrada", "Vilagarcía de Arousa", "Cambados", "Padrón", "Lalín", "Ames", "Teo"]
 PHASE_2_GUIDES = ["precio-cocina-a-medida", "precio-armario-empotrado-por-m2", "precio-vestidor-a-medida",
                   "cuanto-cuesta-un-porche-de-madera", "rehabilitar-o-sustituir-un-forjado-de-madera"]
@@ -133,11 +134,12 @@ def build_links() -> dict[str, list[str]]:
             same_zone = [service_area(o["slug"], z) for o in SERVICES if o["slug"] != s["slug"] and z in o["zones"]]
             other_zones = [service_area(s["slug"], o) for o in s["zones"] if o != z]
             links[service_area(s["slug"], z)] = ([pillar(s["slug"])] + other_zones + same_zone +
-                                                 ([hub(z)] if ZONES[z]["hub"] else []) + [PAGES["presupuesto"]])
+                                                 ([hub(z)] if ZONES[z]["hub"] else ["/"] if z == HOME_ZONE else []) +
+                                                 [PAGES["presupuesto"]])
     for z in hubs:
         links[hub(z)] = ([service_area(s["slug"], z) for s in SERVICES if z in s["zones"]] +
                          [pillar(s["slug"]) for s in SERVICES if z not in s["zones"]] +
-                         [hub(o) for o in hubs if o != z] + [PAGES["presupuesto"]])
+                         [hub(o) for o in hubs if o != z] + ["/", PAGES["presupuesto"]])
     links[PAGES["proyectos"]] = [pillar(s["slug"]) for s in SERVICES] + [PAGES["presupuesto"]]
     links[PAGES["sobre_nosotros"]] = [PAGES["proyectos"], PAGES["presupuesto"]]
     links[PAGES["presupuesto"]] = []

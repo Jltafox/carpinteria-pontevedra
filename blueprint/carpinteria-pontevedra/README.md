@@ -63,7 +63,7 @@ Este comando regenera los archivos y valida tres cosas:
   - Fábrica de puertas
   - Servicio de instalación de suelos de madera
 - **NAP:** idéntico en la ficha, en el pie de la web y en el schema.
-- **Sitio web de la ficha:** el hub de su zona (`/carpinteria/pontevedra/`) o la home.
+- **Sitio web de la ficha:** la home, que ataca Pontevedra y hace de hub de esa zona (no existe `/carpinteria/pontevedra/`).
 
 ## Rendimiento
 `lighthouse-budget.json` fija los umbrales "bueno" de Core Web Vitals: LCP ≤ 2,5 s, CLS ≤ 0,1, TBT ≤ 200 ms y JS ≤ 60 KB. Astro sin JavaScript en cliente los cumple de serie.

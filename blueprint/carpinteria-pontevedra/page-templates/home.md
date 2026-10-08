@@ -27,7 +27,7 @@
 5. **H2 · Trabajos realizados.** Seis proyectos reales y enlace a `/proyectos/`.
 6. **H2 · Opiniones.** Testimonios reales y enlace a las reseñas de Google.
 7. **H2 · Dónde trabajamos.**
-   - Enlaces a los hubs `/carpinteria/pontevedra/` y `/carpinteria/santiago-de-compostela/`.
+   - La home ataca Pontevedra y hace de hub de esa zona: enlaces a los servicios × Pontevedra (no hay `/carpinteria/pontevedra/`).
    - Lista en texto del resto de la cobertura: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín…
    - **No** listar municipios excluidos en el briefing (Poio, Marín, Ponte Caldelas, Redondela…).
 8. **H2 · Preguntas frecuentes** (4–6 generales). Si se marcan con FAQPage, no repetir las preguntas de los pilares.

@@ -39,7 +39,7 @@ BUSINESS_TEMPLATE = {
     "indexable": False,  # la web no se indexa ni rastrea hasta ponerlo a true a propósito
     "publicar_precios": False, "proyectos": [], "testimonios": [],
 }
-PAGE_LABELS = {"/": "Inicio", "/presupuesto/": "Pide presupuesto", "/proyectos/": "Trabajos realizados",
+PAGE_LABELS = {"/": f"Carpintería en {bp.ZONES[bp.HOME_ZONE]['name']}", "/presupuesto/": "Pide presupuesto", "/proyectos/": "Trabajos realizados",
                "/sobre-nosotros/": "Quiénes somos", "/aviso-legal/": "Aviso legal",
                "/politica-de-privacidad/": "Política de privacidad", "/cookies/": "Cookies"}
 BUSINESS_ID = "https://{{dominio}}/#negocio"
@@ -208,7 +208,8 @@ def build_pages() -> list[dict]:
                     {"kind": "links", "h2": "También trabajamos en",
                      "text": "Zonas cercanas: " + ", ".join(zone["nearby"]) + ".", "links": link_list(other_zones)},
                     {"kind": "links", "h2": f'Otros servicios en {zone["name"]}',
-                     "links": link_list(same_zone + ([bp.hub(z)] if zone["hub"] else []) + [bp.pillar(s["slug"])])},
+                     "links": link_list(same_zone + ([bp.hub(z)] if zone["hub"] else ["/"] if z == bp.HOME_ZONE else []) +
+                                        [bp.pillar(s["slug"])])},
                 ],
                 "jsonld": {"@context": "https://schema.org", "@graph": [
                     service_ld(s, url, f'{s["name"]} en {zone["name"]}', description, city(z)),
@@ -238,7 +239,7 @@ def build_pages() -> list[dict]:
                  "list_title": "Barrios y parroquias", "list": zone["areas"]},
                 {"kind": "projects", "h2": f'Trabajos en {zone["name"]}', "service": None},
                 {"kind": "links", "h2": "Zonas cercanas", "text": ", ".join(zone["nearby"]) + ".",
-                 "links": link_list([bp.hub(o) for o in hubs if o != z])},
+                 "links": link_list([bp.hub(o) for o in hubs if o != z] + ["/"])},
             ],
             "jsonld": {"@context": "https://schema.org", "@graph": [
                 {"@type": "CollectionPage", "@id": "https://{{dominio}}" + url + "#pagina",
