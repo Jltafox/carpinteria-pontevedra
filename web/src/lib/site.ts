@@ -46,5 +46,12 @@ export const telHref = () => (filled('telefono') ? `tel:${String(biz.telefono).r
 export const waHref = (text = 'Hola, quiero pedir presupuesto') =>
   filled('whatsapp') ? `https://wa.me/${String(biz.whatsapp).replace(/\D/g, '')}?text=${encodeURIComponent(text)}` : '/presupuesto/';
 
+/** URL del mapa de la ficha de Google: acepta la URL de inserción o el <iframe> completo copiado de Google Maps. */
+export function mapsEmbedSrc(): string {
+  const raw = String(biz.maps_embed_url || '').trim();
+  const src = raw.match(/src="([^"]+)"/)?.[1] ?? raw;
+  return /^https:\/\/(www\.)?google\.[a-z.]+\/maps\/embed/.test(src) ? src.replace(/&amp;/g, '&') : '';
+}
+
 export const slugify = (text: string) =>
   text.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');

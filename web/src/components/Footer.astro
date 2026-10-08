@@ -1,8 +1,14 @@
 ---
-import { biz, fill, hubs, phoneLabel, services, telHref } from '../lib/site';
+import { biz, fill, hubs, mapsEmbedSrc, phoneLabel, services, telHref } from '../lib/site';
 
-const hasMap = String(biz.lat ?? '').trim() !== '' && String(biz.lng ?? '').trim() !== '';
-const mapSrc = hasMap ? `https://maps.google.com/maps?q=${biz.lat},${biz.lng}&z=15&output=embed` : '';
+interface Props {
+  hideMap?: boolean; // la home ya tiene su bloque «Dónde estamos» con el mapa
+}
+const { hideMap = false } = Astro.props;
+const hasCoords = String(biz.lat ?? '').trim() !== '' && String(biz.lng ?? '').trim() !== '';
+// Prioridad: mapa de la ficha de Google; si no existe aún, mapa por coordenadas.
+const mapSrc = hideMap ? '' : mapsEmbedSrc() || (hasCoords ? `https://maps.google.com/maps?q=${biz.lat},${biz.lng}&z=15&output=embed` : '');
+const hasMap = Boolean(mapSrc);
 ---
 <footer class="site-footer">
   <div class="wrap footer-grid">
@@ -11,7 +17,7 @@ const mapSrc = hasMap ? `https://maps.google.com/maps?q=${biz.lat},${biz.lng}&z=
       <!-- NAP: debe coincidir exactamente con la ficha de Google -->
       <address>
         {fill('{{calle}}')}<br />
-        {fill('{{cp}}')} {fill('{{localidad}}')} ({fill('{{provincia}}')})<br />
+        {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
         <a href={telHref()}>{phoneLabel()}</a><br />
         <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
       </address>
