@@ -1,0 +1,4 @@
+# Cloudflare Pages: bloquea indexación y rastreo en todas las URLs (también imágenes, PDF, etc.).
+# Quitar este bloque cuando se quiera indexar la web (además de "indexable": true en business.json).
+/*
+  X-Robots-Tag: noindex, nofollow

@@ -36,6 +36,7 @@ BUSINESS_TEMPLATE = {
     "calle": "", "cp": "", "localidad": "", "provincia": "", "lat": "", "lng": "",
     "abre": "", "cierra": "", "horario_texto": "", "gbp_url": "", "logo_url": "", "imagen_url": "",
     "form_endpoint": "", "titular_legal": "", "nif": "", "domicilio_legal": "", "empresa_ejecutora": "",
+    "indexable": False,  # la web no se indexa ni rastrea hasta ponerlo a true a propósito
     "publicar_precios": False, "proyectos": [], "testimonios": [],
 }
 PAGE_LABELS = {"/": "Inicio", "/presupuesto/": "Pide presupuesto", "/proyectos/": "Trabajos realizados",
