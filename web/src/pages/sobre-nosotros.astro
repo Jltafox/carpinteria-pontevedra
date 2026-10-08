@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import CtaButtons from '../components/CtaButtons.astro';
+import Img from '../components/Img.astro';
 import { fill, pageByRoute } from '../lib/site';
 
 const page = pageByRoute('/sobre-nosotros/');
@@ -9,9 +10,13 @@ const page = pageByRoute('/sobre-nosotros/');
 <Base page={page}>
   <Breadcrumbs items={page.breadcrumbs} />
   <section class="hero">
-    <div class="wrap">
-      <h1>Quiénes somos</h1>
-      <p class="lead">{fill('{{marca}}')}: carpintería de madera a medida para viviendas entre Pontevedra y Santiago.</p>
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <p class="eyebrow">Quiénes somos</p>
+        <h1>Carpintería de madera con taller propio</h1>
+        <p class="lead">{fill('{{marca}}')}: carpintería de madera a medida para viviendas entre Pontevedra y Santiago.</p>
+      </div>
+      {page.hero_image && <Img image={page.hero_image} eager class="hero-img" />}
     </div>
   </section>
   <section class="block">

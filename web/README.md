@@ -18,6 +18,13 @@ Mientras un dato de `business.json` esté vacío, la web lo muestra como `{{vari
 
 Así no se puede indexar por error una web a medio rellenar.
 
+## Fotos
+Las 111 fotos ya tienen su URL definitiva. La lista completa, con ruta, uso, tamaño, alt propuesto y páginas donde aparece, está en [`IMAGENES.csv`](IMAGENES.csv).
+
+Basta con guardar cada foto en `web/public/img/...` con ese nombre, en WebP y al tamaño indicado, y la web la muestra sola. Mientras no exista, se ve un hueco rayado con la ruta y el tamaño.
+
+Al subir las fotos reales, sustituye el alt propuesto por uno que describa lo que se ve en cada una.
+
 ## Comandos
 Desde la raíz del proyecto, para regenerar las páginas tras editar el blueprint o los textos:
 

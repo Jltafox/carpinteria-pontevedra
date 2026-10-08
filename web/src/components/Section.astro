@@ -1,75 +1,49 @@
 ---
+import Img from './Img.astro';
 import { biz, fill, mapsEmbedSrc, phoneLabel, telHref } from '../lib/site';
 
 interface Props {
   section: any;
+  index: number;
 }
-const { section: s } = Astro.props;
+const { section: s, index } = Astro.props;
 const dev = import.meta.env.DEV;
-const projects = (biz.proyectos || []).filter((p: any) => !s.service || !p.servicio || p.servicio === s.service);
+const num = String(index).padStart(2, '0');
 const testimonials = biz.testimonios || [];
 const mapSrc = s.kind === 'nap' ? mapsEmbedSrc() : '';
+const dark = s.kind === 'process';
 ---
-{s.kind === 'nap' && (
-  <section class="block alt" id="donde-estamos">
-    <div class="wrap nap-grid">
-      <div>
-        <h2>{s.h2}</h2>
-        <!-- NAP: idéntico al de la ficha de Google, al pie y al schema -->
-        <address class="nap">
-          <strong>{fill('{{marca}}')}</strong><br />
-          {fill('{{calle}}')}<br />
-          {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
-          Tel.: <a href={telHref()}>{phoneLabel()}</a><br />
-          Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
-        </address>
-        <p class="muted">Horario: {biz.horario_texto || fill('{{abre}}–{{cierra}}, de lunes a viernes')}</p>
-        {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
-      </div>
-      {mapSrc ? (
-        <iframe class="gbp-map" title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} src={mapSrc} loading="lazy"
-          width="600" height="380" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
-      ) : dev && (
-        <p class="placeholder">Mapa de la ficha de Google: pega en <code>business.json → maps_embed_url</code> el código de «Compartir → Insertar un mapa» (sirve la URL o el &lt;iframe&gt; completo).</p>
-      )}
-    </div>
-  </section>
-)}
-{s.kind === 'text' && (
-  <section class="block">
-    <div class="wrap prose">
+<section class:list={['block', { dark }]} id={s.kind === 'nap' ? 'donde-estamos' : undefined}>
+  <div class="wrap">
+    <header class="block-head">
+      <span class="num">{num}</span>
       <h2>{fill(s.h2)}</h2>
-      {s.paragraphs.map((p: string) => <p>{fill(p)}</p>)}
-      {s.list?.length > 0 && (
-        <>
-          <h3>{s.list_title}</h3>
-          <ul class="tags">{s.list.map((item: string) => <li>{item}</li>)}</ul>
-        </>
-      )}
-    </div>
-  </section>
-)}
+    </header>
 
-{s.kind === 'items' && (
-  <section class="block">
-    <div class="wrap">
-      <h2>{fill(s.h2)}</h2>
-      <div class="grid">
+    {s.kind === 'text' && (
+      <div class="prose">
+        {s.paragraphs.map((p: string) => <p>{fill(p)}</p>)}
+        {s.list?.length > 0 && (
+          <p class="inline-list"><span>{s.list_title}:</span> {s.list.join(' · ')}</p>
+        )}
+      </div>
+    )}
+
+    {s.kind === 'items' && (
+      <div class:list={['items', { 'with-images': s.items.some((i: any) => i.image) }]}>
         {s.items.map((item: any) => (
-          <article class="card">
-            <h3>{fill(item.h3)}</h3>
-            <p>{fill(item.text)}</p>
+          <article class="item">
+            {item.image && <Img image={item.image} class="item-img" />}
+            <div>
+              <h3>{fill(item.h3)}</h3>
+              <p>{fill(item.text)}</p>
+            </div>
           </article>
         ))}
       </div>
-    </div>
-  </section>
-)}
+    )}
 
-{s.kind === 'process' && (
-  <section class="block alt">
-    <div class="wrap">
-      <h2>{s.h2}</h2>
+    {s.kind === 'process' && (
       <ol class="steps">
         {s.steps.map((step: any) => (
           <li>
@@ -78,109 +52,112 @@ const mapSrc = s.kind === 'nap' ? mapsEmbedSrc() : '';
           </li>
         ))}
       </ol>
-    </div>
-  </section>
-)}
+    )}
 
-{s.kind === 'price' && (
-  <section class="block">
-    <div class="wrap prose">
-      <h2>{s.h2}</h2>
-      <p>{s.text}</p>
-      <h3>Qué influye en el precio</h3>
-      <ul>{s.factors.map((f: string) => <li>{f}</li>)}</ul>
-      {biz.publicar_precios && s.ranges?.length > 0 && (
-        <table class="prices">
-          <caption>Precios orientativos</caption>
-          <tbody>
-            {s.ranges.map((r: any) => (
-              <tr>
-                <th scope="row">{r.label}</th>
-                <td>{r.value}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      )}
-    </div>
-  </section>
-)}
-
-{s.kind === 'cards' && (
-  <section class="block">
-    <div class="wrap">
-      <h2>{fill(s.h2)}</h2>
-      <div class="grid">
-        {s.cards.map((c: any) => (
-          <a class="card card-link" href={c.url}>
-            <h3>{c.title}</h3>
-            <p>{c.text}</p>
-          </a>
-        ))}
+    {s.kind === 'price' && (
+      <div class="prose">
+        <p>{s.text}</p>
+        <h3>Qué influye en el precio</h3>
+        <ul class="dash">{s.factors.map((f: string) => <li>{f}</li>)}</ul>
+        {biz.publicar_precios && s.ranges?.length > 0 && (
+          <table class="prices">
+            <caption>Precios orientativos</caption>
+            <tbody>
+              {s.ranges.map((r: any) => (
+                <tr><th scope="row">{r.label}</th><td>{r.value}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        )}
       </div>
-    </div>
-  </section>
-)}
+    )}
 
-{s.kind === 'links' && (
-  <section class="block">
-    <div class="wrap prose">
-      <h2>{fill(s.h2)}</h2>
-      {s.text && <p>{fill(s.text)}</p>}
-      {s.links?.length > 0 && (
-        <ul class="pills">{s.links.map((l: any) => <li><a href={l.url}>{l.label}</a></li>)}</ul>
-      )}
-    </div>
-  </section>
-)}
+    {s.kind === 'cards' && (
+      <ul class="rows">
+        {s.cards.map((c: any) => (
+          <li>
+            <a class="row" href={c.url}>
+              {c.image && <Img image={c.image} class="row-img" />}
+              <span class="row-text">
+                <span class="row-title">{c.title}</span>
+                <span class="row-desc">{c.text}</span>
+              </span>
+              <span class="row-arrow" aria-hidden="true">→</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
 
-{s.kind === 'projects' && (projects.length > 0 ? (
-  <section class="block">
-    <div class="wrap">
-      <h2>{s.h2}</h2>
-      <div class="grid">
-        {projects.map((p: any) => (
-          <figure class="card project">
-            {p.imagen && <img src={p.imagen} alt={p.alt || p.titulo} loading="lazy" width="640" height="480" />}
-            <figcaption><strong>{p.titulo}</strong>{p.municipio && ` · ${p.municipio}`}<br />{p.texto}</figcaption>
+    {s.kind === 'links' && (
+      <div class="prose">
+        {s.text && <p>{fill(s.text)}</p>}
+        {s.links?.length > 0 && (
+          <ul class="arrow-links">{s.links.map((l: any) => <li><a href={l.url}>{l.label}</a></li>)}</ul>
+        )}
+      </div>
+    )}
+
+    {s.kind === 'gallery' && (
+      <div class="gallery">
+        {s.images.map((img: any) => (
+          <figure>
+            <Img image={img} />
+            <figcaption>{img.alt}</figcaption>
           </figure>
         ))}
       </div>
-    </div>
-  </section>
-) : dev && (
-  <section class="block"><div class="wrap"><p class="placeholder">«{s.h2}»: añade proyectos reales en <code>business.json → proyectos</code> (titulo, texto, municipio, servicio, imagen, alt).</p></div></section>
-))}
+    )}
 
-{s.kind === 'testimonials' && (testimonials.length > 0 ? (
-  <section class="block alt">
-    <div class="wrap">
-      <h2>{s.h2}</h2>
-      <div class="grid">
+    {s.kind === 'testimonials' && (testimonials.length > 0 ? (
+      <div class="quotes">
         {testimonials.map((t: any) => (
-          <blockquote class="card">
+          <blockquote>
             <p>“{t.texto}”</p>
             <footer>{t.nombre}{t.municipio && ` · ${t.municipio}`}</footer>
           </blockquote>
         ))}
+        {biz.gbp_url && <p><a href={biz.gbp_url}>Ver todas las opiniones en Google</a></p>}
       </div>
-      {biz.gbp_url && <p><a href={biz.gbp_url}>Ver todas las opiniones en Google</a></p>}
-    </div>
-  </section>
-) : dev && (
-  <section class="block"><div class="wrap"><p class="placeholder">«{s.h2}»: añade testimonios reales y con permiso en <code>business.json → testimonios</code> (texto, nombre, municipio).</p></div></section>
-))}
+    ) : dev && (
+      <p class="placeholder">Añade testimonios reales y con permiso en <code>business.json → testimonios</code> (texto, nombre, municipio). Esta sección no se muestra hasta tenerlos.</p>
+    ))}
 
-{s.kind === 'faq' && (
-  <section class="block faq">
-    <div class="wrap prose">
-      <h2>{fill(s.h2)}</h2>
-      {s.faqs.map((f: any) => (
-        <details>
-          <summary>{fill(f.q)}</summary>
-          <p>{fill(f.a)}</p>
-        </details>
-      ))}
-    </div>
-  </section>
-)}
+    {s.kind === 'faq' && (
+      <div class="faq">
+        {s.faqs.map((f: any) => (
+          <details>
+            <summary>{fill(f.q)}</summary>
+            <p>{fill(f.a)}</p>
+          </details>
+        ))}
+      </div>
+    )}
+
+    {s.kind === 'nap' && (
+      <div class="nap-grid">
+        <div>
+          <!-- NAP: idéntico al de la ficha de Google, al pie y al schema -->
+          <address class="nap">
+            <strong>{fill('{{marca}}')}</strong><br />
+            {fill('{{calle}}')}<br />
+            {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
+            Tel.: <a href={telHref()}>{phoneLabel()}</a><br />
+            Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
+          </address>
+          <p class="muted">Horario: {biz.horario_texto || fill('{{abre}}–{{cierra}}, de lunes a viernes')}</p>
+          {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
+        </div>
+        {mapSrc ? (
+          <iframe class="gbp-map" title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} src={mapSrc} loading="lazy"
+            width="600" height="380" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+        ) : (
+          <div class="img-slot" style="aspect-ratio: 3 / 2" role="img" aria-label="Mapa pendiente">
+            <span class="img-slot-label">Mapa pendiente</span>
+            <small>Pega en <code>business.json → maps_embed_url</code> el código de «Compartir → Insertar un mapa» de la ficha.</small>
+          </div>
+        )}
+      </div>
+    )}
+  </div>
+</section>
