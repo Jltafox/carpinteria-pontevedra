@@ -6,10 +6,10 @@
    "route": "/",
    "type": "home",
    "params": {},
-   "title": "Carpintería de madera en Pontevedra y Santiago | {{marca}}",
-   "description": "Cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
-   "h1": "Carpintería de madera a medida en Pontevedra y Santiago",
-   "lead": "Cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo.",
+   "title": "Carpintería en Pontevedra · Madera a medida | {{marca}}",
+   "description": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
+   "h1": "Carpintería de madera a medida en Pontevedra",
+   "lead": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo, del centro de Pontevedra a sus parroquias.",
    "breadcrumbs": [],
    "cta": {},
    "sections": [
@@ -159,16 +159,28 @@
     },
     {
      "kind": "links",
-     "h2": "Dónde trabajamos",
-     "text": "Trabajamos en Pontevedra, en Santiago de Compostela y en los municipios entre ambas: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín, Silleda y muchos más.",
+     "h2": "Dónde trabajamos en Pontevedra",
+     "text": "Trabajamos en todo el municipio de Pontevedra: el centro y el casco histórico, barrios como A Parda o Monteporreiro y parroquias como Lérez, Mourente, Salcedo, Campañó, Xeve o Lourizán. También en municipios cercanos como Vilaboa, Cerdedo-Cotobade, Campo Lameiro, Moraña, Caldas de Reis o Meis, y hasta Santiago de Compostela.",
      "links": [
       {
-       "url": "/carpinteria/pontevedra/",
-       "label": "Carpintería en Pontevedra"
+       "url": "/cocinas-a-medida/pontevedra/",
+       "label": "Cocinas a medida en Pontevedra"
       },
       {
-       "url": "/carpinteria/santiago-de-compostela/",
-       "label": "Carpintería en Santiago de Compostela"
+       "url": "/armarios-a-medida/pontevedra/",
+       "label": "Armarios y vestidores a medida en Pontevedra"
+      },
+      {
+       "url": "/muebles-a-medida/pontevedra/",
+       "label": "Muebles a medida en Pontevedra"
+      },
+      {
+       "url": "/rehabilitacion-de-madera/pontevedra/",
+       "label": "Rehabilitación de madera en viviendas en Pontevedra"
+      },
+      {
+       "url": "/carpinteria-exterior/pontevedra/",
+       "label": "Carpintería exterior de madera en Pontevedra"
       }
      ]
     },
@@ -181,8 +193,8 @@
      "h2": "Preguntas frecuentes",
      "faqs": [
       {
-       "q": "¿En qué zonas trabajáis?",
-       "a": "En Pontevedra, Santiago de Compostela y los municipios entre ambas: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín o Silleda, entre otros. Si dudas, pregúntanos."
+       "q": "¿Trabajáis en todo Pontevedra?",
+       "a": "Sí: del centro y el casco histórico a barrios como A Parda o Monteporreiro y parroquias como Lérez, Mourente, Salcedo, Campañó, Xeve o Lourizán. También en municipios cercanos como Vilaboa, Caldas de Reis o Meis."
       },
       {
        "q": "¿Cuánto tardáis en dar presupuesto?",
@@ -222,7 +234,7 @@
       "image": "{{imagen_url}}",
       "logo": "{{logo_url}}",
       "priceRange": "€€",
-      "description": "Cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
+      "description": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
       "address": {
        "@type": "PostalAddress",
        "streetAddress": "{{calle}}",
@@ -327,10 +339,10 @@
       "mainEntity": [
        {
         "@type": "Question",
-        "name": "¿En qué zonas trabajáis?",
+        "name": "¿Trabajáis en todo Pontevedra?",
         "acceptedAnswer": {
          "@type": "Answer",
-         "text": "En Pontevedra, Santiago de Compostela y los municipios entre ambas: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín o Silleda, entre otros. Si dudas, pregúntanos."
+         "text": "Sí: del centro y el casco histórico a barrios como A Parda o Monteporreiro y parroquias como Lérez, Mourente, Salcedo, Campañó, Xeve o Lourizán. También en municipios cercanos como Vilaboa, Caldas de Reis o Meis."
         }
        },
        {
