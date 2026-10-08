@@ -1,0 +1,551 @@
+{
+  "search_metadata": {
+    "id": "6ac674c47a3b052df65fcc10",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hzIAY8KNRTjO3PU6V3tZ0QrowDCrIPbHt6dYKukDXTE/6ac674c47a3b052df65fcc10.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hzIAY8KNRTjO3PU6V3tZ0QrowDCrIPbHt6dYKukDXTE/6ac674c47a3b052df65fcc10.md",
+    "created_at": "2026-10-07 16:35:16 UTC",
+    "processed_at": "2026-10-07 16:35:16 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f701bffffffeb:0xe74160300cd1e142!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/hzIAY8KNRTjO3PU6V3tZ0QrowDCrIPbHt6dYKukDXTE/6ac674c47a3b052df65fcc10.html",
+    "prettify_html_file": "https://serpapi.com/searches/hzIAY8KNRTjO3PU6V3tZ0QrowDCrIPbHt6dYKukDXTE/6ac674c47a3b052df65fcc10.prettify",
+    "total_time_taken": 0.39
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f701bffffffeb:0xe74160300cd1e142",
+    "hl": "es",
+    "next_page_token": "CjEIARIpCgoAP72GOAg288__EhDfads7jF5BZ_JIJD0AAAAAGgn92XMCY4CDbzwYACIA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OblNGbFRUemhJVVdGU1lrTlRhM0F5V2pjeFNtYxAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOmNnSFlTTzhIUWFSYkNTa3AyWjcxSmc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 8 meses",
+      "iso_date": "2026-02-02T11:38:47Z",
+      "iso_date_of_last_edit": "2026-02-02T11:38:47Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OblNGbFRUemhJVVdGU1lrTlRhM0F5V2pjeFNtYxAB",
+      "user": {
+        "name": "Lucia Maneiro",
+        "link": "https://www.google.com/maps/contrib/105266937062425406085?hl=es",
+        "contributor_id": "105266937062425406085",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUwLIJ08fkwa8yUjnftXHUiLEkOHrpf8gMRGgqejL2tGUW49OyV9w=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Encargamos varios trabajos de carpintería a Carpimoble y quedamos muy satisfechos. Desde el primer contacto fueron profesionales y claros con las opciones y el presupuesto. La fabricación/instalación quedó perfecta, con materiales de calidad y un nivel de detalle excelente. Buen asesoramiento, trabajo fino y acabados de calidad. Cumplieron con los plazos y dejaron todo bien rematado. Recomendables al 100%. Sin duda volveríamos a contar con ellos 😊",
+      "extracted_snippet": {
+        "original": "Encargamos varios trabajos de carpintería a Carpimoble y quedamos muy satisfechos. Desde el primer contacto fueron profesionales y claros con las opciones y el presupuesto. La fabricación/instalación quedó perfecta, con materiales de calidad y un nivel de detalle excelente. Buen asesoramiento, trabajo fino y acabados de calidad. Cumplieron con los plazos y dejaron todo bien rematado. Recomendables al 100%. Sin duda volveríamos a contar con ellos 😊"
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsTmRqSk9VMGxZTUc5NWEyWjRjM1pMTlc1RU5VRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOklNdjJOU0lYMG95a2Z4c3ZLNW5ENUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-13T00:17:59Z",
+      "iso_date_of_last_edit": "2025-12-13T00:17:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTmRqSk9VMGxZTUc5NWEyWjRjM1pMTlc1RU5VRRAB",
+      "user": {
+        "name": "Beatriz Rodríguez Covela (Bea Covela)",
+        "link": "https://www.google.com/maps/contrib/116240993023822793271?hl=es",
+        "contributor_id": "116240993023822793271",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUSLkWyP5DiXMn4isudjQYP6xjS-Nc5zskxyiyCx4lyeG6pdorE=s120-c-rp-mo-ba12-br100",
+        "reviews": 46,
+        "photos": 84
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SRVdFbEVXVFZpYVhoMFRXZElOek5VTm14TlNrRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOnREWElEWTViaXh0TWdINzNUNmxNSkE%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace 10 meses",
+      "iso_date": "2025-11-21T09:42:24Z",
+      "iso_date_of_last_edit": "2025-11-21T09:50:05Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRVdFbEVXVFZpYVhoMFRXZElOek5VTm14TlNrRRAB",
+      "user": {
+        "name": "Sofia",
+        "link": "https://www.google.com/maps/contrib/107406341390233140386?hl=es",
+        "contributor_id": "107406341390233140386",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVBdImbGrdUHhBK5Ed-KgDfbIIeTulaKpdIPGC18n3A-lnfVGc=s120-c-rp-mo-ba12-br100",
+        "reviews": 36,
+        "photos": 0
+      },
+      "snippet": "Mala experiencia.\nChulería y prepotencia sin venir a cuento desde el principio.Parece que te hacen un favor enorme ,cuando debería ser todo lo contrario.\nA buen seguro les sobra el trabajo\nEn nuestra opinión precios desorbitados",
+      "extracted_snippet": {
+        "original": "Mala experiencia.\nChulería y prepotencia sin venir a cuento desde el principio.Parece que te hacen un favor enorme ,cuando debería ser todo lo contrario.\nA buen seguro les sobra el trabajo\nEn nuestra opinión precios desorbitados"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taeGJISXlXWE5OUWtoNmJVWkpTRUp6YWpoeVNFRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOkZxbHIyWXNNQkh6bUZJSEJzajhySEE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-10-05T09:24:52Z",
+      "iso_date_of_last_edit": "2025-10-05T09:39:00Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMonfY-fgStCrtfkQJb1KP_ep-rljMcz_x9EahzSfckmI_UUjHjtWV-1PX6r9yb2RW3bZj4VJ99E35BaGxSXS16l9GYPjduPHBBcaTexukoZmwQH3nkzpWVOzsiR3uRphO1fNvS8pfow7tK=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOb3e4UdypaH2BDQ5-9aMDIUat9FFpLhLFzt_sryE15gleScKCK_LvKT3vZBFGC4boQdOfjMzfX2Q_DMTvrXMBztWKKzb1tI0yHZAhEFCTQxNTTqBPalHgmgpZINpw8Ud6nYD7ciP39FIp0=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPdAi445Oxf37nUPu6w6B9iTXtYfXqld6j6jathYtc3u5m4OnlMau7bbr7GxOJ_6-Mb9_j-Cuk7QO08_dZ8jcf3xugiXsYXdGY7oVt2PY7IzI3b7S65lh8EWpbV5fvT59jTQLUqLTdUSoKm=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOgFNcgvBpahRq26pqKlLKiusP-tk86EM8gaAFROKNVZhxexp9IGac51soxkI57CK19rjCwLXdc8K4TNnMMUi8JLTypCty4xZ2hd5000yh2dOqsXNMUDyNbq6sgAjRsFbjqZEJlllv18rzO=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeGJISXlXWE5OUWtoNmJVWkpTRUp6YWpoeVNFRRAB",
+      "user": {
+        "name": "Ruth Pazos",
+        "link": "https://www.google.com/maps/contrib/114352690497899081140?hl=es",
+        "contributor_id": "114352690497899081140",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK9uU4gcmTzCidIE2gI5Y-6puRRUALdL2RWeFP33F7_QwrFlw=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 5
+      },
+      "snippet": "Mi proyecto con ellos fué un precioso vestidor que les quedó impresionante .\nAdemás de la profesionalidad y buen trabajo me gustaría destacar que su encargado Pedro está atento en todo momento de absolutamente todos los detalles y dudas que puedan surgir por el camino .\nNi me enteré que estaban trabajando en mi casa ,son organizados ,limpios y muy buenos trabajando.\nEl resultado del vestidor fue exactamente lo que habíamos pactado y estoy muy agradecida por el asesoramiento desde el minuto uno .\nPara poder poner un solo pero me lo tendría que inventar .\nLos recomiendo al 100% si lo que se busca es un resultado totalmente profesional de personas que son totalmente respetuosas con aquello que hacen y además lo hacen muy muy bien .",
+      "extracted_snippet": {
+        "original": "Mi proyecto con ellos fué un precioso vestidor que les quedó impresionante .\nAdemás de la profesionalidad y buen trabajo me gustaría destacar que su encargado Pedro está atento en todo momento de absolutamente todos los detalles y dudas que puedan surgir por el camino .\nNi me enteré que estaban trabajando en mi casa ,son organizados ,limpios y muy buenos trabajando.\nEl resultado del vestidor fue exactamente lo que habíamos pactado y estoy muy agradecida por el asesoramiento desde el minuto uno .\nPara poder poner un solo pero me lo tendría que inventar .\nLos recomiendo al 100% si lo que se busca es un resultado totalmente profesional de personas que son totalmente respetuosas con aquello que hacen y además lo hacen muy muy bien ."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKbFFVcDZlVU01VURnNVlsRlNjekZ5UTBjemFWRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOlJlQUp6eUM5UDg5YlFSczFyQ0czaVE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-07-14T07:29:15Z",
+      "iso_date_of_last_edit": "2025-07-14T07:29:15Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbFFVcDZlVU01VURnNVlsRlNjekZ5UTBjemFWRRAB",
+      "user": {
+        "name": "mauro orsini",
+        "link": "https://www.google.com/maps/contrib/110307793736067127712?hl=es",
+        "contributor_id": "110307793736067127712",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIZWqYmJ6lcHXNv6RYtS2L8F9rVhR24OcdmBcUzFuGt9gxGNA=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Muy satisfechos tanto en la parte profesional como en la personal. La aptitud de todos ellos es estupenda y profesional",
+      "extracted_snippet": {
+        "original": "Muy satisfechos tanto en la parte profesional como en la personal. La aptitud de todos ellos es estupenda y profesional"
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURvaXBYSm5BRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMDoipXJnAE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Fecha de edición: Hace un año",
+      "iso_date": "2025-04-23T16:22:42Z",
+      "iso_date_of_last_edit": "2025-05-15T15:59:09Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaXBYSm5BRRAB",
+      "user": {
+        "name": "Chus Crugeiras",
+        "link": "https://www.google.com/maps/contrib/108137599372105296976?hl=es",
+        "contributor_id": "108137599372105296976",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWxMCd--0yvoycBu9ISNgJsQ8OuAA3KVNFW1emckGt6vsXitipv=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Profesionalidade e eficacia, amabilidade e boa xestión. Agradecer o trato recibido por parte de Pedro.",
+      "extracted_snippet": {
+        "original": "Profesionalidade e eficacia, amabilidade e boa xestión. Agradecer o trato recibido por parte de Pedro.",
+        "translated": "Profesionalismo y eficiencia, amabilidad y buena gestión. Gracias por el trato recibido por parte de Pedro."
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNveExPbFpREAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMCoxLOlZQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-04-15T07:23:57Z",
+      "iso_date_of_last_edit": "2025-04-15T07:24:36Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNlZ1KTH6d8hk9gmtaTp5viEoLJUU9H6cS7YXHPRBrzo0ba2ivbDe4nz8K9DgxIIr42-E96tiweKOa8dvt__ageNpEk1LoZl63KGfk9tsscAba1zZDUPyV6bA9etzsxPFQGw2WJ=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNGbdFtaO20C4mS4DqMR3lQMftZKz7RZOeXJrJ7SimSs4N4FK1WCsA2f8nWGAuOGvEIYoI0LhaFNYjdDU8Gowua-33Op000odBKfjU2EgLl0Tzmv9sX6zKAikcEqqh7Um8OW9YEdQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveExPbFpREAE",
+      "user": {
+        "name": "Andrea García",
+        "link": "https://www.google.com/maps/contrib/114130170031698734882?hl=es",
+        "contributor_id": "114130170031698734882",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKsBFOqiz_z4-70IRPgO8EmnHNpo_4zXDqQ_ziOY3pEJWI3Yw=s120-c-rp-mo-br100",
+        "reviews": 7,
+        "photos": 10
+      },
+      "snippet": "Encargamos un armario a medida para el dormitorio. Nos asesoraron para sacarle el mayor partido. Se ciñeron a los tiempos.   Montaron un gran armario en una mañana. El resultado ha sido mejor del esperado. Descarriamos la buena atención, trato, amabilidad y la confianza generan. Desde luego les recomendaríamos y volveremos a contactar para nuevo mobiliario.",
+      "extracted_snippet": {
+        "original": "Encargamos un armario a medida para el dormitorio. Nos asesoraron para sacarle el mayor partido. Se ciñeron a los tiempos.   Montaron un gran armario en una mañana. El resultado ha sido mejor del esperado. Descarriamos la buena atención, trato, amabilidad y la confianza generan. Desde luego les recomendaríamos y volveremos a contactar para nuevo mobiliario."
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNJOXFiOHJnRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMCI9qb8rgE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-04-01T20:46:16Z",
+      "iso_date_of_last_edit": "2025-04-01T20:46:16Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOXFiOHJnRRAB",
+      "user": {
+        "name": "Roi Salgado",
+        "link": "https://www.google.com/maps/contrib/100411753869006656121?hl=es",
+        "contributor_id": "100411753869006656121",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXamTMTgGtPioEhxqlR_7FjcPzk-WSDuDunFC5DtUAIg4_7oTX0Qw=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "snippet": "Un placer diseñar conjuntamente con ellos los muebles para nuestra reforma. Da gusto encontrarse gente como Pedro.\nGracias, contaré con vosotros en el futuro.",
+      "extracted_snippet": {
+        "original": "Un placer diseñar conjuntamente con ellos los muebles para nuestra reforma. Da gusto encontrarse gente como Pedro.\nGracias, contaré con vosotros en el futuro."
+      },
+      "likes": 0
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3LTV6dWRnEAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMDw-5zudg%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-03-28T14:34:04Z",
+      "iso_date_of_last_edit": "2025-03-28T14:34:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMNB9Rbf48-RR3W9OuGA3d2d5C71X2Ce8Ia2wSMu8CdnUysUy4LARJQMgL9MlgQRhkFIlJX_jGVeACjztVLyZT5R5my7x-CupDiPUQuvL_t_gj7RGZGYiswNYPbQJa7PbNi5KcB=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMUYZmre1X_l3eOB86cuYgjZC_l9sWBTSjzBxZYkaFDwDeMx8NtzaD_xbixHJTcQxMxutDEpuprY28B-WB5TWbSeY1Dtba4daT8jpe0Tn8Q2lbnyaDtHK_qrVjQ-G8H4oyq7hM=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3LTV6dWRnEAE",
+      "user": {
+        "name": "Sabela Córdoba",
+        "link": "https://www.google.com/maps/contrib/117965082003237016108?hl=es",
+        "contributor_id": "117965082003237016108",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLQpqKDRBTmVD3uSEs-uKJiYDOt1pMG-6Sqvg8B-U6qFhHZcA=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 5
+      },
+      "snippet": "Unos armarios a tu medida con buena relación calidad-precio.\nEn el montaje muy cuidadosos y rápidos.",
+      "extracted_snippet": {
+        "original": "Unos armarios a tu medida con buena relación calidad-precio.\nEn el montaje muy cuidadosos y rápidos."
+      },
+      "likes": 0
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3MjltQVBnEAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMDw29mAPg%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-03-28T12:54:45Z",
+      "iso_date_of_last_edit": "2025-03-28T12:54:45Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MjltQVBnEAE",
+      "user": {
+        "name": "David Carmuega",
+        "link": "https://www.google.com/maps/contrib/111406333379803667926?hl=es",
+        "contributor_id": "111406333379803667926",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ_L-Lg_O7LwTweO0OVjh8FugHCnb1vN40h_BYJhDNBr928=s120-c-rp-mo-ba12-br100",
+        "reviews": 33,
+        "photos": 0
+      },
+      "snippet": "5 estrellas bien dadas. Son unos crack, todo lo que les pedí lo hicieron a la perfección,  sin fallos, sin defectos. Cuidan el más minimo detalle y te Dan soluciones a todos los espacios. Amables y profesionales,  ya quedan pocas empresas que trabajen tan serios, profesionales y que cumplen con lo que se les encarga.",
+      "extracted_snippet": {
+        "original": "5 estrellas bien dadas. Son unos crack, todo lo que les pedí lo hicieron a la perfección,  sin fallos, sin defectos. Cuidan el más minimo detalle y te Dan soluciones a todos los espacios. Amables y profesionales,  ya quedan pocas empresas que trabajen tan serios, profesionales y que cumplen con lo que se les encarga."
+      },
+      "likes": 0
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURRbTdTS1FREAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMDQm7SKQQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-03-14T12:47:45Z",
+      "iso_date_of_last_edit": "2025-03-14T12:47:45Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbTdTS1FREAE",
+      "user": {
+        "name": "Jaime de Vigo",
+        "link": "https://www.google.com/maps/contrib/104249659723418179077?hl=es",
+        "contributor_id": "104249659723418179077",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK2XaU6NOJYEQg6Lgqt1Z0Sruspts568Gb0oAKfY9Q1UPYOdw=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURRbFozcmtBRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMDQlZ3rkAE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-03-12T16:46:49Z",
+      "iso_date_of_last_edit": "2025-03-12T16:46:49Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbFozcmtBRRAB",
+      "user": {
+        "name": "E CCh",
+        "link": "https://www.google.com/maps/contrib/108423542997213797758?hl=es",
+        "contributor_id": "108423542997213797758",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocImZNmSdHLYRIVPEtidEkdH_1EbOEy4oBLxEjFlv_PQE02iqA=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 3
+      },
+      "snippet": "Demostraron gran profesionalidade cumplindo todo o acordado, data de entrega, calidade e bo prezo nos traballos que nos realizaron (acondicionamento dun armario empotrado e un armario de baño). Quedamos moi contentos.",
+      "extracted_snippet": {
+        "original": "Demostraron gran profesionalidade cumplindo todo o acordado, data de entrega, calidade e bo prezo nos traballos que nos realizaron (acondicionamento dun armario empotrado e un armario de baño). Quedamos moi contentos.",
+        "translated": "Demostraron gran profesionalidad al cumplir con todo lo acordado: fecha de entrega, calidad y buen precio en el trabajo que realizaron para nosotros (instalación de un armario empotrado y un mueble de baño). Quedamos muy satisfechos."
+      },
+      "likes": 0
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNneTV6ck13EAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMCgy5zrMw%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-02-20T20:30:42Z",
+      "iso_date_of_last_edit": "2025-02-20T20:30:42Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneTV6ck13EAE",
+      "user": {
+        "name": "Mariluz Lorenzo",
+        "link": "https://www.google.com/maps/contrib/101808412958605732834?hl=es",
+        "contributor_id": "101808412958605732834",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJi_j-pqx_44JVGQHbAHj-yDAzH7fPQRyxUaKIvVvL8XH3eng=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Encantada con Carpimoble. Un trabajo fantastico. Relación calidad precio perfecta. Entendieron perfectamente lo que quería y lo ejecutaron perfecto . Desde ahora mi carpintería de referencia. Muchas gracias por vuestro trabajo , vuestras ideas y vuestra paciencia",
+      "extracted_snippet": {
+        "original": "Encantada con Carpimoble. Un trabajo fantastico. Relación calidad precio perfecta. Entendieron perfectamente lo que quería y lo ejecutaron perfecto . Desde ahora mi carpintería de referencia. Muchas gracias por vuestro trabajo , vuestras ideas y vuestra paciencia"
+      },
+      "likes": 0
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNnZzRyVzJBRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgMCgg4rW2AE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-02-20T07:36:17Z",
+      "iso_date_of_last_edit": "2025-02-20T07:36:17Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnZzRyVzJBRRAB",
+      "user": {
+        "name": "Juan Mateo",
+        "link": "https://www.google.com/maps/contrib/101190012381545229961?hl=es",
+        "contributor_id": "101190012381545229961",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLhSVkBfaQtGiWLM5TYPzne0ReIVb4jBxqiwoNIV9xzko9yxg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Un trabajo muy bien acabado. Se trata de una empresa que no conocía pero que, por lo que he comprobado, cuenta con muy buenos profesionales y, sobre todo, formales y detallistas. Muy buena comunicación con ellos, han respetado los tiempos y mantenido su compromiso.\n¡Muy recomendables!",
+      "extracted_snippet": {
+        "original": "Un trabajo muy bien acabado. Se trata de una empresa que no conocía pero que, por lo que he comprobado, cuenta con muy buenos profesionales y, sobre todo, formales y detallistas. Muy buena comunicación con ellos, han respetado los tiempos y mantenido su compromiso.\n¡Muy recomendables!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYMHRUanlBRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgICX0tTjyAE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2024-10-14T20:15:55Z",
+      "iso_date_of_last_edit": "2024-10-14T20:15:55Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMHRUanlBRRAB",
+      "user": {
+        "name": "Julio Martinez",
+        "link": "https://www.google.com/maps/contrib/106277616750546770679?hl=es",
+        "contributor_id": "106277616750546770679",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWjTIZHKsJA7EcYjzneJ6mKRQmHJXYRp-r5xzW6M2jxLB2oWXI=s120-c-rp-mo-ba12-br100",
+        "reviews": 113,
+        "photos": 188
+      },
+      "snippet": "Muy grata experiencia con ellos.\nDesde la fase de diseño, en la cual nos asesoraron mejorando así nuestras ideas, hasta la ejecución, en la la cual fueron descubriendo pequeñas mejoras a lo inicialmente planteado, sin modificar el presupuesto. Cuidaron hasta el más mínimo detalle, incluso una vez finalizado el trabajo, con pequeños retoques de cosas que a nosotros nos pasaban desapercibidas.\nUn gran descubrimiento, quedamos muy contentos con ellos y con el trabajo realizado.",
+      "extracted_snippet": {
+        "original": "Muy grata experiencia con ellos.\nDesde la fase de diseño, en la cual nos asesoraron mejorando así nuestras ideas, hasta la ejecución, en la la cual fueron descubriendo pequeñas mejoras a lo inicialmente planteado, sin modificar el presupuesto. Cuidaron hasta el más mínimo detalle, incluso una vez finalizado el trabajo, con pequeños retoques de cosas que a nosotros nos pasaban desapercibidas.\nUn gran descubrimiento, quedamos muy contentos con ellos y con el trabajo realizado."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace un año",
+        "iso_date": "2024-10-16T11:54:58Z",
+        "iso_date_of_last_edit": "2024-10-16T11:54:58Z",
+        "snippet": "¡Muchas gracias por tu reseña! Nos alegra que hayas tenido una experiencia tan positiva y que quedaras contento con el resultado. Siempre nos esforzamos por cuidar cada detalle y mejorar cada proyecto sin afectar el presupuesto. ¡Estamos a tu disposición para lo que necesites en el futuro!",
+        "extracted_snippet": {
+          "original": "¡Muchas gracias por tu reseña! Nos alegra que hayas tenido una experiencia tan positiva y que quedaras contento con el resultado. Siempre nos esforzamos por cuidar cada detalle y mejorar cada proyecto sin afectar el presupuesto. ¡Estamos a tu disposición para lo que necesites en el futuro!"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiLWZPQzd3RRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgIDb-fOC7wE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-08-07T09:06:04Z",
+      "iso_date_of_last_edit": "2024-08-07T09:06:04Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOb1_1bg9LOUZAVN-YnWbktOxthDBfFnTPnWETHRHMoGWZkvchsnW2DzdixqR2Lx-wc4XMpsGiI60XjJTofxgG7MoHzd2oO0sE53lp9gTedRjXxQUZfE6jTD-SnopQOLZE28m2k=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNC0jBN_BJZLnpFFPn7P7AW6Vw0MNCrSLR8s-SBzKFLiHmEilxt3eTO3T_GNKK4bKmx8iSAPkhbmtpiMNaYBrhWmosk0ccN4Miip0X0lKRHdkDcExHpUBdhSoGfHbEHfjvKAGT0Jg=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMJWwKSsgb-vu1-Q56nOnq3ctts0CNkGVlY6W9tx6UQk55nQjkiUQ1_gSPGTBbedL3jUvEucuEWALQAOTkiU-SFEyvx-LqzqXRa7m6jwli9v0uTJCWHD-EYoOPcEdY3CwF1N_VQ=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiLWZPQzd3RRAB",
+      "user": {
+        "name": "Fernando Bañera Calev",
+        "link": "https://www.google.com/maps/contrib/101129344618384929223?hl=es",
+        "contributor_id": "101129344618384929223",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKQgVQfVu4vsASpAYVD6BEtMXlHQ0Stpvg7CBp9I15ZSjKGYg=s120-c-rp-mo-br100",
+        "reviews": 1,
+        "photos": 3
+      },
+      "snippet": "Impecable el asesoramiento de Pedro y la dedicación en el trabajo de Jaime.\n\nSe nota claramente que se enfocan en el buen resultado y en la satisfacción del cliente.\n\nFueron tres armarios hechos a medida. Descarga del material, armado de los módulos, puertas, guarniciones, sellado y detalles. Además es un trabajo duro.\n\nTodo perfectamente enrasado y escuadrado. Jaime hizo un gran trabajo en el ajuste de las cinco bisagras de cada puerta. Una prolijidad que ha requerido de una mano profesional.\n\nEl material parece ser de primera y las partes móviles dejan buena sensación al tacto.\n\nRecomendable 100%.\n\nYa estamos pensando en volver a Carpimoble para el escritorio y la biblioteca de las niñas.",
+      "extracted_snippet": {
+        "original": "Impecable el asesoramiento de Pedro y la dedicación en el trabajo de Jaime.\n\nSe nota claramente que se enfocan en el buen resultado y en la satisfacción del cliente.\n\nFueron tres armarios hechos a medida. Descarga del material, armado de los módulos, puertas, guarniciones, sellado y detalles. Además es un trabajo duro.\n\nTodo perfectamente enrasado y escuadrado. Jaime hizo un gran trabajo en el ajuste de las cinco bisagras de cada puerta. Una prolijidad que ha requerido de una mano profesional.\n\nEl material parece ser de primera y las partes móviles dejan buena sensación al tacto.\n\nRecomendable 100%.\n\nYa estamos pensando en volver a Carpimoble para el escritorio y la biblioteca de las niñas."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 2 años",
+        "iso_date": "2024-08-08T12:36:25Z",
+        "iso_date_of_last_edit": "2024-08-08T12:36:25Z",
+        "snippet": "¡Hola Jaime! Muchas gracias por tomarte el tiempo en escribir una reseña tan positiva y completa. En Carpimoble nos enorgullece saber que nuestro trabajo de carpintería ha cumplido con todas sus expectativas. Nuestro equipo está comprometido con ofrecerle el mejor servicio a nuestros clientes, personalizadolo para adaptarse a todas sus necesidades . Te esperamos con ansias de recibir cualquier proyecto que quieras dejar en nuestras manos. ¡Hasta pronto!",
+        "extracted_snippet": {
+          "original": "¡Hola Jaime! Muchas gracias por tomarte el tiempo en escribir una reseña tan positiva y completa. En Carpimoble nos enorgullece saber que nuestro trabajo de carpintería ha cumplido con todas sus expectativas. Nuestro equipo está comprometido con ofrecerle el mejor servicio a nuestros clientes, personalizadolo para adaptarse a todas sus necesidades . Te esperamos con ansias de recibir cualquier proyecto que quieras dejar en nuestras manos. ¡Hasta pronto!"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMOXJQcWlnRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgIDL9rPqigE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-06-27T17:21:59Z",
+      "iso_date_of_last_edit": "2024-06-27T17:21:59Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMOXJQcWlnRRAB",
+      "user": {
+        "name": "Jaime Iglesias Moreiras",
+        "link": "https://www.google.com/maps/contrib/115223721067945835888?hl=es",
+        "contributor_id": "115223721067945835888",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKNoe5SkFaM4QTVhDxvm9j7nyiU2YeM4xUWVPu7mSsHjAohpQ=s120-c-rp-mo-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "snippet": "Son muy profesionales y serios. Sin duda merece la pena contratarlos, trabajan de forma meticulosa. Muy buena experiencia y gran trato, muy contentos con Pedro y Jaime.",
+      "extracted_snippet": {
+        "original": "Son muy profesionales y serios. Sin duda merece la pena contratarlos, trabajan de forma meticulosa. Muy buena experiencia y gran trato, muy contentos con Pedro y Jaime."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 2 años",
+        "iso_date": "2024-07-02T11:38:55Z",
+        "iso_date_of_last_edit": "2024-07-02T11:38:55Z",
+        "snippet": "Muchas gracias Jaime tanto por tu confianza en nuestro equipo como por tus comentarios sobre nuestro trabajo. Esperamos que continúes eligiéndonos para tus futuros proyectos de carpintería. ¡Un saludo!",
+        "extracted_snippet": {
+          "original": "Muchas gracias Jaime tanto por tu confianza en nuestro equipo como por tus comentarios sobre nuestro trabajo. Esperamos que continúes eligiéndonos para tus futuros proyectos de carpintería. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUZ19DZ2hnRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgICTg_CghgE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-05-18T10:13:07Z",
+      "iso_date_of_last_edit": "2024-05-18T10:13:07Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUZ19DZ2hnRRAB",
+      "user": {
+        "name": "Lolo de los Bolos",
+        "link": "https://www.google.com/maps/contrib/111724788429560796863?hl=es",
+        "contributor_id": "111724788429560796863",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIdpUmEu2UyUMIuNh-rWEvBh6ruwBJFiFSMaC_MG1ssXbzPhg=s120-c-rp-mo-ba12-br100",
+        "reviews": 19,
+        "photos": 0
+      },
+      "snippet": "Nos instalaron las puertas en casa y muy contentos con el trabajo y el trato.",
+      "extracted_snippet": {
+        "original": "Nos instalaron las puertas en casa y muy contentos con el trabajo y el trato."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 2 años",
+        "iso_date": "2024-05-21T15:31:35Z",
+        "iso_date_of_last_edit": "2024-05-21T15:31:35Z",
+        "snippet": "Nos alegra mucho que hayas quedado satisfecho con nuestro trabajo, quedamos a tu disposición cuando lo necesites Lolo. ¡Hasta la próxima!",
+        "extracted_snippet": {
+          "original": "Nos alegra mucho que hayas quedado satisfecho con nuestro trabajo, quedamos a tu disposición cuando lo necesites Lolo. ¡Hasta la próxima!"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUMXJ6dWZREAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgICT1rzufQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-05-14T12:17:24Z",
+      "iso_date_of_last_edit": "2024-05-14T22:04:12Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUMXJ6dWZREAE",
+      "user": {
+        "name": "Basilio",
+        "link": "https://www.google.com/maps/contrib/116443029342804153770?hl=es",
+        "contributor_id": "116443029342804153770",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLIUzKu1GrQTB3IfvesMFfjsbIAIleRRQ4TL9iPXIz2j1q83g=s120-c-rp-mo-ba12-br100",
+        "reviews": 19,
+        "photos": 17
+      },
+      "snippet": "Todo correcto. Muy profesionales y amables. Recomendable 100%",
+      "extracted_snippet": {
+        "original": "Todo correcto. Muy profesionales y amables. Recomendable 100%"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 2 años",
+        "iso_date": "2024-05-15T06:35:26Z",
+        "iso_date_of_last_edit": "2024-05-15T06:35:26Z",
+        "snippet": "Millones de gracias por tu recomendación Alberto. Para nosotros es muy importante la satisfacción de nuestros clientes, por eso nos alegra leer tu reseñas. ¡Esperamos volver a verte!",
+        "extracted_snippet": {
+          "original": "Millones de gracias por tu recomendación Alberto. Para nosotros es muy importante la satisfacción de nuestros clientes, por eso nos alegra leer tu reseñas. ¡Esperamos volver a verte!"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqdnBLNUJnEAE!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CIHM0ogKEICAgICjvpK5Bg%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-04-22T05:53:27Z",
+      "iso_date_of_last_edit": "2024-04-22T05:53:27Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdnBLNUJnEAE",
+      "user": {
+        "name": "Maria Perez",
+        "link": "https://www.google.com/maps/contrib/100469588336385676717?hl=es",
+        "contributor_id": "100469588336385676717",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI-76a31Tt8pTTwyNL4pg0lij9n1xe1ZISaI2C6nCRzsZMMhA=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 2 años",
+        "iso_date": "2024-04-29T15:19:29Z",
+        "iso_date_of_last_edit": "2024-04-29T15:19:29Z",
+        "snippet": "Gracias por dedicar unos minutos de tu tiempo a valorar nuestra carpintería en Pontevedra. ¡Un saludo!",
+        "extracted_snippet": {
+          "original": "Gracias por dedicar unos minutos de tu tiempo a valorar nuestra carpintería en Pontevedra. ¡Un saludo!"
+        }
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f701bffffffeb%3A0xe74160300cd1e142&engine=google_maps_reviews&hl=es&next_page_token=Ci8IARInCgoAP72HD7ojNC__EhBbg-OocmA76ZMa1D4AAAAAGgf_AnD7ojNCGAAiAA%3A21&num=20&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72HD7ojNC__EhBbg-OocmA76ZMa1D4AAAAAGgf_AnD7ojNCGAAiAA:21"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "place_id": "ChIJ6____xtwLw0RQuHRDDBgQec",
+  "name": "Carpimoble",
+  "data_id": "0xd2f701bffffffeb:0xe74160300cd1e142",
+  "address": "Parque Empresarial O Campiño, Monte do Louredo, 2, Parcela A2 (Polígono Industrial, 36158 Marcón, Pontevedra",
+  "phone": "630 11 77 84",
+  "website": "https://www.carpimoble.es/",
+  "domain": "carpimoble.es",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintería",
+  "secondary_categories": [
+    "Tienda de armarios",
+    "Carpintero",
+    "Fábrica de muebles",
+    "Tienda de muebles"
+  ],
+  "attributes": [
+    "Opciones de servicio: Estimaciones online",
+    "Opciones de servicio: Servicios en las instalaciones",
+    "Accesibilidad: Acceso para sillas de ruedas"
+  ],
+  "attributes_count": 3,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "8:00–16:00"
+    },
+    {
+      "jueves": "8:00–16:00"
+    },
+    {
+      "viernes": "8:00–16:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "8:00–16:00"
+    },
+    {
+      "martes": "8:00–16:00"
+    }
+  ],
+  "photo_groups": [
+    "Todas",
+    "Interior",
+    "Vídeos",
+    "Alacena",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "n_photos": null,
+  "has_posts": true,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": true,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 4.5,
+  "total_reviews": 93,
+  "rating_distribution": {
+    "1": 11,
+    "2": 0,
+    "3": 1,
+    "4": 4,
+    "5": 77
+  },
+  "reviews_sampled": 25,
+  "last_review_age_days": 9,
+  "reviews_last_12m": 8,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.7,
+  "owner_response_rate": 24,
+  "reviews_with_text_pct": 84,
+  "avg_review_length": 298,
+  "review_topics": [
+    "armario (6)",
+    "presupuesto (6)",
+    "diseño (5)",
+    "materiales (4)",
+    "puertas (4)",
+    "montaje (4)",
+    "plazo (3)",
+    "necesidades (3)"
+  ],
+  "review_highlights": [
+    "Buenos acabados y muy limpios en el montaje.",
+    "Los armarios han quedado estupendos y estamos muy satisfechos con el resultado."
+  ],
+  "grid": {
+    "cells_top": 6,
+    "solv_pct": 6.1,
+    "avr": 6.4,
+    "reach_median_km": 1.4,
+    "reach_max_km": 3.0
+  }
+}

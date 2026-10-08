@@ -1,0 +1,410 @@
+{
+  "search_metadata": {
+    "id": "6ac674472328e1ff38efdf89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vOGJ7g_AKIaQBB4Wtdz16pu-zXwcjYQKEhYZHLUaqhg/6ac674472328e1ff38efdf89.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vOGJ7g_AKIaQBB4Wtdz16pu-zXwcjYQKEhYZHLUaqhg/6ac674472328e1ff38efdf89.md",
+    "created_at": "2026-10-07 16:33:11 UTC",
+    "processed_at": "2026-10-07 16:33:11 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f71c5f1e79131:0x65c24e09dfea07f9!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/vOGJ7g_AKIaQBB4Wtdz16pu-zXwcjYQKEhYZHLUaqhg/6ac674472328e1ff38efdf89.html",
+    "prettify_html_file": "https://serpapi.com/searches/vOGJ7g_AKIaQBB4Wtdz16pu-zXwcjYQKEhYZHLUaqhg/6ac674472328e1ff38efdf89.prettify",
+    "total_time_taken": 1.57
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJMZHn8cVxLw0R-Qfq3wlOwmU",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "GRUPO ARTA",
+    "place_id": "ChIJMZHn8cVxLw0R-Qfq3wlOwmU",
+    "data_id": "0xd2f71c5f1e79131:0x65c24e09dfea07f9",
+    "data_cid": "7332508947630917625",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f71c5f1e79131%3A0x65c24e09dfea07f9&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f71c5f1e79131%3A0x65c24e09dfea07f9&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.4202175,
+      "longitude": -8.638838999999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJMZHn8cVxLw0R-Qfq3wlOwmU",
+    "provider_id": "/g/11dxl2qxfq",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmUR01wjaRm4TqcSr7aoaDnLgIQMam5iWa6yjBTVcSApb90dHfWBpTsUfV1CIkZhdgAQnuKK8O4dGwI1_ji1L7uk1K4eToL2XASGr4Ce2muExiJSQPd5pAF8E4fSiD7QrujXx0eUw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/qUI8xXicHcTbboIwAADQL0JaV0WX7KHeEZYJLWL2stRSCmgvozToJ-4T9jdLdh7O708zDNa9huG9eZlIY-RdeCd6bvQg9DDhRoXSuoC7wIX4kJ9oqYocwLFjuUL0m5M-YoZtdCrj7J2pWVuy-bNb0TMn2F6XoDrU5cpSV9RnuI5vn00lcaZ9kiw-ULUfY_jVtTCN_A0mSFCTTi-Y7Hu0FlPlt4_2SLJTNbN4t9iimrSbKOt9d3kAUYxvIwQABM3_PNB_3GxE1A",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 8
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 1
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 50
+      }
+    ],
+    "rating": 4.4,
+    "reviews": 59,
+    "type": [
+      "Carpintería",
+      "Fábrica de puertas",
+      "Tienda de muebles",
+      "Tienda de muebles de cocina"
+    ],
+    "type_ids": [
+      "furniture_maker",
+      "door_manufacturer",
+      "furniture_store",
+      "kitchen_furniture_store"
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Acceso para sillas de ruedas"
+        ]
+      },
+      {
+        "payments": [
+          "Tarjetas de crédito",
+          "Tarjetas de débito"
+        ]
+      }
+    ],
+    "address": "Av. de Vigo, 67, bajo derecha, 36003 Pontevedra",
+    "country": "España",
+    "website": "http://www.grupoarta.com/",
+    "phone": "886 30 45 13",
+    "open_state": "Cierra pronto · 19:00 · Apertura: 8:00 (jue)",
+    "plus_code": "C9C6+3F Pontevedra",
+    "hours": [
+      {
+        "miércoles": "8:00–19:00"
+      },
+      {
+        "jueves": "8:00–19:00"
+      },
+      {
+        "viernes": "8:00–19:00"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "8:00–19:00"
+      },
+      {
+        "martes": "8:00–19:00"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0xd2f71c5f1e79131%3A0x65c24e09dfea07f9&engine=google_maps_posts",
+    "images": [
+      {
+        "title": "Todas",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmUR01wjaRm4TqcSr7aoaDnLgIQMam5iWa6yjBTVcSApb90dHfWBpTsUfV1CIkZhdgAQnuKK8O4dGwI1_ji1L7uk1K4eToL2XASGr4Ce2muExiJSQPd5pAF8E4fSiD7QrujXx0eUw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/qUI8xXicHcTbboIwAADQL0JaV0WX7KHeEZYJLWL2stRSCmgvozToJ-4T9jdLdh7O708zDNa9huG9eZlIY-RdeCd6bvQg9DDhRoXSuoC7wIX4kJ9oqYocwLFjuUL0m5M-YoZtdCrj7J2pWVuy-bNb0TMn2F6XoDrU5cpSV9RnuI5vn00lcaZ9kiw-ULUfY_jVtTCN_A0mSFCTTi-Y7Hu0FlPlt4_2SLJTNbN4t9iimrSbKOt9d3kAUYxvIwQABM3_PNB_3GxE1A"
+      },
+      {
+        "title": "Exterior",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpbuHBRtJLLWmhErzXuONsQyMt2yLa55AiJurQ6lI0e51WtiPJ6l5nUnM7Dz5UpG20Xf1LlTQ94sbkq_BvhUzAl9VpgsMe1inVZJSUM19NoiNvm1_wfcAyCWn4CA0vGkCz4GZI=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/TsUZRnicHcRRDoIgAADQE5lQUrOtD7JmObUszeaPK0biQiBBm16wM3Sbtt7H-36YMUovbZuz2aSSsuK007QlUhgqzITIxq6Utoi2tI13p2OaN-re7dYnE4Rh3rBtO167Q6yTITLTIbwhhOuga5M53wOKYG7qYzDnSGQiWmxGlCl_Cq4PGPI0cR19f77Kdc-yEXP3oiodUViLSxGcswi6sazjvoHl-0Hw4OXC8TDo_ac3On6xX70hAMBi_4klfoqiRLs"
+      },
+      {
+        "title": "Interior",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlIVq0eOUmqthyn5FKj3NwD3NOju3O5zrjHVCEkdolOjHxVz2F3DBH51DA2nlxTfec0wgLdYBPseedyOoD6lbXgcEUWddhPJrFJqXZu4dX1u4TWmAWJFlrukjWc-kHiVrUp9H8CxQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/KXHpxnicHcRdToMwAADgE3WUdRg18YGNkYpmoAGKe1xbW0uh0J_AdkOP4G2W-D18f7_S-8k9R5GWaCOMEZoHxy01o-ej31AzRGJygDrgohR_VjXRr-0MedkMs5fXMcnfFDotGTqVKqAyuVmF28OxZ0aXCq_tbZujbI-TOEu3o17rb07hIt7Z175ynLNrabIHfekEPTaEMVkVNi_m7hx2rIvDriZDSopc29ArQkGPf1rbTE_48bB-vCwxhBDI_ykY7zBqRiY"
+      },
+      {
+        "title": "Del propietario",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4MR1xLyiH2C0krGrgaqZXqjA3Aqc9LZO5olMeeknd59mY9G8v7ZZ51-g4xM039U64tVg1s45KUpUokXS6urCJDNi89EfKWUdFq0pgSyJ5R4CFruIpgCWXVMeiF3a35Pm2_QUz=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Bo0Th3icHcRLcoIwAADQE0WCSaxxpgsGi1ahtdAIsuk4MQ2UT0IS_F2wZ_A2nelbvMdv5Zy2C89rKzSRSslWjFYYrnonejfhqvOktoBbYL1gne4-8w4nqX-Nb_V6GsLGrIw8DmUx_AQoGDiNy3ei2kSIpj8R2h3oan5-KkviA4mvCUSUzbDbS99ismWaqabIZqMJN8u3ek5fvrc5O0UD1DK7bUiKw8iMr1qGebFPRB2hIyK7bvr1we7PFx9CCKr_Oej_ANmMQug"
+      },
+      {
+        "title": "Street View y 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vzSrY4CVhHJiG9vXabyQrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=30.211103&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/YqYMhXicHc1LCsIwEADQ22Rnfu3CCsGFC8VdEURXMo2xGUib0Iyp9TjeytsIvgu878cTpbwRItPkHBV0c8KXC3mVgPcx9sFBwsxtHERRgvxz6EbAsE0wRryb8j5N13p39ocj7ptygW5pp5bZ7mYDupHMACnfcuEEljA43qfMZqN1zbzRzZotMJtKcq2UkhVLSNYbyf7PIxajpPwBEbU6bw"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Los acabados son de gran calidad y se nota la dedicación en cada detalle.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIGLJ0-fUum117FoxlRD3UbIff7nlWjB6uWJghnG-gV6YM0_Qc=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Han tenido un trato excepcional y trabajan con mucha profesionalidad.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXD3Qa2o5m-7oT5Y2lt8_o4O2zKA6_-eq6VROpmxwtKkL1VbDkrZQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Grandes Profesionales , serios y de confianza.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK5jQic_-fg3QygzdUKPQatot_MkPvscz5pRQ-x8n4p0oKQSw=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Isabel Navarro Vallejo",
+          "rating": 1,
+          "contributor_id": "113885209635554303099",
+          "user_review_count": 8,
+          "user_photo_count": 10,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLtlNQLmt3S_EitwkJ6FCQJ_BcXw7eiaJiAmc8en1e2eoVzag=s120-c-rp-mo-br100",
+          "description": "Al principio Rubén te convence con buenas palabras y genera confianza, pero después no responden al teléfono ni devuelven jamás una llamada, ni siquiera cuando ellos mismos fijan las citas. Nosotros siempre fuimos pacientes pese a que la entrega ya llegó con más de 3 meses de retraso. Cuando por fin trajeron la puerta, no solo quedó mal instalada (ni siquiera pusieron un precerco ni cierra, ni encaja…), sino que además estaba mal hecha (madera y cristal roto, mal cortada, todo dañado) siendo una puerta cara y a medida. Incluso sus propios trabajadores reconocieron que el trabajo estaba mal.  Rubén alegaba que era cosa nuestra pese a que jamás se pasó a cerciorarse del trabajo ejecutado.\n\nHemos intentado en varias ocasiones llegar a una solución amistosa, pero la única propuesta que recibimos fue totalmente fuera de la ley: que asumiéramos nosotros el desmontaje y los portes hasta Galicia para poder recuperar el dinero…En la práctica, eso significa quedarse con nuestro dinero sin hacerse responsables de un trabajo mal ejecutado, también ofrecieron un arreglo parcial que para nada soluciona el desastre que es.\n\nPor suerte, todo está documentado y por desgracia, tendremos que recurrir a la ley para que se cumpla nuestro derecho.\n\nLas fotos son en el estado actual que han dejado la puerta…\n\nA la vista de la respuesta nos vemos en la  obligadacion a subir el WhatsApp donde reconocen que la puerta está mal y se la deben de llevar, o la otra alternativa es qué nos  devuelven el dinero (opción que dada la nefasta experiencia solicitamos). Días más tarde, salieron que para que nos devolvieran el dinero, nosotros tendríamos que correr con los gastos del desmontaje y portes a Galicia, algo totalmente fuera de la ley.\n\nAsí mismo, invito a la compañía a que publique, si tan claro tiene que las fotos que subimos no son del estado final, a que envíe esos vídeos y fotos que tiene con todo perfectamente acabado.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKcVJFOUxXVlp1YWpReVUzWldhRFpPVUdzd2IxRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOlJqRE9LWVZuajQyU3ZWaDZOUGswb1E%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPNEFUGwbIldlMP5WlK6RECRgufEm_xfIY2g_tzW24rVw5RVhGZd4Tty4SLn_6G2zZboM-sd-7TjrhJltqyIcc8VfxEp-kVQzqIgcCJjOp83_0mRTXio0eoy-PjjJ6-S26MMbp-lvtL5wQ=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNfGTIuyVVnXftQH9f8HIj2Dtd6F8mytGdIJytIVsBS-dTXDi5Rj4YFYeFTYagKZFCoNxmCc8nUjPT0VCbq1Y7vFhBulHpnvs7RmVUdMYBbCJrAqYGGbUrumBNg9812Ra4eq7iP2xyiRyNB=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO5THMc1iF-6DW1gVdqZEyDcxQYAi8dwC7u_unCXPW68tN9sxlWZgU-W84d4I3-p-L3SeE8-kVh9uWLGKKRH8E0sKXiuTnIP5HLFqbo16WQqtBOEy5FynUGbqRyVTRqg2Bd1WrJXZ8nmAax=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPPTiS31tgd_N9gfYUB7vyVikR_lpWDlVfdEJfEQojLkYXzTU0c4bXMg8Huky-eN75t7YjZ9lJpFkR_Z3W13dcnJh0xw5X0ivWjoYstdk1nCuTJX0MaPRfxW0rQ5RhI0pZ3jopohZU4wUQd=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMZ88ptjaHcJ2uL9AHCvAQ3fefqpaL4W_tu3lnz9t-lUREwi5qyuIzrh6TifXUgliIv70mKNUt5avZXRa6ApFofqBvJO0QZJQsk8J7vHsMsTdrc8U3jhad9irTCQoi9j5glkn-mqhvmYvYU=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNfQKJwVTdi3oMWRKVjNTiQ8SSkx1vdjyZxpwzrBcvAD_dDIgnluyq00mO5l2mhKa1t7z_Yj61S8sL2qlbyHPfiwZv6yYHiaKfBdQBDuNYRIaFMcCvp5_0de0Q7Lw2aLcLC80-eWYFVQhA7=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMwoWTDSDmYVv1I0GA8P-2x7q2Wa01OhGp35xLeT6Opk_4oS0DP3NAg08pjFrrn-IaMFxvl_d_SYNdSfomt1pfuKgIil9F4jrQbYiP02YpbY-l1xMEKUXXkomUMWXMs1AeoghByDJbkIvs=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPsMAUTlQYRd37D12yaHpOU8Lu8Khao1YDVhL2MzOBFLS5CidLQMTWnp8rv7LDE7QWukgwf5swK5F68vINZx5YxqC6G_HY-Ciw6mXOeRbjcyfcF61xtgx7eq3L16tB_8TizI1vGHEIIHtDo=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOfIccO1VpMQ4vRrxoGMaLWgQATM4ssP1W2u2IzNhcUHkqxGWhtZCSq318IsFawcq4JtZ_KYC6ozTh0xy2yzOU0XGYHyPMpcfxFXRH-t3rDNxDK8aZHwuI0nwtBVRMqKWzhpsz9fxXPif1E=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMzKZhtqKjK1yPFDo9HWsYEr5q_Q0XanFZW5gL6WniL785fRoBUk19JGzf-zb8VdMCrhBNXYl8zO6V3IfTdXbN0bQQezNlxQ4GOkFKYZxf9TffKv33PyyLsKP_IbYBr0thIs1qrjSQ0cKjQ=k-no"
+            }
+          ],
+          "date": "Fecha de edición: Hace 10 meses",
+          "date_iso8601": "2025-11-19T10:27:37+00:00"
+        },
+        {
+          "username": "María victoria Barreiro Díaz",
+          "rating": 1,
+          "contributor_id": "104135254658818863176",
+          "user_review_count": 3,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLWXJddUpLEsQKO5L471MdqKW_tGW-iyiqAlKVHDFDUOfTr3Q=s120-c-rp-mo-br100",
+          "description": "Coincido con las malas valoraciones previas.\nMi peor experiencia con una empresa de reformas. Un auténtico desastre de organización y gestión. Coincido en que sus propios montadores no entendían la mala organización. Retrasos injustificados, perdieron las fotos, cambiaron lo que había que hacer…\nY encima, con el trabajo sin finalizar, se ponían exigentes con el pago final. Menos mal que pagué solo cuando estuvo finalizado porque sino seguiría esperando.\nY también afortunadamente revisé bien la factura porque me cobraban trabajos que finalmente no se realizaron.\nEn resumen, no recomendaría esta empresa a nadie.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pNdFZubFdWR2hTVVRRNGRtSmhPRmxQU0Y5SVJuYxAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOjMtVnlWVGhSUTQ4dmJhOFlPSF9IRnc%7C%7C?hl=es",
+          "date": "Hace 4 meses",
+          "date_iso8601": "2026-06-01T10:01:09+00:00"
+        },
+        {
+          "username": "Franfb_02",
+          "rating": 5,
+          "contributor_id": "101331745779292309958",
+          "user_review_count": 4,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVylWxLDMLIvp5KrUNsSuaDan06F3CDEpA5jO5OuyPa6FHVQTSB=s120-c-rp-mo-br100",
+          "description": "Muy buen servicio de carpintería y de diseño. El vestidor quedó perfecto, con materiales de calidad y muy buenos acabados. La atención al cliente fue de diez: amables y siempre dispuestos a ayudar. Totalmente recomendados.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kcFRFeFZWVGx1V0doVVNXTmhWSFJTYm1ZMVFWRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmdpTExVVTluWGhUSWNhVHRSbmY1QVE%7C%7C?hl=es",
+          "date": "Hace 9 meses",
+          "date_iso8601": "2025-12-12T19:02:11+00:00"
+        },
+        {
+          "username": "Lucía",
+          "rating": 5,
+          "contributor_id": "103855234381545631549",
+          "user_review_count": 2,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUiRpfzMWzO6KP3kYSlgTbffOd07BxhvyNOH4r9TWTssDHSNbXv3g=s120-c-rp-mo-br100",
+          "description": "Una empresa de carpintería a medida con una atención al detalle increíble. Desde el primer momento se nota la profesionalidad, la comunicación clara y la capacidad de aportar ideas que elevan cualquier espacio. Las piezas a medida que fabrican tienen una calidad excepcional, y el montaje es impecable.\nAdemás, cumplen plazos, escuchan lo que necesitas y buscan siempre la mejor solución. Un equipo serio, creativo y de confianza. Sin duda volvería a contar con ellos para cualquier proyecto de carpintería!!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21rMWQzRjNVbHBRZVRkV1FXbDZiMmg0UWt0MlJFRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOmk1d3F3UlpQeTdWQWl6b2h4Qkt2REE%7C%7C?hl=es",
+          "date": "Hace 9 meses",
+          "date_iso8601": "2025-12-07T20:00:18+00:00"
+        },
+        {
+          "username": "Marta Acosta Veiga",
+          "rating": 5,
+          "contributor_id": "109198093060946076704",
+          "user_review_count": 7,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIGLJ0-fUum117FoxlRD3UbIff7nlWjB6uWJghnG-gV6YM0_Qc=s120-c-rp-mo-br100",
+          "description": "El trabajo realizado fue excelente. Los acabados son de gran calidad y se nota la dedicación en cada detalle. Cumplieron con lo que les pedí y hasta mejoraron mis ideas. La atención al cliente en su showroom es muy buena, siempre dispuestos a escuchar. Muy profesionales y totalmente recomendables para cualquier proyecto.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taeloxbFBiMTh0Um1seGVtSTVWRU5JV1ZKdk1rRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOkZzZ1lPb18tRmlxemI5VENIWVJvMkE%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-09-23T12:48:29+00:00"
+        },
+        {
+          "username": "Beatriz Garcia",
+          "rating": 5,
+          "contributor_id": "100723301865556438602",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJFFz8LBCIHmlDtZhkW1rF4Rg3o_YBuTe3vKhWz2J9x69jZBw=s120-c-rp-mo-br100",
+          "description": "Profesionales, cumplen plazos y el resultado siempre queda perfecto. Muy buena comunicación y gran atención al detalle. Recomiendo grupo ARTA para cualquier proyecto a medida.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toTWNrUnpiWFJMVVROVVIwaFBhWGxwUTI0MGJsRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CAIQACodChtycF9oOkhMckRzbXRLUTNUR0hPaXlpQ240blE%7C%7C?hl=es",
+          "date": "Hace 9 meses",
+          "date_iso8601": "2025-12-07T20:04:07+00:00"
+        },
+        {
+          "username": "Emma Maria",
+          "rating": 1,
+          "contributor_id": "107431713210557688987",
+          "user_review_count": 43,
+          "user_photo_count": 27,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXpjtlYLQn75IXQovt5Lh5rf7ddio6hpW46-jr87lyGaDpsgc22=s120-c-rp-mo-ba12-br100",
+          "description": "No entiendo las buenas críticas, o son falsas o hemos tenido muy mala suerte unos pocos, porque leo otros comentarios críticos que les ha pasado exactamente lo mismo. Se tuvo que pagar por adelantado más del 80% del presupuesto para que empezasen, pero apenas han hecho nada. Más de dos meses sin apenas avance en algo que en teoría era cuestión de un par de semanas, sin que respondan o que tras perseguirles me digan un día para luego no venir y escribir a la semana que si eso vendrán otro día, sin venir tampoco por supuesto. Tras hacerles el pago de la mayor parte que pedían para empezar, se han vuelto informales, impresentables, nada profesionales. No le deseo a nadie el calvario de pasar por esto.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURJdzgzQmhnRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEICAgMDIw83BhgE%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-04-12T15:46:39+00:00"
+        },
+        {
+          "username": "Juan García Escriu",
+          "rating": 5,
+          "contributor_id": "107154693800037653941",
+          "user_review_count": 7,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX-BVq2QddJ2PXh_G-zhzc7EJt2O-Qboll9VpG4SvJoslCm_bsemA=s120-c-rp-mo-br100",
+          "description": "Contraté los servicios de Grupo Arta para toda la carpintería en una reforma integral de alto nivel en Madrid. El resultado ha sido espectacular. Pendientes de cada detalle en todo momento y sobre todo resolutivos cuando surgían problemas. Muy recomendables. Gracias! 🙏",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNVHlxNjN1enN2OTNRRRAB!2m1!1s0x0:0x65c24e09dfea07f9!3m1!1s2@1:CIHM0ogKEMTyq63uzsv93QE%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-05-06T09:21:04+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "Otras personas también buscan",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Cocinas Artesa",
+            "data_id": "0x0:0xb3ab583a1745dac5",
+            "data_cid": "12946538560328424133",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb3ab583a1745dac5&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xb3ab583a1745dac5&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4231571,
+              "longitude": -8.639338
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xb3ab583a1745dac5%218m2%213d42.4231571%214d-8.639338&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.6,
+            "reviews": 14,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R_XnPfOYQl9fB1pzXvr4MWvYguehVMrcOqSx0j8ZpQASvt5kZwX9Zf_DpMRQZWPh8Z0-_LtW9qA2lOtVBz9y_HRjhFr3HuzEeTKONyzEj596P-u5ojT7YCPcbsLt7i0YxU2Tw9=w156-h156-n-k-no",
+            "type": [
+              "Tienda de muebles de cocina"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Muebles Gonzamar SL",
+            "data_id": "0x0:0xa51d7cb7a72aff7a",
+            "data_cid": "11897802918808190842",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xa51d7cb7a72aff7a&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xa51d7cb7a72aff7a&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4288609,
+              "longitude": -8.628269
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xa51d7cb7a72aff7a%218m2%213d42.4288609%214d-8.628269&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.7,
+            "reviews": 149,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBSxm7rpGG86b6tp1cfZSFt2wZp_zzh7MzzmF0QvL4sRY1r0BtU7jCYTEuqIockkgqXjAex6x8LC7F5B26fBUIHl_jfG1uHFRG5f1Mu6qLZEmUmXEcZM8D75bLV91Qo91o4mte=w156-h156-n-k-no",
+            "type": [
+              "Tienda de muebles",
+              "Reformas de baños",
+              "Tienda de artículos para decoración en pastelería",
+              "Tienda de alfombras",
+              "Tienda de muebles de cocina",
+              "Reformas de cocinas",
+              "Colchonería",
+              "Tienda de sofás"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Carpintería y Ebanistería Leins",
+            "data_id": "0x0:0x130ca7920d73bbb1",
+            "data_cid": "1372656232173910961",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x130ca7920d73bbb1&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x130ca7920d73bbb1&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4282648,
+              "longitude": -8.6308937
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x130ca7920d73bbb1%218m2%213d42.4282648%214d-8.6308937&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4,
+            "reviews": 8,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWZqF9eK3LKQttHyAyCfvNOHw-18SOQNdMeMj8seCEB3g9Ejc2xyJoqWphGtLRMIVI_yBAF3LLWUg2fEAjDQIgWrAwzTdQZcTjyjZGSwTf7j-I2ButQfLtjOsG3K-M7kstT049=w156-h156-n-k-no",
+            "type": [
+              "Carpintero",
+              "Tienda de mobiliario para dormitorios",
+              "Ebanista",
+              "Tienda de armarios",
+              "Proveedor de puertas",
+              "Carpintería",
+              "Tienda de muebles de cocina",
+              "Servicio de instalación de suelos de madera"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Muebles Qka - Pontevedra",
+            "data_id": "0x0:0xa7c8b75d68eea677",
+            "data_cid": "12090114811496408695",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xa7c8b75d68eea677&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xa7c8b75d68eea677&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.428553,
+              "longitude": -8.634464399999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xa7c8b75d68eea677%218m2%213d42.428553%214d-8.634464399999999&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.3,
+            "reviews": 41,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SuYfuYZe5rWRwoJ7w3qkBT1fb8XAVf1E2oCt4fHHJ0V9aKatHQdA2m67wbpbR93xkBhwkz5FOs5vxmOMmxQZxhVDWEo_x6mumcdYlwCAqpXaq7f4m4O4dvIDZ0KXUxhgVWjg3j=w156-h156-n-k-no",
+            "type": [
+              "Tienda de muebles"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Ábaco Mobiliario",
+            "data_id": "0x0:0x9f31ed8dae54659d",
+            "data_cid": "11471210918660302237",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9f31ed8dae54659d&engine=google_maps_reviews&hl=es",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9f31ed8dae54659d&engine=google_maps_photos&hl=es",
+            "gps_coordinates": {
+              "latitude": 42.4288394,
+              "longitude": -8.6285019
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x9f31ed8dae54659d%218m2%213d42.4288394%214d-8.6285019&engine=google_maps&gl=es&google_domain=google.es&hl=es&type=place",
+            "rating": 4.1,
+            "reviews": 27,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StnCAOn9oNyX7d235qIcOtKs678_NR2gKlTTt7gge34BX4r53ZPYsjj8MqUdOWcjwpLIf0LMZyKQ5soNaS1tRrRRD0oe-oywegqWKwxBbLXFKXDdIaX4bQgmooh11QW4t_hn74=w156-h156-n-k-no",
+            "type": [
+              "Tienda de muebles",
+              "Tienda de artículos para el hogar",
+              "Colchonería",
+              "Tienda de sofás"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.es/search?q=local+guide+program&ibp=gwp;0,26,OhsKGSIVR1JVUE8gQVJUQSBQb250ZXZlZHJhKAI&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COhsKGSIVR1JVUE8gQVJUQSBQb250ZXZlZHJhKAI&q=local+guide+program"
+  }
+}

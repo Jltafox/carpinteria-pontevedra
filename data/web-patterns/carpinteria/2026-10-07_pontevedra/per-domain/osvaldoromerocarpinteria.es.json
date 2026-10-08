@@ -1,0 +1,117 @@
+{
+  "domain": "osvaldoromerocarpinteria.es",
+  "website": "http://www.osvaldoromerocarpinteria.es/",
+  "business": "Carpintería Osvaldo Romero",
+  "cells_top": 6,
+  "solv_pct": 7.5,
+  "pages_analyzed": [
+    "https://osvaldoromerocarpinteria.es/",
+    "https://osvaldoromerocarpinteria.es/ultimos-trabajos/"
+  ],
+  "cms": "WordPress",
+  "lang": "es",
+  "title": "Inicio -",
+  "meta_description": "Hacemos todo tipo de trabajos en madera. Diseñamos y creamos lo que necesites. Presupuestos sin compromiso.",
+  "h1_text": null,
+  "rendered_with_js": false,
+  "h1_count": 0,
+  "h1_keyword_match": false,
+  "title_has_location": false,
+  "h1_has_location": false,
+  "h2_count": 1,
+  "headings": {
+    "https://osvaldoromerocarpinteria.es/": {
+      "h1": [],
+      "h2": [
+        "NOS GUSTA LA MADERA"
+      ],
+      "h3": []
+    },
+    "https://osvaldoromerocarpinteria.es/ultimos-trabajos/": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    }
+  },
+  "schema_types": [
+    "BreadcrumbList",
+    "CreativeWork",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction",
+    "SiteNavigationElement",
+    "WPFooter",
+    "WPHeader",
+    "WebPage",
+    "WebSite"
+  ],
+  "has_localbusiness_schema": false,
+  "has_organization_schema": true,
+  "has_faq_schema": false,
+  "has_service_schema": false,
+  "has_breadcrumb_schema": true,
+  "has_review_schema": false,
+  "schema_completeness_pct": 38,
+  "schema_invalid_blocks": 0,
+  "n_services_listed": 1,
+  "service_headings": [
+    "NOS GUSTA LA MADERA"
+  ],
+  "has_hero": true,
+  "has_reviews_block": true,
+  "has_faq_block": true,
+  "has_gallery": true,
+  "floating_whatsapp": false,
+  "nap_in_footer": false,
+  "phone_on_page": false,
+  "has_map_embed": false,
+  "faq_count": 0,
+  "trust_signals": [
+    "desde 1965",
+    "taller propio"
+  ],
+  "tel_links": 0,
+  "whatsapp_links": 0,
+  "has_form": false,
+  "first_cta": "arriba",
+  "internal_links_count": 16,
+  "external_links_count": 2,
+  "internal_by_category": {
+    "otros": 13,
+    "contacto": 1,
+    "servicio": 2
+  },
+  "pillar_map": [
+    "/",
+    "/contacto/",
+    "/ultimos-trabajos/",
+    "/wp-content/uploads/2022/03/13232919_999598660087639_8077918395306277924_n-20220330-161815.jpg",
+    "/wp-content/uploads/2022/03/18156877_1286460391401463_1656208151733970717_n-20220330-161825.jpg",
+    "/wp-content/uploads/2022/03/273392437_4745153568865444_2690149887231668984_n-20220330-161904.jpg",
+    "/wp-content/uploads/2022/03/67695153_2256505517730274_815243431969292288_n-20220330-161830.jpg",
+    "/wp-content/uploads/2022/03/82072305_2563046880409468_3212065745571676160_n-20220330-161838.jpg",
+    "/wp-content/uploads/2022/03/92527177_2766499950064159_4940372302152859648_n-20220330-161846.jpg",
+    "/wp-content/uploads/2022/04/estanterias.jpg",
+    "/wp-content/uploads/2022/04/libreria.jpg",
+    "/wp-content/uploads/2022/04/mesa.jpg",
+    "/wp-content/uploads/2022/04/mostradores.jpg",
+    "/wp-content/uploads/2022/04/muebles-cocina.jpg",
+    "/wp-content/uploads/2022/04/porches.jpg",
+    "/wp-content/uploads/2022/04/terrazas.jpg"
+  ],
+  "content_words_count": 533,
+  "services_page_words": 505,
+  "mobile_performance": null,
+  "lighthouse_seo": null,
+  "lighthouse_accessibility": null,
+  "lighthouse_best_practices": null,
+  "mobile_lcp_ms": null,
+  "mobile_cls": null,
+  "mobile_tbt_ms": null,
+  "mobile_fcp_ms": null,
+  "pagespeed_error": "PageSpeed HTTP 429 (cuota sin clave agotada)"
+}

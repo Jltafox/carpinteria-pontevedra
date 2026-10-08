@@ -1,0 +1,104 @@
+{
+  "search_metadata": {
+    "id": "6ac674a994c42bbb65d38756",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lLTSASjMAf3Maw7CCy_BCWCeHUxRvZgLil5MhMIQ1OU/6ac674a994c42bbb65d38756.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lLTSASjMAf3Maw7CCy_BCWCeHUxRvZgLil5MhMIQ1OU/6ac674a994c42bbb65d38756.md",
+    "created_at": "2026-10-07 16:34:49 UTC",
+    "processed_at": "2026-10-07 16:34:49 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f65e6322a40dd:0xef2af7309bdf7354!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/lLTSASjMAf3Maw7CCy_BCWCeHUxRvZgLil5MhMIQ1OU/6ac674a994c42bbb65d38756.html",
+    "prettify_html_file": "https://serpapi.com/searches/lLTSASjMAf3Maw7CCy_BCWCeHUxRvZgLil5MhMIQ1OU/6ac674a994c42bbb65d38756.prettify",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f65e6322a40dd:0xef2af7309bdf7354",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Alberto Parada",
+    "address": "Rúa Beiramar, 82, 36995 Pontevedra, España",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Carpintero"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCdWYzSmVBEAE!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgIDBuf3JeA%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-01-23T21:20:39Z",
+      "iso_date_of_last_edit": "2023-01-23T21:20:39Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdWYzSmVBEAE",
+      "user": {
+        "name": "David Loira Entenza",
+        "link": "https://www.google.com/maps/contrib/109069438064358990967?hl=es",
+        "contributor_id": "109069438064358990967",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJjO9baZ_rtWhtu7L585utAxSWcmuYz36sqMlmq89aPOJFb2A=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "Honradez buen gusto y perfección es lo que define a este carpintero, espectacular el acabado del parquet flotante, armarios, puertas y cocina, sin duda lo volveré a llamar cuando lo necesite. Gran profesional.",
+      "extracted_snippet": {
+        "original": "Honradez buen gusto y perfección es lo que define a este carpintero, espectacular el acabado del parquet flotante, armarios, puertas y cocina, sin duda lo volveré a llamar cuando lo necesite. Gran profesional."
+      },
+      "likes": 3
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNnN05xdzB3RRAB!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgICg7Nqw0wE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 8 años",
+      "iso_date": "2017-11-29T19:21:30Z",
+      "iso_date_of_last_edit": "2017-11-29T19:24:36Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnN05xdzB3RRAB",
+      "user": {
+        "name": "M. Angel Touriño",
+        "link": "https://www.google.com/maps/contrib/104118982519058279952?hl=es",
+        "contributor_id": "104118982519058279952",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVxUQkIt1H9U_qzSVflzFG0Kt8cj-YloHXvulE96B6mEUh3lVtK=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 520,
+        "photos": 261
+      },
+      "snippet": "Gran profesional. Buena relación calidad-precio.",
+      "extracted_snippet": {
+        "original": "Gran profesional. Buena relación calidad-precio."
+      },
+      "likes": 7
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN3ck03Mk13EAE!2m1!1s0x0:0xef2af7309bdf7354!3m1!1s2@1:CIHM0ogKEICAgICwrM72Mw%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 8 años",
+      "iso_date": "2017-11-29T18:31:12Z",
+      "iso_date_of_last_edit": "2017-11-29T18:32:32Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdCPeIJZW5fgSRcC-H8cXkT0rdg77XfqeCdnv0fpIUePTnyn1bLLOCB7kosxf5iubDS5a6UBu8UDCUTihMPbvstEz0h6LHZVNSkdI0b2XA9IAnHaCpmEEvXNIU6oIgo9HARSgNKig=k-no"
+      ],
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3ck03Mk13EAE",
+      "user": {
+        "name": "Yaiza TC",
+        "link": "https://www.google.com/maps/contrib/101440129497546702527?hl=es",
+        "contributor_id": "101440129497546702527",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWJqOpgxUJBDrplOx2BR2nB07OAiEFLNMrokwEYKoBmK9TO9O2llw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 883,
+        "photos": 6502
+      },
+      "snippet": "¡Genial! He quedado muy contenta con su trabajo. Es muy trabajador. ¡Lo recomiendo!",
+      "extracted_snippet": {
+        "original": "¡Genial! He quedado muy contenta con su trabajo. Es muy trabajador. ¡Lo recomiendo!"
+      },
+      "likes": 5
+    }
+  ]
+}

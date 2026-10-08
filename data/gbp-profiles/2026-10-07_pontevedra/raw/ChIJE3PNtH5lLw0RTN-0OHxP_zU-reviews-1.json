@@ -1,0 +1,201 @@
+{
+  "search_metadata": {
+    "id": "6ac67490a20802c113eb3001",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SCzclCP2OuBUUDNXBCbpf1UuKq-_aRpOBw5NAKqmdZk/6ac67490a20802c113eb3001.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SCzclCP2OuBUUDNXBCbpf1UuKq-_aRpOBw5NAKqmdZk/6ac67490a20802c113eb3001.md",
+    "created_at": "2026-10-07 16:34:24 UTC",
+    "processed_at": "2026-10-07 16:34:24 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f657eb4cd7313:0x35ff4f7c38b4df4c!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/SCzclCP2OuBUUDNXBCbpf1UuKq-_aRpOBw5NAKqmdZk/6ac67490a20802c113eb3001.html",
+    "prettify_html_file": "https://serpapi.com/searches/SCzclCP2OuBUUDNXBCbpf1UuKq-_aRpOBw5NAKqmdZk/6ac67490a20802c113eb3001.prettify",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f657eb4cd7313:0x35ff4f7c38b4df4c",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Carpintería Ceyeda, S.L.U.",
+    "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra, España",
+    "rating": 5,
+    "reviews": 12,
+    "type": "Carpintería"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xTU1qQmhNMVJZVjNSamFXMTJWVWRVYzNGMExYYxAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOm1MMjBhM1RYV3RjaW12VUdUc3F0LXc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 4 meses",
+      "iso_date": "2026-05-20T08:09:58Z",
+      "iso_date_of_last_edit": "2026-05-20T08:09:58Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTU1qQmhNMVJZVjNSamFXMTJWVWRVYzNGMExYYxAB",
+      "user": {
+        "name": "sabino martinez gonzalez",
+        "link": "https://www.google.com/maps/contrib/103332028678445800789?hl=es",
+        "contributor_id": "103332028678445800789",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLtmHnI5sUP4_XkmuzCViXOsjIxM0oGbqOzlSx_AC7dWW3xLw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 19,
+        "photos": 1
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xST2MyZGlUM0Y1YldabWRIUm9NMmR4VlRoRVdVRRAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOlROc2diT3F5bWZmdHRoM2dxVThEWUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 7 meses",
+      "iso_date": "2026-02-09T10:44:59Z",
+      "iso_date_of_last_edit": "2026-02-09T10:44:59Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xST2MyZGlUM0Y1YldabWRIUm9NMmR4VlRoRVdVRRAB",
+      "user": {
+        "name": "--",
+        "link": "https://www.google.com/maps/contrib/114156477419861078219?hl=es",
+        "contributor_id": "114156477419861078219",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWXQoyupF648Hdjbktt_dT1sGU_QqO4ldd7yeBvNTPsREZmTrwy=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 194,
+        "photos": 17
+      },
+      "snippet": "Auténticos profesionales",
+      "extracted_snippet": {
+        "original": "Auténticos profesionales"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s4NVNsVkhVVmxxYlZweFFUbFBPVlUzYVhObVdXYxAB!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CAIQACodChtycF9oOk85SlVHUVlqbVpxQTlPOVU3aXNmWWc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 9 meses",
+      "iso_date": "2025-12-17T17:54:26Z",
+      "iso_date_of_last_edit": "2025-12-17T17:54:26Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NVNsVkhVVmxxYlZweFFUbFBPVlUzYVhObVdXYxAB",
+      "user": {
+        "name": "BERNARDO BLANCO",
+        "link": "https://www.google.com/maps/contrib/115699511737090849854?hl=es",
+        "contributor_id": "115699511737090849854",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKZ5hqCGtZj1rnWKNuBKv0-Pm6JiTzqd-nVffpwFMlEJorPvg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNJc2N6ZWVBEAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgMCIsczeeA%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un año",
+      "iso_date": "2025-04-02T21:16:03Z",
+      "iso_date_of_last_edit": "2025-04-02T21:16:03Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJc2N6ZWVBEAE",
+      "user": {
+        "name": "Pilar Abal",
+        "link": "https://www.google.com/maps/contrib/113485142756490043110?hl=es",
+        "contributor_id": "113485142756490043110",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVrz6DxbAHBEUWwitDpYIRHiW-3x6Keqx-pECO9p2XoVfXKxv94=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 24,
+        "photos": 62
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6bzdxeFdnEAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICzo7qxWg%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-06-04T14:56:44Z",
+      "iso_date_of_last_edit": "2024-06-04T14:56:44Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6bzdxeFdnEAE",
+      "user": {
+        "name": "Julian Gonzalez Otero",
+        "link": "https://www.google.com/maps/contrib/110903207720906744003?hl=es",
+        "contributor_id": "110903207720906744003",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJhVOfE5Sgh0RUbDqOn7pcwCeJgBNSACR4ErfzlnP3EqJbsPg=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 37
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOMDZhbVhREAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICN06amXQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-01-17T15:54:32Z",
+      "iso_date_of_last_edit": "2024-01-17T15:54:32Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMDZhbVhREAE",
+      "user": {
+        "name": "Dolores Muñiz",
+        "link": "https://www.google.com/maps/contrib/105240061306680145159?hl=es",
+        "contributor_id": "105240061306680145159",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLRNQOCHGmcTLskceWEnnYgb2t9U_R2J8JKI-GNk3Y5EmIFag=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Excelente carpintería de muebles con diseños personalizados.Trato muy profesional y amable, buscando siempre las soluciones más adecuadas para cada caso con precios muy competitivos. Muy recomendable.",
+      "extracted_snippet": {
+        "original": "Excelente carpintería de muebles con diseños personalizados.Trato muy profesional y amable, buscando siempre las soluciones más adecuadas para cada caso con precios muy competitivos. Muy recomendable."
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPOExQNmVREAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgICO8LP6eQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 4 años",
+      "iso_date": "2022-05-30T21:04:00Z",
+      "iso_date_of_last_edit": "2022-05-30T21:04:00Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPOExQNmVREAE",
+      "user": {
+        "name": "ignacio quesada casqueiro",
+        "link": "https://www.google.com/maps/contrib/105269597603714274171?hl=es",
+        "contributor_id": "105269597603714274171",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXjJwmKyQdYQjpE5zIso1LaB0d88iUReKsAfYdH7ety34xTrtXldw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 94,
+        "photos": 58
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM4b3ZDN1N3EAE!2m1!1s0x0:0x35ff4f7c38b4df4c!3m1!1s2@1:CIHM0ogKEICAgIC8ovC7Sw%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-06-28T15:00:06Z",
+      "iso_date_of_last_edit": "2020-06-28T15:00:06Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4b3ZDN1N3EAE",
+      "user": {
+        "name": "Miguel Angel Nogueira Castro",
+        "link": "https://www.google.com/maps/contrib/102927029934157044034?hl=es",
+        "contributor_id": "102927029934157044034",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIBPX88Dx9jWUsU7AnVwh7n-oC2zTEW-2momw9fEBnlpty03g=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f657eb4cd7313%3A0x35ff4f7c38b4df4c&engine=google_maps_reviews&hl=es&next_page_token=Ci8IARInCgoAP72I0EjrCt__EhDYWZsKWAY81olK9BAAAAAAGgf_Ao0EjrCtGAAiAA&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72I0EjrCt__EhDYWZsKWAY81olK9BAAAAAAGgf_Ao0EjrCtGAAiAA"
+  }
+}

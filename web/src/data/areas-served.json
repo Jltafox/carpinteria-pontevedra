@@ -1,0 +1,137 @@
+{
+ "zonas": {
+  "pontevedra": {
+   "name": "Pontevedra",
+   "province": "Pontevedra",
+   "phase": 1,
+   "hub": true,
+   "searches": 796,
+   "gbp_listing": "probable primera ficha",
+   "areas": [
+    "Casco histórico",
+    "A Parda",
+    "Monteporreiro",
+    "Lérez",
+    "Mourente",
+    "Salcedo",
+    "Campañó",
+    "Xeve",
+    "Lourizán"
+   ],
+   "nearby": [
+    "Vilaboa",
+    "Cerdedo-Cotobade",
+    "Campo Lameiro",
+    "Moraña",
+    "Caldas de Reis",
+    "Meis"
+   ]
+  },
+  "santiago-de-compostela": {
+   "name": "Santiago de Compostela",
+   "province": "A Coruña",
+   "phase": 1,
+   "hub": true,
+   "searches": 1312,
+   "gbp_listing": "sin ficha prevista: se capta por orgánico",
+   "areas": [
+    "Zona Vella",
+    "Ensanche",
+    "Santiago Norte",
+    "Fontiñas",
+    "Conxo",
+    "Vista Alegre",
+    "Sar",
+    "San Lázaro",
+    "Lamas de Abade"
+   ],
+   "nearby": [
+    "Ames",
+    "Teo",
+    "Boqueixón",
+    "Vedra",
+    "Oroso",
+    "Brión"
+   ]
+  },
+  "sanxenxo": {
+   "name": "Sanxenxo",
+   "province": "Pontevedra",
+   "phase": 1,
+   "hub": false,
+   "searches": null,
+   "gbp_listing": "alternativa (zona Cambados–Sanxenxo)",
+   "areas": [
+    "Portonovo",
+    "Vilalonga",
+    "Dorrón",
+    "Nantes",
+    "Adina"
+   ],
+   "nearby": [
+    "Meaño",
+    "Cambados",
+    "O Grove",
+    "Meis",
+    "Ribadumia"
+   ]
+  }
+ },
+ "cobertura": [
+  "A Estrada",
+  "Boqueixón",
+  "Vedra",
+  "Rois",
+  "Brión",
+  "Teo",
+  "Santiago de Compostela",
+  "Ames",
+  "Oroso",
+  "Cuntis",
+  "Forcarei",
+  "Cerdedo-Cotobade",
+  "Caldas de Reis",
+  "Campo Lameiro",
+  "Moraña",
+  "Portas",
+  "Pontevedra",
+  "Valga",
+  "Pontecesures",
+  "Padrón",
+  "Dodro",
+  "Catoira",
+  "Vilagarcía de Arousa",
+  "Ribadumia",
+  "Meis",
+  "Vilanova de Arousa",
+  "Boiro",
+  "A Illa de Arousa",
+  "Cambados",
+  "Meaño",
+  "Vilaboa",
+  "O Grove",
+  "Sanxenxo",
+  "Ribeira",
+  "Silleda",
+  "Vila de Cruces",
+  "Dozón",
+  "Lalín"
+ ],
+ "excluidas": [
+  "O Pino",
+  "Trazo",
+  "Negreira",
+  "Frades",
+  "Arzúa",
+  "Ordes",
+  "Melide",
+  "A Lama",
+  "Poio",
+  "Ponte Caldelas",
+  "Marín",
+  "Soutomaior",
+  "Pazos de Borbén",
+  "Redondela",
+  "Rianxo"
+ ]
+}

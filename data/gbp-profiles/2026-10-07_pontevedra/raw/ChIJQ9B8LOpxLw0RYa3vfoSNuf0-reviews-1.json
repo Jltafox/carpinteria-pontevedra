@@ -1,0 +1,225 @@
+{
+  "search_metadata": {
+    "id": "6ac6748412eb14781d63c467",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YjBG6MiUQ2zKYAg2uwC0JmrWcAnt5BSUUOFU7QbwQvE/6ac6748412eb14781d63c467.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YjBG6MiUQ2zKYAg2uwC0JmrWcAnt5BSUUOFU7QbwQvE/6ac6748412eb14781d63c467.md",
+    "created_at": "2026-10-07 16:34:12 UTC",
+    "processed_at": "2026-10-07 16:34:12 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71ea2c7cd043:0xfdb98d847eefad61!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/YjBG6MiUQ2zKYAg2uwC0JmrWcAnt5BSUUOFU7QbwQvE/6ac6748412eb14781d63c467.html",
+    "prettify_html_file": "https://serpapi.com/searches/YjBG6MiUQ2zKYAg2uwC0JmrWcAnt5BSUUOFU7QbwQvE/6ac6748412eb14781d63c467.prettify",
+    "total_time_taken": 0.5
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71ea2c7cd043:0xfdb98d847eefad61",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "CARPINTERIA MARTINEZ PAZ S.L.",
+    "address": "RÚA CANCELA, 9, 36143 Pontevedra, España",
+    "rating": 3.5,
+    "reviews": 11,
+    "type": "Carpintero"
+  },
+  "topics": [
+    {
+      "keyword": "palabra",
+      "mentions": 2,
+      "id": "/m/052jhp"
+    },
+    {
+      "keyword": "estrella",
+      "mentions": 2,
+      "id": "/m/06ngk"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4aWRuSkVNMlJMU0hJeE1rOUpZME5JVjBZNFVXYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOkxidnJEM2RLSHIxMk9JY0NIV0Y4UWc%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 11 meses",
+      "iso_date": "2025-10-20T16:01:49Z",
+      "iso_date_of_last_edit": "2025-10-20T16:01:49Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aWRuSkVNMlJMU0hJeE1rOUpZME5JVjBZNFVXYxAB",
+      "user": {
+        "name": "Javier Pazó",
+        "link": "https://www.google.com/maps/contrib/101079181709444132405?hl=es-419",
+        "contributor_id": "101079181709444132405",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUL-1nrPW-KOB40i9IXisAJHsAV_9wE5ucrt96E-YEFlTTDU1KN=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21ONFVGY3hVVTlhWW5Cc1lXRllaVWR5UldGaE1HYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOmN4UFcxUU9aYnBsYWFYZUdyRWFhMGc%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-10-06T15:51:43Z",
+      "iso_date_of_last_edit": "2025-10-06T15:51:43Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONFVGY3hVVTlhWW5Cc1lXRllaVWR5UldGaE1HYxAB",
+      "user": {
+        "name": "Cristina Puentes soto",
+        "link": "https://www.google.com/maps/contrib/114762438207554818306?hl=es-419",
+        "contributor_id": "114762438207554818306",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIhOmE9CnM7xEkeVlBAuCucd0X0vPzBKZXcVqR0j7cvgEc4QA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 25,
+        "photos": 2
+      },
+      "snippet": "Muy mala gestión por parte del dueño,no tiene palabra y los encargos como sea poca cosa no le interesan y no te los hace y te marea sin darte ningún tipo de explicación, muy mala empresa no volveré ni la recomendaré nunca.",
+      "extracted_snippet": {
+        "original": "Muy mala gestión por parte del dueño,no tiene palabra y los encargos como sea poca cosa no le interesan y no te los hace y te marea sin darte ningún tipo de explicación, muy mala empresa no volveré ni la recomendaré nunca."
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21VdFpqbDBTRVl5TmxkWlNFWmtlWGxPVDB4R09XYxAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CAIQACodChtycF9oOmUtZjl0SEYyNldZSEZkeXlOT0xGOWc%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-10-06T15:07:42Z",
+      "iso_date_of_last_edit": "2025-10-06T15:07:42Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VdFpqbDBTRVl5TmxkWlNFWmtlWGxPVDB4R09XYxAB",
+      "user": {
+        "name": "PELUSA 959",
+        "link": "https://www.google.com/maps/contrib/112981792687248157984?hl=es-419",
+        "contributor_id": "112981792687248157984",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVchE3Oa99FkoQ9kQDzuK82oD8_y3I9axeWhMCle-u6MQSTnpYViw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 36,
+        "photos": 0
+      },
+      "snippet": "No le podria  dar ni una estrella!!.\nNo por su trabajo ni sus trabajadores, que son muy buenos.. es por la dirección de la empresa, que lejos de decir la verdad sobre un trabajo.. se ríe literalmente en la cara cuando pides las explicaciones de la demora.\nUna pena... pero si eso me lo hace a mí..  a cuanta gente también se lo hará?\nLuego porque la gente va a IKEA??\nPOR NO AGUANTAR ESTO!!",
+      "extracted_snippet": {
+        "original": "No le podria  dar ni una estrella!!.\nNo por su trabajo ni sus trabajadores, que son muy buenos.. es por la dirección de la empresa, que lejos de decir la verdad sobre un trabajo.. se ríe literalmente en la cara cuando pides las explicaciones de la demora.\nUna pena... pero si eso me lo hace a mí..  a cuanta gente también se lo hará?\nLuego porque la gente va a IKEA??\nPOR NO AGUANTAR ESTO!!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VQejZsOUh0dmFXcmNnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEPz6l9HtvaWrcg%7C%7C?hl=es-419",
+      "rating": 1.0,
+      "date": "Hace un año",
+      "iso_date": "2025-05-30T12:59:24Z",
+      "iso_date_of_last_edit": "2025-05-30T12:59:24Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VQejZsOUh0dmFXcmNnEAE",
+      "user": {
+        "name": "odilo mosquera",
+        "link": "https://www.google.com/maps/contrib/103151919484469031936?hl=es-419",
+        "contributor_id": "103151919484469031936",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpCcjXYIpuSU1mtdHLjfjjDVvaS6F-I7YcS4NGw1AFJHxkM8s=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 22,
+        "photos": 0
+      },
+      "snippet": "Por no poder dar menos de una estrella. Falta de palabra de este supuesto profesional que no da ni para enviar un presupuesto. A una persona ya no recomendé este sitio. A ver cuántos más me preguntan",
+      "extracted_snippet": {
+        "original": "Por no poder dar menos de una estrella. Falta de palabra de este supuesto profesional que no da ni para enviar un presupuesto. A una persona ya no recomendé este sitio. A ver cuántos más me preguntan"
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQxNW9ybnVBRRAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgID15ornuAE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-01-06T20:55:21Z",
+      "iso_date_of_last_edit": "2024-01-06T20:55:21Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxNW9ybnVBRRAB",
+      "user": {
+        "name": "Fofiluu F",
+        "link": "https://www.google.com/maps/contrib/100832022645802239037?hl=es-419",
+        "contributor_id": "100832022645802239037",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKhh4D2RoDboWHmpKLo9vnrw5SmyJam18mycr7o_vfDR6Shtw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSNU1mU1FnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDR5MfSQg%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-04-18T13:12:16Z",
+      "iso_date_of_last_edit": "2023-04-18T13:12:16Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNU1mU1FnEAE",
+      "user": {
+        "name": "Maria Pilar Martinez",
+        "link": "https://www.google.com/maps/contrib/104112553676571386081?hl=es-419",
+        "contributor_id": "104112553676571386081",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLpmYFk-IBpfLYKzuzIf4pLElaCpNA68foItKnhRz_D7neDkA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 19,
+        "photos": 0
+      },
+      "snippet": "Trató muy amable y muy buenos profesionales, responsable",
+      "extracted_snippet": {
+        "original": "Trató muy amable y muy buenos profesionales, responsable"
+      },
+      "likes": 0
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoaDRTMWxnRRAB!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIChh4S1lgE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-02-23T13:22:31Z",
+      "iso_date_of_last_edit": "2023-02-23T13:22:31Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaDRTMWxnRRAB",
+      "user": {
+        "name": "Percebox Percebin",
+        "link": "https://www.google.com/maps/contrib/113696829429720395006?hl=es-419",
+        "contributor_id": "113696829429720395006",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUCQI4oGDhe4ZZzE10QjnkpdcZHt1IzbwfKfF9YtDL6pe2zCJuO=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 6,
+        "photos": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURlLUp5RFhnEAE!2m1!1s0x0:0xfdb98d847eefad61!3m1!1s2@1:CIHM0ogKEICAgIDe-JyDXg%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 4 años",
+      "iso_date": "2022-10-01T20:10:26Z",
+      "iso_date_of_last_edit": "2022-10-01T20:10:26Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlLUp5RFhnEAE",
+      "user": {
+        "name": "Paula Gonzalez Fernandez",
+        "link": "https://www.google.com/maps/contrib/103804798577553961892?hl=es-419",
+        "contributor_id": "103804798577553961892",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJPpaaDllenPl8oywbDrkmvKZvrF9zLjxcvgOJZMGPQmOVDww=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "details": {
+        "aspectos_positivos": "Profesionalismo",
+        "servicios": "Servicios de acabado de carpintería"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f71ea2c7cd043%3A0xfdb98d847eefad61&engine=google_maps_reviews&hl=es&next_page_token=CjEIARIpCgoAP72Hxq1BWK__EhBULPL87ZD8hCziCZsAAAAAGgn9_mECfGrUFYoYACIA&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72Hxq1BWK__EhBULPL87ZD8hCziCZsAAAAAGgn9_mECfGrUFYoYACIA"
+  }
+}

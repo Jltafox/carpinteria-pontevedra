@@ -1,0 +1,230 @@
+{
+  "search_metadata": {
+    "id": "6ac674935c262223fa6e3b94",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lCyGrPwvhmxVLYZG_UyZ2Ssofs_tA_ygXJRrEpRNWoQ/6ac674935c262223fa6e3b94.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lCyGrPwvhmxVLYZG_UyZ2Ssofs_tA_ygXJRrEpRNWoQ/6ac674935c262223fa6e3b94.md",
+    "created_at": "2026-10-07 16:34:27 UTC",
+    "processed_at": "2026-10-07 16:34:27 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f6ffd7f4b3843:0x13830124882bd1c2!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/lCyGrPwvhmxVLYZG_UyZ2Ssofs_tA_ygXJRrEpRNWoQ/6ac674935c262223fa6e3b94.html",
+    "prettify_html_file": "https://serpapi.com/searches/lCyGrPwvhmxVLYZG_UyZ2Ssofs_tA_ygXJRrEpRNWoQ/6ac674935c262223fa6e3b94.prettify",
+    "total_time_taken": 1.93
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJQzhLf_1vLw0RwtEriCQBgxM",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Amengo - Ebanistería, mueblería y carpintería al detalle.",
+    "place_id": "ChIJQzhLf_1vLw0RwtEriCQBgxM",
+    "data_id": "0xd2f6ffd7f4b3843:0x13830124882bd1c2",
+    "data_cid": "1405968765084750274",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6ffd7f4b3843%3A0x13830124882bd1c2&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6ffd7f4b3843%3A0x13830124882bd1c2&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.3900897,
+      "longitude": -8.695777
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQzhLf_1vLw0RwtEriCQBgxM",
+    "provider_id": "/g/11l6bh_qjc",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR8NppqMWYdr5btervCCCPcsCX3D-6j4We5dQkBvt8c6-LmimrpxRbISsuUlK5aYnjdSqtgCSgDnXRSaQqYP-cvbWVMx0Au_IPH4y_7kzOG6OhSgum4lyVGxbh-KhjVoZ-gIkI=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SrVcSXicHcTbDoIgAADQLyJtqbW2Hoy2ct1MlpdemiKDVEABzfrBvqG_aes8nO-HGdPqpWU1bDahUtKG9JooLIUhwkyw5BZVudYAa8v31zU_lNHi1LbdMclK5RaGqAFCGGIN09kGeJWTELe81OvBLLAHDvzBVTtGRYB0f232bp6JqkSdoRDRjUgjlF-6LAR4KJL4ONp-fw_CnfO6z-v3eeudGaI9d5pXvB0LBvasiuUN0KAOVs-pbduA_cdA_AD1lEZB",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 36
+      }
+    ],
+    "rating": 5,
+    "reviews": 36,
+    "type": [
+      "Ebanista"
+    ],
+    "address": "Rúa República Arxentina, 19, 36915 Marín, Pontevedra",
+    "country": "España",
+    "website": "https://www.instagram.com/carpinteria_amengo_manacho/",
+    "phone": "644 35 70 40",
+    "open_state": "Cerrado · Apertura: 8:00 (jue)",
+    "plus_code": "98R3+2M Marín",
+    "hours": [
+      {
+        "miércoles": "8:00–15:00"
+      },
+      {
+        "jueves": "8:00–15:00"
+      },
+      {
+        "viernes": "8:00–15:00"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "8:00–15:00"
+      },
+      {
+        "martes": "8:00–15:00"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Buen profesional, buena disposición trabajando y seriedad con los plazos.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKqASffOgU62jjnmqCGcPdGxKc7SKUuJhlOEiqUEgdhpbX_Iw=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"La experiencia fue muy positiva.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKi7g7XwpYiycre6NavEYgPA6fKfEpjQFWG4KfkuG5_11rrig=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Quedamos muy contentos con el trabajo que nos hizo\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLNuzjJj1gyqV0dT_IQ3p3pYbAsMpTVxgLbm0Tyu1FqdO63NA=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Laura CZ",
+          "rating": 5,
+          "contributor_id": "102303817154637030398",
+          "user_review_count": 15,
+          "user_photo_count": 5,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUATuOFizxRB0FPyS9uNsQVR_7j1kpaw-X3aR1NIga7rDElBbJC=s120-c-rp-mo-ba12-br100",
+          "description": "Contratamos a Carpintería Amengo para nuestra boda y no podemos estar más contentos con el resultado. Desde el primer momento, Manacho, el dueño, no solo nos trató de maravilla, sino que además nos fue dando ideas buenísimas que podíamos incorporar y que hicieron que todo quedara todavía más especial.\n\nNos preparó un cartel de bienvenida impresionante de bonito, un espejo vinilado espectacular —tanto, que en el propio pazo querían quedárselo para otras bodas— y también unos regalos preciosos para algunos invitados especiales que les dejaron completamente sin palabras.\n\nDe verdad, gracias por todo el cariño que se nota que pusiste en cada una de las cosas que te encargamos. Se nota cuando alguien hace su trabajo con gusto, dedicación y cuidando cada detalle, y en vuestro caso fue así desde el principio hasta el final. No pudimos acertar más.\n\nSi necesitas cualquier cosa de madera para tu boda en Galicia, no dudes en contactar con él. Es un auténtico acierto y un gran profesional. 1000% recomendable.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21vM2JsRmhWVXQ0ZUc1YVVURkpNRU5MUmtaM2QwRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOmo3blFhVUt4eG5aUTFJMENLRkZ3d0E%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmONgY20kmXKrQwCJnw1yrBC-rP3iQXm1AENx6RjRFMsPRSHrNqiS0fPREO1gLegJBL0KM6N81_ggE3vDruJF7ga7OauYdiUUDcJ5ORjbBa7aV1gUH094XfMADmJAL6_I5-JsNWrzIWtu7bf=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOTao9mSaa835IHj7B18qZ3N01oICsNxnTcJyD4orPTadmFUguK40ePybZxh53oHL-HZQ72cxqOi0kfQBo6yK-AKdBEh0Ym0Hp12IlM3j8ncp6TO9sfiIX-ECtSEmDzZbaYefTwqnXSkhHh=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPKVPi-TkfyCY5rZTAI8qZWapkU9Fzz6-M6uJdNQBzujzIkzr8HmptZUd0DWBbLIkudTcwfaqKLR-pV4NaOeShsiLj1fzIvuZhmbwfCFNkC26jQhtPODFpUOxBqo8ICWFSgVm0-JDLmRber=k-no"
+            }
+          ],
+          "date": "Hace 6 meses",
+          "date_iso8601": "2026-03-28T11:28:13+00:00"
+        },
+        {
+          "username": "José lopez 17",
+          "rating": 5,
+          "contributor_id": "111847109070435293850",
+          "user_review_count": 8,
+          "user_photo_count": 10,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWI2BFl-SB_i22OzD_2Kk3qG26upb9mCtO49gq5-QxJshR4Eac=s120-c-rp-mo-br100",
+          "description": "Hola buenas os dejo por aquí algunas fotos de como a quedado el trabajo fino de una mesa de 2,37 metros de largo x 60 de ancho. (Tablón de madera de halla).\nFui con una idea en mente 💡, y todas las dudas que me fueron surgieron por el camino Nacho me ayudo y me las mejoro.\nGran profesionalidad y buen trabajo como podéis comprobar en las fotos sin duda alguno lo recomiendo 💯 .\nNo suelo comentar nada normalmente pero en este caso tenía que expresar lo contento que me siento por buen trabajo realizado ☺️\nY por último quiero destacar la rapidez que tuvo para acabar este proyecto.\nGracias Nacho 🤩",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURQcHVQMWxRRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CIHM0ogKEICAgIDPpuP1lQE%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMGu_h4TVFjhHZpRkntg-4l8rVyzXk7G6ywf2wbZ7a0YbCYlSgLAAcJWNq-2nSqeRkr899n_0GMX2ZgOyzuVlXTLgp40ZK5mGC9FJYL_uu_JXurvVSB8-0d7pdIIpaGgfCOjc6P=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMj68keXklSfzlmK1ci-rHHqq94V9A02ACMljGzJgxTZ2iEFYg9-N11BPAOekcnUM_Z3ZODeTHbTAq7TwBd8xsl6YKvUSUurTzfl9QGzOgCjMeyv83qkHK3PbepDvLKXrVAI1Ff=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPQzPmyS_NpSL7Apa2aMseDfODTySdrbsJzEuHQ_w3WSF7PEQuiM7HW0L1hGi6B0MMbCVvobTdUKatlcSbAopg8yMOgeDTegeMx524hdnbuXvv7u5gj6LZtj5_ZsGxy6ieHnywx=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMC4NAvYScfqT2t9CykeBUYlrGIgMAEl-0pF5aI6xV22wQxkQ7QDXONXnelgu2OQMjs1KujzDWV7fPv-0Sjx2uCVI9xvmyWW9CK_-Ru2lGE8bdobyrZusa1pdKb7wm-o9UTQIqh=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPs-bIfeeN-jpSluDRyTDkDS1KLs_-Fk3EvY4oQH1UQekxdA6jcAq0cvhUtg1KcJNm2OmnLJ4WQUS4DN3rTBjZVCSnZ_k2pODR4J-_DAPvHiFLAiZQRf2B2fkSnNzH6=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM_Tsu0q3Ifpcz8y0HnEZqi9iYCrtNRGcdI3rwacclr5jiQx3gMAUwd3hr7QTc5NlCxDEOV6BEtI3stgU5xAv7B0V3Ka2NmMDZG2-bWPAICqXlGolfVZvkZYCD_-xlZ7yxpHlkQZw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNfjyxZJaPXd-IdIHJDVFKsEtGhLK5Z3kLRzAn-up3ZXXGYhHm9XwcmnRFydhZN3VTWal7ftrNQjXGytnU4kEkETjaPS16TeqGdD2AyrSZhHmiqIpOvvXSU5RySvyktVqmwnMoP=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO-S4zvmA063-ofPdVGQl3yx6i7ZaaN65Iz0-Y_UdySYqCNocFTPXy_00pqLb-a3ulJQrKdJJyWS7OhlEs_J6kac2VWKSOicG8pJKktJXs3FF2HIJrbEoTpesmMI1qu-jg8P0MjLg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMnyLCHVj_9MsjgGrcFHM1dhQxTfLFF07XajEAsM6V85NorL08RTFZbLUrh6pAJUst9pgFvqdpuxiIksXji4cklfLKEZl0jtvmuFpE8sTuuIhTwzHIiEJchQqYdjBmUE_pyHL-D=k-no"
+            }
+          ],
+          "date": "Hace un año",
+          "date_iso8601": "2024-12-01T19:25:26+00:00"
+        },
+        {
+          "username": "Maria Mercedes",
+          "rating": 5,
+          "contributor_id": "108888506493894542992",
+          "user_review_count": 2,
+          "user_photo_count": 3,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJuAnWQZWGaNtX_BBUrvD9rLZg9YKZ7RQ16ULNi0Gq3eCsSmA=s120-c-rp-mo-br100",
+          "description": "Es un profesional de los que ya no quedan una persona  de palabra  y  un trabajor  de sacarse el sombrero  responsable y  sus trabajos  son perfectos  ,yo que encantada  de su precio y de su trabajo\nMil gracias",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KTmExTkNUMGh5ZGtaTU5uWjBRM1J4Y21GeVRGRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOmJNa1NCT0hydkZMNnZ0Q3RxcmFyTFE%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN-lRjWibsW18XgY12Y-ZCm8KrXiaj9k7_RGibRCO6LonNrOPfDhqj9EBkwRLfDXXf4J3ytkMSi3ajME2tpO72_Ag7JniFgzYNC7NZ6PLqHN8VzH-YsRtctvhZCmPQXEuWi1-Xk94-5Cs-W=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMY6NZCdc-2VGZEc2s0zlZyo912BWSp_c9WHI83DO_ed5KokK_mK67lRbUY6AkjJ_r7BXI1eE8mBm0pifDiJCegBinox47nq6bxjTZyhhuGtH_e7uw-zGwKYB2M5ZFdmphaNt6shWqzMfCQ=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMo-ZBFfM1Aolk7oaYTZ_no_8aChAEZmZK8FnS4JenOC-fgDVBwDdu0D62j3elk_HwwewA3-_obrQSR5QmaDnZKkFHMhcs0EBL-Tq8mz4mLPpDcO014t_dsheMrr9Sdi61HLSLC9SCJvnXZ=k-no"
+            }
+          ],
+          "date": "Hace 5 meses",
+          "date_iso8601": "2026-05-02T07:11:51+00:00"
+        },
+        {
+          "username": "Fernando Sobral Boga",
+          "rating": 5,
+          "contributor_id": "117877389218363842130",
+          "user_review_count": 10,
+          "user_photo_count": 28,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIbfCbTbJPa7PjlcSFedcoQmoDQWfeI4rpLjNKr3syhwTKoBg=s120-c-rp-mo-ba12-br100",
+          "description": "Gran profesional!\nTe asesora para la idea que le propones quede perfecta conjugando diseño y utilidad.\nCumple con los plazos acordados.\nTrato personal muy agradable y ameno.\nGracias por tu trabajo Nacho!!!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3cmRQLXNBRRAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CIHM0ogKEICAgID7rdP-sAE%7C%7C?hl=es",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNcFTOcUb2i7raOLa0DrtkMpxITeORqxz1Cv5rEXu4Q9rHF5cLS7nA3eINkc_UjBUxmRY3FdT7vpk0vUF3fJvjPaBQ0PEBdpy_XPUEC2HKkzXYx6aW8pEjqIOVRXA0KnB_IedYW=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOylApnTxxlJcjGe_EI4Yju9GVmb9ggXkx5bYqurZGnDDlMCfe4R8y5uDt122ANSN0F_UT_VR1t34pkZxh78oBCUmXzTi07xLuoDRT8blHSgOVSjsU2wmifBGVut-66aqAM0-bjbw=k-no"
+            }
+          ],
+          "date": "Hace 2 años",
+          "date_iso8601": "2024-08-27T07:50:44+00:00"
+        },
+        {
+          "username": "severino Rodríguez Nantes",
+          "rating": 5,
+          "contributor_id": "114957853276821928263",
+          "user_review_count": 25,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLj-YRWDvEZoc7savXu6MiWE0f0CizlptbfVn2VgCob-R5JpA=s120-c-rp-mo-ba12-br100",
+          "description": "Decir que me parece un buen carpintero, la carpintería muy bien equipada.El trato correcto. El trabajo que hizo quedó perfecto. Lo recomiendo",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SQmNVMU9WMjF1TnpsT1REVkZVRWg1Y3pkcFlXYxAB!2m1!1s0x0:0x13830124882bd1c2!3m1!1s2@1:CAIQACodChtycF9oOnRBcU1OV21uNzlOTDVFUEh5czdpYWc%7C%7C?hl=es",
+          "date": "Hace 5 meses",
+          "date_iso8601": "2026-04-29T11:07:32+00:00"
+        }
+      ]
+    }
+  }
+}

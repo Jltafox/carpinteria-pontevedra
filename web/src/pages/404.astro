@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import CtaButtons from '../components/CtaButtons.astro';
+import { services } from '../lib/site';
+
+const page = {
+  route: '/404/', title: 'Página no encontrada | {{marca}}', description: 'La página que buscas no existe.',
+  noindex: true, jsonld: null, cta: {},
+};
+---
+<Base page={page}>
+  <section class="hero">
+    <div class="wrap">
+      <h1>No encontramos esta página</h1>
+      <p class="lead">Puede que el enlace haya cambiado. Estos son nuestros servicios:</p>
+      <ul class="pills">{services.map((s) => <li><a href={s.route}>{s.h1}</a></li>)}</ul>
+      <CtaButtons />
+    </div>
+  </section>
+</Base>

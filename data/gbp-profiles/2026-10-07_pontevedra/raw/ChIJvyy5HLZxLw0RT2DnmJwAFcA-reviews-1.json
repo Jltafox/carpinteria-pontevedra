@@ -1,0 +1,161 @@
+{
+  "search_metadata": {
+    "id": "6ac674ad1290d9a313cb5e75",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zSubyivZ4Cn30ZGYn3SE93YQ0lFxCfiN9oZW7-MTcrQ/6ac674ad1290d9a313cb5e75.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zSubyivZ4Cn30ZGYn3SE93YQ0lFxCfiN9oZW7-MTcrQ/6ac674ad1290d9a313cb5e75.md",
+    "created_at": "2026-10-07 16:34:53 UTC",
+    "processed_at": "2026-10-07 16:34:53 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71b61cb92cbf:0xc015009c98e7604f!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/zSubyivZ4Cn30ZGYn3SE93YQ0lFxCfiN9oZW7-MTcrQ/6ac674ad1290d9a313cb5e75.html",
+    "prettify_html_file": "https://serpapi.com/searches/zSubyivZ4Cn30ZGYn3SE93YQ0lFxCfiN9oZW7-MTcrQ/6ac674ad1290d9a313cb5e75.prettify",
+    "total_time_taken": 3.66
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71b61cb92cbf:0xc015009c98e7604f",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Manufacturas Madereras Xeve",
+    "address": "36151 Gatomorto, Pontevedra, España",
+    "rating": 4.6,
+    "reviews": 33,
+    "type": "Fábrica"
+  },
+  "topics": [
+    {
+      "keyword": "briqueta",
+      "mentions": 8,
+      "id": "/m/033wl0"
+    },
+    {
+      "keyword": "productos",
+      "mentions": 3,
+      "id": "/m/01jwgf"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoYVJEZDRVelY2YnpsSVRVMUxhR3MyVlhJNVNWRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOlhaRDd4UzV6bzlITU1LaGs2VXI5SVE%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace un mes",
+      "iso_date": "2026-08-20T21:01:41Z",
+      "iso_date_of_last_edit": "2026-08-20T21:01:41Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoYVJEZDRVelY2YnpsSVRVMUxhR3MyVlhJNVNWRRAB",
+      "user": {
+        "name": "Lux BD",
+        "link": "https://www.google.com/maps/contrib/103769680980003915337?hl=es-419",
+        "contributor_id": "103769680980003915337",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWtkRQba5FewNrEGU0XsbTRQhlV3mdUt6_4uFKDkMW0PSldE_E=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 24,
+        "photos": 0
+      },
+      "snippet": "Grandísimos profesionales. Muy atentos y amables. He recibido un trato extraordinario y las briquetas que he adquirido son de primerísima calidad.",
+      "extracted_snippet": {
+        "original": "Grandísimos profesionales. Muy atentos y amables. He recibido un trato extraordinario y las briquetas que he adquirido son de primerísima calidad."
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWWFJIWlVObmxRY1ZGMVUzZDZiSGxoVWpWYVptYxAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOlVXRHZUNnlQcVF1U3d6bHlhUjVaZmc%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 5 meses",
+      "iso_date": "2026-04-29T19:22:48Z",
+      "iso_date_of_last_edit": "2026-04-29T19:22:48Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWFJIWlVObmxRY1ZGMVUzZDZiSGxoVWpWYVptYxAB",
+      "user": {
+        "name": "Juan Mendaña “Jmendana”",
+        "link": "https://www.google.com/maps/contrib/106389313795934090515?hl=es-419",
+        "contributor_id": "106389313795934090515",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLEn4kbxIrXo_WFbVn1Dpd3uEOQHE_nWTE6xNxYgTZKwXZPKw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 16,
+        "photos": 9
+      },
+      "snippet": "Excelente empresa , variedad de productos de madera maciza , te asesoran según tus necesidades !!",
+      "extracted_snippet": {
+        "original": "Excelente empresa , variedad de productos de madera maciza , te asesoran según tus necesidades !!"
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGek5GSlBkMUZuYjJJNE5sQm5SVFZ6T0RKUVUxRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOlFzNFJPd1Fnb2I4NlBnRTVzODJQU1E%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 8 meses",
+      "iso_date": "2026-01-20T18:53:46Z",
+      "iso_date_of_last_edit": "2026-01-20T18:53:46Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGek5GSlBkMUZuYjJJNE5sQm5SVFZ6T0RKUVUxRRAB",
+      "user": {
+        "name": "Javier Mogo",
+        "link": "https://www.google.com/maps/contrib/118225221267724073156?hl=es-419",
+        "contributor_id": "118225221267724073156",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLio-sLYsoSr_POSg1KgBKzY70kIHH6eZ8qlL-AczgxiqGUmw=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 17,
+        "photos": 0
+      },
+      "snippet": "Amables, te atienden rápido",
+      "extracted_snippet": {
+        "original": "Amables, te atienden rápido"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214bGJHUkdkamRVUm5rNFZHVnJVMHhGUjJSSWJYYxAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOmxlbGRGdjdURnk4VGVrU0xFR2RIbXc%7C%7C?hl=es-419",
+      "rating": 5.0,
+      "date": "Hace 10 meses",
+      "iso_date": "2025-11-21T18:20:19Z",
+      "iso_date_of_last_edit": "2025-11-21T18:20:19Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bGJHUkdkamRVUm5rNFZHVnJVMHhGUjJSSWJYYxAB",
+      "user": {
+        "name": "Miguel Sequelo",
+        "link": "https://www.google.com/maps/contrib/107931354553517771456?hl=es-419",
+        "contributor_id": "107931354553517771456",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXc98T0aQ89KIKL43ZXnpR9B_vxMGXZx8KzYLRqko7akyOoD-Qt=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Muy buena calidad y el trato inmejorable. 100% recomendable. Seguiré comprando ahí. Gracias por todo.",
+      "extracted_snippet": {
+        "original": "Muy buena calidad y el trato inmejorable. 100% recomendable. Seguiré comprando ahí. Gracias por todo."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205VVpHbEpabFoxZWpVeFoweHBhaTB3VkRFNUxYYxAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOm9UZGlJZlZ1ejUxZ0xpai0wVDE5LXc%7C%7C?hl=es-419",
+      "rating": 4.0,
+      "date": "Hace 10 meses",
+      "iso_date": "2025-11-16T18:32:38Z",
+      "iso_date_of_last_edit": "2025-11-16T18:32:38Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VVpHbEpabFoxZWpVeFoweHBhaTB3VkRFNUxYYxAB",
+      "user": {
+        "name": "ENRIQUE SILVESTRE GOMEZ MANZANERO",
+        "link": "https://www.google.com/maps/contrib/118114223720425807119?hl=es-419",
+        "contributor_id": "118114223720425807119",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX5RG9wYRs3XMsfdgmjV7-_i_IlvaK2Juss4RagNG_j9Mv3QrWgCA=s120-c-rp-mo-ba12-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 55
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f71b61cb92cbf%3A0xc015009c98e7604f&engine=google_maps_reviews&hl=es&next_page_token=Ci8IARInCgoAP72G37ZE21__EhDxD8tHOdFUYgFdMnMAAAAAGgf_Am37ZE21GAAiAA&sort_by=newestFirst",
+    "next_page_token": "Ci8IARInCgoAP72G37ZE21__EhDxD8tHOdFUYgFdMnMAAAAAGgf_Am37ZE21GAAiAA"
+  }
+}

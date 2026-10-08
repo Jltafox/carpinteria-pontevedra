@@ -1,0 +1,88 @@
+{
+  "place_id": "ChIJE3PNtH5lLw0RTN-0OHxP_zU",
+  "name": "Carpintería Ceyeda, S.L.U.",
+  "data_id": "0xd2f657eb4cd7313:0x35ff4f7c38b4df4c",
+  "address": "La Reigosa, 24, 36828 Ponte Caldelas, Pontevedra",
+  "phone": "986 70 88 01",
+  "website": "http://www.ceyeda.com/",
+  "domain": "ceyeda.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintería",
+  "secondary_categories": [
+    "Fábrica de muebles"
+  ],
+  "attributes": [
+    "Opciones de servicio: Servicios en las instalaciones",
+    "Accesibilidad: Acceso para sillas de ruedas",
+    "Accesibilidad: Aparcamiento adaptado para sillas de ruedas",
+    "Planificación: Se necesita cita",
+    "Pagos: Tarjetas de crédito",
+    "Aparcamiento: Con aparcamiento propio",
+    "Aparcamiento: Parking gratuito"
+  ],
+  "attributes_count": 7,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "7:00–14:30"
+    },
+    {
+      "jueves": "7:00–14:30"
+    },
+    {
+      "viernes": "7:00–14:30"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "Cerrado"
+    },
+    {
+      "martes": "7:00–14:30"
+    }
+  ],
+  "photo_groups": [
+    "Todas",
+    "Del propietario",
+    "Vídeos"
+  ],
+  "n_photos": null,
+  "has_posts": true,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": true,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 5,
+  "total_reviews": 12,
+  "rating_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 12
+  },
+  "reviews_sampled": 12,
+  "last_review_age_days": 140,
+  "reviews_last_12m": 3,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.2,
+  "owner_response_rate": 0,
+  "reviews_with_text_pct": 17,
+  "avg_review_length": 112,
+  "review_topics": [],
+  "review_highlights": [],
+  "grid": {
+    "cells_top": 6,
+    "solv_pct": 10.9,
+    "avr": 8.2,
+    "reach_median_km": 2.5,
+    "reach_max_km": 3.4
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "home": {
+    "lead": "Cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo.",
+    "why": [
+      {"h3": "Taller propio", "text": "Fabricamos en nuestro taller de A Estrada, con la maquinaria necesaria para ajustarnos a cada proyecto."},
+      {"h3": "Montadores propios", "text": "Nuestro equipo monta lo que fabricamos y resuelve los imprevistos de cada obra."},
+      {"h3": "Diseño antes de fabricar", "text": "Te enseñamos el diseño y la valoración antes de empezar. En cocinas, el coste del diseño se descuenta si aceptas el proyecto."},
+      {"h3": "Plazos claros", "text": "Te llamamos en menos de 2 días, visitamos en 3–4 días laborables y te damos presupuesto en 3–4 días."}
+    ],
+    "where": "Trabajamos en Pontevedra, en Santiago de Compostela y en los municipios entre ambas: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín, Silleda y muchos más.",
+    "faqs": [
+      {"q": "¿En qué zonas trabajáis?", "a": "En Pontevedra, Santiago de Compostela y los municipios entre ambas: A Estrada, Caldas de Reis, Padrón, Vilagarcía de Arousa, Cambados, Sanxenxo, Lalín o Silleda, entre otros. Si dudas, pregúntanos."},
+      {"q": "¿Cuánto tardáis en dar presupuesto?", "a": "Te llamamos en menos de 2 días, la visita es en 3–4 días laborables y el presupuesto llega en 3–4 días desde la visita o desde que nos envías los planos."},
+      {"q": "¿Fabricáis vosotros los muebles?", "a": "Sí, en nuestro taller de A Estrada, y el montaje lo hace nuestro propio equipo."},
+      {"q": "¿Qué trabajos hacéis?", "a": "Cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera, carpintería exterior (porches, pérgolas, cobertizos y puertas) y suelos de madera."}
+    ]
+  },
+  "hubs": {
+    "pontevedra": {
+      "lead": "Carpintería de madera en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas y carpintería exterior, con taller propio en A Estrada.",
+      "paragraphs": [
+        "Trabajamos en todo el municipio de Pontevedra. En el centro y el casco histórico, sobre todo en pisos y edificios antiguos; en barrios como A Parda o Monteporreiro, en viviendas más recientes; y en parroquias como Lérez, Mourente, Salcedo, Campañó, Xeve o Lourizán, en casas con jardín, porche y, a menudo, estructura de madera que rehabilitar.",
+        "En el centro, en buena parte peatonal, organizamos entregas y montajes en los horarios de acceso permitidos. En el casco histórico, con normativa de protección propia, revisamos las condiciones de cada obra en la visita."
+      ]
+    },
+    "santiago-de-compostela": {
+      "lead": "Carpintería de madera en Santiago de Compostela: cocinas, armarios y muebles a medida, rehabilitación de estructuras de madera y carpintería exterior.",
+      "paragraphs": [
+        "Trabajamos en todos los barrios de Santiago, de la Zona Vella y el Ensanche a Santiago Norte, Fontiñas, Conxo, Vista Alegre, Sar, San Lázaro o Lamas de Abade, y en los municipios de su entorno.",
+        "En la Zona Vella, Patrimonio de la Humanidad, planificamos cada trabajo teniendo en cuenta su protección y los accesos restringidos. En el resto de la ciudad trabajamos sobre todo en pisos, donde el mueble a medida aprovecha cada metro."
+      ]
+    }
+  },
+  "process": [
+    {"h3": "Te llamamos en menos de 2 días", "text": "Revisamos lo que nos cuentas y te llamamos para concretar el trabajo."},
+    {"h3": "Visita y medición en 3–4 días laborables", "text": "Vamos a la vivienda, tomamos medidas y vemos el estado de lo que hay."},
+    {"h3": "Diseño y presupuesto en 3–4 días", "text": "Desde la visita, o desde que nos envías planos, te entregamos el diseño y un presupuesto detallado."},
+    {"h3": "Fabricación y montaje", "text": "Fabricamos en nuestro taller de A Estrada y lo monta nuestro propio equipo."}
+  ]
+}

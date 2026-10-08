@@ -1,0 +1,90 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { biz, coverage, pageByRoute, phoneLabel, services, slugify, telHref, waHref } from '../lib/site';
+
+const page = pageByRoute('/presupuesto/');
+// Sin endpoint configurado el formulario no envía nada: se rellena form_endpoint en business.json.
+const action = biz.form_endpoint || '#';
+---
+<Base page={page}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <section class="hero">
+    <div class="wrap">
+      <h1>Pide presupuesto sin compromiso</h1>
+      <p class="lead">
+        Cuéntanos tu proyecto y te llamamos en menos de 2 días. Si lo prefieres, llámanos al
+        <a href={telHref()}>{phoneLabel()}</a> o escríbenos por <a href={waHref()}>WhatsApp</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="wrap narrow">
+      <form class="quote" method="post" action={action} enctype="multipart/form-data">
+        <label>Nombre<input name="nombre" required autocomplete="name" /></label>
+        <label>Teléfono<input name="telefono" type="tel" required autocomplete="tel" /></label>
+        <label>Email <span class="opt">(opcional)</span><input name="email" type="email" autocomplete="email" /></label>
+        <label>Municipio
+          <select name="municipio" id="municipio" required>
+            <option value="">Elige tu municipio</option>
+            {coverage.map((m) => <option value={m} data-slug={slugify(m)}>{m}</option>)}
+          </select>
+        </label>
+        <label>Servicio
+          <select name="servicio" id="servicio" required>
+            <option value="">Elige un servicio</option>
+            {services.map((s) => <option value={s.params.servicio}>{s.h1}</option>)}
+          </select>
+        </label>
+        <label>Describe el trabajo<textarea name="descripcion" rows="5" required placeholder="Qué necesitas, medidas aproximadas, estado actual…"></textarea></label>
+        <label>Planos, bocetos o fotos <span class="opt">(opcional, máx. 10 MB)</span>
+          <input name="archivos" type="file" multiple accept=".jpg,.jpeg,.png,.pdf" />
+        </label>
+        <fieldset>
+          <legend>Presupuesto aproximado <span class="opt">(opcional)</span></legend>
+          {['Menos de 5.000 €', '5.000–10.000 €', '10.000–15.000 €', 'Más de 15.000 €', 'No lo sé'].map((v) => (
+            <label class="check"><input type="radio" name="presupuesto" value={v} /> {v}</label>
+          ))}
+        </fieldset>
+        <fieldset>
+          <legend>¿Qué priorizas? <span class="opt">(opcional)</span></legend>
+          {['Precio', 'Calidad y acabados', 'Plazo'].map((v) => (
+            <label class="check"><input type="radio" name="prioridad" value={v} /> {v}</label>
+          ))}
+        </fieldset>
+        <fieldset>
+          <legend>¿Para cuándo lo necesitas? <span class="opt">(opcional)</span></legend>
+          {['En menos de 1 mes', 'En 1–3 meses', 'En más de 3 meses'].map((v) => (
+            <label class="check"><input type="radio" name="plazo" value={v} /> {v}</label>
+          ))}
+        </fieldset>
+        <!-- Antispam: campo trampa que las personas no ven -->
+        <input class="hp" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <label class="check">
+          <input type="checkbox" name="privacidad" required />
+          <span>He leído y acepto la <a href="/politica-de-privacidad/">política de privacidad</a>.</span>
+        </label>
+        <button class="btn btn-primary" type="submit">Enviar solicitud</button>
+      </form>
+      <script is:inline>
+        // Rellena servicio y municipio cuando se llega desde una landing (/presupuesto/?servicio=…&zona=…)
+        const q = new URLSearchParams(location.search);
+        const servicio = document.getElementById('servicio');
+        if (q.get('servicio')) servicio.value = q.get('servicio');
+        const zona = q.get('zona');
+        if (zona) {
+          const option = document.querySelector(`#municipio option[data-slug="${CSS.escape(zona)}"]`);
+          if (option) option.selected = true;
+        }
+      </script>
+
+      <h2>Qué pasa después</h2>
+      <ol class="steps compact">
+        <li><h3>Te llamamos en menos de 2 días</h3><p>Para concretar el trabajo y resolver dudas.</p></li>
+        <li><h3>Visita en 3–4 días laborables</h3><p>Medimos y vemos el estado de lo que hay.</p></li>
+        <li><h3>Presupuesto en 3–4 días</h3><p>Desde la visita, o desde que nos envías planos.</p></li>
+      </ol>
+    </div>
+  </section>
+</Base>

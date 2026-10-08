@@ -1,0 +1,2887 @@
+{
+  "meta": {
+    "skill": "local-pack-multi-city",
+    "keyword": "carpintería",
+    "date": "2026-10-07",
+    "device": "mobile",
+    "google_domain": "google.es",
+    "gl": "es",
+    "hl": "es",
+    "top_pack": 3,
+    "top_organic": 10,
+    "source": "SerpAPI · engine=google + engine=google_maps (Local Pack)",
+    "cities": [
+      {
+        "city": "A Estrada",
+        "location": null,
+        "maps_ll": "@42.6880,-8.4907,14z"
+      },
+      {
+        "city": "Lalín",
+        "location": null,
+        "maps_ll": "@42.6614,-8.1110,14z"
+      },
+      {
+        "city": "Caldas de Reis",
+        "location": null,
+        "maps_ll": "@42.6044,-8.6422,14z"
+      },
+      {
+        "city": "Vilagarcía de Arousa",
+        "location": null,
+        "maps_ll": "@42.5961,-8.7653,14z"
+      },
+      {
+        "city": "Padrón",
+        "location": null,
+        "maps_ll": "@42.7386,-8.6603,14z"
+      }
+    ],
+    "maps_requests": 5,
+    "credits_before": 240,
+    "requests_made": 5,
+    "credits_after": 236,
+    "credits_used": 4
+  },
+  "businesses": [
+    {
+      "name": "Carpinteria Neira Fuentes",
+      "place_id": "ChIJmSwK9gOnLw0RFZMrx4kuDq0",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "A Estrada"
+      ],
+      "n_cities": 1,
+      "avg_rating": 2.7,
+      "total_reviews": 7,
+      "pack_positions": {
+        "A Estrada": 1
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Lugar a Ribeira, 20, 36685 A Estrada, Pontevedra",
+      "phone": "653 18 41 48",
+      "lat": 42.6971195,
+      "lng": -8.4385178
+    },
+    {
+      "name": "Carpintería Ralsideza S.L.",
+      "place_id": "ChIJ-aabSjbHLw0RrVa-b3HET1s",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Lalín"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 1,
+      "pack_positions": {
+        "Lalín": 1
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Cotarelo, 26, 36510 Lalín, Pontevedra",
+      "phone": "638 04 08 11",
+      "lat": 42.6864187,
+      "lng": -8.1087057
+    },
+    {
+      "name": "EMILIO NOVÁS RUIBAL",
+      "place_id": "ChIJTboOGGENLw0R6ulEkc2Rpcc",
+      "domain": "facebook.com",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Caldas de Reis"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 2,
+      "pack_positions": {
+        "Caldas de Reis": 1
+      },
+      "organic_positions": {},
+      "website": "https://www.facebook.com/CarpinteriaENR",
+      "address": "Rúa Xoan Fuentes Echevarría, 26, Portal 1 3°C, 36650 Caldas de Reis, Pontevedra",
+      "phone": null,
+      "lat": 42.6045059,
+      "lng": -8.6453246
+    },
+    {
+      "name": "Carpinteria Abalo",
+      "place_id": "ChIJuXHh2zgULw0RuboLpS1L_Ms",
+      "domain": "carpinteriaabalo.com",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Vilagarcía de Arousa"
+      ],
+      "n_cities": 1,
+      "avg_rating": 3.6,
+      "total_reviews": 9,
+      "pack_positions": {
+        "Vilagarcía de Arousa": 1
+      },
+      "organic_positions": {},
+      "website": "http://www.carpinteriaabalo.com/",
+      "address": "Av. Cambados, 65, 36600 Vilagarcía de Arousa, Pontevedra",
+      "phone": "683 22 57 91",
+      "lat": 42.587924699999995,
+      "lng": -8.7764948
+    },
+    {
+      "name": "Carpintería Tono",
+      "place_id": "ChIJZ0Y5_GwFLw0RIfX_1BCew-4",
+      "domain": "padronvirtual.com",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Padrón"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 2,
+      "pack_positions": {
+        "Padrón": 1
+      },
+      "organic_positions": {},
+      "website": "http://www.padronvirtual.com/carpinteriatono.htm",
+      "address": "Lugar de Pedreda, 111, 15917 Padrón, A Coruña",
+      "phone": "600 82 69 06",
+      "lat": 42.7491379,
+      "lng": -8.649918699999999
+    },
+    {
+      "name": "Carpinteria Ebanistería Rico",
+      "place_id": "ChIJMwAj4-KnLw0RFMm8lE2lb9E",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "A Estrada"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 1,
+      "pack_positions": {
+        "A Estrada": 2
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Rua Campenlos, 18, 36685, Pontevedra",
+      "phone": "630 54 32 22",
+      "lat": 42.7006168,
+      "lng": -8.4803289
+    },
+    {
+      "name": "Carpintería González Hermanos",
+      "place_id": "ChIJIekn6IjBLw0R2aEjnQtcncI",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Lalín"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.3,
+      "total_reviews": 3,
+      "pack_positions": {
+        "Lalín": 2
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Rúa 1, 9, 36500 Lalín, Pontevedra",
+      "phone": null,
+      "lat": 42.652594099999995,
+      "lng": -8.1113697
+    },
+    {
+      "name": "Freiter S L",
+      "place_id": "ChIJGURY6t8QLw0R66uFpJsIzPU",
+      "domain": "freiter.es",
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Caldas de Reis"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 1,
+      "pack_positions": {
+        "Caldas de Reis": 2
+      },
+      "organic_positions": {},
+      "website": "http://www.freiter.es/",
+      "address": "Carretera vilagarcia km1, 36650 Caldas de Reis, Pontevedra",
+      "phone": "986 54 03 42",
+      "lat": 42.60196,
+      "lng": -8.6531871
+    },
+    {
+      "name": "Madeiras Caruncho, S.L.",
+      "place_id": "ChIJg7YqWKQVLw0RtmR9QshoLvo",
+      "domain": "madeirascaruncho.com",
+      "categories": [
+        "Carpintería",
+        "Fábrica de puertas",
+        "Fábrica de muebles",
+        "Servicio de instalación de suelos de madera",
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Vilagarcía de Arousa"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 24,
+      "pack_positions": {
+        "Vilagarcía de Arousa": 2
+      },
+      "organic_positions": {},
+      "website": "https://www.madeirascaruncho.com/",
+      "address": "Rúa Valladares, 14, 36600 Vilagarcía de Arousa, Pontevedra",
+      "phone": "886 16 44 05",
+      "lat": 42.595260599999996,
+      "lng": -8.7521573
+    },
+    {
+      "name": "Carpintería Buxaina",
+      "place_id": "ChIJn1MA-DYbLw0R3iggM6HGZf0",
+      "domain": null,
+      "categories": [
+        "Carpintería"
+      ],
+      "cities_seen": [
+        "Padrón"
+      ],
+      "n_cities": 1,
+      "avg_rating": 3.9,
+      "total_reviews": 7,
+      "pack_positions": {
+        "Padrón": 2
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Aldea Extramundi de Arriba, 191, 15910 Padrón, A Coruña",
+      "phone": "981 81 15 22",
+      "lat": 42.7470821,
+      "lng": -8.6676097
+    },
+    {
+      "name": "Carpintería Estelar S.L.-Ventanas de madera",
+      "place_id": "ChIJ1-upzu2nLw0Rq6cif6RIyNo",
+      "domain": "estelarsl.com",
+      "categories": [
+        "Proveedor de ventanas"
+      ],
+      "cities_seen": [
+        "A Estrada"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.4,
+      "total_reviews": 13,
+      "pack_positions": {
+        "A Estrada": 3
+      },
+      "organic_positions": {},
+      "website": "http://www.estelarsl.com/",
+      "address": "Os Bolos, S/N, Lugar Os Bolos, 20, 36687, Pontevedra",
+      "phone": "986 58 48 41",
+      "lat": 42.6963708,
+      "lng": -8.4598637
+    },
+    {
+      "name": "Carpintería Manuel Fuentes Méndez Corredoira",
+      "place_id": "ChIJpbL-6UXHLw0Rl0bNJW9idmg",
+      "domain": null,
+      "categories": [
+        "Tienda de armarios"
+      ],
+      "cities_seen": [
+        "Lalín"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 4,
+      "pack_positions": {
+        "Lalín": 3
+      },
+      "organic_positions": {},
+      "website": null,
+      "address": "Rúa da Corredoira, 10, 36500 Lalín, Pontevedra",
+      "phone": null,
+      "lat": 42.6650359,
+      "lng": -8.1192311
+    },
+    {
+      "name": "Carpintería de Raíz",
+      "place_id": "ChIJaz1HYXMNLw0RiAHWT3JKqsE",
+      "domain": "deraiz.es",
+      "categories": [
+        "Carpintería",
+        "Servicio de restauración de muebles antiguos",
+        "Fábrica de puertas",
+        "Fábrica de muebles",
+        "Servicio de instalación de ventanas",
+        "Servicio de instalación de suelos de madera",
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Caldas de Reis"
+      ],
+      "n_cities": 1,
+      "avg_rating": 4.2,
+      "total_reviews": 6,
+      "pack_positions": {
+        "Caldas de Reis": 3
+      },
+      "organic_positions": {},
+      "website": "https://www.deraiz.es/",
+      "address": "Ameal, 22, 36655, Pontevedra",
+      "phone": "617 37 89 41",
+      "lat": 42.5704728,
+      "lng": -8.6389826
+    },
+    {
+      "name": "Chazo Carpintería",
+      "place_id": "ChIJ2bCvxYMVLw0RRIKGe-HRvXk",
+      "domain": "chazocarpinteria.com",
+      "categories": [
+        "Carpintería",
+        "Carpintero"
+      ],
+      "cities_seen": [
+        "Vilagarcía de Arousa"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 1,
+      "pack_positions": {
+        "Vilagarcía de Arousa": 3
+      },
+      "organic_positions": {},
+      "website": "http://chazocarpinteria.com/",
+      "address": "Rúa A Basella, 19, 36620 Vilanova de Arousa, Pontevedra",
+      "phone": "609 83 93 15",
+      "lat": 42.565439399999995,
+      "lng": -8.8298551
+    },
+    {
+      "name": "Carpinteria Laiño SL",
+      "place_id": "ChIJy1RaJUcaLw0RPbbe5LqY0M0",
+      "domain": "carpinterialaino.com",
+      "categories": [
+        "Carpintero",
+        "Ebanista"
+      ],
+      "cities_seen": [
+        "Padrón"
+      ],
+      "n_cities": 1,
+      "avg_rating": 5.0,
+      "total_reviews": 7,
+      "pack_positions": {
+        "Padrón": 3
+      },
+      "organic_positions": {},
+      "website": "http://www.carpinterialaino.com/",
+      "address": "Aldea Imo, 52, 15981 Imo, A Coruña",
+      "phone": "981 80 22 14",
+      "lat": 42.7114617,
+      "lng": -8.724086
+    }
+  ],
+  "organic_domains": [],
+  "watchlist": {
+    "Fervenza": [],
+    "Mucarce": [
+      "A Estrada · Maps #7"
+    ],
+    "Pose Mato": [],
+    "Muebles Mato": [],
+    "Life Home": [],
+    "Deco Ideas": [],
+    "Carpintería Estelar": [
+      "A Estrada · Maps #3"
+    ],
+    "Maisk Mobles": []
+  },
+  "cities": [
+    {
+      "slug": "a-estrada",
+      "city": "A Estrada",
+      "location": null,
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": null,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpinteria Neira Fuentes",
+          "place_id": "ChIJmSwK9gOnLw0RFZMrx4kuDq0",
+          "data_cid": "12469955587522401045",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 2.7,
+          "reviews": 7,
+          "address": "Lugar a Ribeira, 20, 36685 A Estrada, Pontevedra",
+          "phone": "653 18 41 48",
+          "lat": 42.6971195,
+          "lng": -8.4385178,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpinteria Ebanistería Rico",
+          "place_id": "ChIJMwAj4-KnLw0RFMm8lE2lb9E",
+          "data_cid": "15091462628968286484",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rua Campenlos, 18, 36685, Pontevedra",
+          "phone": "630 54 32 22",
+          "lat": 42.7006168,
+          "lng": -8.4803289,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Estelar S.L.-Ventanas de madera",
+          "place_id": "ChIJ1-upzu2nLw0Rq6cif6RIyNo",
+          "data_cid": "15764930366955235243",
+          "category": "Proveedor de ventanas",
+          "types": [
+            "Proveedor de ventanas"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 13,
+          "address": "Os Bolos, S/N, Lugar Os Bolos, 20, 36687, Pontevedra",
+          "phone": "986 58 48 41",
+          "lat": 42.6963708,
+          "lng": -8.4598637,
+          "website": "http://www.estelarsl.com/",
+          "domain": "estelarsl.com",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpinteria Neira Fuentes",
+          "place_id": "ChIJmSwK9gOnLw0RFZMrx4kuDq0",
+          "data_cid": "12469955587522401045",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 2.7,
+          "reviews": 7,
+          "address": "Lugar a Ribeira, 20, 36685 A Estrada, Pontevedra",
+          "phone": "653 18 41 48",
+          "lat": 42.6971195,
+          "lng": -8.4385178,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpinteria Ebanistería Rico",
+          "place_id": "ChIJMwAj4-KnLw0RFMm8lE2lb9E",
+          "data_cid": "15091462628968286484",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rua Campenlos, 18, 36685, Pontevedra",
+          "phone": "630 54 32 22",
+          "lat": 42.7006168,
+          "lng": -8.4803289,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Estelar S.L.-Ventanas de madera",
+          "place_id": "ChIJ1-upzu2nLw0Rq6cif6RIyNo",
+          "data_cid": "15764930366955235243",
+          "category": "Proveedor de ventanas",
+          "types": [
+            "Proveedor de ventanas"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 13,
+          "address": "Os Bolos, S/N, Lugar Os Bolos, 20, 36687, Pontevedra",
+          "phone": "986 58 48 41",
+          "lat": 42.6963708,
+          "lng": -8.4598637,
+          "website": "http://www.estelarsl.com/",
+          "domain": "estelarsl.com",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "cartec carpinteros s.l.",
+          "place_id": "ChIJvfjl2_SnLw0RhKRLtlD_t3U",
+          "data_cid": "8482529145296495748",
+          "category": "Oficinas de empresa",
+          "types": [
+            "Oficinas de empresa"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 11,
+          "address": "Av. da Torre, 25, 36680 A Estrada, Pontevedra",
+          "phone": "986 57 30 57",
+          "lat": 42.686726,
+          "lng": -8.481182,
+          "website": "http://www.carteccarpinteros.com/",
+          "domain": "carteccarpinteros.com",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería de Moreira Sa",
+          "place_id": "ChIJw5PXinuoLw0Rxm7zrTjkyhI",
+          "data_cid": "1354145570065968838",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 3.2,
+          "reviews": 9,
+          "address": "Moreira, 45, 36688 A Estrada, Pontevedra",
+          "phone": "986 57 12 12",
+          "lat": 42.714202799999995,
+          "lng": -8.447009,
+          "website": "http://www.carpinteriamoreira.com/",
+          "domain": "carpinteriamoreira.com",
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Dicarmo carpinteros",
+          "place_id": "ChIJoY5wj6mpLw0RfxEemT8v8NI",
+          "data_cid": "15199700692573753727",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Lugar Outeiro-Aguiones, 15, 36685 A Aldea Grande, Pontevedra",
+          "phone": "650 11 35 84",
+          "lat": 42.7133125,
+          "lng": -8.4811664,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Mucarce Carpinteros S L",
+          "place_id": "ChIJIWNFlOYILw0R_eccs5kxLMI",
+          "data_cid": "13991612678538061821",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "A Casiña 5, 36677 Cuntis, Pontevedra",
+          "phone": "986 54 82 18",
+          "lat": 42.667819699999995,
+          "lng": -8.5458331,
+          "website": "http://www.mucarce.adminmyweb.es/",
+          "domain": "mucarce.adminmyweb.es",
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería Loga S.L",
+          "place_id": "ChIJb4CcNOmnLw0RTZit_mUIROs",
+          "data_cid": "16952684131486898253",
+          "category": "Tienda de armarios",
+          "types": [
+            "Tienda de armarios"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Av. Benito Vigo, 66, 36680 A Estrada, Pontevedra",
+          "phone": "986 57 21 98",
+          "lat": 42.6881041,
+          "lng": -8.4887055,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Madesa Almacén De Carpintería Sl",
+          "place_id": "ChIJM9v0_HAILw0RGuBCUqeyPNM",
+          "data_cid": "15221237272314830874",
+          "category": "Establecimiento de venta de madera",
+          "types": [
+            "Establecimiento de venta de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 22,
+          "address": "Santa Baia S/N, Matalobos, 36680 A Estrada, Pontevedra",
+          "phone": "981 55 50 39",
+          "lat": 42.696048999999995,
+          "lng": -8.514688999999999,
+          "website": "https://www.madesasl.com/",
+          "domain": "madesasl.com",
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "OSSO EBANISTERIA CREATIVA",
+          "place_id": "ChIJ9wSYiRsILw0R5NADzpcUukU",
+          "data_cid": "5024350976514183396",
+          "category": "Tienda de artículos para el hogar",
+          "types": [
+            "Tienda de artículos para el hogar"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 13,
+          "address": "Rúa 24, 3, 36680 A Estrada, Pontevedra",
+          "phone": "634 26 62 35",
+          "lat": 42.691739999999996,
+          "lng": -8.489864899999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Tableros Garea",
+          "place_id": "ChIJCyBMFranLw0Rig6jGLHtBUQ",
+          "data_cid": "4901585114340986506",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Av. da Torre, 28, 36680 A Estrada, Pontevedra",
+          "phone": "986 09 43 08",
+          "lat": 42.6868195,
+          "lng": -8.4827114,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Maderas Keylo",
+          "place_id": "ChIJLfmb1X85Yg0R0YkfPi6Q_sw",
+          "data_cid": "14771402356106955217",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero"
+          ],
+          "unclaimed": true,
+          "rating": 4.0,
+          "reviews": 7,
+          "address": "Aguions, 36680 A Estrada, Pontevedra",
+          "phone": "986 57 24 96",
+          "lat": 42.7039663,
+          "lng": -8.4829887,
+          "website": "https://keylosl.com/",
+          "domain": "keylosl.com",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Mco Mobiliario",
+          "place_id": "ChIJ2VmD78IJLw0RINtETPBqG-k",
+          "data_cid": "16797136815512673056",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa alto da Cruz, nº 6, 36689 Matalobos, Pontevedra",
+          "phone": "669 56 73 34",
+          "lat": 42.6927703,
+          "lng": -8.5259307,
+          "website": "https://mcomobiliario.com/",
+          "domain": "mcomobiliario.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Suyma plus madera",
+          "place_id": "ChIJydVD4DKmLw0R9W6WJGFjElw",
+          "data_cid": "6634474469946978037",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 3,
+          "address": "Lugar de A Riba nº20, Callobre, 36688, Pontevedra",
+          "phone": "986 57 23 60",
+          "lat": 42.6964524,
+          "lng": -8.438888799999999,
+          "website": "http://www.suymacontract.es/",
+          "domain": "suymacontract.es",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "SAMBLA SL",
+          "place_id": "ChIJDz-xehgILw0RMB_yDiawDQ8",
+          "data_cid": "1084716762772152112",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 4,
+          "address": "Av. da Torre, 36, 36680 A Estrada, Pontevedra",
+          "phone": "986 57 12 07",
+          "lat": 42.686889,
+          "lng": -8.482938899999999,
+          "website": "https://www.aluminiossambla.com/",
+          "domain": "aluminiossambla.com",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Aluminios Campos S L",
+          "place_id": "ChIJ0ePy1_WnLw0RhjmFpEq3j7U",
+          "data_cid": "13082876973750237574",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 16,
+          "address": "Pol. Ind. de Toedo, Nº, 6, 36682, Pontevedra",
+          "phone": "986 57 03 95",
+          "lat": 42.7141443,
+          "lng": -8.5163426,
+          "website": "http://www.aluminioscampos.net/",
+          "domain": "aluminioscampos.net",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Aluminios Baiuca y PVC",
+          "place_id": "ChIJE-uUMrkJLw0Rmh-rf-pit2U",
+          "data_cid": "7329435677872562074",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa Baiuca, 3, 36680 A Estrada, Pontevedra",
+          "phone": "618 71 62 68",
+          "lat": 42.6895939,
+          "lng": -8.4850665,
+          "website": "https://www.aluminiosbaiuca.es/",
+          "domain": "aluminiosbaiuca.es",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Todomadera Vinó",
+          "place_id": "ChIJgTcEvF-nLw0RBvLEFVCdFOA",
+          "data_cid": "16146703531318243846",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Establecimiento de venta de madera",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": true,
+          "rating": 3.0,
+          "reviews": 2,
+          "address": "Lg. Liñares s/n, 36687, Pontevedra",
+          "phone": "986 59 01 86",
+          "lat": 42.6977589,
+          "lng": -8.4580725,
+          "website": "http://todomaderavino.es/",
+          "domain": "todomaderavino.es",
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Mobles mtb",
+          "place_id": "ChIJkz0O2dqnLw0ROvumioZNlII",
+          "data_cid": "9409230761730964282",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Unnamed Road, 36685, Pontevedra",
+          "phone": "630 53 96 55",
+          "lat": 42.700097799999995,
+          "lng": -8.4690113,
+          "website": "https://moblesmtb.com/",
+          "domain": "moblesmtb.com",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "José Carballo Reboredo",
+          "place_id": "ChIJmSm9x9cILw0RcAz9XKHlV-s",
+          "data_cid": "16958275403099475056",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Lugar, 0 S/N, 36679 A Sobreira, Pontevedra",
+          "phone": "986 53 20 24",
+          "lat": 42.662315899999996,
+          "lng": -8.5601568,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "local_links": [],
+      "organic": [],
+      "serp": {},
+      "warnings": []
+    },
+    {
+      "slug": "lalin",
+      "city": "Lalín",
+      "location": null,
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": null,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Ralsideza S.L.",
+          "place_id": "ChIJ-aabSjbHLw0RrVa-b3HET1s",
+          "data_cid": "6579693572096677549",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Cotarelo, 26, 36510 Lalín, Pontevedra",
+          "phone": "638 04 08 11",
+          "lat": 42.6864187,
+          "lng": -8.1087057,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería González Hermanos",
+          "place_id": "ChIJIekn6IjBLw0R2aEjnQtcncI",
+          "data_cid": "14023466019652346329",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 4.3,
+          "reviews": 3,
+          "address": "Rúa 1, 9, 36500 Lalín, Pontevedra",
+          "phone": null,
+          "lat": 42.652594099999995,
+          "lng": -8.1113697,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Manuel Fuentes Méndez Corredoira",
+          "place_id": "ChIJpbL-6UXHLw0Rl0bNJW9idmg",
+          "data_cid": "7527312056711464599",
+          "category": "Tienda de armarios",
+          "types": [
+            "Tienda de armarios"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "Rúa da Corredoira, 10, 36500 Lalín, Pontevedra",
+          "phone": null,
+          "lat": 42.6650359,
+          "lng": -8.1192311,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Ralsideza S.L.",
+          "place_id": "ChIJ-aabSjbHLw0RrVa-b3HET1s",
+          "data_cid": "6579693572096677549",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Cotarelo, 26, 36510 Lalín, Pontevedra",
+          "phone": "638 04 08 11",
+          "lat": 42.6864187,
+          "lng": -8.1087057,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería González Hermanos",
+          "place_id": "ChIJIekn6IjBLw0R2aEjnQtcncI",
+          "data_cid": "14023466019652346329",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 4.3,
+          "reviews": 3,
+          "address": "Rúa 1, 9, 36500 Lalín, Pontevedra",
+          "phone": null,
+          "lat": 42.652594099999995,
+          "lng": -8.1113697,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería Manuel Fuentes Méndez Corredoira",
+          "place_id": "ChIJpbL-6UXHLw0Rl0bNJW9idmg",
+          "data_cid": "7527312056711464599",
+          "category": "Tienda de armarios",
+          "types": [
+            "Tienda de armarios"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "Rúa da Corredoira, 10, 36500 Lalín, Pontevedra",
+          "phone": null,
+          "lat": 42.6650359,
+          "lng": -8.1192311,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carpintería Ralsideza S.L.",
+          "place_id": "ChIJUZZgn6O4Lw0R_erOAq00i8g",
+          "data_cid": "14450701747029469949",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "CIUDAD DEL TRANSPORTE, POL. IND, Polígono Lalín 2000, A9, 36512, Pontevedra",
+          "phone": "638 04 08 11",
+          "lat": 42.6759063,
+          "lng": -8.1571157,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería Jar Novoa",
+          "place_id": "ChIJFXXzx2m_Lw0RB3oDuoSSc6s",
+          "data_cid": "12354379301561530887",
+          "category": "Oficinas de empresa",
+          "types": [
+            "Oficinas de empresa"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 11,
+          "address": "Polígono Botos, 36519, Pontevedra",
+          "phone": "986 79 27 95",
+          "lat": 42.6315307,
+          "lng": -8.147210099999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Varela SL",
+          "place_id": "ChIJUfPIMK3ALw0RWZJO0e2150g",
+          "data_cid": "5253367523374436953",
+          "category": "Taller de metalurgia",
+          "types": [
+            "Taller de metalurgia"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Av. do Empalme, 60, 36500 Lalín, Pontevedra",
+          "phone": "986 78 48 17",
+          "lat": 42.654957599999996,
+          "lng": -8.1224594,
+          "website": "http://www.cmvarela.es/",
+          "domain": "cmvarela.es",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Aluminios NOFRA",
+          "place_id": "ChIJ_WAObz7HLw0RkGtiGc_nwKo",
+          "data_cid": "12304089058646322064",
+          "category": "Taller de instalación de puertas y ventanas",
+          "types": [
+            "Taller de instalación de puertas y ventanas"
+          ],
+          "unclaimed": true,
+          "rating": 3.5,
+          "reviews": 15,
+          "address": "Av. Cruces, 10, 36500 Lalín, Pontevedra",
+          "phone": "986 78 10 00",
+          "lat": 42.6656751,
+          "lng": -8.118124,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería Metálica Souto S.C.",
+          "place_id": "ChIJ6Uo-dVojVAcR20hgU_qbZF0",
+          "data_cid": "6729675242641311963",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "Cidade do trasporte, Pol. Industrial, Polígono Lalín 2000, B2, 36500 Lalín, Pontevedra",
+          "phone": "659 23 17 48",
+          "lat": 42.6762623,
+          "lng": -8.156661,
+          "website": "http://www.carpinteriametalicasouto.com/",
+          "domain": "carpinteriametalicasouto.com",
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Aluminios Alfra",
+          "place_id": "ChIJiWYVP0rHLw0R0iyJyd61ZpE",
+          "data_cid": "10477261551592615122",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 3.0,
+          "reviews": 2,
+          "address": "Av. Montserrat, 13, 36515 Lalín, Pontevedra",
+          "phone": "986 78 38 49",
+          "lat": 42.652242099999995,
+          "lng": -8.123706199999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "SimPerDeza SL",
+          "place_id": "ChIJYynziLzIKCgRO8kwucADqIo",
+          "data_cid": "9991239899597031739",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Ciudad Del Transporte A, Pol. Ind, Polígono Lalín 2000, 9, 36512 Lalín, Pontevedra",
+          "phone": "690 69 01 49",
+          "lat": 42.6758896,
+          "lng": -8.1575349,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "INDUSTRIAS VAYRO",
+          "place_id": "ChIJhzHlnEnHLw0Rc9kDtZZ3WJ0",
+          "data_cid": "11337943551070951795",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 10,
+          "address": "Rúa Ramón Aller, 49, 36519 Lalín, Pontevedra",
+          "phone": "986 78 23 84",
+          "lat": 42.6598608,
+          "lng": -8.114536,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Galemet",
+          "place_id": "ChIJARlJ4TzHLw0RGZRtZaMRguU",
+          "data_cid": "16537800175136904217",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Delaparte s/n. Goias, 36500 Lalín, Pontevedra",
+          "phone": "622 42 58 95",
+          "lat": 42.67174,
+          "lng": -8.102563,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Aperturas de Puertas Otero",
+          "place_id": "ChIJU7aI51fHLw0RfQznHJuHKD4",
+          "data_cid": "4478978929694542973",
+          "category": "Cerrajero",
+          "types": [
+            "Cerrajero",
+            "Cerrajero de emergencia",
+            "Servicio de duplicación de llaves",
+            "Cerrajería",
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rua dos Arrieiros, 8, Bajo, 36500 Lalín, Pontevedra",
+          "phone": "637 83 29 17",
+          "lat": 42.666322199999996,
+          "lng": -8.126398199999999,
+          "website": "https://www.aperturadepuertasotero.es/",
+          "domain": "aperturadepuertasotero.es",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Inasus",
+          "place_id": "ChIJnUMPfjbHLw0RMa47G17ynvo",
+          "data_cid": "18059138041800011313",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 15,
+          "address": "Polígono Industrial, Polígono Lalín 2000, 36500 Lalín, Pontevedra",
+          "phone": "986 78 75 25",
+          "lat": 42.6730018,
+          "lng": -8.1508396,
+          "website": "https://inasus.com/",
+          "domain": "inasus.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Alusystem Ibérica",
+          "place_id": "ChIJOXeKScq5Lw0R9g-gsN0U6lo",
+          "data_cid": "6551071550347415542",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa Corpiño, 14, 36512 Prado, Pontevedra",
+          "phone": "986 79 44 11",
+          "lat": 42.6851032,
+          "lng": -8.1829307,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Aluminios Mato",
+          "place_id": "ChIJ0_SrbDbHLw0Rhte3jCyhjdk",
+          "data_cid": "15676363090658056070",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.6,
+          "reviews": 9,
+          "address": "Av. Ourense, 25, 36500 Lalín, Pontevedra",
+          "phone": "986 78 10 84",
+          "lat": 42.6507475,
+          "lng": -8.110986,
+          "website": "https://aluminiosmato.es/",
+          "domain": "aluminiosmato.es",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Cerrajería Metalbo",
+          "place_id": "ChIJj8ZlBmi_Lw0RBVBkfQ-47rY",
+          "data_cid": "13181675536027766789",
+          "category": "Cerrajería",
+          "types": [
+            "Cerrajería",
+            "Instalación de persianas",
+            "Fábrica de puertas",
+            "Proveedor de puertas para garaje",
+            "Cerrajero",
+            "Carpintería metálica y de aluminio",
+            "Empresa de instalación de cubiertas"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 9,
+          "address": "Estación de Botos, 15, 36519 Botos, Pontevedra",
+          "phone": "667 44 54 59",
+          "lat": 42.6322074,
+          "lng": -8.145099,
+          "website": "https://www.cerrajeriametalbo.es/",
+          "domain": "cerrajeriametalbo.es",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Aluminios Aperglass S.L",
+          "place_id": "ChIJ8yRqQErHLw0RBFgFSPwC9x0",
+          "data_cid": "2159197828910766084",
+          "category": "Oficinas de empresa",
+          "types": [
+            "Oficinas de empresa",
+            "Instalación de persianas",
+            "Tienda de artículos de cristal",
+            "Carpintería metálica y de aluminio",
+            "Tienda de mamparas de ducha"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 1,
+          "address": "Av. Buenos Aires, 52, 36500 Lalín, Pontevedra",
+          "phone": "986 78 34 89",
+          "lat": 42.6580711,
+          "lng": -8.1136307,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Carpintería HISERFERO SLU",
+          "place_id": "ChIJjynXrvC-Lw0RgjN7-4gu1Rw",
+          "data_cid": "2077617968970937218",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 7,
+          "address": "Carretera, 1, 36519 Lalín, Pontevedra",
+          "phone": "986 78 19 17",
+          "lat": 42.615545,
+          "lng": -8.1887534,
+          "website": "http://egomoises.wixsite.com/hiserferoslu",
+          "domain": "egomoises.wixsite.com",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Comercial Gonzalez . Pinturas Titan",
+          "place_id": "ChIJzzdwZErHLw0RZtQAgQLkKYI",
+          "data_cid": "9379278398381151334",
+          "category": "Tienda de pinturas",
+          "types": [
+            "Tienda de pinturas"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 89,
+          "address": "Av. da Estación, 6, 36500 Lalín, Pontevedra",
+          "phone": "986 79 20 13",
+          "lat": 42.6571916,
+          "lng": -8.1130367,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        }
+      ],
+      "local_links": [],
+      "organic": [],
+      "serp": {},
+      "warnings": []
+    },
+    {
+      "slug": "caldas-de-reis",
+      "city": "Caldas de Reis",
+      "location": null,
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": null,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "EMILIO NOVÁS RUIBAL",
+          "place_id": "ChIJTboOGGENLw0R6ulEkc2Rpcc",
+          "data_cid": "14386064896796453354",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Rúa Xoan Fuentes Echevarría, 26, Portal 1 3°C, 36650 Caldas de Reis, Pontevedra",
+          "phone": null,
+          "lat": 42.6045059,
+          "lng": -8.6453246,
+          "website": "https://www.facebook.com/CarpinteriaENR",
+          "domain": "facebook.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Freiter S L",
+          "place_id": "ChIJGURY6t8QLw0R66uFpJsIzPU",
+          "data_cid": "17711540899114494955",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Carretera vilagarcia km1, 36650 Caldas de Reis, Pontevedra",
+          "phone": "986 54 03 42",
+          "lat": 42.60196,
+          "lng": -8.6531871,
+          "website": "http://www.freiter.es/",
+          "domain": "freiter.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería de Raíz",
+          "place_id": "ChIJaz1HYXMNLw0RiAHWT3JKqsE",
+          "data_cid": "13955048250187055496",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Servicio de restauración de muebles antiguos",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de instalación de ventanas",
+            "Servicio de instalación de suelos de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.2,
+          "reviews": 6,
+          "address": "Ameal, 22, 36655, Pontevedra",
+          "phone": "617 37 89 41",
+          "lat": 42.5704728,
+          "lng": -8.6389826,
+          "website": "https://www.deraiz.es/",
+          "domain": "deraiz.es",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "EMILIO NOVÁS RUIBAL",
+          "place_id": "ChIJTboOGGENLw0R6ulEkc2Rpcc",
+          "data_cid": "14386064896796453354",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Rúa Xoan Fuentes Echevarría, 26, Portal 1 3°C, 36650 Caldas de Reis, Pontevedra",
+          "phone": null,
+          "lat": 42.6045059,
+          "lng": -8.6453246,
+          "website": "https://www.facebook.com/CarpinteriaENR",
+          "domain": "facebook.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Freiter S L",
+          "place_id": "ChIJGURY6t8QLw0R66uFpJsIzPU",
+          "data_cid": "17711540899114494955",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Carretera vilagarcia km1, 36650 Caldas de Reis, Pontevedra",
+          "phone": "986 54 03 42",
+          "lat": 42.60196,
+          "lng": -8.6531871,
+          "website": "http://www.freiter.es/",
+          "domain": "freiter.es",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpintería de Raíz",
+          "place_id": "ChIJaz1HYXMNLw0RiAHWT3JKqsE",
+          "data_cid": "13955048250187055496",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Servicio de restauración de muebles antiguos",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de instalación de ventanas",
+            "Servicio de instalación de suelos de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.2,
+          "reviews": 6,
+          "address": "Ameal, 22, 36655, Pontevedra",
+          "phone": "617 37 89 41",
+          "lat": 42.5704728,
+          "lng": -8.6389826,
+          "website": "https://www.deraiz.es/",
+          "domain": "deraiz.es",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carmobel Rodriguez, S.L.",
+          "place_id": "ChIJD31R8nUNLw0R_mGlK_hk1Rk",
+          "data_cid": "1861505038034493950",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero",
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": "Ctra. Coruña-Tui km. 101,600 Arcos de la Condesa, 36655 Caldas de Reis, Pontevedra",
+          "phone": "986 53 01 14",
+          "lat": 42.5761983,
+          "lng": -8.64226,
+          "website": "http://www.carmobel.es//",
+          "domain": "carmobel.es",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Carpintería Martínez",
+          "place_id": "ChIJFXSkr-gNLw0RD9901iYMlDA",
+          "data_cid": "3500436171319992079",
+          "category": "Tienda de armarios",
+          "types": [
+            "Tienda de armarios"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Calle Santa María Pazo, 32, 36650 Caldas de Reis, Pontevedra",
+          "phone": "986 54 00 52",
+          "lat": 42.60529,
+          "lng": -8.64298,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Carpintería José Manuel Martínez Herves",
+          "place_id": "ChIJ8xXL7U4JLw0RC1ZjmgBEz68",
+          "data_cid": "12668419046197384715",
+          "category": "Tienda de muebles",
+          "types": [
+            "Tienda de muebles",
+            "Tienda de armarios"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 3,
+          "address": "Rúa do Convento, 29, 36678 Cuntis, Pontevedra",
+          "phone": "986 54 80 49",
+          "lat": 42.6356062,
+          "lng": -8.568137799999999,
+          "website": "http://www.facebook.com/carpinteriajmartinez/",
+          "domain": "facebook.com",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Cascallar SL",
+          "place_id": "ChIJ6-CeHvANLw0RGOxTJtFDQfc",
+          "data_cid": "17816596166424652824",
+          "category": "Fábrica de muebles",
+          "types": [
+            "Fábrica de muebles"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa Xoan Fuentes Echevarría, 56, 36650 Caldas de Reis, Pontevedra",
+          "phone": "986 54 04 80",
+          "lat": 42.6041819,
+          "lng": -8.6507433,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintería Caballero",
+          "place_id": "ChIJjc7n_E4JLw0Rra3VN6Ldb0M",
+          "data_cid": "4859346211747245485",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Polígono Industrial A Ran, Parcela 17, 36670 Cuntis, Pontevedra",
+          "phone": "600 51 48 00",
+          "lat": 42.6284582,
+          "lng": -8.5760921,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Nave Carpinteria",
+          "place_id": "ChIJU4VzZAATLw0REZ5exrc5L-Y",
+          "data_cid": "16586539414098714129",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Lugar Carballal-Saiar, 20, 36656 A Igrexa, Pontevedra",
+          "phone": null,
+          "lat": 42.6083211,
+          "lng": -8.6820275,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Carpivedra",
+          "place_id": "ChIJv5le4bRzLw0RghOXOSfnJhY",
+          "data_cid": "1596217273605362562",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 4.1,
+          "reviews": 13,
+          "address": "Polígono Monte Afieiras, Parcela 8, 1B, 36660 Moraña, Pontevedra",
+          "phone": "669 58 36 10",
+          "lat": 42.594335699999995,
+          "lng": -8.5882363,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Palfer",
+          "place_id": "ChIJf_ktMogJLw0RrZheMGqMg3g",
+          "data_cid": "8683938894206376109",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa Bernardo Sagasta, 8, bajo, 36670 Cuntis, Pontevedra",
+          "phone": "687 64 24 36",
+          "lat": 42.6340319,
+          "lng": -8.5652407,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Raúl Conde Montajes",
+          "place_id": "ChIJhz25dgANLw0R9VeLJN-7SXk",
+          "data_cid": "8739723118954371061",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa Estacion, 6, 36658 A Estación, Pontevedra",
+          "phone": null,
+          "lat": 42.5857457,
+          "lng": -8.658036899999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Roble Galicia",
+          "place_id": "ChIJnStEq2ATLw0REn7nmCpDasQ",
+          "data_cid": "14153198629198200338",
+          "category": "Fábrica de muebles",
+          "types": [
+            "Fábrica de muebles"
+          ],
+          "unclaimed": false,
+          "rating": 4.8,
+          "reviews": 17,
+          "address": "Regenjo, s/n, 36615 Caldas de Reis, Pontevedra",
+          "phone": "686 94 01 86",
+          "lat": 42.581721699999996,
+          "lng": -8.6979334,
+          "website": "https://roblegalicia.es/",
+          "domain": "roblegalicia.es",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Castrogar SL",
+          "place_id": "ChIJSW_7oXQNLw0RnjCwWqI3VDM",
+          "data_cid": "3698642364423745694",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 4.7,
+          "reviews": 6,
+          "address": "Calle Ameal, 7, 36650 Caldas de Reis, Pontevedra",
+          "phone": "986 54 05 17",
+          "lat": 42.5718356,
+          "lng": -8.642379799999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Gammagal",
+          "place_id": "ChIJv1MHA40TLw0R1UtVYXbZP8g",
+          "data_cid": "14429490833580706773",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 4,
+          "address": "Lugar Reguengo - Godos. Polígono 203, parcela 10254 Castro Pontevedra ES, 36615 Bouza",
+          "phone": "615 47 30 85",
+          "lat": 42.580642,
+          "lng": -8.7012445,
+          "website": "https://gammagal.es/",
+          "domain": "gammagal.es",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "INDALSU, S.L.",
+          "place_id": "ChIJ2eXnxA0SLw0R-Vjea0JmUFQ",
+          "data_cid": "6075468332786407673",
+          "category": "Fábrica",
+          "types": [
+            "Fábrica"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 16,
+          "address": "Ctra Caldas-Vilagarcía, Km 2, 5, 36659, 36659 Caldas de Reis, Pontevedra",
+          "phone": "986 53 90 71",
+          "lat": 42.598230699999995,
+          "lng": -8.6691895,
+          "website": "https://www.indalsu.com/",
+          "domain": "indalsu.com",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Juan Ricoy",
+          "place_id": "ChIJWXBbjwcTLw0R_x3FBQZIUUE",
+          "data_cid": "4706622276282686975",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 4.3,
+          "reviews": 6,
+          "address": "Calle Fonsin, 7, 36620 Fonsín, Pontevedra",
+          "phone": "609 55 72 33",
+          "lat": 42.5699464,
+          "lng": -8.7138835,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "UmiaMetal, SL",
+          "place_id": "ChIJgUgci5ENLw0Ri0kDgd_sceY",
+          "data_cid": "16605313745778067851",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 4,
+          "address": "Calle Castaños, S/N, 36655 Caldas de Reis, Pontevedra",
+          "phone": "646 06 22 38",
+          "lat": 42.593470599999996,
+          "lng": -8.6484195,
+          "website": "http://umiametal.com/",
+          "domain": "umiametal.com",
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Cairo Metal",
+          "place_id": "ChIJd0mOGgAPLw0RsCn7WtXrQ0Y",
+          "data_cid": "5063149707681540528",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Lugar, 85, 36670 Meira, Pontevedra",
+          "phone": null,
+          "lat": 42.6295236,
+          "lng": -8.5789242,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Carpinteria Gelo S.L",
+          "place_id": "ChIJmzQxpJMTLw0RUCo1HJyiQiw",
+          "data_cid": "3189290277503576656",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "36614 Vilanova de Arousa, Pontevedra",
+          "phone": "629 85 99 68",
+          "lat": 42.5676652,
+          "lng": -8.7154749,
+          "website": "https://www.carpinteriagelo.com/",
+          "domain": "carpinteriagelo.com",
+          "snippet": null
+        }
+      ],
+      "local_links": [],
+      "organic": [],
+      "serp": {},
+      "warnings": []
+    },
+    {
+      "slug": "vilagarcia-de-arousa",
+      "city": "Vilagarcía de Arousa",
+      "location": null,
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": null,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpinteria Abalo",
+          "place_id": "ChIJuXHh2zgULw0RuboLpS1L_Ms",
+          "data_cid": "14698705943245077177",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.6,
+          "reviews": 9,
+          "address": "Av. Cambados, 65, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "683 22 57 91",
+          "lat": 42.587924699999995,
+          "lng": -8.7764948,
+          "website": "http://www.carpinteriaabalo.com/",
+          "domain": "carpinteriaabalo.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Madeiras Caruncho, S.L.",
+          "place_id": "ChIJg7YqWKQVLw0RtmR9QshoLvo",
+          "data_cid": "18027461567728936118",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de instalación de suelos de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 24,
+          "address": "Rúa Valladares, 14, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "886 16 44 05",
+          "lat": 42.595260599999996,
+          "lng": -8.7521573,
+          "website": "https://www.madeirascaruncho.com/",
+          "domain": "madeirascaruncho.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Chazo Carpintería",
+          "place_id": "ChIJ2bCvxYMVLw0RRIKGe-HRvXk",
+          "data_cid": "8772398415557853764",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa A Basella, 19, 36620 Vilanova de Arousa, Pontevedra",
+          "phone": "609 83 93 15",
+          "lat": 42.565439399999995,
+          "lng": -8.8298551,
+          "website": "http://chazocarpinteria.com/",
+          "domain": "chazocarpinteria.com",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpinteria Abalo",
+          "place_id": "ChIJuXHh2zgULw0RuboLpS1L_Ms",
+          "data_cid": "14698705943245077177",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 3.6,
+          "reviews": 9,
+          "address": "Av. Cambados, 65, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "683 22 57 91",
+          "lat": 42.587924699999995,
+          "lng": -8.7764948,
+          "website": "http://www.carpinteriaabalo.com/",
+          "domain": "carpinteriaabalo.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Madeiras Caruncho, S.L.",
+          "place_id": "ChIJg7YqWKQVLw0RtmR9QshoLvo",
+          "data_cid": "18027461567728936118",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de instalación de suelos de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 24,
+          "address": "Rúa Valladares, 14, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "886 16 44 05",
+          "lat": 42.595260599999996,
+          "lng": -8.7521573,
+          "website": "https://www.madeirascaruncho.com/",
+          "domain": "madeirascaruncho.com",
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Chazo Carpintería",
+          "place_id": "ChIJ2bCvxYMVLw0RRIKGe-HRvXk",
+          "data_cid": "8772398415557853764",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa A Basella, 19, 36620 Vilanova de Arousa, Pontevedra",
+          "phone": "609 83 93 15",
+          "lat": 42.565439399999995,
+          "lng": -8.8298551,
+          "website": "http://chazocarpinteria.com/",
+          "domain": "chazocarpinteria.com",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "CARPINTERIA RUBEN COSTA",
+          "place_id": "ChIJqyeLNwAVLw0RJK_RBTNzE6A",
+          "data_cid": "11534689733604126500",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Lugar A Cerca, 33, 36620 Vilanova de Arousa, Pontevedra",
+          "phone": null,
+          "lat": 42.5660953,
+          "lng": -8.8225587,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Maderas Lago y Campos",
+          "place_id": "ChIJH30hWhoULw0RSqxw6zgm6EA",
+          "data_cid": "4677030238934314058",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios",
+            "Fábrica de puertas",
+            "Establecimiento de venta de madera",
+            "Proveedor de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 8,
+          "address": "Calle Pablo Iglesias, Rúa Pablo Iglesias, 5, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "986 50 20 25",
+          "lat": 42.598498899999996,
+          "lng": -8.762338999999999,
+          "website": "https://www.maderaslago.es/",
+          "domain": "maderaslago.es",
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Carpintería Ebanistería Mariño SL",
+          "place_id": "ChIJ1R-EMwwULw0RAAIps0ACzy8",
+          "data_cid": "3444974716868690432",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Servicio de restauración de muebles antiguos",
+            "Ebanista",
+            "Tienda de armarios",
+            "Fábrica de muebles",
+            "Tienda de muebles de cocina"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 24,
+          "address": "Av. Berdón, 64, 36613 Vilagarcía de Arousa, Pontevedra",
+          "phone": "687 02 60 40",
+          "lat": 42.6035136,
+          "lng": -8.754999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Carpinteria Gelo S.L",
+          "place_id": "ChIJmzQxpJMTLw0RUCo1HJyiQiw",
+          "data_cid": "3189290277503576656",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "36614 Vilanova de Arousa, Pontevedra",
+          "phone": "629 85 99 68",
+          "lat": 42.5676652,
+          "lng": -8.7154749,
+          "website": "https://www.carpinteriagelo.com/",
+          "domain": "carpinteriagelo.com",
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Maderas Rodríguez",
+          "place_id": "ChIJvWTBcAgULw0RFHKZKyIXvpk",
+          "data_cid": "11078317568905802260",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de electrodomésticos",
+            "Tienda de armarios",
+            "Proveedor de puertas",
+            "Tienda de muebles de cocina",
+            "Servicio de instalación de suelos de madera",
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 11,
+          "address": "Rua Dañiel Espiño Nº15 Bajo A, 36613 Vilagarcía de Arousa, Pontevedra",
+          "phone": "986 50 00 30",
+          "lat": 42.5972408,
+          "lng": -8.7500757,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "Carpinteria Frieiro",
+          "place_id": "ChIJK8KvpMgTLw0R6EjS1EBiElI",
+          "data_cid": "5913897291278862568",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rúa do Pomar, 8, 36613 Trabanca Badiña, Pontevedra",
+          "phone": "605 95 69 42",
+          "lat": 42.5996455,
+          "lng": -8.743705799999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Don Carpintero",
+          "place_id": "ChIJx8OGVwYULw0RoU0iLi_USWk",
+          "data_cid": "7586828346384862625",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa Carregal, 21, 36613 Vilagarcía de Arousa, Pontevedra",
+          "phone": "607 42 96 21",
+          "lat": 42.5998163,
+          "lng": -8.7515223,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Botero Murillo Carpinteros",
+          "place_id": "ChIJD7DGsjsVLw0Ru0toN8pOgxc",
+          "data_cid": "1694284515241380795",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Avenida das Carolinas, 70, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "647 11 92 10",
+          "lat": 42.5941769,
+          "lng": -8.7538489,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Juan Ricoy",
+          "place_id": "ChIJWXBbjwcTLw0R_x3FBQZIUUE",
+          "data_cid": "4706622276282686975",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 4.3,
+          "reviews": 6,
+          "address": "Calle Fonsin, 7, 36620 Fonsín, Pontevedra",
+          "phone": "609 55 72 33",
+          "lat": 42.5699464,
+          "lng": -8.7138835,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "Nave Carpinteria",
+          "place_id": "ChIJU4VzZAATLw0REZ5exrc5L-Y",
+          "data_cid": "16586539414098714129",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "Lugar Carballal-Saiar, 20, 36656 A Igrexa, Pontevedra",
+          "phone": null,
+          "lat": 42.6083211,
+          "lng": -8.6820275,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Herbreda S.L.",
+          "place_id": "ChIJWxglPKwVLw0Rvn2tQWyLods",
+          "data_cid": "15826083862631251390",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.3,
+          "reviews": 6,
+          "address": "Rúa Galans, 11Coron, 36620 Vilanova de Arousa, Pontevedra",
+          "phone": "986 55 49 91",
+          "lat": 42.5713718,
+          "lng": -8.7994683,
+          "website": "http://www.herbreda.es/",
+          "domain": "herbreda.es",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Forjarosa",
+          "place_id": "ChIJl1KYz5gTLw0R2dvu2BwhbI0",
+          "data_cid": "10190556464614923225",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de mantenimiento de maquinaria"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 6,
+          "address": "Rúa Ande, 29, 36619 Vilagarcía de Arousa, Pontevedra",
+          "phone": "986 51 62 41",
+          "lat": 42.575512599999996,
+          "lng": -8.7280315,
+          "website": "https://www.forjarosa.es/",
+          "domain": "forjarosa.es",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Carpintería PVC y Aluminio CUEVAS.L",
+          "place_id": "ChIJZbqbonoVLw0RUFQyV3VHIGI",
+          "data_cid": "7070729984271340624",
+          "category": "Proveedor de marcos de aluminio",
+          "types": [
+            "Proveedor de marcos de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "Pontevedra ES, Rúa Quinteiro da Laxe, 13, 36613 Laxe, A",
+          "phone": "986 50 37 12",
+          "lat": 42.5891404,
+          "lng": -8.7548769,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Maderas J. Redondo",
+          "place_id": "ChIJiVb3djwULw0RUd01trWzzq4",
+          "data_cid": "12596202800829291857",
+          "category": "Establecimiento de venta de madera",
+          "types": [
+            "Establecimiento de venta de madera"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 81,
+          "address": "Rúa Valle Inclán, 11, 36600 Vilagarcía de Arousa, Pontevedra",
+          "phone": "986 50 19 20",
+          "lat": 42.5930241,
+          "lng": -8.7715129,
+          "website": "http://www.maderasredondo.com/",
+          "domain": "maderasredondo.com",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Gammagal",
+          "place_id": "ChIJv1MHA40TLw0R1UtVYXbZP8g",
+          "data_cid": "14429490833580706773",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 4,
+          "address": "Lugar Reguengo - Godos. Polígono 203, parcela 10254 Castro Pontevedra ES, 36615 Bouza",
+          "phone": "615 47 30 85",
+          "lat": 42.580642,
+          "lng": -8.7012445,
+          "website": "https://gammagal.es/",
+          "domain": "gammagal.es",
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Pinfal",
+          "place_id": "ChIJ-clLVAAVLw0RhUIFSYtgMjA",
+          "data_cid": "3472944413997875845",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Rua, Travesía da Fonte, nº15, 36611 Aralde, Pontevedra",
+          "phone": "630 24 75 64",
+          "lat": 42.5627822,
+          "lng": -8.7947378,
+          "website": "http://www.pinfal.es/",
+          "domain": "pinfal.es",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Deltell Carpintería Metálica y Madera",
+          "place_id": "ChIJy1hqUOsTLw0RSv6EE4EQ0ZM",
+          "data_cid": "10651312740272242250",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Rúa, 53, 36619 As Quintáns, Pontevedra",
+          "phone": "613 11 93 68",
+          "lat": 42.5736205,
+          "lng": -8.7414911,
+          "website": "https://www.deltell.es/",
+          "domain": "deltell.es",
+          "snippet": null
+        }
+      ],
+      "local_links": [],
+      "organic": [],
+      "serp": {},
+      "warnings": []
+    },
+    {
+      "slug": "padron",
+      "city": "Padrón",
+      "location": null,
+      "error": null,
+      "local_pack_source": "google_maps",
+      "local_pack_missing": null,
+      "local_pack": [
+        {
+          "position": 1,
+          "name": "Carpintería Tono",
+          "place_id": "ChIJZ0Y5_GwFLw0RIfX_1BCew-4",
+          "data_cid": "17204768796615636257",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Lugar de Pedreda, 111, 15917 Padrón, A Coruña",
+          "phone": "600 82 69 06",
+          "lat": 42.7491379,
+          "lng": -8.649918699999999,
+          "website": "http://www.padronvirtual.com/carpinteriatono.htm",
+          "domain": "padronvirtual.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Buxaina",
+          "place_id": "ChIJn1MA-DYbLw0R3iggM6HGZf0",
+          "data_cid": "18259218659893323998",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 3.9,
+          "reviews": 7,
+          "address": "Aldea Extramundi de Arriba, 191, 15910 Padrón, A Coruña",
+          "phone": "981 81 15 22",
+          "lat": 42.7470821,
+          "lng": -8.6676097,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpinteria Laiño SL",
+          "place_id": "ChIJy1RaJUcaLw0RPbbe5LqY0M0",
+          "data_cid": "14830521501402183229",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Ebanista"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 7,
+          "address": "Aldea Imo, 52, 15981 Imo, A Coruña",
+          "phone": "981 80 22 14",
+          "lat": 42.7114617,
+          "lng": -8.724086,
+          "website": "http://www.carpinterialaino.com/",
+          "domain": "carpinterialaino.com",
+          "snippet": null
+        }
+      ],
+      "maps_top": [
+        {
+          "position": 1,
+          "name": "Carpintería Tono",
+          "place_id": "ChIJZ0Y5_GwFLw0RIfX_1BCew-4",
+          "data_cid": "17204768796615636257",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 2,
+          "address": "Lugar de Pedreda, 111, 15917 Padrón, A Coruña",
+          "phone": "600 82 69 06",
+          "lat": 42.7491379,
+          "lng": -8.649918699999999,
+          "website": "http://www.padronvirtual.com/carpinteriatono.htm",
+          "domain": "padronvirtual.com",
+          "snippet": null
+        },
+        {
+          "position": 2,
+          "name": "Carpintería Buxaina",
+          "place_id": "ChIJn1MA-DYbLw0R3iggM6HGZf0",
+          "data_cid": "18259218659893323998",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": true,
+          "rating": 3.9,
+          "reviews": 7,
+          "address": "Aldea Extramundi de Arriba, 191, 15910 Padrón, A Coruña",
+          "phone": "981 81 15 22",
+          "lat": 42.7470821,
+          "lng": -8.6676097,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 3,
+          "name": "Carpinteria Laiño SL",
+          "place_id": "ChIJy1RaJUcaLw0RPbbe5LqY0M0",
+          "data_cid": "14830521501402183229",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Ebanista"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 7,
+          "address": "Aldea Imo, 52, 15981 Imo, A Coruña",
+          "phone": "981 80 22 14",
+          "lat": 42.7114617,
+          "lng": -8.724086,
+          "website": "http://www.carpinterialaino.com/",
+          "domain": "carpinterialaino.com",
+          "snippet": null
+        },
+        {
+          "position": 4,
+          "name": "Carpintería Bentrón",
+          "place_id": "ChIJmTJP0yoFLw0RiPa_TOy8tsI",
+          "data_cid": "14030609412205311624",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Tienda de armarios",
+            "Fábrica de puertas",
+            "Reformas de cocinas",
+            "Empresa de instalación de escaleras"
+          ],
+          "unclaimed": false,
+          "rating": 4.2,
+          "reviews": 21,
+          "address": "N-550a, Km 81, 15917 Padrón, A Coruña",
+          "phone": "981 81 24 31",
+          "lat": 42.7519754,
+          "lng": -8.6528701,
+          "website": "http://www.bentron.es/",
+          "domain": "bentron.es",
+          "snippet": null
+        },
+        {
+          "position": 5,
+          "name": "Mbusto",
+          "place_id": "ChIJ8-w5Ff0bLw0RR4yUp8guN8c",
+          "data_cid": "14354993776606612551",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 9,
+          "address": "Campaña-Coto 4-5, 36645 Valga, Pontevedra",
+          "phone": "679 18 11 28",
+          "lat": 42.709111799999995,
+          "lng": -8.667461,
+          "website": "https://www.mbusto.es/",
+          "domain": "mbusto.es",
+          "snippet": null
+        },
+        {
+          "position": 6,
+          "name": "Carpintería Metálica EIRAS / Aluminio, Inox y Hierro",
+          "place_id": "ChIJnXL2TwApLw0Ro7Cm-hQ5pX4",
+          "data_cid": "9125762982203535523",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Herrero",
+            "Proveedor de puertas para garaje",
+            "Cerrajería",
+            "Empresa de construcciones metálicas",
+            "Taller de metalurgia",
+            "Soldador"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 4,
+          "address": "Polígono de Baño, s/n, 36640 Pontecesures, Pontevedra",
+          "phone": "886 29 86 66",
+          "lat": 42.7091637,
+          "lng": -8.657170599999999,
+          "website": "https://eirass.es/",
+          "domain": "eirass.es",
+          "snippet": null
+        },
+        {
+          "position": 7,
+          "name": "Aluminios Dopazo",
+          "place_id": "ChIJXYcNpkcbLw0RgNjGtOOKnyY",
+          "data_cid": "2783095805333395584",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Ventana de aluminio",
+            "Fábrica de puertas",
+            "Taller de instalación de puertas y ventanas",
+            "Proveedor de ventanas PVC",
+            "Servicio de instalación de ventanas"
+          ],
+          "unclaimed": false,
+          "rating": 3.3,
+          "reviews": 4,
+          "address": "Vilar, 100, Carretera Padrón-Noia, Km 1, 700, 15910 Extramundi de Abaixo, A Coruña",
+          "phone": "981 81 05 19",
+          "lat": 42.7510918,
+          "lng": -8.6737097,
+          "website": "https://www.dopazoaluminios.com/",
+          "domain": "dopazoaluminios.com",
+          "snippet": null
+        },
+        {
+          "position": 8,
+          "name": "Carpintaría Paradela",
+          "place_id": "ChIJXaZFL1sELw0RCVob8TBHkvc",
+          "data_cid": "17839399349497059849",
+          "category": "Carpintero",
+          "types": [
+            "Carpintero",
+            "Servicio de restauración de edificios",
+            "Fábrica de puertas",
+            "Fábrica de muebles",
+            "Servicio de instalación de suelos de madera"
+          ],
+          "unclaimed": false,
+          "rating": 2.3,
+          "reviews": 3,
+          "address": "Xuane - Carcacia, 15914 Padrón",
+          "phone": "981 81 05 30",
+          "lat": 42.747327,
+          "lng": -8.605706,
+          "website": "http://www.carpinteriaparadela.com/",
+          "domain": "carpinteriaparadela.com",
+          "snippet": null
+        },
+        {
+          "position": 9,
+          "name": "García",
+          "place_id": "ChIJ84RH3DMFLw0REqf3BczFLoM",
+          "data_cid": "9452710147961366290",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 3.8,
+          "reviews": 5,
+          "address": "Rúa Carlos Maside, 57, 36640 Pontecesures, Pontevedra",
+          "phone": "986 55 66 73",
+          "lat": 42.718055299999996,
+          "lng": -8.6542136,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 10,
+          "name": "Coalpa",
+          "place_id": "ChIJKwkEyNQELw0RPi-rqtwQ3dY",
+          "data_cid": "15482549633911828286",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "Av. de Compostela, 21, 15900 Padrón, A Coruña",
+          "phone": null,
+          "lat": 42.734415399999996,
+          "lng": -8.659245799999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 11,
+          "name": "Muebles vilela",
+          "place_id": "ChIJEwl4FSsbLw0RZ1nYNwCNWNM",
+          "data_cid": "15229077172029774183",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "de la feria nº 17, Rúa Travesía Campo da Feira, 15910 Padrón, A Coruña",
+          "phone": "664 80 03 04",
+          "lat": 42.7340272,
+          "lng": -8.661510999999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 12,
+          "name": "Soluciones Metalicas Jamardo S.L.",
+          "place_id": "ChIJU9W4TTgFLw0RO9WaE8QalLU",
+          "data_cid": "13084112246862959931",
+          "category": "Fábrica",
+          "types": [
+            "Fábrica"
+          ],
+          "unclaimed": false,
+          "rating": 4.7,
+          "reviews": 9,
+          "address": "Rúa do Ensanche, 19, 36640 Carreiras, Pontevedra",
+          "phone": "986 55 75 76",
+          "lat": 42.7148213,
+          "lng": -8.6471222,
+          "website": "https://www.smjamardo.com/",
+          "domain": "smjamardo.com",
+          "snippet": null
+        },
+        {
+          "position": 13,
+          "name": "abraite",
+          "place_id": "ChIJr-LLwEBSQS8R4TxOpCD43DU",
+          "data_cid": "3881249797965757665",
+          "category": "Carpintería",
+          "types": [
+            "Carpintería",
+            "Interiorista",
+            "Reformas"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 9,
+          "address": "15981 Eiró, A Coruña",
+          "phone": "644 21 39 75",
+          "lat": 42.720656299999995,
+          "lng": -8.706462199999999,
+          "website": "http://www.abraite.com/",
+          "domain": "abraite.com",
+          "snippet": null
+        },
+        {
+          "position": 14,
+          "name": "Aluminios Sefer S.L.",
+          "place_id": "ChIJSyjoGy0FLw0RrqerWwQw2Y8",
+          "data_cid": "10365368812645885870",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio",
+            "Fábrica de maquinaria"
+          ],
+          "unclaimed": false,
+          "rating": 4.0,
+          "reviews": 5,
+          "address": "Aldea Paraíso, 6, 15917 Padrón, A Coruña",
+          "phone": "981 81 15 30",
+          "lat": 42.722485999999996,
+          "lng": -8.658526,
+          "website": "http://www.alusefer.com/",
+          "domain": "alusefer.com",
+          "snippet": null
+        },
+        {
+          "position": 15,
+          "name": "Montajes Metálicos Pan Añon S.L",
+          "place_id": "ChIJM44ryiIDLw0R2g8vKbFo2dk",
+          "data_cid": "15697693086286024666",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 3.7,
+          "reviews": 22,
+          "address": "Polígono de Pazos.15917, Rua Circular Oeste, 76, A Coruña",
+          "phone": "981 80 36 78",
+          "lat": 42.7597236,
+          "lng": -8.658847,
+          "website": "http://www.montajespan.com/",
+          "domain": "montajespan.com",
+          "snippet": null
+        },
+        {
+          "position": 16,
+          "name": "Hermanos Tubío, S.L.",
+          "place_id": "ChIJUcCorNkELw0RxXXv_tLaORc",
+          "data_cid": "1673609336299943365",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 5,
+          "address": "Herbón, S/N, 15915 Santa Cruz, A Coruña",
+          "phone": "981 81 07 55",
+          "lat": 42.734417799999996,
+          "lng": -8.6465473,
+          "website": "https://hermanostubio.com/",
+          "domain": "hermanostubio.com",
+          "snippet": null
+        },
+        {
+          "position": 17,
+          "name": "Desigual Artesanía",
+          "place_id": "ChIJqfeSExsCLw0RMHqXnTBrhM4",
+          "data_cid": "14881136925285513776",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 4.4,
+          "reviews": 7,
+          "address": "Lugar de Xoane, 296, 15914, A Coruña",
+          "phone": "649 85 17 90",
+          "lat": 42.7506349,
+          "lng": -8.607852399999999,
+          "website": "http://www.artesaniadesigual.com/",
+          "domain": "artesaniadesigual.com",
+          "snippet": null
+        },
+        {
+          "position": 18,
+          "name": "Hermetica",
+          "place_id": "ChIJsVI4i5UFLw0RcOaqjyBOwlU",
+          "data_cid": "6179587540462003824",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": true,
+          "rating": null,
+          "reviews": null,
+          "address": "REDONDO 26 BAJO H, 36640 Pontecesures, Pontevedra",
+          "phone": "619 98 68 53",
+          "lat": 42.7145738,
+          "lng": -8.651673299999999,
+          "website": null,
+          "domain": null,
+          "snippet": null
+        },
+        {
+          "position": 19,
+          "name": "Curvados Anros S.L.",
+          "place_id": "ChIJid4vshoFLw0Redjk3Jkaifc",
+          "data_cid": "17836817047315863673",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": null,
+          "reviews": null,
+          "address": "Paraiso, 15900 Padrón, A Coruña",
+          "phone": "620 98 40 14",
+          "lat": 42.7233695,
+          "lng": -8.6579721,
+          "website": "https://www.curvadosanros.com/",
+          "domain": "curvadosanros.com",
+          "snippet": null
+        },
+        {
+          "position": 20,
+          "name": "Palemi Social Factoría Manual S.L.",
+          "place_id": "ChIJjVgR_FEFLw0Rzq-STo-pysA",
+          "data_cid": "13892102433541369806",
+          "category": "Carpintería metálica y de aluminio",
+          "types": [
+            "Carpintería metálica y de aluminio"
+          ],
+          "unclaimed": false,
+          "rating": 5.0,
+          "reviews": 1,
+          "address": "parque empresarial de pazos, 15917 Padrón, A Coruña",
+          "phone": "693 61 61 09",
+          "lat": 42.757036299999996,
+          "lng": -8.6556258,
+          "website": "https://palemi.es/",
+          "domain": "palemi.es",
+          "snippet": null
+        }
+      ],
+      "local_links": [],
+      "organic": [],
+      "serp": {},
+      "warnings": []
+    }
+  ]
+}

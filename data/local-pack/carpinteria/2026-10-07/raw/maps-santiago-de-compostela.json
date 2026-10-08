@@ -1,0 +1,1008 @@
+{
+  "search_metadata": {
+    "id": "6ac625ae41ffc82703936009",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zooTjP4R5iFa0POjfLQmcnWpZxNekNwFICPCbViBXi8/6ac625ae41ffc82703936009.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zooTjP4R5iFa0POjfLQmcnWpZxNekNwFICPCbViBXi8/6ac625ae41ffc82703936009.md",
+    "created_at": "2026-10-07 10:57:50 UTC",
+    "processed_at": "2026-10-07 10:57:50 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@42.8782,-8.5448,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/zooTjP4R5iFa0POjfLQmcnWpZxNekNwFICPCbViBXi8/6ac625ae41ffc82703936009.html",
+    "prettify_html_file": "https://serpapi.com/searches/zooTjP4R5iFa0POjfLQmcnWpZxNekNwFICPCbViBXi8/6ac625ae41ffc82703936009.prettify",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@42.8782,-8.5448,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpintería Angel Otero",
+      "place_id": "ChIJhUROc0T-Lg0RnCoPq5JGDFM",
+      "data_id": "0xd2efe44734e4485:0x530c4692ab0f2a9c",
+      "data_cid": "5984235600617613980",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efe44734e4485%3A0x530c4692ab0f2a9c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efe44734e4485%3A0x530c4692ab0f2a9c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8526801,
+        "longitude": -8.5297267
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhUROc0T-Lg0RnCoPq5JGDFM",
+      "provider_id": "/g/11bwym9y7n",
+      "rating": 4.8,
+      "reviews": 122,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Servicio de restauración de muebles antiguos",
+        "Ebanista",
+        "Carpintero",
+        "Fábrica de muebles",
+        "Taller de instalación de puertas y ventanas",
+        "Servicio de instalación de suelos de madera"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "antique_furniture_restoration_service",
+        "cabinet_maker",
+        "carpenter",
+        "furniture_manufacturer",
+        "millwork_shop",
+        "wood_floor_installation_service"
+      ],
+      "address": "Rúa Ponte Munín, N⁰14, 15893 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 21:00",
+      "hours": "Abierto · Cierre: 21:00",
+      "operating_hours": {
+        "miércoles": "8:00–21:00",
+        "jueves": "8:00–21:00",
+        "viernes": "8:00–21:00",
+        "sábado": "9:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "8:00–21:00",
+        "martes": "8:00–21:00"
+      },
+      "phone": "696 94 33 13",
+      "website": "https://carpinteriaangelotero.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online",
+            "Servicios en las instalaciones"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Aseos unisex"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con la comunidad LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        },
+        {
+          "planning": [
+            "Se necesita cita"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito"
+          ]
+        },
+        {
+          "parking": [
+            "Aparcamiento en la calle gratuito",
+            "Aparcamiento gratuito",
+            "Con aparcamiento propio",
+            "Parking gratuito"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aseo adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"100% recomendado, la mejor carpintería de Santiago de Compostela seguro!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RD6mxWS9XcMAcXBkIp5Kb-h8QsspQFnvVm-2Q45_25VWVyooyF6a081ZiH8jkYtMvJBMfX4k7AN-0dxZFA--qT4v8d2vCFiLL_n5rCw2a5PFifjz5HUuIxp22xRIqvGOV4K-rGOg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3nDaL3icHcRNcoIwGADQE30SU2KxM12gnSgqWvwBdMPQiIBIEkmM4A17BG_jjG_xnv-F1lJ9Wdal-OjlQuSX7KayhgmuM657TNRWLhUwBcpyl1HZDdc_g7qNNsOY-S6LR5UnyfwPCidQSgaUm7AGHNgkwSSMwk6Ijg5S5PQP5dQ5V3vtm9nIP8V29ekuAR3bA3UBrlvbOEdsxrRcLBJOmvEdp-SXlqfzg0x3N6-VGLdr72omq9CeQzNZ5d_3PkIIivcM-AtrTkO0"
+    },
+    {
+      "position": 2,
+      "title": "Carpintería Fernández",
+      "place_id": "ChIJRW3OIOL_Lg0RjSEmXZxmegw",
+      "data_id": "0xd2effe220ce6d45:0xc7a669c5d26218d",
+      "data_cid": "899143897377546637",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2effe220ce6d45%3A0xc7a669c5d26218d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2effe220ce6d45%3A0xc7a669c5d26218d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8605187,
+        "longitude": -8.500374299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJRW3OIOL_Lg0RjSEmXZxmegw",
+      "provider_id": "/g/1q5br42ny",
+      "rating": 4.4,
+      "reviews": 7,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Calle Coto da Nai, 52, Bajo, 15892 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "8:30–18:00",
+        "jueves": "8:30–18:00",
+        "viernes": "8:30–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–18:00",
+        "martes": "8:30–18:00"
+      },
+      "phone": "649 47 44 07",
+      "website": "https://www.carpinteriafernandez.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRQeRDqfoYroUniHS6PwtUfPToZ-mmjiFjxM5dOgcjBsFRepC2vPJuKpmlUcJBhjMrAbvZxRuU_nmizwVsUbQ8laoiILZwt7ZnfdVAtpNjeR9AWNmVIFZEeGjOTBHLZCwI3HON=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9vLdBnicHcTbboIwAADQL6rgjLclewCVgRfAaiH2xcxaoA29jBar_qDfsL9Z4nk4f6_GWm0-Pa9tRoNaqbqlvaEdUdJSaQdECa_WBhADjBekJXvMD3BP4fK3UqdOIcniwyR3FlX5UWEgBGcRv-_G16wmPDQRpHrxccvX_UaLFpF12PBdF1xu-A57dJaCPV1h0GU_a38US7bY2SmW1bUIrE45hfOgTEWRRHhFv3l2DOMtXrhkFGfplxv6vg-a9wTIf30ERzI"
+    },
+    {
+      "position": 3,
+      "title": "Carpinteros K27",
+      "place_id": "ChIJCV9mpbPPgYUReCnp_ZAn-Do",
+      "data_id": "0x8581cfb3a5665f09:0x3af82790fde92978",
+      "data_cid": "4249189752112753016",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8581cfb3a5665f09%3A0x3af82790fde92978&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8581cfb3a5665f09%3A0x3af82790fde92978&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8754833,
+        "longitude": -8.549119899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJCV9mpbPPgYUReCnp_ZAn-Do",
+      "provider_id": "/g/11wjdhz24m",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "R. de Montero Rios, 48, 15701 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "8:30–19:00",
+        "jueves": "8:30–19:00",
+        "viernes": "8:30–19:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "8:30–19:00",
+        "martes": "8:30–19:00"
+      },
+      "phone": "634 06 21 09",
+      "website": "https://www.carpinterosk27.es/",
+      "user_review": "\"Todo muy bien,muy profesionales,súper recomendables\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQNRsHt5v9moUotLlvuxeRPXNXDlFFz3ydE9DwHCCbcaEY97cS6CV7WOrW8TckcdQx6LgFlQh_RGGMrzpEue-c9yX1EIHPZPb_w0JCjsULHiWyPEL22Q9L2hWjkgT8WofoWz9lJA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6kEwOXicHcTdboIwGADQJ6ogxp-a7MJgkZkOKVOL3hD9rK1aKaFFhDfcI-xtluxcnN8f5Vxl556n1WggjZFaNFbUYEonSjcA8_RkZRFYZL1Fwm8dZizJbOzGL_w0O-OofjVvkaV5ki91FPWj7kLwso3D8AwncsBT-J6E-ynf1Hy2hQdc2HtCZaSZKrLV6qvuK9IIBLjLh-QzTo_puWj9dXi3OxrfeJcSGgQM00Dx-0NuZ9xcDe-xXi8-2qHv-0j9D6j8Ayw8RYI"
+    },
+    {
+      "position": 4,
+      "title": "Carpintería Educa",
+      "place_id": "ChIJrVVReBX-Lg0RARamUE9eASI",
+      "data_id": "0xd2efe15785155ad:0x22015e4f50a61601",
+      "data_cid": "2450343367014749697",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efe15785155ad%3A0x22015e4f50a61601&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efe15785155ad%3A0x22015e4f50a61601&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8723011,
+        "longitude": -8.5507955
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJrVVReBX-Lg0RARamUE9eASI",
+      "provider_id": "/g/1hc79jd76",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Rúa de Santiago de Chile, 14, 15701 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "phone": "981 59 55 20",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=drXn155gs3rXGPeFYjw07A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=257.67294&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MRILlXicHc3BDcIgFADQbbgJtFprTYjxoleP9WQo_QINBQLfotu4lttoXOC9z9sgxrxnLGMCwMVCifYJLq-ipDoE7UBGm6kKM1sqhuYxD15ad4jSBzuKMfW-ahqd16k_X-B0nQpvj0QNN-UseBQZZFKG6vITUxipjpkUsePEiK4mL1lE3bR029bdhkSLyghO_ss9LKLi_AtixTlE"
+    },
+    {
+      "position": 5,
+      "title": "Carpintería Milsa",
+      "place_id": "ChIJs_8XFxQALw0RqbKFyr33sPs",
+      "data_id": "0xd2f00141717ffb3:0xfbb0f7bdca85b2a9",
+      "data_cid": "18136268093939626665",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f00141717ffb3%3A0xfbb0f7bdca85b2a9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f00141717ffb3%3A0xfbb0f7bdca85b2a9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8439725,
+        "longitude": -8.5017972
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJs_8XFxQALw0RqbKFyr33sPs",
+      "provider_id": "/g/11c550nlqp",
+      "rating": 4.1,
+      "reviews": 9,
+      "type": "Oficinas de empresa",
+      "types": [
+        "Oficinas de empresa"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "Marrociños, 15893 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "amenities": [
+            "Aseos"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2c_8OOi0p7XujRkk2t7XKg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.39546&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XvBodXicHc3BDYIwFADQbXqzLYiCJo0DeCDxxI2UUtsvhf7QD-g2ruU2Ghd47_P2RJjOQiSaraUV7IbwtCHtUHMXowtWIyRu4ijWTJBfxm7SEC6opwi9yk1b1TVILJvlcRuGnMrm6pjpWhPATqSS1bPx3G0_cY49d5jYpirJvDrl7KU3lVUF358OxZEhkPFKsv9yj6vKpPwCZ_s5YA"
+    },
+    {
+      "position": 6,
+      "title": "Carpintería Márquez Vilela",
+      "place_id": "ChIJ6enpaRcCLw0RwEmPyayO49c",
+      "data_id": "0xd2f021769e9e9e9:0xd7e38eacc98f49c0",
+      "data_cid": "15556434410634955200",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f021769e9e9e9%3A0xd7e38eacc98f49c0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f021769e9e9e9%3A0xd7e38eacc98f49c0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8525947,
+        "longitude": -8.584755
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6enpaRcCLw0RwEmPyayO49c",
+      "provider_id": "/g/1thvt_0x",
+      "rating": 3.8,
+      "reviews": 28,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Carpintero"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "carpenter"
+      ],
+      "address": "Pol. Ind. Nuevo, Calle Das Palmeiras, 65 -A (Pol Ind Nuevo Milladoiro 15895, Rúa das Palmeiras, 65, 15895 O Milladoiro, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–19:00",
+        "jueves": "9:00–14:00, 16:00–19:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "9:00–14:00, 16:00–19:00"
+      },
+      "phone": "981 93 79 14",
+      "website": "https://www.marquezyvilela.es/",
+      "user_review": "\"Realizamos nuestra cocina con ellos y estamos súper encantados.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-wA7F6apQ3JHXfjWYossfs5HCl92QLgUCc4zsknQvy7QyqATppftJ6e__-rvXa0uM-g_g44E-b9abOh3D_qZN3s1-crRWXbZDtubhdnSxS01bZRu5Nia-iHH0thBDTapYx4znUA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PBXRSnicHcTRboIwFADQL7pSBmpY4gMTDTEbBtSAvJC2QotjbeUWFf_QT_BvTHYezusprTX46Tid9CZCa9HVA9Y918rWyk64_nOEQeAI6IRJ3o5BBrdwvp5Rk3qbuGjO-VEjNjiNl13wkX6Lw5L7D_xV6XWcp-Ml3BvT2M2srirorwUlww-ISvj-ClhA2VZ6UXUpEw9d4H2WF6yM7MDkSe3uO-KyMhumSUuhjWNi5Ve0p-Z49x_qEC5uLiEE5P8c1BsHj0Wa"
+    },
+    {
+      "position": 7,
+      "title": "Mosquera (Santiago de Compostela)",
+      "place_id": "ChIJYcO2R03-Lg0ReuF0fGkTXBc",
+      "data_id": "0xd2efe4d47b6c361:0x175c13697c74e17a",
+      "data_cid": "1683241704510251386",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efe4d47b6c361%3A0x175c13697c74e17a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efe4d47b6c361%3A0x175c13697c74e17a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.877745,
+        "longitude": -8.5271827
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJYcO2R03-Lg0ReuF0fGkTXBc",
+      "provider_id": "/g/11y6jcjj_",
+      "rating": 4.3,
+      "reviews": 7,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Rúa Casas Hedra, 13, 15707 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 15:00–19:00",
+        "jueves": "9:00–13:00, 15:00–19:00",
+        "viernes": "9:00–13:00, 15:00–19:00",
+        "sábado": "9:00–13:00, 15:00–19:00",
+        "domingo": "9:00–13:00, 15:00–19:00",
+        "lunes": "9:00–13:00, 15:00–19:00",
+        "martes": "9:00–13:00, 15:00–19:00"
+      },
+      "phone": "981 58 75 70",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SwgrMaUJhaGLYfJvMBDj4PsDwrMAu1EU7AYI1yDYaIVS7IDMjfh_w_jfl2oLNaP8jUBP-XKZfw5byaXdALLpJlZK9txUJXX8-7uc_YiSDNUSrnkg2VXD89mDQboI2KUo9Uu0Ha=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7LoyyXicHcTbCoIwAADQL1peKtSgB2NRXjFkNX2RtXTLzImbLb-wb-hvgs7D-X64UoPcGEbHlwsmBOvqSdYjFb2qe7Wg4mmwQQIqgTT89HKfvVyzMSEo5OQQF034SnawXWUS6jHxJ2uPHL8IrBkWJDjnTgCTtuGVrtqms0Wcksxt0S4DOCobvb7OBN_8OB7Crow89UYhxi5wJloV9xymKB_7B7PPGLreE56uIrAjJDw0mUey1ZZpmoD_p6D_AWs6RFI"
+    },
+    {
+      "position": 8,
+      "title": "Carpintería Tejo",
+      "place_id": "ChIJEcxVkv3_Lg0RGxEDUun7jks",
+      "data_id": "0xd2efffd9255cc11:0x4b8efbe95203111b",
+      "data_cid": "5444565979059392795",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efffd9255cc11%3A0x4b8efbe95203111b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efffd9255cc11%3A0x4b8efbe95203111b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8755246,
+        "longitude": -8.5033821
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJEcxVkv3_Lg0RGxEDUun7jks",
+      "provider_id": "/g/11ygmgh7dc",
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Proveedor de muebles a medida",
+        "Carpintero",
+        "Fábrica de muebles"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "fitted_furniture_supplier",
+        "woodworker",
+        "furniture_manufacturer"
+      ],
+      "address": "Senande, 89 (Sanxoás) - ARINS, 15892 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 14:30",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 14:30",
+      "operating_hours": {
+        "miércoles": "8:30–13:00, 14:30–19:30",
+        "jueves": "8:30–13:00, 14:30–19:30",
+        "viernes": "8:30–13:00, 14:30–19:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:00, 14:30–19:30",
+        "martes": "8:30–13:00, 14:30–19:30"
+      },
+      "phone": "629 82 16 82",
+      "website": "https://www.carpinteriatejo.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyIaG-QMKVh-BCzZxLR7zxXsAXlKc5borAqTvbgP2_7lvWRD7C0HlMbTbZc3klRYy3L3A40vnyCjj611VHQa6UkxHFQAwZOSyCEkScpRC8Rwpo6q91I0-V-mBZNd0g2sKKK46wm7_PvLdB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EMA2InicHcRLEoIgAADQE5GYpdVMC6SPDfaRyspNk-RgiWJhKl2ydbdpprd4309aVaUaGYZIrQ6XkovkpZInk0WVFFWHydzgpQJMAWWg1eGmh1QvLnMQLEmYAhe_o9anzrs9KnQUhPVj-USPXR3zTffsiPpAJw6GnljGuzhiViboSVu-hXqwLjS-323TDL3gYu-z1psFqInWW42n2ZaVFA9oU0r7MTQXEIQgd6PVFfKuIoT07CZ3zpvav7rjxoQQgvQ_A8UPb2lGHQ"
+    },
+    {
+      "position": 9,
+      "title": "Barcala Carpinteiros Sl",
+      "place_id": "ChIJn5R3dT_-Lg0RmsrpiZ6ovoA",
+      "data_id": "0xd2efe3f7577949f:0x80bea89e89e9ca9a",
+      "data_cid": "9277037681301899930",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efe3f7577949f%3A0x80bea89e89e9ca9a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efe3f7577949f%3A0x80bea89e89e9ca9a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8738167,
+        "longitude": -8.5473351
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJn5R3dT_-Lg0RmsrpiZ6ovoA",
+      "provider_id": "/g/1q5bmxx99",
+      "rating": 5,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "C. de, Rúa de Alfredo Brañas, 23, 15701 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QFMqbOJcQEO9QAG4UM5S8B1THKk6WS8qipSQHUxqcB7bhzKDstEyjh3nunJlAxKLuLrm-tGVVdaacKPKqXeee_swsczPMWpKd_92lQ5JeTNpdAA4TihmGx3ebkfmhQPPffacksXc_RLjE0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3uyVInicHcRNjoIwGADQE1VQ_MPERc0wGApKBcUdgY9CESjFlohectZzm0nmLd7vD9daqp1htNyaVX1ftWxU7Am90EzoGfSdUUmFQCFl4FNSv236HQz52QPqnG2K3eU1WEXbwzw-kmadRNuhlhE9XqcBDpucf8iX0s77wS0xCq_FE_FH_9kh7d5uRZYBCclwZ4yl6qXgEwaJJEVqL1q68lh8kgXGy7jmnTtZLG_KjtMwLMsMGnWH9OI_HHP_mpumifj_gMQfyC1IlQ"
+    },
+    {
+      "position": 10,
+      "title": "Casal Carpinteros",
+      "place_id": "ChIJzRNT4pr_Lg0R-5xivAluZ5w",
+      "data_id": "0xd2eff9ae25313cd:0x9c676e09bc629cfb",
+      "data_cid": "11270097580612295931",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff9ae25313cd%3A0x9c676e09bc629cfb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff9ae25313cd%3A0x9c676e09bc629cfb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8788397,
+        "longitude": -8.5337253
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJzRNT4pr_Lg0R-5xivAluZ5w",
+      "provider_id": "/g/11qn7356x1",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Oficinas de empresa",
+      "types": [
+        "Oficinas de empresa"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "Av. de Lugo, 169, 15703 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto 24 horas",
+      "hours": "Abierto 24 horas",
+      "operating_hours": {
+        "miércoles": "Abierto 24 horas",
+        "jueves": "Abierto 24 horas",
+        "viernes": "Abierto 24 horas",
+        "sábado": "Abierto 24 horas",
+        "domingo": "Abierto 24 horas",
+        "lunes": "Abierto 24 horas",
+        "martes": "Abierto 24 horas"
+      },
+      "phone": "600 40 04 69",
+      "extensions": [
+        {
+          "amenities": [
+            "Aseos"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJLXbdKYN2mmirqzqNHtgcT0yatl3eh9BXVW7SeJ1P8pLRAoo6jQKQWlQ9XYBcNG1sYFokUzBK1cnn-Mwzp3Led7Iy4kYBau7sLAmzYIdYdjgG1hwxvWZ7mLvEO8HcPUVxy5SXuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o0AE53icHcRdDoIgAADgE5GSldnWg26lJVn2p_RWyKASsMBMb9gRuk1b38P3_XBjKj2xrJI7PaYUK2mt6ZMoaag0PaKExSoNiAba8pPs2nrbJcovRYyTvhDX56N7JJFhZG-3Z1M6lHtBfszcHV3CzbhCW1-p0S2N06xMvRwHJAmhxnN1P3RBDImUYNV0lYNo4S7awR0H59rVyBcdXhS4uLEQ8ub9yk6uQK_ZehyRzeH4boe7vPanDbRtG_D_BMgfSkFGVg"
+    },
+    {
+      "position": 11,
+      "title": "Maderas Muvar",
+      "place_id": "ChIJ-WUDghP_Lg0RLGNfFNstJ1Q",
+      "data_id": "0xd2eff13820365f9:0x54272ddb145f632c",
+      "data_cid": "6063865842240545580",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff13820365f9%3A0x54272ddb145f632c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff13820365f9%3A0x54272ddb145f632c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.906685499999995,
+        "longitude": -8.514375099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-WUDghP_Lg0RLGNfFNstJ1Q",
+      "provider_id": "/g/1tmplswm",
+      "rating": 4.2,
+      "reviews": 17,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Establecimiento de venta de madera"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "lumber_store"
+      ],
+      "address": "Rúa do Cruceiro da Coruña, 197, 15898 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:30",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:30",
+      "operating_hours": {
+        "miércoles": "9:30–13:00, 15:30–19:30",
+        "jueves": "9:30–13:00, 15:30–19:30",
+        "viernes": "9:30–13:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–13:00, 15:30–19:30",
+        "martes": "9:30–13:00, 15:30–19:30"
+      },
+      "phone": "981 56 80 00",
+      "website": "https://www.muvar.es/",
+      "extensions": [
+        {
+          "service_options": [
+            "A domicilio",
+            "Recogida en tienda",
+            "Compra en tienda"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "service_options": {
+        "compra_en_tienda": true,
+        "recogida_en_tienda": true,
+        "a_domicilio": true
+      },
+      "user_review": "\"Nos hicieron todos los acabados de carpintería en nuestra clínica en Vigo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SA8HjO4bINj7nQWMvYp9wqZOORew-_aNQa3YEO8IMScWFgACfQnmAEtXUahVwLNzBF8FkhLGK0kdDJENqQxFf1wdmNmcHi_e40Cw7JdqyLDNmN-pd1jYWs04jfOHfVm_3Gd-cw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EJtvX3icHcRRDoIgAADQE5E43bS2Pqw0K4NZK7MfZ4CSBWpQVBfsDN2mrffxvh-udadGlnXlzqBu2_rK7ordSCs1k3pAWmHVnQJEAWUFKDu_htvAjxvsnhao8WSarR95NzT9EeMNM6AoUVo6eYj9xXpLsqgOplUqRRDqw67ke5Og9yTyowtP5it4obNliPr0GVW2oQIJEp8L5sKp8Za0fyUzJBDoqN3kmYJuU-G42ovCmVNAzNjYEELA_xMgfz_GRE0"
+    },
+    {
+      "position": 12,
+      "title": "Pérez Taboada",
+      "place_id": "ChIJCYd34An-Lg0RlDuIcjJS7FE",
+      "data_id": "0xd2efe09e0778709:0x51ec523272883b94",
+      "data_cid": "5903183588199250836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2efe09e0778709%3A0x51ec523272883b94&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2efe09e0778709%3A0x51ec523272883b94&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8668853,
+        "longitude": -8.5720156
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJCYd34An-Lg0RlDuIcjJS7FE",
+      "provider_id": "/g/11fxcfglbx",
+      "rating": 5,
+      "reviews": 17,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Rúa do Cotón, 25, 15706 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 16:00",
+      "hours": "Abierto · Cierre: 16:00",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "635 07 65 68",
+      "website": "https://www.cmpereztaboada.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Recomendables 100%\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uCC4Hv4ipCoNWivrK_h2Ew&cb_client=search.gws-prod.gps&w=80&h=92&yaw=267.39056&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NDhdRHicHc1RCsIgGADg2_iWurVWC6SHEQRBrz0O50x_cPNHndZtula3KbrA933eNiWMR8ZiClqnDLogPLWLG5TUeG-clgiRKj-zXLFk13lcJLgTysXDJNa-by65Aez97Q45XAdbnwtR46Ac6CWJqGVQlpryE4OfqMFIijhwYkVXk5csom73dNvxXUsQkrKCk__y8FlUnH8Bg745sA"
+    },
+    {
+      "position": 13,
+      "title": "Pau Pau Obradoiros de Carpintería",
+      "place_id": "ChIJPVbCXwD_Lg0R9bUzgvm1ZlI",
+      "data_id": "0xd2eff005fc2563d:0x5266b5f98233b5f5",
+      "data_cid": "5937633241970488821",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff005fc2563d%3A0x5266b5f98233b5f5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff005fc2563d%3A0x5266b5f98233b5f5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8721416,
+        "longitude": -8.551292799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJPVbCXwD_Lg0R9bUzgvm1ZlI",
+      "provider_id": "/g/11nr5j4wrm",
+      "type": "Centro de formación",
+      "types": [
+        "Centro de formación",
+        "Carpintero"
+      ],
+      "type_id": "training_center",
+      "type_ids": [
+        "training_center",
+        "carpenter"
+      ],
+      "address": "R. de Frei Rosendo Salvado, 21, 15701 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 19:00",
+      "hours": "Cerrado · Apertura: 19:00",
+      "operating_hours": {
+        "miércoles": "10:00–12:00, 19:00–21:00",
+        "jueves": "19:00–21:00",
+        "viernes": "Cerrado",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "10:00–12:00, 18:00–20:00",
+        "martes": "19:00–21:00"
+      },
+      "phone": "644 48 43 55",
+      "website": "https://www.instagram.com/paupau.obradoiros/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TruV2_YkypukA6qO5odlCorbtXmuy-wWnQOUbjuZDupnO92qBPwLgHZ0YQxCaszg5_HAoUzHXY207vyUzjJCQmPMF1l66iwKbjC5v0Im2JUy0xA8f_GVyCETox3xKI94V2PZNHhfKs2oQm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cTPPXHicHcTBToMwGADgJ-rouoFi4gE7lQ0dkAw2uBBBVsZof0bbQXlJz76Nid_h-_1plOrlk2V1zWrBAFhXa1kPFQhVC7WogFusl6iSSFre_ngx7mHQKSmyq-n11XNuoQ3fHYWhVCeuDRqPIg6TstX5RvcidMntJRo_mJ_jLJ7ol5yZXfgeJLN_ygh-uJtkbnc05tHn27JznMsYlC2173jLyS4xePIez8V7aujrAabVFGzddUqifO8350ASiPnzuMQYo-b_Cok_dOtIeA"
+    },
+    {
+      "position": 14,
+      "title": "MÓDULO carpintería y diseño",
+      "place_id": "ChIJZU7gRSz_Lg0RhlALX5cIA6g",
+      "data_id": "0xd2eff2c45e04e65:0xa80308975f0b5086",
+      "data_cid": "12106529669529686150",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff2c45e04e65%3A0xa80308975f0b5086&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff2c45e04e65%3A0xa80308975f0b5086&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8743226,
+        "longitude": -8.5436406
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZU7gRSz_Lg0RhlALX5cIA6g",
+      "provider_id": "/g/11vs4wkqvx",
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "woodworker",
+      "type_ids": [
+        "woodworker"
+      ],
+      "address": "Rúa de Santiago de Guayaquil, 15702 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "660 18 26 53",
+      "website": "https://www.instagram.com/mo_modulo?igsh=anVkYTkyeno4eHU4",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QYM4PrUX8x66u9vWB7_A3ZpeY49j5q-fWw-QhDFwws4rf2nnazTn_P5mYzyiljOQU1PJHkFa_ZgpwvTtuRC0ONGsfmFdLNurr9IJBjrthjbyYbKSoI1E29qq5rWEbFHBVRNeU0hw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/phOwT3icHcRBcoIwAADAF0WCgm2c8QAtVLRFsCDFCwM0EBASSIIp_rBP6G864x7275dIOYiNpnVktagZqzs8CcxLRiWmclGyXqsHAUoBhGb5STOjMP0wAh5_Pf-s1xO6JfZTZq0uA04N1JojqBIFQvLqKiUMXi0pze8RzQKzT-9z07XHMNaD_e7q5tmlHtQtktPpBR79N1H17ve7P3GOvL3dcknaYk6LwyfzdGeJxtHkiVO4O_t88nEMidoqHUIIyOMS0H8vOEZD"
+    },
+    {
+      "position": 15,
+      "title": "Carpintería Rodeiro",
+      "place_id": "ChIJ3ZXJNoQCLw0RNH1-cKm03o4",
+      "data_id": "0xd2f028436c995dd:0x8edeb4a9707e7d34",
+      "data_cid": "10294864438045343028",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f028436c995dd%3A0x8edeb4a9707e7d34&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f028436c995dd%3A0x8edeb4a9707e7d34&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8447326,
+        "longitude": -8.622214699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3ZXJNoQCLw0RNH1-cKm03o4",
+      "provider_id": "/g/11qycxz514",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "As Buceleiras 14, 15895 Bugallido, A Coruña",
+      "country": "España",
+      "phone": "619 67 94 20",
+      "website": "http://carpinteriarodeiro.es/",
+      "user_review": "\"Sin duda, contaré con él para siguientes trabajos\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8sPYwcQd3onJ18KMWwpn8Q&cb_client=search.gws-prod.gps&w=80&h=92&yaw=157.9263&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/n03xoXicHc1LDsIgFADA27CTTxuVmhD3GhO7Mq4MpQgklPdSsOhpPJe30XiBmc_bl4J5x1gus7VlCbZieNqYV6ipA3DRagyZGpjYIljxj2lIOsQ96gRhVDKfr9X0YwvpIOTxdKmYZE_McDMx2FRUtno2nrr6E2cYqcNMqpKceNU15KWrEust7ZpNSzAU4xUn_-QOixKcfwE-_jlL"
+    },
+    {
+      "position": 16,
+      "title": "Aluminios Cabeal",
+      "place_id": "ChIJre8RbR__Lg0RQ9i6UIgUQrg",
+      "data_id": "0xd2eff1f6d11efad:0xb842148850bad843",
+      "data_cid": "13277197227144173635",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff1f6d11efad%3A0xb842148850bad843&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff1f6d11efad%3A0xb842148850bad843&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.910793399999996,
+        "longitude": -8.5126276
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJre8RbR__Lg0RQ9i6UIgUQrg",
+      "provider_id": "/g/1tk9s16g",
+      "rating": 3.6,
+      "reviews": 33,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Pol. Del Tambre, Vial de Faraday, 1, 15890 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–19:00",
+        "jueves": "8:00–13:00, 15:00–19:00",
+        "viernes": "8:00–13:00, 15:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 15:00–19:00",
+        "martes": "8:00–13:00, 15:00–19:00"
+      },
+      "phone": "981 93 63 50",
+      "website": "https://www.cabeal.es/",
+      "user_review": "\"Traballan con perfilerias top y equipo super profesional.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RI9vck8HJGoH3B3C6b6dU1hoS4TPhjtzc4Cl-b3dP9--H90rW8gFWPPzbPrv4kjeNgAg1KcIn5ZJDi-g7q7GPqa5HhXTgepQkpXFxzBpVIeKGDiawblURyFV7KC20ZU9D38IX_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5dYn5HicHcTbDoIgAADQL0IxLKWth9J5ya3RxXS9tCQGpgkJ3fzBvqG_aes8nO9HGKP01LZbgSwuJW_ZXbOeys6wzlhUXm2uNKAaaHu-Kuo33qT4QRs_WcYyQQsUTKrJOXeE3Lo7Ii5moG7QggqdCQYgwbAvfB4VhAwV6R9uc2ErPudORtNufFiGNeDezYvJ7TRORLnjTK0bVUavYaH2KcvisD49qzbfvKO9lwUjeMhxiPy0PM6eDoQQiP8UdD_A10Lm"
+    },
+    {
+      "position": 17,
+      "title": "Aluminios Jesús Freire Miramontes",
+      "place_id": "ChIJt-i3VD__Lg0RdR7g7QPbVXI",
+      "data_id": "0xd2eff3f54b7e8b7:0x7255db03ede01e75",
+      "data_cid": "8238731903266463349",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff3f54b7e8b7%3A0x7255db03ede01e75&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff3f54b7e8b7%3A0x7255db03ede01e75&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8942725,
+        "longitude": -8.485254099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJt-i3VD__Lg0RdR7g7QPbVXI",
+      "provider_id": "/g/11s4t723b5",
+      "rating": 5,
+      "reviews": 7,
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Castro, 17, 15890 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–21:00",
+        "jueves": "8:00–13:00, 15:00–21:00",
+        "viernes": "8:00–13:00, 15:00–21:00",
+        "sábado": "8:00–13:00",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 15:00–21:00",
+        "martes": "8:00–13:00, 15:00–21:00"
+      },
+      "phone": "699 10 13 72",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Carpintería de aluminio totalmente recomendable\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e57uleCn1RwxmQwZZgScMg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=319.72937&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_vg90HicHc1LDsIgFADA27CTTxtTa0JcuHah7roxlD6BhM9LoaXexmt5G40XmPm8bSmYj4zlMgOU1UFFt4HPO1TUpGQ8KHSZ6hTYKlixSxijcv6EKiY3Sdh3i4dzFLe6hWsdBnPXF0P0-NDeQSwyg5q1pab-xDlN1GAmVR44sbJvyEtV2Yqedk3fdgRd0VZy8l-eaZWC8y-fpToF"
+    },
+    {
+      "position": 18,
+      "title": "Maderas Muvar S.L. Carpinteria",
+      "place_id": "ChIJ7zOdnxT_Lg0RvsXMpxtI-Ug",
+      "data_id": "0xd2eff149f9d33ef:0x48f9481ba7ccc5be",
+      "data_cid": "5258313323548296638",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2eff149f9d33ef%3A0x48f9481ba7ccc5be&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2eff149f9d33ef%3A0x48f9481ba7ccc5be&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.911848299999996,
+        "longitude": -8.5076171
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ7zOdnxT_Lg0RvsXMpxtI-Ug",
+      "provider_id": "/g/11c575g8rk",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Establecimiento de venta de madera",
+      "types": [
+        "Establecimiento de venta de madera"
+      ],
+      "type_id": "lumber_store",
+      "type_ids": [
+        "lumber_store"
+      ],
+      "address": "Via Isaac Peral, 24, 15898 Santiago de Compostela, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 15:00–19:00",
+        "jueves": "9:00–13:00, 15:00–19:00",
+        "viernes": "9:00–13:00, 15:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00, 15:00–19:00",
+        "martes": "9:00–13:00, 15:00–19:00"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "A domicilio"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "service_options": {
+        "a_domicilio": true
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z1LhT4omPbQCJjR9ipU2Wg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=132.54494&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KfoIMXicHc1LCsIwFADA22RnPjWCFYILd-JCRRHcSJqmyZO0eTSx0dt4LW-jeIGZz9vnjGnFWMqjtXkCWxCeNqQZaupidMFqhERN7NkkWPaPvhk0hDXqIUKrrmLnTzL2--aw2d6PNeC5ujhimpsJYIesktWj8dSVnzjGljpMpKglJ17VFXnposS8ogspa0kQsvGKk__SxUkJzr9k0TlO"
+    },
+    {
+      "position": 19,
+      "title": "Focus Interior Spaces",
+      "place_id": "ChIJmWqFFoWrLw0RsHaxUESX5sg",
+      "data_id": "0xd2fab8516856a99:0xc8e6974450b176b0",
+      "data_cid": "14476424371896415920",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2fab8516856a99%3A0xc8e6974450b176b0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2fab8516856a99%3A0xc8e6974450b176b0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8546206,
+        "longitude": -8.5845503
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmWqFFoWrLw0RsHaxUESX5sg",
+      "provider_id": "/g/11p080436y",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Rúa Hedras, 6, Loft 0i, 15895 O Milladoiro, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 14:30",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 14:30",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 14:30–18:30",
+        "jueves": "8:00–13:00, 14:30–18:30",
+        "viernes": "8:00–13:00, 14:30–18:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 14:30–18:30",
+        "martes": "8:00–13:00, 14:30–18:30"
+      },
+      "website": "https://focusinteriorspaces.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Servicios en las instalaciones"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        },
+        {
+          "planning": [
+            "Se necesita cita"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Estimaciones online"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_las_instalaciones": true,
+        "estimaciones_online": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjKHxezyhM_-OwjRvmwReZxZCLpH6BliUGeOlunGo2Bv1eFOHWVhpa5GQQZpO10UGWaPrqw1xjeUtOrzBPWQQRNdZ8C2NkjSDSfnlSyz0N6LW9VO0jyzntgjcR2fIFb4h8xSlQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mPY72HicHcRdbsIgAADgE2Fpp42a7GF1sV3UIjSVpC-LMlpEBCxofy64M3gbE7-H7_kvvLduGQRKfEwaYxrF7463zGjPtZ8wcw0a6wBzwAVfOT0PCyI3Wc_HQex-AeokeVw7wqu-Wm1tFifqXKYcqbtOTZQ8Qr5GGT0Ie5ylGFcWhbBM6XHf3rqwl7z0qB2TPcWY5H_VfBXlF1l8F7VWxTDCPN7SxQFBOYzaN5KRqP5Zn6Zi3hcKf3YhhBCI9wzoFwjkRhw"
+    },
+    {
+      "position": 20,
+      "title": "Tocandomadera",
+      "place_id": "ChIJ87ARLbB1Lg0RE5wPM0m71G0",
+      "data_id": "0xd2e75b02d11b0f3:0x6dd4bb49330f9c13",
+      "data_cid": "7914156368260471827",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2e75b02d11b0f3%3A0x6dd4bb49330f9c13&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2e75b02d11b0f3%3A0x6dd4bb49330f9c13&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.8351934,
+        "longitude": -8.5864361
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ87ARLbB1Lg0RE5wPM0m71G0",
+      "provider_id": "/g/1tf6ymy8",
+      "rating": 4.8,
+      "reviews": 11,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Tienda de armarios",
+        "Service establishment",
+        "Tienda de muebles de cocina"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "cabinet_store",
+        "establishment_service",
+        "kitchen_furniture_store"
+      ],
+      "phone": "644 54 14 15",
+      "website": "http://www.tocandomadera.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQNQhGDw_Mv1GwAdyYrlFnbKY7mPSBCgF-nLEnagaEbx1SMhYA_DCwfWPpa_gDTPYMefHthBv5xNANqh0HEpQhDeGlI_q5hH4o2R9gphkgfcxpS3XOLfbfRCdKb5e-fejPYQg-SQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AgVr1HicHcTRboIwFADQL6rAHFk02QMCglGQgon2iUBt73XDttpO8BP3CfubJZ6H8_eLzhm79LwB5zPQGgbxY8Wda-WEcjOurx4YS7gl1ovK4-W5qGlJMUvGtngE2Ridn-w-rFW_ZR_XqlnFsCZql6oOurSfgqZAFrVJPMpjZboWkkPFCiFzh6tHOJVReUM_Tw3FRGTDpr2FmL_rt3oBBr9B8sk089N-J3tZx-dtHwoixVfFKJCGfo6B7_sEX3Oi_gE6J0X5"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4042.8782%2C-8.5448%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "search_metadata": {
+    "id": "6ac674c131a6019585bad489",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZxvQbwncxUw3FoUt_I0B0qH1ZU0QbwR7YV9m8QYhdCQ/6ac674c131a6019585bad489.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZxvQbwncxUw3FoUt_I0B0qH1ZU0QbwR7YV9m8QYhdCQ/6ac674c131a6019585bad489.md",
+    "created_at": "2026-10-07 16:35:13 UTC",
+    "processed_at": "2026-10-07 16:35:13 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f701bffffffeb:0xe74160300cd1e142!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/ZxvQbwncxUw3FoUt_I0B0qH1ZU0QbwR7YV9m8QYhdCQ/6ac674c131a6019585bad489.html",
+    "prettify_html_file": "https://serpapi.com/searches/ZxvQbwncxUw3FoUt_I0B0qH1ZU0QbwR7YV9m8QYhdCQ/6ac674c131a6019585bad489.prettify",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f701bffffffeb:0xe74160300cd1e142",
+    "hl": "es",
+    "sort_by": "newestFirst"
+  },
+  "place_info": {
+    "title": "Carpimoble",
+    "address": "Parque Empresarial O Campiño, Monte do Louredo, 2, Parcela A2 (Polígono Industrial, 36158 Marcón, Pontevedra, España",
+    "rating": 4.5,
+    "reviews": 93,
+    "type": "Carpintería"
+  },
+  "topics": [
+    {
+      "keyword": "armario",
+      "mentions": 6,
+      "id": "/g/11bc583p6g"
+    },
+    {
+      "keyword": "presupuesto",
+      "mentions": 6,
+      "id": "/g/120jxn0b"
+    },
+    {
+      "keyword": "diseño",
+      "mentions": 5,
+      "id": "/m/02cwm"
+    },
+    {
+      "keyword": "materiales",
+      "mentions": 4,
+      "id": "/g/11bc5q7mhy"
+    },
+    {
+      "keyword": "puertas",
+      "mentions": 4,
+      "id": "/m/02dgv"
+    },
+    {
+      "keyword": "montaje",
+      "mentions": 4,
+      "id": "/m/02x75"
+    },
+    {
+      "keyword": "plazo",
+      "mentions": 3,
+      "id": "/g/120ph2bq"
+    },
+    {
+      "keyword": "necesidades",
+      "mentions": 3,
+      "id": "/g/121dcy_c"
+    },
+    {
+      "keyword": "fecha",
+      "mentions": 2,
+      "id": "/m/020_g"
+    },
+    {
+      "keyword": "espacios",
+      "mentions": 2,
+      "id": "/g/122_97cg"
+    }
+  ],
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGVVkyUmFkRXhEYUZKUmJYSTBWa1ZuTW13NGVIYxAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOkFUY2RadExDaFJRbXI0VkVnMmw4eHc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace una semana",
+      "iso_date": "2026-09-28T13:56:21Z",
+      "iso_date_of_last_edit": "2026-09-28T13:56:21Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVVkyUmFkRXhEYUZKUmJYSTBWa1ZuTW13NGVIYxAB",
+      "user": {
+        "name": "Belén Treviño",
+        "link": "https://www.google.com/maps/contrib/100505677905705419714?hl=es",
+        "contributor_id": "100505677905705419714",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJtNg4TfH5RnqV95AUifSB2GtmsWeNM_HpnTW7cVAK5B0jIKQ=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GUFdtSTRjeTFSWDJoT1pXNTNWekJVTlU5S1YyYxAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOmFPWmI4cy1RX2hOZW53VzBUNU9KV2c%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 semanas",
+      "iso_date": "2026-09-18T10:03:56Z",
+      "iso_date_of_last_edit": "2026-09-18T10:03:56Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUFdtSTRjeTFSWDJoT1pXNTNWekJVTlU5S1YyYxAB",
+      "user": {
+        "name": "jemanu",
+        "link": "https://www.google.com/maps/contrib/112199174476033284697?hl=es",
+        "contributor_id": "112199174476033284697",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ2VC9TDVL36sYsih-YFfEQf9W8G8eL0pSydcnVCoGiI9s1kA=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Estoy encantado con el trabajo realizado. Me montaron tres armarios y tanto el resultado como el trato han sido excelentes. Desde el primer momento demostraron ser una empresa muy seria y profesional, cumpliendo perfectamente con la fecha acordada y realizando el trabajo con mucho cuidado y profesionalidad.\nSe agradece muchísimo encontrar profesionales que cumplen lo que prometen, tanto en los plazos como en la calidad del trabajo. Los armarios han quedado estupendos y estamos muy satisfechos con el resultado.\nSin duda, una carpintería totalmente recomendable. Volvería a contar con ellos sin ninguna duda.",
+      "extracted_snippet": {
+        "original": "Estoy encantado con el trabajo realizado. Me montaron tres armarios y tanto el resultado como el trato han sido excelentes. Desde el primer momento demostraron ser una empresa muy seria y profesional, cumpliendo perfectamente con la fecha acordada y realizando el trabajo con mucho cuidado y profesionalidad.\nSe agradece muchísimo encontrar profesionales que cumplen lo que prometen, tanto en los plazos como en la calidad del trabajo. Los armarios han quedado estupendos y estamos muy satisfechos con el resultado.\nSin duda, una carpintería totalmente recomendable. Volvería a contar con ellos sin ninguna duda."
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205TFNqZFpTRjgyUVd3eVdrUXhSV0ZsT1U1cFpHYxAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOm9LSjdZSF82QWwyWkQxRWFlOU5pZGc%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un mes",
+      "iso_date": "2026-08-26T04:54:10Z",
+      "iso_date_of_last_edit": "2026-08-26T04:54:10Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TFNqZFpTRjgyUVd3eVdrUXhSV0ZsT1U1cFpHYxAB",
+      "user": {
+        "name": "Eva_Hostetur",
+        "link": "https://www.google.com/maps/contrib/112740427653958613551?hl=es",
+        "contributor_id": "112740427653958613551",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKydN1_NupsPlj6sgQ0jeT1gMozwMQywZl9ToYgdCTiYPSAWw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 2,
+        "photos": 1
+      },
+      "snippet": "Carpimoble y Pedro han logrado transformar por completo un espacio multiusos destinado a estudio/cuarto de plancha/cuarto de estar con un armario a medida que permite tener todo guardado y ordenado dando a este espacio la armonía que necesitaba. Además, cuando compré la casa, los armarios carecían de cajoneras interiores. Diseñaron unas a medida que parece que han nacido con el mueble original! Los instaladores ,Jaime y Jesús , han realizado en poco tiempo un trabajo de calidad. Carpimoble lo ha hecho tan bien que han generado una necesidad de seguir encargándoles más trabajos! 😅",
+      "extracted_snippet": {
+        "original": "Carpimoble y Pedro han logrado transformar por completo un espacio multiusos destinado a estudio/cuarto de plancha/cuarto de estar con un armario a medida que permite tener todo guardado y ordenado dando a este espacio la armonía que necesitaba. Además, cuando compré la casa, los armarios carecían de cajoneras interiores. Diseñaron unas a medida que parece que han nacido con el mueble original! Los instaladores ,Jaime y Jesús , han realizado en poco tiempo un trabajo de calidad. Carpimoble lo ha hecho tan bien que han generado una necesidad de seguir encargándoles más trabajos! 😅"
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psVFEwRnpXRzA1ZUZoSlVHSkVVemxYUmxaWU5VRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOjlTQ0FzWG05eFhJUGJEUzlXRlZYNUE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un mes",
+      "iso_date": "2026-08-21T09:09:27Z",
+      "iso_date_of_last_edit": "2026-08-21T09:09:27Z",
+      "images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLekKUzbAYYkcUeuJgoJdHKuYDC44Kr5qRLdoOTOwoy2lEAAEIzZcjk_qCCouRitHZRjhM5fn-gYlOc8-1Bbgbe9BW3gK-yAVFMAg2-WwZR3K3PQodI_HlSYBI37VMoSoImeLNIDpAFom2k=k-no"
+      ],
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFEwRnpXRzA1ZUZoSlVHSkVVemxYUmxaWU5VRRAB",
+      "user": {
+        "name": "luz dacosta",
+        "link": "https://www.google.com/maps/contrib/104834652525971878884?hl=es",
+        "contributor_id": "104834652525971878884",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIyCEOQCBE_0os0LnlBYUwwflwL0T03-ihBBw9kjZGzvrMuFw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 9,
+        "photos": 2
+      },
+      "snippet": "Buenos profesionales de la madera; encargamos un mueble a medida para el salón y hemos quedado muy contentos. Tanto el diseño como el posterior montaje fue sobre ruedas; ordenados y limpios.",
+      "extracted_snippet": {
+        "original": "Buenos profesionales de la madera; encargamos un mueble a medida para el salón y hemos quedado muy contentos. Tanto el diseño como el posterior montaje fue sobre ruedas; ordenados y limpios."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkYWVDMVpNRVpITjJoTk9VdE9ibkJMUlVkbWQxRRAB!2m1!1s0x0:0xe74160300cd1e142!3m1!1s2@1:CAIQACodChtycF9oOldaeC1ZMEZHN2hNOUtObnBLRUdmd1E%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace un mes",
+      "iso_date": "2026-08-18T11:44:17Z",
+      "iso_date_of_last_edit": "2026-08-18T11:44:17Z",
+      "source": "Google",
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYWVDMVpNRVpITjJoTk9VdE9ibkJMUlVkbWQxRRAB",
+      "user": {
+        "name": "Miguel Gil Sanchez",
+        "link": "https://www.google.com/maps/contrib/103938009329147641979?hl=es",
+        "contributor_id": "103938009329147641979",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLR81OCuJMCMnDAhueRa4BroNwkSeH3txvSf573M4EaQbPRjw=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 1,
+        "photos": 0
+      },
+      "snippet": "Todo muy bien y acorde a lo que se encargó .",
+      "extracted_snippet": {
+        "original": "Todo muy bien y acorde a lo que se encargó ."
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f701bffffffeb%3A0xe74160300cd1e142&engine=google_maps_reviews&hl=es&next_page_token=CjEIARIpCgoAP72GOAg288__EhDfads7jF5BZ_JIJD0AAAAAGgn92XMCY4CDbzwYACIA&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72GOAg288__EhDfads7jF5BZ_JIJD0AAAAAGgn92XMCY4CDbzwYACIA"
+  }
+}

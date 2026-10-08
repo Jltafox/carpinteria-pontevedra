@@ -1,0 +1,973 @@
+{
+  "search_metadata": {
+    "id": "6ac625b43d06ea9b96c90c82",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2VB3iUviMlcdadpFUDdh-7udRKI2dMYxE9wn7yDFYe8/6ac625b43d06ea9b96c90c82.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2VB3iUviMlcdadpFUDdh-7udRKI2dMYxE9wn7yDFYe8/6ac625b43d06ea9b96c90c82.md",
+    "created_at": "2026-10-07 10:57:56 UTC",
+    "processed_at": "2026-10-07 10:57:56 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@40.4169,-3.7035,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/2VB3iUviMlcdadpFUDdh-7udRKI2dMYxE9wn7yDFYe8/6ac625b43d06ea9b96c90c82.html",
+    "prettify_html_file": "https://serpapi.com/searches/2VB3iUviMlcdadpFUDdh-7udRKI2dMYxE9wn7yDFYe8/6ac625b43d06ea9b96c90c82.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@40.4169,-3.7035,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpintería Javier Serrano",
+      "place_id": "ChIJVxhHCMknQg0R6IUoP8MEoSY",
+      "data_id": "0xd4227c908471857:0x26a104c33f2885e8",
+      "data_cid": "2783511281316431336",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4227c908471857%3A0x26a104c33f2885e8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4227c908471857%3A0x26a104c33f2885e8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4035529,
+        "longitude": -3.7050663999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVxhHCMknQg0R6IUoP8MEoSY",
+      "provider_id": "/g/1hf31t9s0",
+      "rating": 4.7,
+      "reviews": 186,
+      "type": "Exposición",
+      "types": [
+        "Exposición",
+        "Tienda de armarios",
+        "Fábrica de puertas",
+        "Fábrica de muebles"
+      ],
+      "type_id": "exhibit",
+      "type_ids": [
+        "exhibit",
+        "cabinet_store",
+        "door_manufacturer",
+        "furniture_manufacturer"
+      ],
+      "address": "C. del Laurel, 7, Arganzuela, 28005 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:30",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:30",
+      "operating_hours": {
+        "miércoles": "10:00–14:00, 16:30–20:00",
+        "jueves": "10:00–14:00, 16:30–20:00",
+        "viernes": "10:00–14:00, 16:30–20:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "10:00–14:00, 16:30–20:00"
+      },
+      "phone": "692 18 35 18",
+      "website": "https://www.carpinteriajavierserrano.com/",
+      "description": "Armarios, puertas y muebles a medida. Carpintería y exposición de puertas castellanas, correderas y blindadas, armarios o escaleras, con montaje.",
+      "user_review": "\"Excelente la experiencia que hemos tenido con carpintería Javier Serrano.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_swE7mQWZuA48vFm351guvgQNEkgs0K7aqU_9gGCCWoKjjBAH3EY-hm22HvilgLV64wifUlMrWs02A3mny1kvLaSvugDEIPCssq81imaA3bmrA1L0JAnsBu46CRI9K1nXIysGnA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G6SzMXicHcTdboIwFADgJ0JayvxZ4sWBMWWgURfHthvDGnZAaDs5tMRH9BF8myV-F9_9Vg_DHz37fleLCRqDXWWp6qXRQ6WHiTTKx74k8iT5AFGrcnmiMZmpffFtIZy7VyWeOFqH-23SIrFsVl6OpwWu4rgw2fkcwVokX16tgmDtmg7zj2k4Nr_HbtMXxAIQSl956_Ly3Vl8SdJdTHSZ80aVIH5UDzxnb6ApsuE0PqSLjOvP9EorDcuRM8a8-rH09D_o1ETD"
+    },
+    {
+      "position": 2,
+      "title": "Carpintería Cruz",
+      "place_id": "ChIJVykxfRAnQg0R4HtjlV9JXz4",
+      "data_id": "0xd4227107d312957:0x3e5f495f95637be0",
+      "data_cid": "4494391628016090080",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4227107d312957%3A0x3e5f495f95637be0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4227107d312957%3A0x3e5f495f95637be0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3820544,
+        "longitude": -3.6661002
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVykxfRAnQg0R4HtjlV9JXz4",
+      "provider_id": "/g/11pv2jprsk",
+      "rating": 4.7,
+      "reviews": 94,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Calle del Dr Sánchez, 37, Puente de Vallecas, 28018 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "7:00–19:00",
+        "jueves": "7:00–19:00",
+        "viernes": "7:00–17:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:00–19:00",
+        "martes": "7:00–19:00"
+      },
+      "phone": "665 01 20 91",
+      "website": "https://carpinteriacruz.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online"
+          ]
+        },
+        {
+          "planning": [
+            "Se necesita cita"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Servicios en las instalaciones"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": false
+      },
+      "user_review": "\"Les llamamos para unos muebles de la Tintoreria y todo perfecto.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4j55dpY8GHxxXWHpxaq6BBb9kjnnyN1Z5SDJ9uuHCjaJBX2XJfHJzBtTffEq868Z7GpdWT2MuWa1ljfbVJWL09dCdDKhzFroYUAkNIoamVGJ2TxpxUsWt2NvZUlJj0Tf_TodQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DQ0RtXicHcRRToMwAADQEzEKyoQlftBNwW4jMZaV8WM6SiEF2o6WWXdBz-BtTHwf7_ent1abje-P_cOqU6ob28W0c6OkbaVdNWryu5ka4zXGT1M4TIf2UUQR0-c4y52rSK4dva4hvCSDkPK7COroY4eSZcm3giJYhRXiObpDizl_ucbruH7KNCM4PC6EBqPglxMiB5CwLdvt-_vrrM5lOhRvik6nDIXYaVcaYsPiVpcjEgDzT6zY-_NXAADw-v8bT_4BdzxFHg"
+    },
+    {
+      "position": 3,
+      "title": "Carpintería José Miguel Prieto",
+      "place_id": "ChIJkV57f1MoQg0R9tfnZJx1Wg4",
+      "data_id": "0xd4228537f7b5e91:0xe5a759c64e7d7f6",
+      "data_cid": "1034268379003213814",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4228537f7b5e91%3A0xe5a759c64e7d7f6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4228537f7b5e91%3A0xe5a759c64e7d7f6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4508976,
+        "longitude": -3.7081945999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkV57f1MoQg0R9tfnZJx1Wg4",
+      "provider_id": "/g/1tcy03x0",
+      "rating": 4.1,
+      "reviews": 24,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "C. de San Valeriano, 11, Loc 4, Tetuán, 28039 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 21:00",
+      "hours": "Abierto · Cierre: 21:00",
+      "operating_hours": {
+        "miércoles": "8:00–21:00",
+        "jueves": "8:00–21:00",
+        "viernes": "8:00–21:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–21:00",
+        "martes": "8:00–21:00"
+      },
+      "phone": "914 59 99 30",
+      "website": "http://www.ebanisteriajoseprieto.com/",
+      "user_review": "\"Es un gran ebanista y carpintero, con mucha experiencia y amabilidad\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQnq0n5KL-EioyZLWkqLTGn9LUUK8QDyQkgx_xC9Q_IdjfVwQUpa3ZemUAAJPDphghx_z1miycsOnCOSHFI6ZCix6kLqVaoOVixNLUl7rBWPBPR_9Hz2GMUGLwfa7CaV5ZnZs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o2XgfHicHcRdDoIgAADgE5lWs7KtB7WyH0qpsI0Xx0jBVFCxiR2wO3Sbtr6H7_vhXVerpWmWfDpiUrIyfam0pVJ0qehGVFYma4lSBlWm63pFBTIoGkvYR2BscjlgcC8acAuEAxA6LuB6gAXTifYdmOwfzyzuIarJFKcVct1DtK454zp5j6t8oCoUfnjdbfcz7Od6VoAmJjKMc30GqJy33j3yokvi7N6T4IQC0Gdk7pPYxgKrVT-2LMvg_6khfpasRV4"
+    },
+    {
+      "position": 4,
+      "title": "El Taller del Carpintero",
+      "place_id": "ChIJu2fWzlwoQg0RAzF4JfyLjh4",
+      "data_id": "0xd42285cced667bb:0x1e8e8bfc25783103",
+      "data_cid": "2201851182907404547",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd42285cced667bb%3A0x1e8e8bfc25783103&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd42285cced667bb%3A0x1e8e8bfc25783103&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4364524,
+        "longitude": -3.7125415
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJu2fWzlwoQg0RAzF4JfyLjh4",
+      "provider_id": "/g/1hf2qzbnd",
+      "rating": 4.7,
+      "reviews": 14,
+      "type": "Fábrica de muebles",
+      "types": [
+        "Fábrica de muebles",
+        "Tienda de suministros para trabajar la madera"
+      ],
+      "type_id": "furniture_manufacturer",
+      "type_ids": [
+        "furniture_manufacturer",
+        "woodworking_supply_store"
+      ],
+      "address": "C/ de Donoso Cortés, 62, Chamberí, 28015 Madrid",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:00 · Próxima apertura: 17:00",
+      "hours": "Cierra pronto · 13:00 · Próxima apertura: 17:00",
+      "operating_hours": {
+        "miércoles": "10:00–13:00, 17:00–20:00",
+        "jueves": "10:00–13:00, 17:00–20:00",
+        "viernes": "10:00–13:00, 17:00–20:00",
+        "sábado": "10:30–13:30",
+        "domingo": "Cerrado",
+        "lunes": "10:00–13:00, 17:00–20:00",
+        "martes": "10:00–13:00, 17:00–20:00"
+      },
+      "phone": "636 48 68 48",
+      "website": "http://www.eltallerdelcarpintero.es/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"Han hecho realidad un sueño, un mueble de entrada en un espacio pequeño.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh1FJwiaX-pDSfIcuYvT8WFaO5DphK4ExSsefCnA-JkbGyxXRH3w9idv0RKOYQYN9urJpn2YVagHNMc7jyx_MxUhoIuSBFC7g4N6HRsekz3fHySGmHNPVMfCk1YPzx9ucnW4M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/POnusnicHcRRboIwAADQE1Vg4JQl-0AUKw5UUKFfhtXSKtISSqVwwN3B2yzxfbzXH-u6Rn4ZxoPZEyoEfRAlSYsF7wjvJljUBm0LKQGWhuctqvqHMCsI-1uRg2aZlhus0PM4z4JiN102bOusdCpJ6XMPhNXvetB5Au3evV2fZrLdoQOKXdWGDf9A54LCOMKz-6AvkT4xsVHpIvBn1Ik_YSJJNdolHNJ1DeP9OSr9ykL7UbsK88yJvnvLNE3A3mPA_wFj_0UB"
+    },
+    {
+      "position": 5,
+      "title": "Ebanistería Carpintería Molina. Muebles a medida",
+      "place_id": "ChIJ0R3NGp0TuS8RI9SABttOPMI",
+      "data_id": "0x2fb9139d1acd1dd1:0xc23c4edb0680d423",
+      "data_cid": "13996148444574569507",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2fb9139d1acd1dd1%3A0xc23c4edb0680d423&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2fb9139d1acd1dd1%3A0xc23c4edb0680d423&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4039265,
+        "longitude": -3.6420462
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0R3NGp0TuS8RI9SABttOPMI",
+      "provider_id": "/g/11jsf6md82",
+      "rating": 4.8,
+      "reviews": 16,
+      "type": "Fábrica de muebles",
+      "types": [
+        "Fábrica de muebles"
+      ],
+      "type_id": "furniture_manufacturer",
+      "type_ids": [
+        "furniture_manufacturer"
+      ],
+      "address": "C. Pico de los Artilleros, 83, Moratalaz, 28030 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "722 69 39 14",
+      "user_review": "\"Muebles robustos con relación calidad precio, muy recomendable!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOTpq8N7diN1UGCloaMjDhaBldnUELj_0R_6rqc82zoc9A9jwc_Bmf43PzGNsMgK0U-ssx-x8RlNeo2ZDpLoMPpZ7nUktTXfa89NGm9dCw0_QD-xcqM6KlguH9dTr7P0HUZ_A78g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LVzlA3icHcTbCoIwAADQL1quC7kFPXgJg3RZOAhfhmw2s7mpWyj9YZ_Q3wSdh_P9NM71dud5qlkvpDFS1S9bj9xoV2u34Kbz5FhZC7j1giB8dqk4F_2AiC8eZEmTSJkqa-OmCpXQ9JC2DF7Zdhw4Wr0NxwFuJ87C7r5Z5--E2EyeIAXWzmBGV0VqsyrjPjVZ3pe-pk9X3O4VwiTpsIgmyC4xmPmQbU9Kvo5YFKOfwyMtWeAjuZ-WEELQ_OdA_wAXmEUi"
+    },
+    {
+      "position": 6,
+      "title": "Ebanistería Carpintería Ballesteros S.L.U.",
+      "place_id": "ChIJk3lv0skoQg0ReUhRtZcTm7k",
+      "data_id": "0xd4228c9d26f7993:0xb99b1397b5514879",
+      "data_cid": "13374305060709812345",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4228c9d26f7993%3A0xb99b1397b5514879&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4228c9d26f7993%3A0xb99b1397b5514879&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4349133,
+        "longitude": -3.6697436999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJk3lv0skoQg0ReUhRtZcTm7k",
+      "provider_id": "/g/1tmcnjxf",
+      "rating": 3.5,
+      "reviews": 11,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "woodworker",
+      "type_ids": [
+        "woodworker"
+      ],
+      "address": "C. de Eraso, 31, Salamanca, 28028 Madrid",
+      "country": "España",
+      "phone": "917 25 68 31",
+      "website": "http://www.ebanisteriaballesteros.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDB9meQSz2iSwK6h7-VJarttAHBKu37GL8vFo_KnN-5eoeVlbOXXe5TxMaAWb9lQhzIzpWYMke-MzD6-onCVzq8tkbtYFRuRY59-vhyeihr0ogFPSLe71Lx_GwtbUvWaPzUu7sJQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uP-KdXicHcTdEkJAGADQJ9qoBmmmC2r0g0pCrgzmG9tgt-yH2jfsEXqbZjoX5_uhiA-xVJSGzicV51UDvYCu5AyB4aTkrVJ1uRCkFIpl2XXrwcY2WwhCObuHo6tTg8SHvEO0drbbz42ttxgcnrnsSDTgEDfF6XYD7frycyspzCagci8fSerXQHy50Qln61g-F1gXmDqX_pJqJhnoG-60U3nlnEMPjKn3yrYjFtGQ5GcZ9YY4BKtxqqoqof9Lwn4mAEZr"
+    },
+    {
+      "position": 7,
+      "title": "Puertas Carlos Puebla. Carpintería de madera a medida. Armarios a medida.",
+      "place_id": "ChIJaRB9ZBMvQg0Rl_sA-BOPgRY",
+      "data_id": "0xd422f13647d1069:0x16818f13f800fb97",
+      "data_cid": "1621734656758053783",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd422f13647d1069%3A0x16818f13f800fb97&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd422f13647d1069%3A0x16818f13f800fb97&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.437084399999996,
+        "longitude": -3.6366180999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJaRB9ZBMvQg0Rl_sA-BOPgRY",
+      "provider_id": "/g/1tmg7vtd",
+      "rating": 4.1,
+      "reviews": 30,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Tienda de armarios"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "cabinet_store"
+      ],
+      "address": "C. de Caunedo, 5, San Blas-Canillejas, 28037 Madrid",
+      "country": "España",
+      "open_state": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "hours": "Cierra pronto · 13:30 · Próxima apertura: 17:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 17:00–20:00",
+        "jueves": "9:00–13:30, 17:00–20:00",
+        "viernes": "9:00–13:30, 17:00–20:00",
+        "sábado": "10:00–13:30",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 17:00–20:00",
+        "martes": "9:00–13:30, 17:00–20:00"
+      },
+      "phone": "913 20 05 84",
+      "website": "http://www.puertascarlospuebla.es/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Resultado excelente, cumpliendo plazos y un trato magnífico.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTpwMxmYGplPnBgdHiPYeejyQ-WWBgbaLV62OILapk1dFn3q6TwzbkMU-blTCRe8rl5O3tQRt2KkstAruTKMvG5WzsiLs2OSaC2AydU9SeJthFV9AP7fFFr-yG76dRMr5m1JI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bEldw3icHcTLDYIwAADQiSq_AGLioZCAKARElHAEWotSCrZFxAHdwW1MfIf3_bRSjmKjKLQ1VmQYCMWTwLwZmMRMrpqhVwivhACNUCB0uz5C-TjHr74MRpoyl6DdLS0xvi9HUBQuqavoYulJGFVjpyGfGQ8rn991F59BTXMvw2tOzcSQx0zqh05IyKf8ED8Ds3iLWyT05FR5OlzQ2TnhvWz9iwNT--r7HCyBbaEs5mav7cPtrKmqCtr_DWA_nuBEpw"
+    },
+    {
+      "position": 8,
+      "title": "Carpintería José Javier Sánchez",
+      "place_id": "ChIJ9_gJkx-IQQ0RoA84vekVMJo",
+      "data_id": "0xd41881f9309f8f7:0x9a3015e9bd380fa0",
+      "data_cid": "11110404374369144736",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd41881f9309f8f7%3A0x9a3015e9bd380fa0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd41881f9309f8f7%3A0x9a3015e9bd380fa0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3919863,
+        "longitude": -3.7448685999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ9_gJkx-IQQ0RoA84vekVMJo",
+      "provider_id": "/g/11xwfg2_3",
+      "rating": 4.4,
+      "reviews": 7,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "C. Luis Feito, 26, Loc, Latina, 28047 Madrid",
+      "country": "España",
+      "phone": "670 71 14 86",
+      "user_review": "\"Llamé para saber que me cobraría por un corte de 60cm a un tablón.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy7o5W9NGprs4Q4Bz6fLI14-uhV1Y9ncK8wdrUH0-KG4eRvDjfM8rpGcFdKG6OEbmxhzJ21mlB9SZoFRvPzfaaqGRtqCwDlxCvAFS-1jWWi9sR0si-cqRh7EcuM_Mj8zsnwcQBNg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y0Ln1nicHcRBUoMwFADQE6UkSltwxgW0JVZKtekoo5sO_gIphQTyA1Ru6BG8jTO-xfv9kda2-OA4tbyflVqXdd5jbkArmys7A904pckQCaATBOG12cH3Us9Tf89bg-7BDadFsdsyl_TynX34CmJvPJu3J0pi7uZiWFdF4pmWQ3SO-eJl89Xc5PR8x5o69I-fOhLD61RkWceF7Vbjur6thiA6Elal6cVHQfFCoBNyuYE-OSWVN6Ea4RDuy8eRUUqJ_B-I-gPJlkV4"
+    },
+    {
+      "position": 9,
+      "title": "Carpinteria y Reforma En General L.A",
+      "place_id": "ChIJ5ToEUfYHdIQR9ADUr8wuaV8",
+      "data_id": "0x847407f651043ae5:0x5f692eccafd400f4",
+      "data_cid": "6875077762815885556",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x847407f651043ae5%3A0x5f692eccafd400f4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x847407f651043ae5%3A0x5f692eccafd400f4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3897365,
+        "longitude": -3.663554
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ5ToEUfYHdIQR9ADUr8wuaV8",
+      "provider_id": "/g/11sfb03594",
+      "rating": 3.7,
+      "reviews": 6,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "C. de Carlos Martín Álvarez, 34, Puente de Vallecas, 28018 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "8:30–19:00",
+        "jueves": "8:30–19:00",
+        "viernes": "8:30–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–19:00",
+        "martes": "8:30–19:00"
+      },
+      "phone": "603 47 79 51",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como de propietarias mujeres"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aseo adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Buenísimo profesional, puntual y muy buen precio\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzBjvGGHu52XAP_IHgyfKhzYhqklOiKFrSTm0rNN8uJHxygucjBFRlefVJSjbwjb7a3KAqjIhuLr_9W4-juaAViBY4pSNk5SRplDru7n8-yNeUQnWfwt1yuNmqTPXQZM6VwXFX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6RR6-XicHcRLcoIwAADQE0WwSv3MdBHGQRSNHxTBjYNpSAwhQD5FvGDP0Nt0xrd4f7_MmEbPHUew0YDWNRXEaqJwLQ2RZoDryqEq1xpg7UDol9Xm--Xzn-UytN5HCve3VUj7ImKvjLWl2D2iQMWnylUITe06fPbUYu4HR0GKZB3ze8fvk3wUwZavmN2o2-wyBtzmMHn42biJUenFx0YslJ3IKegROR_kpejMsLeoak_79HDdfiZdGqRf3dB1XcDeYyD_ASWjRqA"
+    },
+    {
+      "position": 10,
+      "title": "Carpintería, Hnos. Cabello C.B",
+      "place_id": "ChIJ45Hf6k0vQg0RKfqs1u9QBnI",
+      "data_id": "0xd422f4deadf91e3:0x720650efd6acfa29",
+      "data_cid": "8216343561213114921",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd422f4deadf91e3%3A0x720650efd6acfa29&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd422f4deadf91e3%3A0x720650efd6acfa29&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4259092,
+        "longitude": -3.6587364
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ45Hf6k0vQg0RKfqs1u9QBnI",
+      "provider_id": "/g/1tj86488",
+      "rating": 4,
+      "reviews": 6,
+      "type": "Ebanista",
+      "types": [
+        "Ebanista"
+      ],
+      "type_id": "cabinet_maker",
+      "type_ids": [
+        "cabinet_maker"
+      ],
+      "address": "C. de Ricardo Ortiz, 50, Cdad. Lineal, 28017 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 16:00",
+      "operating_hours": {
+        "miércoles": "9:00–14:00, 16:00–20:00",
+        "jueves": "9:00–14:00, 16:00–20:00",
+        "viernes": "9:00–14:00, 16:00–20:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–14:00, 16:00–20:00",
+        "martes": "9:00–14:00, 16:00–20:00"
+      },
+      "phone": "678 67 79 16",
+      "website": "http://carpinteroshermanoscabello.com/",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qCjTW5HdBaXe2LyfJ_nyvA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=216.75787&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ap0VuXicHc1RCsIgGADg2_iWusHaCiSql4geg3obzv2p4dTUtF2nW3Wbogt83-etUvJxTUhMASBlDcXrF5i48BxL56QB7nXEwk0kVySp5zRYrs3Gc-v0yB77-_nSHMYdv0J9mm_H3s55i8TQC6PBJhaBB6GwLD8xuBHLwGNEhXUUKbaq0cwLq6slbpu2a5HXSShG0f-5ucwqSr8JLzqZ"
+    },
+    {
+      "position": 11,
+      "title": "Carpinteria Tradicional Antonio Sanchez",
+      "place_id": "ChIJ58mBIyCIQQ0R3MvCrILJv3M",
+      "data_id": "0xd4188202381c9e7:0x73bfc982acc2cbdc",
+      "data_cid": "8340606597994826716",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4188202381c9e7%3A0x73bfc982acc2cbdc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4188202381c9e7%3A0x73bfc982acc2cbdc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3907364,
+        "longitude": -3.745174
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ58mBIyCIQQ0R3MvCrILJv3M",
+      "provider_id": "/g/11bw5zs209",
+      "rating": 4.6,
+      "reviews": 9,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "C. Abejuela, 3, Loc Izquierdo, Latina, 28047 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "9:00–20:00",
+        "jueves": "9:00–20:00",
+        "viernes": "9:00–20:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–20:00",
+        "martes": "9:00–20:00"
+      },
+      "phone": "662 06 27 75",
+      "website": "https://carpinteriatradicional.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online",
+            "Servicios en las instalaciones"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"Queda hacer el trabajo, no dudo que será una maravilla.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKYd2zMKW614nx9g8CwilOzSkwebl2ewS6OP4LkB5Dk1DuF5Trm-_OWghD1R5zeCLoEdPJ18saTd2fHxSydanrkaea6tg0Dec1DsuMx7-aRIh9gG9SmysmtJ_6p42KZdyH70eUag=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G7QwpXicHcTdbsIgGADQJ8JCbatd4oXKNmdraqyL2W4Mg2-wUMAUmv68oY_g25jsXJzHXYVw8y9R1Kj5TDonG-g8tNzZADbMuDORbJn3iPtovd5oU0LxJeLpUFwyktghl8tt_9dUU617-Gli6OusOial3qRUE9q9pefWoGt1kYqSUzrBtnSv4rgnS8_OIv7dDfUomG01A5YFiSlwQn13GBaInT5ULt_z2ozehP01uyVx8S3G3QLDJ5OrnmCMkfqfI_sE-vdFXw"
+    },
+    {
+      "position": 12,
+      "title": "Carpintería la Navarra S. L.",
+      "place_id": "ChIJz8VDP_koQg0Rp1LnafP1UMk",
+      "data_id": "0xd4228f93f43c5cf:0xc950f5f369e752a7",
+      "data_cid": "14506364825562993319",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4228f93f43c5cf%3A0xc950f5f369e752a7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4228f93f43c5cf%3A0xc950f5f369e752a7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4476175,
+        "longitude": -3.6991183
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJz8VDP_koQg0Rp1LnafP1UMk",
+      "provider_id": "/g/1vxcxqkz",
+      "rating": 3.8,
+      "reviews": 4,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Cl. de Don Quijote, 10, Tetuán, 28020 Madrid",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 14:00",
+      "hours": "Cerrado · Apertura: 14:00",
+      "operating_hours": {
+        "miércoles": "8:00–12:00, 14:00–18:00",
+        "jueves": "8:00–12:00, 14:00–18:00",
+        "viernes": "8:00–12:00, 14:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–12:00, 14:00–18:00",
+        "martes": "8:00–12:00, 14:00–18:00"
+      },
+      "phone": "915 33 52 21",
+      "website": "http://www.lanavarra.es/",
+      "user_review": "\"Grandes profesionales de la carpintería y Ebanistería.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1tBxX8GKXFUfJ-oHaxNLtHVf3ekNQvYKtdNNglt8BbOXeEfnxmJlIy2QCJ-Ysy-I27PMRTykov8wR11u0bhBclIqE5ClAtqz2cAcjPZtdaKter1QsoVatRc4cWUP2cRVXxBZy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DuEzz3icHcRLDoIwFADAE1UoaiQmLijxAygCUUR28CwQKVTpU8ELegZvY-Is5vupEG9qrmmiGo9KKUvBH4p3IFvkLY5ANlrZZUoRUJplsbrZcoqsT8y1l6yOhUvkJuv9LW7iYsxrP3yePbz4finQZPk-4cui7RtXOIMR2i45q4E4xizYRYehlk_zFVH60POKgXDuy6ktLLy_DbDgGqR4yTzkHQ2VjDOMYAKnY2BAFCc9S4fFi-q6Tqr_QNofsHdFuQ"
+    },
+    {
+      "position": 13,
+      "title": "Ebanistería Ramírez",
+      "place_id": "ChIJyaAjzRSIQQ0RW7DmFXM9gMM",
+      "data_id": "0xd418814cd23a0c9:0xc3803d7315e6b05b",
+      "data_cid": "14087327198912884827",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd418814cd23a0c9%3A0xc3803d7315e6b05b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd418814cd23a0c9%3A0xc3803d7315e6b05b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.393800999999996,
+        "longitude": -3.7637604999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJyaAjzRSIQQ0RW7DmFXM9gMM",
+      "provider_id": "/g/11dxbx1kgz",
+      "rating": 4.3,
+      "reviews": 26,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "C. de Maqueda, 17, Latina, 28024 Madrid",
+      "country": "España",
+      "open_state": "Abierto ahora",
+      "phone": "630 40 40 31",
+      "website": "https://instagram.com/ebanisteria_ramirez?igshid=YTQwZjQ0NmI0OA==",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Cumplieron con las fechas pactadas y con el trabajo solicitado.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIcjJHxYqr0zfSFpwsYDBkjkMDM1ke78Qs-NKLSGNonzurILHkqEscWWJPRtopcL78kCpChGTB8jkIbToHZHb1EH-5HQ5rBcO5U3W6P1qJqAdzfRIwsj3sXqJLrR930ioO12Ha=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Iuyf3HicHcRLDoIwFADAE1VaCYomLsBfwfpDDOpOawWpUtpXg-GCnsHbmDiL-X4Ka2sYOs6jcDu5UvlDvEAYriorKtvh6unk5gyAODhBEMonExEvY_o-aoPb225WN3CchLKUy8mSSNH3t4BWC7abr1TVvkzEqNRT4FkWbxKras76vhzX42Kehn4po0uq6IleyJQij249E_K1t3ez3oboWAfX9pZEDZQuHHTMTDJw8V2tSZeeRw3BGKPiP0fVD63yRHQ"
+    },
+    {
+      "position": 14,
+      "title": "Carpinteria Madosa",
+      "place_id": "ChIJp-FYKJcnQg0RuXjYZlehqJY",
+      "data_id": "0xd4227972858e1a7:0x96a8a15766d878b9",
+      "data_cid": "10856104298536270009",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4227972858e1a7%3A0x96a8a15766d878b9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4227972858e1a7%3A0x96a8a15766d878b9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3839749,
+        "longitude": -3.7277305999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJp-FYKJcnQg0RuXjYZlehqJY",
+      "provider_id": "/g/11gty1xxr3",
+      "rating": 4.1,
+      "reviews": 12,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "C. de la Hermandad, 9, Carabanchel, 28025 Madrid",
+      "country": "España",
+      "phone": "915 25 01 17",
+      "user_review": "\"Me han montado 3 armarios, una despensa y un escritorio a medida.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCyI7BEfn17P3z4Rv7_swYvPzavSOET4FmTdgYXnsAtV_It1eg-vd2c3vlNEmVQMOmVt7PdWwKJkIM20Y7Cn7rchtm9LpVROkdzfE83TMwNXYZSIx45MUSpGKqrYp6MSkcNnpCqA7TjCSu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5IKEP3icHcTNboIwAADgJ0J-tduSHYCwBbXAKGPWizEFSgYthZay8ZKefRsTv8N3v7VKCflmmn3rbugw0L6eZT2Rgauaqw0ZmEmnq5QGkabvBx07NuF_DIKo4TbI3NXLNbjIBetsvWqURoX3wYqK4hOXviovsbJraujKIa7uk4iVXzBlpQJZ9bMc9l0MHQuDkIOJtIq9HkWZp121NtGLW8AlOeEziv-8LfxG4vMwTljsIOpIwkU4-qD4DdH8vtiWZRntc2LwB-23SAQ"
+    },
+    {
+      "position": 15,
+      "title": "Carpintería Ebanistería Gómez de Bejerano",
+      "place_id": "ChIJ58mBIyCIQQ0RgaQ64hgVLMQ",
+      "data_id": "0xd4188202381c9e7:0xc42c1518e23aa481",
+      "data_cid": "14135696527028036737",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4188202381c9e7%3A0xc42c1518e23aa481&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4188202381c9e7%3A0xc42c1518e23aa481&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3907017,
+        "longitude": -3.7451862
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ58mBIyCIQQ0RgaQ64hgVLMQ",
+      "provider_id": "/g/11xbn0jp5",
+      "rating": 3,
+      "reviews": 6,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Carpintería"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter",
+        "furniture_maker"
+      ],
+      "address": "C. Abejuela, 3, Latina, 28047 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "630 54 31 61",
+      "extensions": [
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1RKDGQt96gLA8n08ildJgT8qsq2Ps1Ok-8B-e9jpjaSykwZiIdJ7WKv6L_QSft3fTKVgQIlGCw5WUSv1xdkoWfACsFDhhyswflpDBj-4H0a0tk-VVvJCPCKXob6dff6OSkoRRzDerPuXG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rC3TWXicHcTLboJAFADQLxoZqlJs4oJHRIFEHhaMG0NhHjIjg9wRtD_pun9j0rM4fy-udQ9fhiH5fMaUYpLcgQy16jTp9KxWV4MNFQCqwXAcV1xjYmaRH6R6ZbHYsTtsX2QTsoN9g9tHAuZeINtFZNX2bZU_xXS67Jrws4xGKz6nOdVzeogKlu5k4E3L8jsfzUcjVEkdDzY-50-YqOx9t0WLLa6wFqgoxtBLvOiofqyGUmufC5Vlvz4ZkvsxWE8mxhjx_2vUvQGPDkeJ"
+    },
+    {
+      "position": 16,
+      "title": "Carpintería Ebanistería Nuevo Futuro",
+      "place_id": "ChIJy_eX8pklQg0RJEQEk6UAKio",
+      "data_id": "0xd422599f297f7cb:0x2a2a00a593044424",
+      "data_cid": "3038241609750955044",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd422599f297f7cb%3A0x2a2a00a593044424&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd422599f297f7cb%3A0x2a2a00a593044424&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3854644,
+        "longitude": -3.651132
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy_eX8pklQg0RJEQEk6UAKio",
+      "provider_id": "/g/11vt9bvfxl",
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "C. de Manuel Badía, 17, Puente de Vallecas, 28018 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 14:00 · Próxima apertura: 15:00",
+      "hours": "Abierto · Cierre: 14:00 · Próxima apertura: 15:00",
+      "operating_hours": {
+        "miércoles": "8:30–14:00, 15:00–18:00",
+        "jueves": "8:30–14:00, 15:00–18:00",
+        "viernes": "8:30–14:00, 15:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–14:00, 15:00–18:00",
+        "martes": "8:30–14:00, 15:00–18:00"
+      },
+      "phone": "626 27 25 43",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLSrPdRGiHTMozu89mPL6feZw-N8eoxBl_0z6b8_9AbTFlGVQsSBVgcFnIr34_j1UB3De0Oj-dxfj9fZs8PO4ewxASZiDzZWomF24cc9FnJreJWiKjB1yl4cXJjx6633jp2l8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JJPFXHicHcTbDoIgAADQL0IxnMO2HmTNyqwsu80XV4gXQmhg0_zA_qG_aes8nO-n7rqnmdq2qJFVKVUJ9jJMUyU7JjuLqtau9M0YQI0dBOTRxmWc6qQ4LJrlcaPGF_bbJPZKlvVgi5kaiMjh6N1x7gf3YygW571JybmioVxp5ObcORE0Z3DHQTGU3C8zg5Ody_ohSLNmPmYX1YYTl1I_lJFm0aVZc-K8hUuvER88DyH-nAg86x0IIaj_UyB_JDlD5g"
+    },
+    {
+      "position": 17,
+      "title": "Carpintería Dimarca",
+      "place_id": "ChIJmX1jPT8vQg0RV5yXXu7dBJA",
+      "data_id": "0xd422f3f3d637d99:0x9004ddee5e979c57",
+      "data_cid": "10377663457227414615",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd422f3f3d637d99%3A0x9004ddee5e979c57&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd422f3f3d637d99%3A0x9004ddee5e979c57&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4368646,
+        "longitude": -3.6458488
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmX1jPT8vQg0RV5yXXu7dBJA",
+      "provider_id": "/g/11dxl805p4",
+      "rating": 3.1,
+      "reviews": 21,
+      "type": "Fábrica de puertas",
+      "types": [
+        "Fábrica de puertas",
+        "Fábrica de muebles"
+      ],
+      "type_id": "door_manufacturer",
+      "type_ids": [
+        "door_manufacturer",
+        "furniture_manufacturer"
+      ],
+      "address": "C. de Virgen de Lluc, 98, Cdad. Lineal, 28027 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "10:00–20:00",
+        "jueves": "10:00–20:00",
+        "viernes": "10:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "10:00–20:00",
+        "martes": "10:00–20:00"
+      },
+      "phone": "610 25 93 04",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNyyF63O4wWKkvGtQg18aP1HL6n8ToBMCfRE3B-dqi95nnNgFF8Ogt2dsVnkpJOIQqNW_bSRlTNAhAIAx0SsW4Vt9LqwH8Mv1OBbG-C00nEZ8V4uKrcsjhnpC4q1XZWhv15sgyfQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S71h5nicHcTRboIwFADQL6q0A0018aEQUSfCUAOLL0YrtgreAreCfOI-YX-zZOfh_P5oa2ucOU6l3ZEyRlXFC4tWGrAF2JE0T0e1Z0Qi0RHCL59REQ9DOHETr883Zbe0qWL8_MVW0QT4wfjb4LZbuD65NvfpGCBWYcgTZT-umEFZfybrtInz02W_qw6x0GIt3nSPuZfZadT0K77tWOJfliSgFBZHnnmvTSvxoaEOvIZ9H3PdsTGq4ZbOe0YpJfp_SeAPoDREgg"
+    },
+    {
+      "position": 18,
+      "title": "Carpintería Ebanistería David Mellén",
+      "place_id": "ChIJZQgdw8QlQg0Rr2ZvxrOYw6M",
+      "data_id": "0xd4225c4c31d0865:0xa3c398b3c66f66af",
+      "data_cid": "11800443346536588975",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4225c4c31d0865%3A0xa3c398b3c66f66af&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4225c4c31d0865%3A0xa3c398b3c66f66af&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.3875094,
+        "longitude": -3.6522839
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZQgdw8QlQg0Rr2ZvxrOYw6M",
+      "provider_id": "/g/1hc1ydl9l",
+      "rating": 3.5,
+      "reviews": 2,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "C. del Río Bravo, 8, Puente de Vallecas, 28018 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "917 77 91 30",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8wJIVBTDC7m_idaP3r3KJ_Kg5klrOLK9EbphY-sVeFmPT770n6HHNIL3jB-uCR3iibyvx7hpdUs60-tv6i9cDM0p0E_kWcRjfTNUDrR8oXxNepkR4y7Nj-OzURBiuv7teyQHp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W-bY7XicHcRdboIwAADgE1W61FE12YMICwqia4DpE5Ha0fLXpi0oXnBn8DYmfg_f859bq8zKcVqOZpWUVcsGwzSVvWW9nVHZOZW-GAOocdZrr-litrjttrmX-hvcFeJ6OSKNol0RVZ9Nqw9xtAxKxc_A5Oy7O6YYw94Nw2Qbo9oDw4YgIcppvGOurplxIbCjK5bU30MFg6L5paT-S5PM12QhT_eEqYbMJ5zU4PDIiCeGEVs2_YTq6_YBIQT8PQX9CyaBRHM"
+    },
+    {
+      "position": 19,
+      "title": "MK Ebanistería",
+      "place_id": "ChIJW-GubnkoQg0RFdWC5tGEDuo",
+      "data_id": "0xd4228796eaee15b:0xea0e84d1e682d515",
+      "data_cid": "16865563691599451413",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd4228796eaee15b%3A0xea0e84d1e682d515&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd4228796eaee15b%3A0xea0e84d1e682d515&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.402215399999996,
+        "longitude": -3.7534479999999997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJW-GubnkoQg0RFdWC5tGEDuo",
+      "provider_id": "/g/119tkwdwg",
+      "rating": 4.3,
+      "reviews": 28,
+      "type": "Ebanista",
+      "types": [
+        "Ebanista",
+        "Tienda de mobiliario para dormitorios",
+        "Tienda de mobiliario infantil",
+        "Carpintería",
+        "Fábrica de muebles",
+        "Tienda de muebles",
+        "Tienda de muebles de cocina",
+        "Tienda de mobiliario de oficina"
+      ],
+      "type_id": "cabinet_maker",
+      "type_ids": [
+        "cabinet_maker",
+        "bedroom_furniture_store",
+        "childrens_furniture_store",
+        "furniture_maker",
+        "furniture_manufacturer",
+        "furniture_store",
+        "kitchen_furniture_store",
+        "office_furniture_store"
+      ],
+      "address": "C. de Cebreros, 101, Latina, 28011 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "652 38 61 72",
+      "website": "https://www.mkebanisteria.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con la comunidad LGBTQ+"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx8nDW6TCD2HYPkTGE623gQAaCPibX1dhO22EVFXqWP9dlEuEqFYGmFBjtr3esa4CUt0YUyEqjc4ETRi2FZ1gLDl0LESPqrpT3XIdrrvqf64CWEzaoQreAEtORndMmB0cH5i6c0A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NfbVoHicHcTdboIwGADQJ0JKQaImuyjwoUswokMB77B0BYXW_rhN33CP4NuYeC7O87-z9moWrjt0_oRLyQd2M0xTKSwTdkLl6HLdGONQ4xISXcaM_s1EUoZFnOBVnV-KJYTY51vSxHl_qry222AMh7RSZT5vB7iBSuvlmEZnq31mmiDeW1Tv76DONIBi1-P06PEsGVAGX7nS18KvPlutf9R3GMQlPBq51YyA3exEux4jRFfTPqSIfPx6CCGne08d8QJ3FUQg"
+    },
+    {
+      "position": 20,
+      "title": "Carpintería premium",
+      "place_id": "ChIJ61HLqxwvQg0RCGm--djsoWA",
+      "data_id": "0xd422f1cabcb51eb:0x60a1ecd8f9be6908",
+      "data_cid": "6963106915538594056",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd422f1cabcb51eb%3A0x60a1ecd8f9be6908&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd422f1cabcb51eb%3A0x60a1ecd8f9be6908&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 40.4291558,
+        "longitude": -3.6268808
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ61HLqxwvQg0RCGm--djsoWA",
+      "provider_id": "/g/11zd5bxypl",
+      "type": "Empresa de construcción",
+      "types": [
+        "Empresa de construcción"
+      ],
+      "type_id": "building_firm",
+      "type_ids": [
+        "building_firm"
+      ],
+      "address": "C. del Castillo de Simancas, San Blas-Canillejas, 28037 Madrid",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 21:00",
+      "hours": "Abierto · Cierre: 21:00",
+      "operating_hours": {
+        "miércoles": "8:30–21:00",
+        "jueves": "8:30–21:00",
+        "viernes": "8:30–21:00",
+        "sábado": "8:30–21:00",
+        "domingo": "9:00–16:00",
+        "lunes": "8:30–21:00",
+        "martes": "8:30–21:00"
+      },
+      "phone": "631 47 09 10",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FLtTmyyG_JLyY8ZsXXrcHg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=95.9682&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mNp42XicHc3BDcIgFADQbbgJtImmNSHe1JgePVQvDaUIJLQQ_rfINq7lNhoXeO_ztogR9owBJq1xdTpH99IeNlFSE4LxWkYHVIWZrRVD-5zHRTp_iHIJbhLHDq9zKafh0pVbc4e-T-psiBoH5Z1eUICWSVlq8k9MYaImSQCSRcOJFW1Nisyi3dJ219QkOlRWcPJfHmEVFedftwk6hQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4040.4169%2C-3.7035%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

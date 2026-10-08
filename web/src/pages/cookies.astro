@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { pageByRoute } from '../lib/site';
+
+const page = pageByRoute('/cookies/');
+---
+<Base page={page}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <section class="block">
+    <div class="wrap prose">
+      <h1>Política de cookies</h1>
+      <p class="placeholder">Plantilla pendiente de revisión: actualizar si se añade analítica, mapas o widgets de terceros.</p>
+      <p>Esta web no instala cookies propias. El mapa de Google del pie, si está activo, puede instalar cookies de Google al cargarse.</p>
+    </div>
+  </section>
+</Base>

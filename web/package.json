@@ -1,0 +1,16 @@
+{
+  "name": "carpinteria-web",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check:vars": "node scripts/check-vars.mjs",
+    "release": "node scripts/check-vars.mjs && astro build"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

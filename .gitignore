@@ -1,0 +1,12 @@
+# Claves y secretos: nunca se suben a GitHub
+.env
+
+# Dependencias y compilados
+node_modules/
+web/dist/
+web/.astro/
+__pycache__/
+*.pyc
+
+# Configuración local de Claude Code
+.claude/settings.local.json

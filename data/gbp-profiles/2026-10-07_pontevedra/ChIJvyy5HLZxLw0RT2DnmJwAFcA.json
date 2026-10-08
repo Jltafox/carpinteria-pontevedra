@@ -1,0 +1,83 @@
+{
+  "place_id": "ChIJvyy5HLZxLw0RT2DnmJwAFcA",
+  "name": "Manufacturas Madereras Xeve",
+  "data_id": "0xd2f71b61cb92cbf:0xc015009c98e7604f",
+  "address": "36151 Gatomorto, Pontevedra",
+  "phone": "986 87 94 26",
+  "website": "http://www.maderasxeve.com/",
+  "domain": "maderasxeve.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Fábrica",
+  "secondary_categories": [],
+  "attributes": [
+    "Accesibilidad: Acceso para sillas de ruedas",
+    "Accesibilidad: Aparcamiento adaptado para sillas de ruedas"
+  ],
+  "attributes_count": 2,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "8:30–14:00"
+    },
+    {
+      "jueves": "8:30–14:00"
+    },
+    {
+      "viernes": "8:30–14:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "8:30–14:00"
+    },
+    {
+      "martes": "8:30–14:00"
+    }
+  ],
+  "photo_groups": [],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 4.6,
+  "total_reviews": 33,
+  "rating_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 2,
+    "4": 6,
+    "5": 24
+  },
+  "reviews_sampled": 25,
+  "last_review_age_days": 48,
+  "reviews_last_12m": 5,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.4,
+  "owner_response_rate": 64,
+  "reviews_with_text_pct": 56,
+  "avg_review_length": 74,
+  "review_topics": [
+    "briqueta (8)",
+    "productos (3)"
+  ],
+  "review_highlights": [
+    "Puntualidad y muy buena calidad",
+    "Amables, te atienden rápido"
+  ],
+  "grid": {
+    "cells_top": 5,
+    "solv_pct": 6.8,
+    "avr": 5.8,
+    "reach_median_km": 2.2,
+    "reach_max_km": 2.6
+  }
+}

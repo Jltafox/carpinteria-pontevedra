@@ -1,0 +1,572 @@
+{
+  "search_metadata": {
+    "id": "6ac623590676dc3ec4897a60",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3N5w42SqJKeDRTsh9Wj41F5fxfyu59CzrpC2OkCC-D8/6ac623590676dc3ec4897a60.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3N5w42SqJKeDRTsh9Wj41F5fxfyu59CzrpC2OkCC-D8/6ac623590676dc3ec4897a60.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3N5w42SqJKeDRTsh9Wj41F5fxfyu59CzrpC2OkCC-D8/6ac623590676dc3ec4897a60.json_with_pixel_position",
+    "created_at": "2026-10-07 10:47:53 UTC",
+    "processed_at": "2026-10-07 10:47:53 UTC",
+    "google_url": "https://www.google.es/search?q=carpinter%C3%ADa&oq=carpinter%C3%ADa&uule=w+CAIQICIiVmFsZW5jaWEsVmFsZW5jaWFuIENvbW11bml0eSxTcGFpbg&hl=es&gl=es&sourceid=chrome-mobile&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3N5w42SqJKeDRTsh9Wj41F5fxfyu59CzrpC2OkCC-D8/6ac623590676dc3ec4897a60.html",
+    "total_time_taken": 1.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "carpintería",
+    "location_requested": "Valencia,Valencian Community,Spain",
+    "location_used": "Valencia,Valencian Community,Spain",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es",
+    "device": "mobile"
+  },
+  "search_information": {
+    "query_displayed": "carpintería",
+    "results_for": "Valencia"
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg%3A1791370073640&udm=imgs&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ9AF6BQiOARAA#imgrc=pIQiQvY53qqvVM",
+      "source": "https://es.wikipedia.org/wiki/Carpinter%C3%ADa",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMRGpiABXTY8c7TraRqnFx0q_pcKpF4m-YNbAVI99bFXIWX0WRlKdpak&s",
+      "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Havana_-_Cuba_-_2566.jpg/1280px-Havana_-_Cuba_-_2566.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "title": "Carpintería - Wikipedia, la enciclopedia libre",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg%3A1791370073640&udm=imgs&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ9AF6BQirARAA#imgrc=rEWrSateTJzhzM",
+      "source": "https://torneiro.es/la-carpinteria-de-madera-un-oficio-que-traspasa-generaciones/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGtlrYR7BeeRYSOu-dTXBPucuCZvspTKs2Pw36qsL9FnDSEnlPDfcRDA&s",
+      "original": "https://torneiro.es/wp-content/uploads/2025/03/Carpinteria-de-madera-Valoria-scaled.jpg",
+      "title": "La carpintería de madera, un oficio que traspasa generaciones ...",
+      "source_name": "Maquinaria Torneiro"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg%3A1791370073640&udm=imgs&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ9AF6BQiwARAA#imgrc=92W3PB0-X3cDEM",
+      "source": "https://postgradoindustrial.com/materiales-de-carpinteria/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJl1q_8eV0gVZxZWqFezY8nE0jfysPyn9RxZzN-wvPXd7WYF-YO7tJ0Nw&s",
+      "original": "https://postgradoindustrial.com/wp-content/uploads/materiales-de-carpinteria.png",
+      "title": "Qué materiales de carpintería se necesitan para un taller ...",
+      "source_name": "Escuela de Postgrado Industrial"
+    },
+    {
+      "link": "https://www.google.es/search?q=carpinter%C3%ADa&sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg%3A1791370073640&udm=imgs&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ9AF6BQixARAA#imgrc=TgYQlilP6A-e0M",
+      "source": "https://www.emagister.com/blog/las-cuatro-tecnicas-basicas-de-carpinteria-que-deberias-conocer/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8KmiBRRN7nw029-df9Pzr8z6R7vE1wYQHzGAOudw45L4i49MNR4Yym0&s",
+      "original": "https://www.emagister.com/blog/wp-content/uploads/2022/05/GettyImages-505274864.jpg",
+      "title": "Las cuatro técnicas básicas de carpintería que deberías conocer ...",
+      "source_name": "Emagister"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "¿Cuáles son 5 cosas que hace un carpintero?",
+      "type": "ai_overview",
+      "page_token": "41KBHXicHdDPboIwAIDx7GU8KgVx0cQsQSmgscZCC_aylBZUWqD-G8pt77Kn2tPM7Pwlv8P3_aNPjfp9ux9vN3OdjUZd1w0PbXvQxbC4jvj12YiR4FrnXKjZ5H0CPkox9--RtzhH3o4YQ5fYigG0aIZDthQWcVhEHMzjFDZcsYbVUbfXCiClnjGV231C_TRETUGlXRBok6Vy0wDcuE0jboFz3DBTnICVhF4llEaIYodRuEXWlKBgRahNe_HyuW-Q1BQW9WOd-ziS9bRM0na8DdwF8zEUxH_i0PjU0efYWUEUAC9OzRevIoDh8VE0KNhQ6YrMm2BH2ZSiBUkZxRA7_lFmBHjh_tUSZfqNUq5MjrtNws55j_HGa087gntR6ZqoxzrJSMcrfedpZMfaQ7saXLbJ6ikDGOQVHMtuUIqvuTP4_zn_LOvbzFzawx_x8IFY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=41KBHXicHdDPboIwAIDx7GU8KgVx0cQsQSmgscZCC_aylBZUWqD-G8pt77Kn2tPM7Pwlv8P3_aNPjfp9ux9vN3OdjUZd1w0PbXvQxbC4jvj12YiR4FrnXKjZ5H0CPkox9--RtzhH3o4YQ5fYigG0aIZDthQWcVhEHMzjFDZcsYbVUbfXCiClnjGV231C_TRETUGlXRBok6Vy0wDcuE0jboFz3DBTnICVhF4llEaIYodRuEXWlKBgRahNe_HyuW-Q1BQW9WOd-ziS9bRM0na8DdwF8zEUxH_i0PjU0efYWUEUAC9OzRevIoDh8VE0KNhQ6YrMm2BH2ZSiBUkZxRA7_lFmBHjh_tUSZfqNUq5MjrtNws55j_HGa087gntR6ZqoxzrJSMcrfedpZMfaQ7saXLbJ6ikDGOQVHMtuUIqvuTP4_zn_LOvbzFzawx_x8IFY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK/Q3XDoWxlcyBzb24gNSBjb3NhcyBxdWUgaGFjZSB1biBjYXJwaW50ZXJvPyIsImxrIjoiR2g0MUlHTnZjMkZ6SUhGMVpTQm9ZV05sSUhWdUlHTmhjbkJwYm5SbGNtOCIsImJzIjoiYzVXUVFRckNRQXhGY1p1VjY0cVNwUWlpRmx3WDhRUmVRRWlud1ZhbU16WFRPWkFIY09VQkJIc3hoM0doSWhYY2hmRC1DX213Z19uOXR2WGRXYk5EWncydVVWbEhEay1lc1NURjZBMHFrcVl5TFl2TlVrd212eEhZd19LcE5LMUZ4d0hPaGJDeGdwcXd0R0V1dnF5elpLbzhmUVQ2WU5nQUJuOTNyU1BNVGttVjh3dm9McFNsNDJTa2JBOVFFUndnZlZOb1RYVzgxN0NFQ2lnLTFncmxkSXpybWdxV0lGMGxDX1ZmWmpoNEFBIiwiaWQiOiJmY19XU1BHYXB6TkpzMkk5dThQMTZqbzRRMF82In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK%2FQ3XDoWxlcyBzb24gNSBjb3NhcyBxdWUgaGFjZSB1biBjYXJwaW50ZXJvPyIsImxrIjoiR2g0MUlHTnZjMkZ6SUhGMVpTQm9ZV05sSUhWdUlHTmhjbkJwYm5SbGNtOCIsImJzIjoiYzVXUVFRckNRQXhGY1p1VjY0cVNwUWlpRmx3WDhRUmVRRWlud1ZhbU16WFRPWkFIY09VQkJIc3hoM0doSWhYY2hmRC1DX213Z19uOXR2WGRXYk5EWncydVVWbEhEay1lc1NURjZBMHFrcVl5TFl2TlVrd212eEhZd19LcE5LMUZ4d0hPaGJDeGdwcXd0R0V1dnF5elpLbzhmUVQ2WU5nQUJuOTNyU1BNVGttVjh3dm9McFNsNDJTa2JBOVFFUndnZlZOb1RYVzgxN0NFQ2lnLTFncmxkSXpybWdxV0lGMGxDX1ZmWmpoNEFBIiwiaWQiOiJmY19XU1BHYXB6TkpzMkk5dThQMTZqbzRRMF82In0%3D"
+    },
+    {
+      "question": "¿Cuánto se cobra por la hora de un carpintero?",
+      "type": "ai_overview",
+      "page_token": "thdw-HicHdBRbtowGABg7TJ9LA5tWYeEJhlsskz5wU5sB79MwQZC7SQuQSXJW4-wO-xUO02r3uDT9_7Pnxv3_9vf6noN3Xwyud1u96e2PfnD_aGblN3QmIkpvd-Xxs1n32fRz6NZkDeDlxeDmQhBrjjKHvAASnbM80b6Z5Si6ncRUcEUePC6LVe8YA4E9z-2OeFBxBYpBWS_1rBRsJG5r5V7HowyiDd8C0V7syoabYSJbWgoh0jm6_5REzEYUqlM6gTIU7ZzWmceLkCStRUWpUT-yhualCS8Wpm0aZPU2rtHSSHZv8CZK7qEXPcQJXSH2PTTX4qY6kMdPvm0NtJuzYr2kladiOSQ173kUwp6mvaAwlpShkhlCxHheFfgWe7CmDr3ZPOKpbl-3Y-cp7g9M8FH8-JrIXhcNngpaoo3RMaKwNLSqjdFyOzokF3hjLG7o3lbPNx9XS_-HOvrPFza0wdsh4xL",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=thdw-HicHdBRbtowGABg7TJ9LA5tWYeEJhlsskz5wU5sB79MwQZC7SQuQSXJW4-wO-xUO02r3uDT9_7Pnxv3_9vf6noN3Xwyud1u96e2PfnD_aGblN3QmIkpvd-Xxs1n32fRz6NZkDeDlxeDmQhBrjjKHvAASnbM80b6Z5Si6ncRUcEUePC6LVe8YA4E9z-2OeFBxBYpBWS_1rBRsJG5r5V7HowyiDd8C0V7syoabYSJbWgoh0jm6_5REzEYUqlM6gTIU7ZzWmceLkCStRUWpUT-yhualCS8Wpm0aZPU2rtHSSHZv8CZK7qEXPcQJXSH2PTTX4qY6kMdPvm0NtJuzYr2kladiOSQ173kUwp6mvaAwlpShkhlCxHheFfgWe7CmDr3ZPOKpbl-3Y-cp7g9M8FH8-JrIXhcNngpaoo3RMaKwNLSqjdFyOzokF3hjLG7o3lbPNx9XS_-HOvrPFza0wdsh4xL",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK/Q3XDoW50byBzZSBjb2JyYSBwb3IgbGEgaG9yYSBkZSB1biBjYXJwaW50ZXJvPyIsImxrIjoiR2loamRXRnVkRzhnYzJVZ1kyOWljbUVnYkdFZ2FHOXlZU0JrWlNCMWJpQmpZWEp3YVc1MFpYSnYiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK%2FQ3XDoW50byBzZSBjb2JyYSBwb3IgbGEgaG9yYSBkZSB1biBjYXJwaW50ZXJvPyIsImxrIjoiR2loamRXRnVkRzhnYzJVZ1kyOWljbUVnYkdFZ2FHOXlZU0JrWlNCMWJpQmpZWEp3YVc1MFpYSnYiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9"
+    },
+    {
+      "question": "¿Cómo se escribe carpintería?",
+      "type": "ai_overview",
+      "page_token": "1Iu7EHicHdBRboIwAIDh7DI-zoLoNhOzpANFJk1a20r7skBB0Raowgb6trvsVDvNzA7wfw__94851vr34bPsOtvOx-O-7x8PTXMwxWPRjtP2WquxSo3JUqXns6eZ87pXi-BzDd_Oa4iZtdwngC5VL7gekLt2FS8rFZQ6M7bmV6eS1RKLGt4KDllcDe8SyCMJXhp1KmcZJ-0WiAHr567gyKgdFyIhUHLhCWMNcbtNTNFXQY1AO0voqrtwgO69cFAQHVMqEQ2Ah9gylCG6-8BLfRMwPazlKrJqR1bUl1c8sZvc5SDbSZzTaLp1LWY-HHgCgWAtYFVECuZNt0leZ9qZBGWeMAeGIoEzqu0t1nqa0xLHVJ6zGyExbI6YkZs6mYoHuVP4kUzrxksTGKeh7bMwcmmIIqbJRHLjYTzaq6_FZPT_c_Gxr7q5vTSHPzrVgrE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1Iu7EHicHdBRboIwAIDh7DI-zoLoNhOzpANFJk1a20r7skBB0Raowgb6trvsVDvNzA7wfw__94851vr34bPsOtvOx-O-7x8PTXMwxWPRjtP2WquxSo3JUqXns6eZ87pXi-BzDd_Oa4iZtdwngC5VL7gekLt2FS8rFZQ6M7bmV6eS1RKLGt4KDllcDe8SyCMJXhp1KmcZJ-0WiAHr567gyKgdFyIhUHLhCWMNcbtNTNFXQY1AO0voqrtwgO69cFAQHVMqEQ2Ah9gylCG6-8BLfRMwPazlKrJqR1bUl1c8sZvc5SDbSZzTaLp1LWY-HHgCgWAtYFVECuZNt0leZ9qZBGWeMAeGIoEzqu0t1nqa0xLHVJ6zGyExbI6YkZs6mYoHuVP4kUzrxksTGKeh7bMwcmmIIqbJRHLjYTzaq6_FZPT_c_Gxr7q5vTSHPzrVgrE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK/Q8OzbW8gc2UgZXNjcmliZSBjYXJwaW50ZXLDrWE/IiwibGsiOiJHaHRqYjIxdklITmxJR1Z6WTNKcFltVWdZMkZ5Y0dsdWRHVnlhV0UiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK%2FQ8OzbW8gc2UgZXNjcmliZSBjYXJwaW50ZXLDrWE%2FIiwibGsiOiJHaHRqYjIxdklITmxJR1Z6WTNKcFltVWdZMkZ5Y0dsdWRHVnlhV0UiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9"
+    },
+    {
+      "question": "¿Cómo se llama la persona que trabaja la madera?",
+      "type": "ai_overview",
+      "page_token": "tzQKU3icHdBfbpswHABg7TJ9bMA0WRspmgTBZCy4w7EdwstkfiYBbP60oBL8tiPsDjvVTrNpR_i-n79N3ek_n35V0zSM29VqnufHW9_fTPlYjis5Lh2sQBpTSNDbzeeN--UKu_AD_OAd_JQPg9hT5-T5e4VVLzKwNBtGFlWLdLjNnBd7DtwAWvAEelqg8Z1TRxHDJBWIHkshmiKkNbBcADdfuRVPij-7ck_WxMavFxZHxBnwxZCQHcRStvFIIyLV3v9edhViDbanTnvqnN4hEnOq846jaRHnZE2Y9spWkOSQv170S01CLBVX0wlNurBiSEJuwfoxhDdLdHxkWNWMm1k1dJOKZ_ccxW-yrVDJ7wkzAqXoHjBNRFipjLv-4ZL5G6YHm2i9VqxKE5a_FZbSxO_rlFMLjWl5pwxDs0MjHAASR2Xib_9cceGsqWwwziP3quaHK3zsvIf_17sf13baDu_97S8S5Y09",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tzQKU3icHdBfbpswHABg7TJ9bMA0WRspmgTBZCy4w7EdwstkfiYBbP60oBL8tiPsDjvVTrNpR_i-n79N3ek_n35V0zSM29VqnufHW9_fTPlYjis5Lh2sQBpTSNDbzeeN--UKu_AD_OAd_JQPg9hT5-T5e4VVLzKwNBtGFlWLdLjNnBd7DtwAWvAEelqg8Z1TRxHDJBWIHkshmiKkNbBcADdfuRVPij-7ck_WxMavFxZHxBnwxZCQHcRStvFIIyLV3v9edhViDbanTnvqnN4hEnOq846jaRHnZE2Y9spWkOSQv170S01CLBVX0wlNurBiSEJuwfoxhDdLdHxkWNWMm1k1dJOKZ_ccxW-yrVDJ7wkzAqXoHjBNRFipjLv-4ZL5G6YHm2i9VqxKE5a_FZbSxO_rlFMLjWl5pwxDs0MjHAASR2Xib_9cceGsqWwwziP3quaHK3zsvIf_17sf13baDu_97S8S5Y09",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK/Q8OzbW8gc2UgbGxhbWEgbGEgcGVyc29uYSBxdWUgdHJhYmFqYSBsYSBtYWRlcmE/IiwibGsiOiJjNVBTVHo2OE9UZGZvVGhWSVNjbk1UZFJJU2RSb1NDMXFEZ19MMUdoc0RSVm9hUW9NU2t4Q3l5Y201aVNXcFFJQUEiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VrcGZaMHBRWjJWaE9GRnJSV1kzVnkxVlNXSjRORVZVYlZFdE4ybExOR2t4VVdSM1ZVNUhjbkZyUzNwSFQyaGlWbGw1YkhSRlV6RklUSFIxYUdKbGJYSklSV3hLYkhCcFNUVmFRbVY0VkdKc2FVUk5kUzFSZEUxb2R4SVhWMU5RUjJGd2VrNUtjekpKT1hVNFVERTJhbTgwVVRBYUlrRkVjM0k1WmxSR1dVaHhNR05rUW5ScmVVaHBibXd4VDNwQ2JYSnVYMFJ2U21jIiwiZmN2IjoiMyIsImVpIjoiV1NQR2Fwek5KczJJOXU4UDE2am80UTAiLCJxYyI6IkNneGpZWEp3YVc1MFpYTERyV0VRRG4yNjBvNC0iLCJxdWVzdGlvbiI6IsK%2FQ8OzbW8gc2UgbGxhbWEgbGEgcGVyc29uYSBxdWUgdHJhYmFqYSBsYSBtYWRlcmE%2FIiwibGsiOiJjNVBTVHo2OE9UZGZvVGhWSVNjbk1UZFJJU2RSb1NDMXFEZ19MMUdoc0RSVm9hUW9NU2t4Q3l5Y201aVNXcFFJQUEiLCJicyI6ImM1V1FRUXJDUUF4RmNadVY2NHFTcFFpaUZsd1g4UVJlUUVpbndWYW1NelhUT1pBSGNPVUJCSHN4aDNHaEloWGNoZkQtQ19td2dfbjl0dlhkV2JORFp3MnVVVmxIRGstZXNTVEY2QTBxa3FZeUxZdk5Va3dtdnhIWXdfS3BOSzFGeHdIT2hiQ3hncHF3dEdFdXZxeXpaS284ZlFUNllOZ0FCbjkzclNQTVRrbVY4d3ZvTHBTbDQyU2tiQTlRRVJ3Z2ZWTm9UWFc4MTdDRUNpZy0xZ3JsZEl6cm1ncVdJRjBsQ19WZlpqaDRBQSIsImlkIjoiZmNfV1NQR2Fwek5KczJJOXU4UDE2am80UTBfNiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Carpinteros en Valencia | Muebles y estructuras a medida",
+      "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVRTvUPxQOqfaLtulNjrGFus9rpzHjcXbhzZd4-H7af7DESrKvVFsHL72Kq0WVXIOwcF8R1PietGuCeEPDQzpB3L22puUzg_UMU22UaqRK26LHd-S9rxS2AIQybXQfcp_qb62PPaGw1XXwqKucT_4yl1muib4LlF5H&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.cronoshare.com",
+      "thumbnail": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/h0s7u7tkbwx_Abzsq0wLHah4aoU98poFB73bZQm2GzA.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmfGcuF-A2zF2jbyf_pWCCAAderLv4nH0tQbsI1UF4wlkeDDhs8spQ5I8HmgAAP7-w537ilrKAadk_pl0qBBTRsnduuD-Nni-sHz65Fs7BNcTUh1r1zKnXziKT1CxU151w101s-yOdjySc6oXK3vjwj_Ocul-puNDO0SfAlIVfqnL7LM_86lm3Itw9jR4McPzEnfnt112bviAiZhNLin31MRV8Yp53f0H23AFMpkM83GH1FXRi9Zz8P-4-LlTODyKDg5XDdQ1CKF6mtEpg1S6xka1XGhL5nio6PoqTy2fTpa8WuCnxn7tgO9iC8IyG38BmhZ0YgNprpXOi8BOov540yrp5r0giS78e9ZLFV1_VmwxsngMAbJRVKzpv_Uol6s9g1SybYmbsloVGzJ_O-__Mp1IgpSjmJEJ2kfK2UAAAA.webp",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia",
+          "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmfGcuF-A2zF2jbyf_pWCCAAderLv4nH0tQbsI1UF4wlkeDDhs8spQ5I8HmgAAP7-w537ilrKAadk_pl0qBBTRsnduuD-Nni-sHz65Fs7BNcTUh1r1zKnXziKT1CxU151w101s-yOdjySc6oXK3vjwj_Ocul-puNDO0SfAlIVfqnL7LM_86lm3Itw9jR4McPzEnfnt112bviAiZhNLin31MRV8Yp53f0H23AFMpkM83GH1FXRi9Zz8P-4-LlTODyKDg5XDdQ1CKF6mtEpg1S6xka1XGhL5nio6PoqTy2fTpa8WuCnxn7tgO9iC8IyG38BmhZ0YgNprpXOi8BOov540yrp5r0giS78e9ZLFV1_VmwxsngMAbJRVKzpv_Uol6s9g1SybYmbsloVGzJ_O-__Mp1IgpSjmJEJ2kfK2UAAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlJUdlVQeFFPcWZhTHR1bE5qckdGdXM5cnB6SGpjWGJoelpkNC1IN2FmN0RFU3JLdlZGc0hMNzJLcTBXVlhJT3djRjhSMVBpZXRHdUNlRVBEUXpwQjNMMjJwdVV6Z19VTVUyMlVhcVJLMjZMSGQtUzlyeFMyQUlReWJYUWZjcF9xYjYyUFBhR3cxWFh3cUt1Y1RfNHlsMW11aWI0TGxGNUgSBBoCCAAakgMSABoAIgAqADoAQgQIARAOSiYIARIeVmFsZW5jaWEsIENvbXVuaWRhZCBWYWxlbmNpYW5hGgIIAloAcgB6AIJA0AIIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVuO0mPxoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZSVHZVUHhRT3FmYUx0dWxOanJHRnVzOXJwekhqY1hiaHpaZDQtSDdhZjdERVNyS3ZWRnNITDcyS3EwV1ZYSU93Y0Y4UjFQaWV0R3VDZUVQRFF6cEIzTDIycHVVemdfVU1VMjJVYXFSSzI2TEhkLVM5cnhTMkFJUXliWFFmY3BfcWI2MlBQYUd3MVhYd3FLdWNUXzR5bDFtdWliNExsRjVIOkVDYXJwaW50ZXJvcyBlbiBWYWxlbmNpYSB8IE11ZWJsZXMgeSBlc3RydWN0dXJhcyBhIG1lZGlkYSAtIENyb25vc2hhcmUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlJUdlVQeFFPcWZhTHR1bE5qckdGdXM5cnB6SGpjWGJoelpkNC1IN2FmN0RFU3JLdlZGc0hMNzJLcTBXVlhJT3djRjhSMVBpZXRHdUNlRVBEUXpwQjNMMjJwdVV6Z19VTVUyMlVhcVJLMjZMSGQtUzlyeFMyQUlReWJYUWZjcF9xYjYyUFBhR3cxWFh3cUt1Y1RfNHlsMW11aWI0TGxGNUgSBBoCCAAakgMSABoAIgAqADoAQgQIARAOSiYIARIeVmFsZW5jaWEsIENvbXVuaWRhZCBWYWxlbmNpYW5hGgIIAloAcgB6AIJA0AIIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVuO0mPxoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZSVHZVUHhRT3FmYUx0dWxOanJHRnVzOXJwekhqY1hiaHpaZDQtSDdhZjdERVNyS3ZWRnNITDcyS3EwV1ZYSU93Y0Y4UjFQaWV0R3VDZUVQRFF6cEIzTDIycHVVemdfVU1VMjJVYXFSSzI2TEhkLVM5cnhTMkFJUXliWFFmY3BfcWI2MlBQYUd3MVhYd3FLdWNUXzR5bDFtdWliNExsRjVIOkVDYXJwaW50ZXJvcyBlbiBWYWxlbmNpYSB8IE11ZWJsZXMgeSBlc3RydWN0dXJhcyBhIG1lZGlkYSAtIENyb25vc2hhcmUiAhABSABYAGgA",
+      "carousel": [
+        {
+          "title": "Bárzaga Interiors S.l",
+          "thumbnail": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/h0s7u7tkbwx_Abzsq0wLHd7PIUDHwhDvdVVvk_v2FsbKq6rMBfDOaOUyKfhdTZC-.jpeg",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=2217340",
+          "rating": "4.9/5.0",
+          "extracted_rating": 4.9,
+          "reviews": "32",
+          "extracted_reviews": 32
+        },
+        {
+          "title": "Danilo Rodríguez",
+          "thumbnail": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/h0s7u7tkbwx_Abzsq0wLHYjCWA1xGiiomGvvgim3Oyp33rQLstHSZnBqS4hbnroD.jpeg",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=4743658",
+          "rating": "5/5.0",
+          "extracted_rating": 5,
+          "reviews": "4",
+          "extracted_reviews": 4
+        },
+        {
+          "title": "Moisés",
+          "thumbnail": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/h0s7u7tkbwx_Abzsq0wLHRjCp11DHKKTAPG7QbE4vrOGgZqpJAB4ILpYdVJWtqUl.jpeg",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=2787980",
+          "rating": "4.9/5.0",
+          "extracted_rating": 4.9,
+          "reviews": "9",
+          "extracted_reviews": 9
+        },
+        {
+          "title": "Serralleria El Corb",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRqSePM9KMf1hyIypxxlJiTmC4DPl1iSWL1tBakAXN6-FOTdSf",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=1008619",
+          "rating": "4.6/5.0",
+          "extracted_rating": 4.6,
+          "reviews": "33",
+          "extracted_reviews": 33
+        },
+        {
+          "title": "Reinaldo Justiniano Bulacia",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUChtNikMbX1ekIRqN_kLQpuur2XiVbEhwmAK6-R054hGthkZC",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=4780937",
+          "rating": "5/5.0",
+          "extracted_rating": 5,
+          "reviews": "2",
+          "extracted_reviews": 2
+        },
+        {
+          "title": "Montajes Y Reforma Interior Modulander",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwTlzzAnryuhimOJzsy-LaSRwOeT_6JTYgQ1pBSX_nKWtL2oR",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=3690334",
+          "rating": "4.8/5.0",
+          "extracted_rating": 4.8,
+          "reviews": "6",
+          "extracted_reviews": 6
+        },
+        {
+          "title": "San Miguel Reformas",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQhXKW1APY3id5zfO27cFgEP2J2Bfvo2UCfZ_KPKCk4NlgD1bX",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=5049221",
+          "rating": "4.7/5.0",
+          "extracted_rating": 4.7,
+          "reviews": "2",
+          "extracted_reviews": 2
+        },
+        {
+          "title": "Libardo Muñoz",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7-pLCkq3zHiDXzJPkrFc1uNQIcMfS1VKHIXU19R3rZWMJd1iS",
+          "link": "https://www.cronoshare.com/servicios/carpinteros/valencia/valencia?pro=4297255",
+          "rating": "4.3/5.0",
+          "extracted_rating": 4.3,
+          "reviews": "6",
+          "extracted_reviews": 6
+        }
+      ],
+      "source": "Cronoshare"
+    },
+    {
+      "position": 2,
+      "title": "Los mejores 40 Carpinteros en Valencia - ProntoPro",
+      "link": "https://prontopro.es/valencia-carpintero",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVqvnFzi22Od1FONbvExmzYuC95g8H5kW8djXHLQuajnEMhD2psaRvFImdeXOdmUYIXVSTbTlavtKS8slls8LekcJLyo-ziEJ4Zxjae4AZNPD0nqu4S-iC_lSyxXHXLg&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://prontopro.es",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAZv8AZv8AZv8AZv8AZv8AZv8AZP8AWf8AYP9Egf_e6P_P3f-1y_9hkv____-hu_8AUP9AkGDAAAAACHRSTlMABoHV_9RR_u3ueNwAAACiSURBVHgBfdNFAsQgEETRCFKNc__DRpsR7C_zYthytW67qJLbujwp0U3VVusqhq3LNsZtkeJJo0S6oFzYjHWcNyhaMMRvHv9IjP_6eW0q3Wo0IytxoPtR-kMC-F3wMTrU3-Qr2fXQQgDI968lahGOf_e2CnOx0KJjs4b6k-BCMGCr0YF43lvkEbTI1kdrb6twZwUa26fbZLrB5luz0somx-EEECETFNH5tRAAAAAASUVORK5CYII.png",
+      "snippet": "Encuentra los mejores Carpinteros en Valencia: consulta opiniones, disponibilidad y contacta fácilmente.",
+      "about_this_result": {
+        "source": {
+          "description": "Encuentra los mejores Carpinteros en Valencia: consulta opiniones, disponibilidad y contacta fácilmente.",
+          "source_info_link": "https://prontopro.es/valencia-carpintero",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAZv8AZv8AZv8AZv8AZv8AZv8AZP8AWf8AYP9Egf_e6P_P3f-1y_9hkv____-hu_8AUP9AkGDAAAAACHRSTlMABoHV_9RR_u3ueNwAAACiSURBVHgBfdNFAsQgEETRCFKNc__DRpsR7C_zYthytW67qJLbujwp0U3VVusqhq3LNsZtkeJJo0S6oFzYjHWcNyhaMMRvHv9IjP_6eW0q3Wo0IytxoPtR-kMC-F3wMTrU3-Qr2fXQQgDI968lahGOf_e2CnOx0KJjs4b6k-BCMGCr0YF43lvkEbTI1kdrb6twZwUa26fbZLrB5luz0somx-EEECETFNH5tRAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnF2bkZ6aTIyT2QxRk9OYnZFeG16WXVDOTVnOEg1a1c4ZGpYSExRdWFqbkVNaEQycHNhUnZGSW1kZVhPZG1VWUlYVlNUYlRsYXZ0S1M4c2xsczhMZWtjSkx5by16aUVKNFp4amFlNEFaTlBEMG5xdTRTLWlDX2xTeXhYSFhMZxIEGgIIABrPAxIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkCNAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRWkRQhAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnF2bkZ6aTIyT2QxRk9OYnZFeG16WXVDOTVnOEg1a1c4ZGpYSExRdWFqbkVNaEQycHNhUnZGSW1kZVhPZG1VWUlYVlNUYlRsYXZ0S1M4c2xsczhMZWtjSkx5by16aUVKNFp4amFlNEFaTlBEMG5xdTRTLWlDX2xTeXhYSFhMZzoyTG9zIG1lam9yZXMgNDAgQ2FycGludGVyb3MgZW4gVmFsZW5jaWEgLSBQcm9udG9Qcm9CcDxiPkVuY3VlbnRyYSBsb3MgbWVqb3JlcyBDYXJwaW50ZXJvcyBlbiBWYWxlbmNpYTwvYj46IGNvbnN1bHRhIG9waW5pb25lcywgZGlzcG9uaWJpbGlkYWQgeSBjb250YWN0YSBmw6FjaWxtZW50ZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnF2bkZ6aTIyT2QxRk9OYnZFeG16WXVDOTVnOEg1a1c4ZGpYSExRdWFqbkVNaEQycHNhUnZGSW1kZVhPZG1VWUlYVlNUYlRsYXZ0S1M4c2xsczhMZWtjSkx5by16aUVKNFp4amFlNEFaTlBEMG5xdTRTLWlDX2xTeXhYSFhMZxIEGgIIABrPAxIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkCNAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRWkRQhAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnF2bkZ6aTIyT2QxRk9OYnZFeG16WXVDOTVnOEg1a1c4ZGpYSExRdWFqbkVNaEQycHNhUnZGSW1kZVhPZG1VWUlYVlNUYlRsYXZ0S1M4c2xsczhMZWtjSkx5by16aUVKNFp4amFlNEFaTlBEMG5xdTRTLWlDX2xTeXhYSFhMZzoyTG9zIG1lam9yZXMgNDAgQ2FycGludGVyb3MgZW4gVmFsZW5jaWEgLSBQcm9udG9Qcm9CcDxiPkVuY3VlbnRyYSBsb3MgbWVqb3JlcyBDYXJwaW50ZXJvcyBlbiBWYWxlbmNpYTwvYj46IGNvbnN1bHRhIG9waW5pb25lcywgZGlzcG9uaWJpbGlkYWQgeSBjb250YWN0YSBmw6FjaWxtZW50ZS4iAhABSABYAGgA",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "reviews": 468
+          },
+          "extensions": [
+            "4,6(468) Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+          ]
+        }
+      },
+      "source": "prontopro.es"
+    },
+    {
+      "position": 3,
+      "title": "Las 10 mejores empresas de carpinteros en Valencia (Ciudad)",
+      "link": "https://www.habitissimo.es/empresas/carpinteros/valencia/valencia",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVachRlPEBdEE-yrAR8hNVLjuM9MkccW7kz17kl8YtIxceqIyAlD1xVPLFZe1pPcbgSHJv2yEDlmy_2upUVhkAeLvwy0Pe5_gpUuKFAygPhj0uk7ePvUkycIXoqoTSmitgZOZjKF8d7A8MUQDPM5d4jWPX0HF2Jsg&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.habitissimo.es",
+      "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp",
+      "snippet": "Neofusta · Montajes Peris y Esteban · Victor · Grupo forestia 360 · Deck & Garden · Muebles A Medida -ar- · Camilo Rodriguez Villanueva · Screenmobel.",
+      "about_this_result": {
+        "source": {
+          "description": "Neofusta · Montajes Peris y Esteban · Victor · Grupo forestia 360 · Deck & Garden · Muebles A Medida -ar- · Camilo Rodriguez Villanueva · Screenmobel.",
+          "source_info_link": "https://www.habitissimo.es/empresas/carpinteros/valencia/valencia",
+          "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmFjaFJsUEVCZEVFLXlyQVI4aE5WTGp1TTlNa2NjVzdrejE3a2w4WXRJeGNlcUl5QWxEMXhWUExGWmUxcFBjYmdTSEp2MnlFRGxteV8ydXBVVmhrQWVMdnd5MFBlNV9ncFV1S0ZBeWdQaGowdWs3ZVB2VWt5Y0lYb3FvVFNtaXRnWk9aaktGOGQ3QThNVVFEUE01ZDRqV1BYMEhGMkpzZxIEGgIIABrjBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkChBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRURz3Q_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmFjaFJsUEVCZEVFLXlyQVI4aE5WTGp1TTlNa2NjVzdrejE3a2w4WXRJeGNlcUl5QWxEMXhWUExGWmUxcFBjYmdTSEp2MnlFRGxteV8ydXBVVmhrQWVMdnd5MFBlNV9ncFV1S0ZBeWdQaGowdWs3ZVB2VWt5Y0lYb3FvVFNtaXRnWk9aaktGOGQ3QThNVVFEUE01ZDRqV1BYMEhGMkpzZzpJTGFzIDEwIG1lam9yZXMgZW1wcmVzYXMgZGUgY2FycGludGVyb3MgZW4gVmFsZW5jaWEgKENpdWRhZCkgLSBoYWJpdGlzc2ltb0LLAU5lb2Z1c3RhICZtaWRkb3Q7IE1vbnRhamVzIFBlcmlzIHkgRXN0ZWJhbiAmbWlkZG90OyBWaWN0b3IgJm1pZGRvdDsgR3J1cG8gZm9yZXN0aWEgMzYwICZtaWRkb3Q7IERlY2sgJmFtcDsgR2FyZGVuICZtaWRkb3Q7IE11ZWJsZXMgQSBNZWRpZGEgLWFyLSAmbWlkZG90OyBDYW1pbG8gUm9kcmlndWV6IFZpbGxhbnVldmEgJm1pZGRvdDsgU2NyZWVubW9iZWwuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmFjaFJsUEVCZEVFLXlyQVI4aE5WTGp1TTlNa2NjVzdrejE3a2w4WXRJeGNlcUl5QWxEMXhWUExGWmUxcFBjYmdTSEp2MnlFRGxteV8ydXBVVmhrQWVMdnd5MFBlNV9ncFV1S0ZBeWdQaGowdWs3ZVB2VWt5Y0lYb3FvVFNtaXRnWk9aaktGOGQ3QThNVVFEUE01ZDRqV1BYMEhGMkpzZxIEGgIIABrjBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkChBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRURz3Q_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmFjaFJsUEVCZEVFLXlyQVI4aE5WTGp1TTlNa2NjVzdrejE3a2w4WXRJeGNlcUl5QWxEMXhWUExGWmUxcFBjYmdTSEp2MnlFRGxteV8ydXBVVmhrQWVMdnd5MFBlNV9ncFV1S0ZBeWdQaGowdWs3ZVB2VWt5Y0lYb3FvVFNtaXRnWk9aaktGOGQ3QThNVVFEUE01ZDRqV1BYMEhGMkpzZzpJTGFzIDEwIG1lam9yZXMgZW1wcmVzYXMgZGUgY2FycGludGVyb3MgZW4gVmFsZW5jaWEgKENpdWRhZCkgLSBoYWJpdGlzc2ltb0LLAU5lb2Z1c3RhICZtaWRkb3Q7IE1vbnRhamVzIFBlcmlzIHkgRXN0ZWJhbiAmbWlkZG90OyBWaWN0b3IgJm1pZGRvdDsgR3J1cG8gZm9yZXN0aWEgMzYwICZtaWRkb3Q7IERlY2sgJmFtcDsgR2FyZGVuICZtaWRkb3Q7IE11ZWJsZXMgQSBNZWRpZGEgLWFyLSAmbWlkZG90OyBDYW1pbG8gUm9kcmlndWV6IFZpbGxhbnVldmEgJm1pZGRvdDsgU2NyZWVubW9iZWwuIgIQAUgAWABoAA",
+      "source": "habitissimo"
+    },
+    {
+      "position": 4,
+      "title": "Carpinteros a domicilio en València",
+      "link": "https://www.taskia.es/servicios-de-carpinteria-en-valencia",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVqSP_QbrYvw0fsiZ6T6EN8yJw4JOISVb3OOHtJRsHX9PMq4_2PvEy7FtgsNSjmaYrppLL5asZVgOydXCvLIT2jKjDDJ6Kc-_qvumw2w7qBZ1lpx6LwVrxsqz36K-5N2Rk__hyUH9gK2J6Dr7rj7Zz7g&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHQQAQ&uoh=1",
+      "displayed_link": "https://www.taskia.es",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALbUFJIg_dq_qqFXQXiabEU03bj0BH9or4GIiK8AAP6b8upmgFC2gvM7OoQEwE0Dej3VyWP87Fv47tvyr0tFtDkF7nP_hiOUP8Gv76MS57119LMoSPsiUvoHp8jLFZiTFxowvSXjB8xKXWLM1Vv8JEYMI1hm4uTUeHni5J6hpyl48d7XNtdVGhmCQEh-LPhNbEPSKrh_-nuQlg2c2tfOrlUv5h5d4-cjYD0fZoH3FYotA8YNwrfF2FV2t_lRFPHXUyZtk36xIMq6iUqvtvGs-gxAAA.webp",
+      "snippet": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+          "source_info_link": "https://www.taskia.es/servicios-de-carpinteria-en-valencia",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALbUFJIg_dq_qqFXQXiabEU03bj0BH9or4GIiK8AAP6b8upmgFC2gvM7OoQEwE0Dej3VyWP87Fv47tvyr0tFtDkF7nP_hiOUP8Gv76MS57119LMoSPsiUvoHp8jLFZiTFxowvSXjB8xKXWLM1Vv8JEYMI1hm4uTUeHni5J6hpyl48d7XNtdVGhmCQEh-LPhNbEPSKrh_-nuQlg2c2tfOrlUv5h5d4-cjYD0fZoH3FYotA8YNwrfF2FV2t_lRFPHXUyZtk36xIMq6iUqvtvGs-gxAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnFTUF9RYnJZdncwZnNpWjZUNkVOOHlKdzRKT0lTVmIzT09IdEpSc0hYOVBNcTRfMlB2RXk3RnRnc05Tam1hWXJwcExMNWFzWlZnT3lkWEN2TElUMmpLakRESjZLYy1fcXZ1bXcydzdxQloxbHB4Nkx3VnJ4c3F6MzZLLTVOMlJrX19oeVVIOWdLMko2RHI3cmo3Wno3ZxIEGgIIABqeBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkDcAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUdJ_Y_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnFTUF9RYnJZdncwZnNpWjZUNkVOOHlKdzRKT0lTVmIzT09IdEpSc0hYOVBNcTRfMlB2RXk3RnRnc05Tam1hWXJwcExMNWFzWlZnT3lkWEN2TElUMmpLakRESjZLYy1fcXZ1bXcydzdxQloxbHB4Nkx3VnJ4c3F6MzZLLTVOMlJrX19oeVVIOWdLMko2RHI3cmo3Wno3ZzotQ2FycGludGVyb3MgYSBkb21pY2lsaW8gZW4gVmFsw6huY2lhIC0gVGFza2lhQqsBPGI-U2VydmljaW8gZGUgbGltcGllemEsIENhcnBpbnRlcm8geSBtb250YWRvciBwcm9mZXNpb25hbDwvYj4gbcOhcyBkZSA4IGHDsW9zIGRlIGV4cGVyaWVuY2lhIHRvZG8gdGlwbyBkZSBtb250YWplIGRlIG11ZWJsZXMgY29jaW5hcyBhcm1hcmlvcyBjYW1hcyBjw7Ntb2RhcyBldGMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnFTUF9RYnJZdncwZnNpWjZUNkVOOHlKdzRKT0lTVmIzT09IdEpSc0hYOVBNcTRfMlB2RXk3RnRnc05Tam1hWXJwcExMNWFzWlZnT3lkWEN2TElUMmpLakRESjZLYy1fcXZ1bXcydzdxQloxbHB4Nkx3VnJ4c3F6MzZLLTVOMlJrX19oeVVIOWdLMko2RHI3cmo3Wno3ZxIEGgIIABqeBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkDcAwgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUdJ_Y_GgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnFTUF9RYnJZdncwZnNpWjZUNkVOOHlKdzRKT0lTVmIzT09IdEpSc0hYOVBNcTRfMlB2RXk3RnRnc05Tam1hWXJwcExMNWFzWlZnT3lkWEN2TElUMmpLakRESjZLYy1fcXZ1bXcydzdxQloxbHB4Nkx3VnJ4c3F6MzZLLTVOMlJrX19oeVVIOWdLMko2RHI3cmo3Wno3ZzotQ2FycGludGVyb3MgYSBkb21pY2lsaW8gZW4gVmFsw6huY2lhIC0gVGFza2lhQqsBPGI-U2VydmljaW8gZGUgbGltcGllemEsIENhcnBpbnRlcm8geSBtb250YWRvciBwcm9mZXNpb25hbDwvYj4gbcOhcyBkZSA4IGHDsW9zIGRlIGV4cGVyaWVuY2lhIHRvZG8gdGlwbyBkZSBtb250YWplIGRlIG11ZWJsZXMgY29jaW5hcyBhcm1hcmlvcyBjYW1hcyBjw7Ntb2RhcyBldGMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Taskia"
+    },
+    {
+      "position": 5,
+      "title": "Carpinterías de madera en Valencia (provincia)",
+      "link": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVOEOe3vvHfS_RsFPffbjcza-XU4uOt0oJn2OPT8cDH5kxQC6q6LMg-lfW2FjIgtDG8UxUItEiDiH3mmqCaSKemCdtn19mmX22Jc8KuQX12BQxtG1AR_WGv6zaaUAwLaLGyb_k87USFZtYhsg3NNzxxn3M-0GstVDp&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHUQAQ&uoh=1",
+      "displayed_link": "https://www.paginasamarillas.es",
+      "favicon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASogACAAPtEutFooIagoGAEAGglpABEdtlxfYdyjucSwOTNzrvS3AZHBM7MYsHVmQMvDBB2PjVD4_xHR5s4nkuw_Q1Tv4AAA_vYJYn4IlKeLYXj89HZoWOQntzdkKEfSMAB8Tjesn5LEOLGVcCtWKG4iE12iRJTCgSCRlfXfS6fEIRIrmB2vQ2RlZIyLPE7sf8otORDDILZJZbyEbkb7tWO1VtfNb-F2-mEGM7CtJeGJftlWBr6QzyNfU5nln1kUtyH4oh0gbQEn1Mx5egv-9Y_5PxlMwBBZX2n0Hr-Q3g27N8QeDDRbdrVEUOvq9y6wbJz7HShzd2Mw_v5dNaOPlARX_Vk_grYzbO6_8uT_9fVvjYtxA4b23tzVX7h2yxPVK3JhwIBXtf_Yf2E2OYznETPBD2UTMf9q2ooh2wR482Yfp0OYA-E8d0F1xB0WBXwOWd_7v6_38LU7UcfLzoULmhEf9Y477f1VeA5tk9ymBQDOuBy1jjIbqqxJFdB1W6Rvz64CWcUocw7gBRsWLiCZOlvsZBhnkC3xN7LP-rWeHM0lyvLoQAAAAA.webp",
+      "snippet": "484 resultados de carpinterías de madera en la provincia de Valencia. Puertas de madera, escaleras de madera y otros servicios de carpintería y ...",
+      "about_this_result": {
+        "source": {
+          "description": "484 resultados de carpinterías de madera en la provincia de Valencia. Puertas de madera, escaleras de madera y otros servicios de carpintería y ...",
+          "source_info_link": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/",
+          "icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASogACAAPtEutFooIagoGAEAGglpABEdtlxfYdyjucSwOTNzrvS3AZHBM7MYsHVmQMvDBB2PjVD4_xHR5s4nkuw_Q1Tv4AAA_vYJYn4IlKeLYXj89HZoWOQntzdkKEfSMAB8Tjesn5LEOLGVcCtWKG4iE12iRJTCgSCRlfXfS6fEIRIrmB2vQ2RlZIyLPE7sf8otORDDILZJZbyEbkb7tWO1VtfNb-F2-mEGM7CtJeGJftlWBr6QzyNfU5nln1kUtyH4oh0gbQEn1Mx5egv-9Y_5PxlMwBBZX2n0Hr-Q3g27N8QeDDRbdrVEUOvq9y6wbJz7HShzd2Mw_v5dNaOPlARX_Vk_grYzbO6_8uT_9fVvjYtxA4b23tzVX7h2yxPVK3JhwIBXtf_Yf2E2OYznETPBD2UTMf9q2ooh2wR482Yfp0OYA-E8d0F1xB0WBXwOWd_7v6_38LU7UcfLzoULmhEf9Y477f1VeA5tk9ymBQDOuBy1jjIbqqxJFdB1W6Rvz64CWcUocw7gBRsWLiCZOlvsZBhnkC3xN7LP-rWeHM0lyvLoQAAAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk9FT2UzdnZIZlNfUnNGUGZmYmpjemEtWFU0dU90MG9KbjJPUFQ4Y0RINWt4UUM2cTZMTWctbGZXMkZqSWd0REc4VXhVSXRFaURpSDNtbXFDYVNLZW1DZHRuMTltbVgyMkpjOEt1UVgxMkJReHRHMUFSX1dHdjZ6YWFVQXdMYUxHeWJfazg3VVNGWnRZaHNnM05Oenh4bjNNLTBHc3RWRHASBBoCCAAatQQSABoAIgAqADoAQgQIARAOSiYIARIeVmFsZW5jaWEsIENvbXVuaWRhZCBWYWxlbmNpYW5hGgIIAloAcgB6AIJA8wMIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVoeEEQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZPRU9lM3Z2SGZTX1JzRlBmZmJqY3phLVhVNHVPdDBvSm4yT1BUOGNESDVreFFDNnE2TE1nLWxmVzJGaklndERHOFV4VUl0RWlEaUgzbW1xQ2FTS2VtQ2R0bjE5bW1YMjJKYzhLdVFYMTJCUXh0RzFBUl9XR3Y2emFhVUF3TGFMR3liX2s4N1VTRlp0WWhzZzNOTnp4eG4zTS0wR3N0VkRwOkRDYXJwaW50ZXLDrWFzIGRlIG1hZGVyYSBlbiBWYWxlbmNpYSAocHJvdmluY2lhKSAtIFDDoWdpbmFzIEFtYXJpbGxhc0KhATQ4NCByZXN1bHRhZG9zIGRlIDxiPmNhcnBpbnRlcsOtYXMgZGUgbWFkZXJhIGVuIGxhIHByb3ZpbmNpYSBkZSBWYWxlbmNpYTwvYj4uIFB1ZXJ0YXMgZGUgbWFkZXJhLCBlc2NhbGVyYXMgZGUgbWFkZXJhIHkgb3Ryb3Mgc2VydmljaW9zIGRlIGNhcnBpbnRlcsOtYSB5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk9FT2UzdnZIZlNfUnNGUGZmYmpjemEtWFU0dU90MG9KbjJPUFQ4Y0RINWt4UUM2cTZMTWctbGZXMkZqSWd0REc4VXhVSXRFaURpSDNtbXFDYVNLZW1DZHRuMTltbVgyMkpjOEt1UVgxMkJReHRHMUFSX1dHdjZ6YWFVQXdMYUxHeWJfazg3VVNGWnRZaHNnM05Oenh4bjNNLTBHc3RWRHASBBoCCAAatQQSABoAIgAqADoAQgQIARAOSiYIARIeVmFsZW5jaWEsIENvbXVuaWRhZCBWYWxlbmNpYW5hGgIIAloAcgB6AIJA8wMIDhAAGAAgACpGCgxjYXJwaW50ZXLDrWEVoeEEQBoLY2FycGludGVyaWEaDGNhcnBpbnRlcmlhcxoWZ2VvOnlwY2F0OmNhcnBpbnRlcsOtYTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZPRU9lM3Z2SGZTX1JzRlBmZmJqY3phLVhVNHVPdDBvSm4yT1BUOGNESDVreFFDNnE2TE1nLWxmVzJGaklndERHOFV4VUl0RWlEaUgzbW1xQ2FTS2VtQ2R0bjE5bW1YMjJKYzhLdVFYMTJCUXh0RzFBUl9XR3Y2emFhVUF3TGFMR3liX2s4N1VTRlp0WWhzZzNOTnp4eG4zTS0wR3N0VkRwOkRDYXJwaW50ZXLDrWFzIGRlIG1hZGVyYSBlbiBWYWxlbmNpYSAocHJvdmluY2lhKSAtIFDDoWdpbmFzIEFtYXJpbGxhc0KhATQ4NCByZXN1bHRhZG9zIGRlIDxiPmNhcnBpbnRlcsOtYXMgZGUgbWFkZXJhIGVuIGxhIHByb3ZpbmNpYSBkZSBWYWxlbmNpYTwvYj4uIFB1ZXJ0YXMgZGUgbWFkZXJhLCBlc2NhbGVyYXMgZGUgbWFkZXJhIHkgb3Ryb3Mgc2VydmljaW9zIGRlIGNhcnBpbnRlcsOtYSB5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Páginas Amarillas"
+    },
+    {
+      "position": 6,
+      "title": "Servicios de los Carpinteros en Alicante | Juntito - Precios Razonables y Calidad Garantizada",
+      "link": "https://juntito.es/servicios-de-carpinteros/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVzKkPsqB4HiA_f8Tmjj3bJeE8k7EqR8uJGUN072wNJBR24KziyF-BQ5wJDgJABt8OrEGelZoPDvr3t3FriHM2ZaSpERGuM5p60u9qXwAR3j5ECaJNL3_W0JBk4ilEqW6l3RU&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoFCI8BEAE&uoh=1",
+      "displayed_link": "https://juntito.es",
+      "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAAAQBwCdASocABwAPtEwtFooIigoGAEAGglsALsdgG8A58cbwLeu9M6gB-oA7NhtSM90m5K7Ar1TrtqHfc5bslrvAAD-9gL8Ib2vtTyw3TbrSICPy3xs19cQfkEz44Pf7fUbDzvsJJY6EYOz50A74c1oubIV4Bso27_ozHqyWnLYqTn3cDNqfhST6HE-JG0p-44o1kSvvrxXK8rit3g1x5L_wgSpcwwteYTBC5DxnNa_WmJFkhoVcjb2SpNlpqmPidSjCEHVpnNm2dUvUjuA9klHJ-nSa9goz-9FocJCXG_qmX890vVH7p4J_5wYAcKmt3eqIt_n_8eKVyf-xZMS3_Q1yocf8eujfvm1V_6eBt7wZoY5tUUrvhTOkaLqU_P2pPqQTMMkJB5vtzjzDkkbttC0rDvuaSq6SRNVvBR_MCjH4KZ3mi2_2Psftn8-cR-QXk9xoTFgAAA.webp",
+      "snippet": "La empresa «Juntito» en Alicante también ofrece servicios más extensos, incluida la construcción de casas de madera, troncos, estructuras de entramado, baños, ...",
+      "about_this_result": {
+        "source": {
+          "description": "La empresa «Juntito» en Alicante también ofrece servicios más extensos, incluida la construcción de casas de madera, troncos, estructuras de entramado, baños, ...",
+          "source_info_link": "https://juntito.es/servicios-de-carpinteros/",
+          "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAAAQBwCdASocABwAPtEwtFooIigoGAEAGglsALsdgG8A58cbwLeu9M6gB-oA7NhtSM90m5K7Ar1TrtqHfc5bslrvAAD-9gL8Ib2vtTyw3TbrSICPy3xs19cQfkEz44Pf7fUbDzvsJJY6EYOz50A74c1oubIV4Bso27_ozHqyWnLYqTn3cDNqfhST6HE-JG0p-44o1kSvvrxXK8rit3g1x5L_wgSpcwwteYTBC5DxnNa_WmJFkhoVcjb2SpNlpqmPidSjCEHVpnNm2dUvUjuA9klHJ-nSa9goz-9FocJCXG_qmX890vVH7p4J_5wYAcKmt3eqIt_n_8eKVyf-xZMS3_Q1yocf8eujfvm1V_6eBt7wZoY5tUUrvhTOkaLqU_P2pPqQTMMkJB5vtzjzDkkbttC0rDvuaSq6SRNVvBR_MCjH4KZ3mi2_2Psftn8-cR-QXk9xoTFgAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnpLa1BzcUI0SGlBX2Y4VG1qajNiSmVFOGs3RXFSOHVKR1VOMDcyd05KQlIyNEt6aXlGLUJRNXdKRGdKQUJ0OE9yRUdlbFpvUER2cjN0M0ZyaUhNMlphU3BFUkd1TTVwNjB1OXFYd0FSM2o1RUNhSk5MM19XMEpCazRpbEVxVzZsM1JVEgQaAggAGqYEEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQIIECA4QABgAIAAqRgoMY2FycGludGVyw61hFXkxIkAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWektrUHNxQjRIaUFfZjhUbWpqM2JKZUU4azdFcVI4dUpHVU4wNzJ3TkpCUjI0S3ppeUYtQlE1d0pEZ0pBQnQ4T3JFR2VsWm9QRHZyM3QzRnJpSE0yWmFTcEVSR3VNNXA2MHU5cVh3QVIzajVFQ2FKTkwzX1cwSkJrNGlsRXFXNmwzUlU6XVNlcnZpY2lvcyBkZSBsb3MgQ2FycGludGVyb3MgZW4gQWxpY2FudGUgfCBKdW50aXRvIC0gUHJlY2lvcyBSYXpvbmFibGVzIHkgQ2FsaWRhZCBHYXJhbnRpemFkYUK0AUxhIGVtcHJlc2EgwqtKdW50aXRvwrsgZW4gQWxpY2FudGUgdGFtYmnDqW4gb2ZyZWNlIHNlcnZpY2lvcyBtw6FzIGV4dGVuc29zLCBpbmNsdWlkYSBsYSA8Yj5jb25zdHJ1Y2Npw7NuIGRlIGNhc2FzIGRlIG1hZGVyYSwgdHJvbmNvcywgZXN0cnVjdHVyYXMgZGUgZW50cmFtYWRvLCBiYcOxb3M8L2I-LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnpLa1BzcUI0SGlBX2Y4VG1qajNiSmVFOGs3RXFSOHVKR1VOMDcyd05KQlIyNEt6aXlGLUJRNXdKRGdKQUJ0OE9yRUdlbFpvUER2cjN0M0ZyaUhNMlphU3BFUkd1TTVwNjB1OXFYd0FSM2o1RUNhSk5MM19XMEpCazRpbEVxVzZsM1JVEgQaAggAGqYEEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQIIECA4QABgAIAAqRgoMY2FycGludGVyw61hFXkxIkAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWektrUHNxQjRIaUFfZjhUbWpqM2JKZUU4azdFcVI4dUpHVU4wNzJ3TkpCUjI0S3ppeUYtQlE1d0pEZ0pBQnQ4T3JFR2VsWm9QRHZyM3QzRnJpSE0yWmFTcEVSR3VNNXA2MHU5cVh3QVIzajVFQ2FKTkwzX1cwSkJrNGlsRXFXNmwzUlU6XVNlcnZpY2lvcyBkZSBsb3MgQ2FycGludGVyb3MgZW4gQWxpY2FudGUgfCBKdW50aXRvIC0gUHJlY2lvcyBSYXpvbmFibGVzIHkgQ2FsaWRhZCBHYXJhbnRpemFkYUK0AUxhIGVtcHJlc2EgwqtKdW50aXRvwrsgZW4gQWxpY2FudGUgdGFtYmnDqW4gb2ZyZWNlIHNlcnZpY2lvcyBtw6FzIGV4dGVuc29zLCBpbmNsdWlkYSBsYSA8Yj5jb25zdHJ1Y2Npw7NuIGRlIGNhc2FzIGRlIG1hZGVyYSwgdHJvbmNvcywgZXN0cnVjdHVyYXMgZGUgZW50cmFtYWRvLCBiYcOxb3M8L2I-LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Juntito"
+    },
+    {
+      "position": 7,
+      "title": "Carpintería de Madera en Valencia",
+      "link": "https://carpinteria-madera.las24h.com/valencia/valencia.html",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAV7mmzabPmuKM6bKw7OHfFF_wxrRq0FO-EUPa5U3i6P6musmf6DOgTBGmMg9Z7wrN4UPXW-ACYWeddwNfqErBDCKk49xnt2NMYG4npVfmBA5GJbiBlLOFbVvKqe90l-THqXHL9hokeIK0w2tX_FM9Egy9J&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHMQAQ&uoh=1",
+      "displayed_link": "https://carpinteria-madera.las24h.com",
+      "snippet": "CALIDAD DISEÑO Y SABER SL COSTA Y BORRAS, 42 46017 - VALENCIA (VALENCIA) Tel: 963786468. CARPINTERIA ALDARAH SL CAMINO VIEJO BURJASOT, 226",
+      "about_this_result": {
+        "source": {
+          "description": "CALIDAD DISEÑO Y SABER SL COSTA Y BORRAS, 42 46017 - VALENCIA (VALENCIA) Tel: 963786468. CARPINTERIA ALDARAH SL CAMINO VIEJO BURJASOT, 226",
+          "source_info_link": "https://carpinteria-madera.las24h.com/valencia/valencia.html"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVjdtbXphYlBtdUtNNmJLdzdPSGZGRl93eHJScTBGTy1FVVBhNVUzaTZQNm11c21mNkRPZ1RCR21NZzlaN3dyTjRVUFhXLUFDWVdlZGR3TmZxRXJCRENLazQ5eG50Mk5NWUc0bnBWZm1CQTVHSmJpQmxMT0ZiVnZLcWU5MGwtVEhxWEhMOWhva2VJSzB3MnRYX0ZNOUVneTlKEgQaAggAGoMEEgAaACIAKgA6AEIECAEQDkomCAESHlZhbGVuY2lhLCBDb211bmlkYWQgVmFsZW5jaWFuYRoCCAJaAHIAegCCQMEDCA4QABgAIAAqRgoMY2FycGludGVyw61hFTZ6gkAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWN21temFiUG11S002Ykt3N09IZkZGX3d4clJxMEZPLUVVUGE1VTNpNlA2bXVzbWY2RE9nVEJHbU1nOVo3d3JONFVQWFctQUNZV2VkZHdOZnFFckJEQ0trNDl4bnQyTk1ZRzRucFZmbUJBNUdKYmlCbExPRmJWdktxZTkwbC1USHFYSEw5aG9rZUlLMHcydFhfRk05RWd5OUo6KTxiPkNhcnBpbnRlcsOtYTwvYj4gZGUgTWFkZXJhIGVuIFZhbGVuY2lhQpIBPGI-Q0FMSURBRCBESVNFw5FPIFkgU0FCRVIgU0wgQ09TVEEgWSBCT1JSQVMsIDQyIDQ2MDE3IC0gVkFMRU5DSUE8L2I-IChWQUxFTkNJQSkgVGVsOiA5NjM3ODY0NjguIENBUlBJTlRFUklBIEFMREFSQUggU0wgQ0FNSU5PIFZJRUpPIEJVUkpBU09ULCAyMjYiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVjdtbXphYlBtdUtNNmJLdzdPSGZGRl93eHJScTBGTy1FVVBhNVUzaTZQNm11c21mNkRPZ1RCR21NZzlaN3dyTjRVUFhXLUFDWVdlZGR3TmZxRXJCRENLazQ5eG50Mk5NWUc0bnBWZm1CQTVHSmJpQmxMT0ZiVnZLcWU5MGwtVEhxWEhMOWhva2VJSzB3MnRYX0ZNOUVneTlKEgQaAggAGoMEEgAaACIAKgA6AEIECAEQDkomCAESHlZhbGVuY2lhLCBDb211bmlkYWQgVmFsZW5jaWFuYRoCCAJaAHIAegCCQMEDCA4QABgAIAAqRgoMY2FycGludGVyw61hFTZ6gkAaC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWN21temFiUG11S002Ykt3N09IZkZGX3d4clJxMEZPLUVVUGE1VTNpNlA2bXVzbWY2RE9nVEJHbU1nOVo3d3JONFVQWFctQUNZV2VkZHdOZnFFckJEQ0trNDl4bnQyTk1ZRzRucFZmbUJBNUdKYmlCbExPRmJWdktxZTkwbC1USHFYSEw5aG9rZUlLMHcydFhfRk05RWd5OUo6KTxiPkNhcnBpbnRlcsOtYTwvYj4gZGUgTWFkZXJhIGVuIFZhbGVuY2lhQpIBPGI-Q0FMSURBRCBESVNFw5FPIFkgU0FCRVIgU0wgQ09TVEEgWSBCT1JSQVMsIDQyIDQ2MDE3IC0gVkFMRU5DSUE8L2I-IChWQUxFTkNJQSkgVGVsOiA5NjM3ODY0NjguIENBUlBJTlRFUklBIEFMREFSQUggU0wgQ0FNSU5PIFZJRUpPIEJVUkpBU09ULCAyMjYiAhABSABYAGgA",
+      "source": "carpinteria-madera.las24h.com"
+    },
+    {
+      "position": 8,
+      "title": "Las 10 mejores empresas de carpinteros en Alicante",
+      "link": "https://www.habitissimo.es/empresas/carpinteros/alicante",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVGQagwvM6Iz1cdtYodmyHmEbz1kXD-6NTasbHLBYI8tSKmq8UH-8owfh3QzXFz0o7MPLK5EeMg5XHBFvydRxfABhL7ayJTspA4Yo_w4cDCbXlNLk294llJpTiGwQafUGxpNdT5acATNz1NE3--io&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHoQAQ&uoh=1",
+      "displayed_link": "https://www.habitissimo.es",
+      "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp",
+      "snippet": "Encuentra empresas de carpinteros en Alicante en nuestro directorio: opiniones, fotos y precio medio de carpinteros.",
+      "about_this_result": {
+        "source": {
+          "description": "Encuentra empresas de carpinteros en Alicante en nuestro directorio: opiniones, fotos y precio medio de carpinteros.",
+          "source_info_link": "https://www.habitissimo.es/empresas/carpinteros/alicante",
+          "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALT0E5IhwL_YFcr-Hb4Bt7uKsxOwr13OlpMvCFcAAP72Avwhr089RKLYeSkA58cGDQEVcytVuMgc2F5ID5foxdmdDkV4tbO_thswZLSxOnCJPQ870izhYudG-cycm89sqNoccejk_ck-VyZr3hhEN1Wx_PayiFdlXKf3qHtf_0_5lVN4ut-NFMHIL9K_asX58Q5EJrhdg368W_J-t3dekezhsPI1xYjjI2X1q8d2A7mb06I-LGugdly1a5iK6KxO7Pqpu6_-Ac7AdGpk82FWv9jYtFm7dFhkLU7aynLUR5v8eZQKXMVyOkq89_jTYnUMQAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkdRYWd3dk02SXoxY2R0WW9kbXlIbUViejFrWEQtNk5UYXNiSExCWUk4dFNLbXE4VUgtOG93ZmgzUXpYRnowbzdNUExLNUVlTWc1WEhCRnZ5ZFJ4ZkFCaEw3YXlKVHNwQTRZb193NGNEQ2JYbE5MazI5NGxsSnBUaUd3UWFmVUd4cE5kVDVhY0FUTnoxTkUzLS1pbxIEGgIIABrhAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQLsDCA4QABgAIAAqRgoMY2FycGludGVyw61hFYTrDz8aC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWR1FhZ3d2TTZJejFjZHRZb2RteUhtRWJ6MWtYRC02TlRhc2JITEJZSTh0U0ttcThVSC04b3dmaDNRelhGejBvN01QTEs1RWVNZzVYSEJGdnlkUnhmQUJoTDdheUpUc3BBNFlvX3c0Y0RDYlhsTkxrMjk0bGxKcFRpR3dRYWZVR3hwTmRUNWFjQVROejFORTMtLWlvOkBMYXMgMTAgbWVqb3JlcyBlbXByZXNhcyBkZSBjYXJwaW50ZXJvcyBlbiBBbGljYW50ZSAtIGhhYml0aXNzaW1vQns8Yj5FbmN1ZW50cmEgZW1wcmVzYXMgZGUgY2FycGludGVyb3MgZW4gQWxpY2FudGU8L2I-IGVuIG51ZXN0cm8gZGlyZWN0b3Jpbzogb3BpbmlvbmVzLCBmb3RvcyB5IHByZWNpbyBtZWRpbyBkZSBjYXJwaW50ZXJvcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkdRYWd3dk02SXoxY2R0WW9kbXlIbUViejFrWEQtNk5UYXNiSExCWUk4dFNLbXE4VUgtOG93ZmgzUXpYRnowbzdNUExLNUVlTWc1WEhCRnZ5ZFJ4ZkFCaEw3YXlKVHNwQTRZb193NGNEQ2JYbE5MazI5NGxsSnBUaUd3UWFmVUd4cE5kVDVhY0FUTnoxTkUzLS1pbxIEGgIIABrhAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQLsDCA4QABgAIAAqRgoMY2FycGludGVyw61hFYTrDz8aC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWR1FhZ3d2TTZJejFjZHRZb2RteUhtRWJ6MWtYRC02TlRhc2JITEJZSTh0U0ttcThVSC04b3dmaDNRelhGejBvN01QTEs1RWVNZzVYSEJGdnlkUnhmQUJoTDdheUpUc3BBNFlvX3c0Y0RDYlhsTkxrMjk0bGxKcFRpR3dRYWZVR3hwTmRUNWFjQVROejFORTMtLWlvOkBMYXMgMTAgbWVqb3JlcyBlbXByZXNhcyBkZSBjYXJwaW50ZXJvcyBlbiBBbGljYW50ZSAtIGhhYml0aXNzaW1vQns8Yj5FbmN1ZW50cmEgZW1wcmVzYXMgZGUgY2FycGludGVyb3MgZW4gQWxpY2FudGU8L2I-IGVuIG51ZXN0cm8gZGlyZWN0b3Jpbzogb3BpbmlvbmVzLCBmb3RvcyB5IHByZWNpbyBtZWRpbyBkZSBjYXJwaW50ZXJvcy4iAhABSABYAGgA",
+      "source": "habitissimo"
+    },
+    {
+      "position": 9,
+      "title": "Carpinteros a domicilio en Valencia/València",
+      "link": "https://www.taskia.es/servicios-de-carpinteria-en-valencia-valencia",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVmk_ug2Hhug3ANDWiJg4is9yEsVT44IoTK-8J-OoqWiIvsKpiuodTZkrMUyVZbWiO_9AA67ipfPQ3st51KPruZEdBoBcDbk2fqrnnrbq9da4wiV5Fu6-kIUwDJIgU3efPucbXSIn0HJPU1e_-0BMEeCe-cfq-yOIHSQ&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHYQAQ&uoh=1",
+      "displayed_link": "https://www.taskia.es",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALbUFJIg_dq_qqFXQXiabEU03bj0BH9or4GIiK8AAP6b8upmgFC2gvM7OoQEwE0Dej3VyWP87Fv47tvyr0tFtDkF7nP_hiOUP8Gv76MS57119LMoSPsiUvoHp8jLFZiTFxowvSXjB8xKXWLM1Vv8JEYMI1hm4uTUeHni5J6hpyl48d7XNtdVGhmCQEh-LPhNbEPSKrh_-nuQlg2c2tfOrlUv5h5d4-cjYD0fZoH3FYotA8YNwrfF2FV2t_lRFPHXUyZtk36xIMq6iUqvtvGs-gxAAA.webp",
+      "snippet": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Servicio de limpieza, Carpintero y montador profesional más de 8 años de experiencia todo tipo de montaje de muebles cocinas armarios camas cómodas etc, ...",
+          "source_info_link": "https://www.taskia.es/servicios-de-carpinteria-en-valencia-valencia",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALbUFJIg_dq_qqFXQXiabEU03bj0BH9or4GIiK8AAP6b8upmgFC2gvM7OoQEwE0Dej3VyWP87Fv47tvyr0tFtDkF7nP_hiOUP8Gv76MS57119LMoSPsiUvoHp8jLFZiTFxowvSXjB8xKXWLM1Vv8JEYMI1hm4uTUeHni5J6hpyl48d7XNtdVGhmCQEh-LPhNbEPSKrh_-nuQlg2c2tfOrlUv5h5d4-cjYD0fZoH3FYotA8YNwrfF2FV2t_lRFPHXUyZtk36xIMq6iUqvtvGs-gxAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVm1rX3VnMkhodWczQU5EV2lKZzRpczl5RXNWVDQ0SW9USy04Si1Pb3FXaUl2c0twaXVvZFRaa3JNVXlWWmJXaU9fOUFBNjdpcGZQUTNzdDUxS1BydVpFZEJvQmNEYmsyZnFybm5yYnE5ZGE0d2lWNUZ1Ni1rSVV3REpJZ1UzZWZQdWNiWFNJbjBISlBVMWVfLTBCTUVlQ2UtY2ZxLXlPSUhTURIEGgIIABq1BBICCAAaACIAKgA6AEIECAEQDkomCAESHlZhbGVuY2lhLCBDb211bmlkYWQgVmFsZW5jaWFuYRoCCAJaAHIAegCCQPEDCA4QABgAIAAqRgoMY2FycGludGVyw61hFcqlPT8aC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWbWtfdWcySGh1ZzNBTkRXaUpnNGlzOXlFc1ZUNDRJb1RLLThKLU9vcVdpSXZzS3BpdW9kVFprck1VeVZaYldpT185QUE2N2lwZlBRM3N0NTFLUHJ1WkVkQm9CY0RiazJmcXJubnJicTlkYTR3aVY1RnU2LWtJVXdESklnVTNlZlB1Y2JYU0luMEhKUFUxZV8tMEJNRWVDZS1jZnEteU9JSFNROjZDYXJwaW50ZXJvcyBhIGRvbWljaWxpbyBlbiBWYWxlbmNpYS9WYWzDqG5jaWEgLSBUYXNraWFCqwE8Yj5TZXJ2aWNpbyBkZSBsaW1waWV6YSwgQ2FycGludGVybyB5IG1vbnRhZG9yIHByb2Zlc2lvbmFsPC9iPiBtw6FzIGRlIDggYcOxb3MgZGUgZXhwZXJpZW5jaWEgdG9kbyB0aXBvIGRlIG1vbnRhamUgZGUgbXVlYmxlcyBjb2NpbmFzIGFybWFyaW9zIGNhbWFzIGPDs21vZGFzIGV0YywmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVm1rX3VnMkhodWczQU5EV2lKZzRpczl5RXNWVDQ0SW9USy04Si1Pb3FXaUl2c0twaXVvZFRaa3JNVXlWWmJXaU9fOUFBNjdpcGZQUTNzdDUxS1BydVpFZEJvQmNEYmsyZnFybm5yYnE5ZGE0d2lWNUZ1Ni1rSVV3REpJZ1UzZWZQdWNiWFNJbjBISlBVMWVfLTBCTUVlQ2UtY2ZxLXlPSUhTURIEGgIIABq1BBICCAAaACIAKgA6AEIECAEQDkomCAESHlZhbGVuY2lhLCBDb211bmlkYWQgVmFsZW5jaWFuYRoCCAJaAHIAegCCQPEDCA4QABgAIAAqRgoMY2FycGludGVyw61hFcqlPT8aC2NhcnBpbnRlcmlhGgxjYXJwaW50ZXJpYXMaFmdlbzp5cGNhdDpjYXJwaW50ZXLDrWEyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWbWtfdWcySGh1ZzNBTkRXaUpnNGlzOXlFc1ZUNDRJb1RLLThKLU9vcVdpSXZzS3BpdW9kVFprck1VeVZaYldpT185QUE2N2lwZlBRM3N0NTFLUHJ1WkVkQm9CY0RiazJmcXJubnJicTlkYTR3aVY1RnU2LWtJVXdESklnVTNlZlB1Y2JYU0luMEhKUFUxZV8tMEJNRWVDZS1jZnEteU9JSFNROjZDYXJwaW50ZXJvcyBhIGRvbWljaWxpbyBlbiBWYWxlbmNpYS9WYWzDqG5jaWEgLSBUYXNraWFCqwE8Yj5TZXJ2aWNpbyBkZSBsaW1waWV6YSwgQ2FycGludGVybyB5IG1vbnRhZG9yIHByb2Zlc2lvbmFsPC9iPiBtw6FzIGRlIDggYcOxb3MgZGUgZXhwZXJpZW5jaWEgdG9kbyB0aXBvIGRlIG1vbnRhamUgZGUgbXVlYmxlcyBjb2NpbmFzIGFybWFyaW9zIGNhbWFzIGPDs21vZGFzIGV0YywmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Taskia"
+    },
+    {
+      "position": 10,
+      "title": "Carpinterías de madera en València (Valencia)",
+      "link": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/valencia/",
+      "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFVOBhVdZxHBI0dTGWV57uUZNsmpvEhivAHod11TS3Ey2j4VhtNTBw2s_ABd7Mwp1wufXA12JOkchIfjaWcuuuAQ4pz_iT_xLD7ZZch3RJvT7JD9ocmRCYI0BqVbyk5uJidK0VKXK7qd77a64flZGgBB_s56xQEDZHLOLTu-9d7MY1w&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQFnoECHsQAQ&uoh=1",
+      "displayed_link": "https://www.paginasamarillas.es",
+      "favicon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASogACAAPtEutFooIagoGAEAGglpABEdtlxfYdyjucSwOTNzrvS3AZHBM7MYsHVmQMvDBB2PjVD4_xHR5s4nkuw_Q1Tv4AAA_vYJYn4IlKeLYXj89HZoWOQntzdkKEfSMAB8Tjesn5LEOLGVcCtWKG4iE12iRJTCgSCRlfXfS6fEIRIrmB2vQ2RlZIyLPE7sf8otORDDILZJZbyEbkb7tWO1VtfNb-F2-mEGM7CtJeGJftlWBr6QzyNfU5nln1kUtyH4oh0gbQEn1Mx5egv-9Y_5PxlMwBBZX2n0Hr-Q3g27N8QeDDRbdrVEUOvq9y6wbJz7HShzd2Mw_v5dNaOPlARX_Vk_grYzbO6_8uT_9fVvjYtxA4b23tzVX7h2yxPVK3JhwIBXtf_Yf2E2OYznETPBD2UTMf9q2ooh2wR482Yfp0OYA-E8d0F1xB0WBXwOWd_7v6_38LU7UcfLzoULmhEf9Y477f1VeA5tk9ymBQDOuBy1jjIbqqxJFdB1W6Rvz64CWcUocw7gBRsWLiCZOlvsZBhnkC3xN7LP-rWeHM0lyvLoQAAAAA.webp",
+      "snippet": "89 resultados de carpinterías de madera en València. Puertas de madera, escaleras de madera y otros servicios de carpintería y contrachapado como estantes ...",
+      "about_this_result": {
+        "source": {
+          "description": "89 resultados de carpinterías de madera en València. Puertas de madera, escaleras de madera y otros servicios de carpintería y contrachapado como estantes ...",
+          "source_info_link": "https://www.paginasamarillas.es/a/carpinterias-de-madera/valencia/valencia/",
+          "icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASogACAAPtEutFooIagoGAEAGglpABEdtlxfYdyjucSwOTNzrvS3AZHBM7MYsHVmQMvDBB2PjVD4_xHR5s4nkuw_Q1Tv4AAA_vYJYn4IlKeLYXj89HZoWOQntzdkKEfSMAB8Tjesn5LEOLGVcCtWKG4iE12iRJTCgSCRlfXfS6fEIRIrmB2vQ2RlZIyLPE7sf8otORDDILZJZbyEbkb7tWO1VtfNb-F2-mEGM7CtJeGJftlWBr6QzyNfU5nln1kUtyH4oh0gbQEn1Mx5egv-9Y_5PxlMwBBZX2n0Hr-Q3g27N8QeDDRbdrVEUOvq9y6wbJz7HShzd2Mw_v5dNaOPlARX_Vk_grYzbO6_8uT_9fVvjYtxA4b23tzVX7h2yxPVK3JhwIBXtf_Yf2E2OYznETPBD2UTMf9q2ooh2wR482Yfp0OYA-E8d0F1xB0WBXwOWd_7v6_38LU7UcfLzoULmhEf9Y477f1VeA5tk9ymBQDOuBy1jjIbqqxJFdB1W6Rvz64CWcUocw7gBRsWLiCZOlvsZBhnkC3xN7LP-rWeHM0lyvLoQAAAAA.webp"
+        },
+        "languages": [
+          "es"
+        ],
+        "regions": [
+          "ES"
+        ]
+      },
+      "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZWT0JoVmRaeEhCSTBkVEdXVjU3dVVaTnNtcHZFaGl2QUhvZDExVFMzRXkyajRWaHROVEJ3MnNfQUJkN013cDF3dWZYQTEySk9rY2hJZmphV2N1dXVBUTRwel9pVF94TEQ3WlpjaDNSSnZUN0pEOW9jbVJDWUkwQnFWYnlrNXVKaWRLMFZLWEs3cWQ3N2E2NGZsWkdnQkJfczU2eFFFRFpITE9MVHUtOWQ3TVkxdxIEGgIIABrPBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkCNBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUj-AhAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZWT0JoVmRaeEhCSTBkVEdXVjU3dVVaTnNtcHZFaGl2QUhvZDExVFMzRXkyajRWaHROVEJ3MnNfQUJkN013cDF3dWZYQTEySk9rY2hJZmphV2N1dXVBUTRwel9pVF94TEQ3WlpjaDNSSnZUN0pEOW9jbVJDWUkwQnFWYnlrNXVKaWRLMFZLWEs3cWQ3N2E2NGZsWkdnQkJfczU2eFFFRFpITE9MVHUtOWQ3TVkxdzpEQ2FycGludGVyw61hcyBkZSBtYWRlcmEgZW4gVmFsw6huY2lhIChWYWxlbmNpYSkgLSBQw6FnaW5hcyBBbWFyaWxsYXNCrQE8Yj44OSByZXN1bHRhZG9zIGRlIGNhcnBpbnRlcsOtYXMgZGUgbWFkZXJhIGVuIFZhbMOobmNpYTwvYj4uIFB1ZXJ0YXMgZGUgbWFkZXJhLCBlc2NhbGVyYXMgZGUgbWFkZXJhIHkgb3Ryb3Mgc2VydmljaW9zIGRlIGNhcnBpbnRlcsOtYSB5IGNvbnRyYWNoYXBhZG8gY29tbyBlc3RhbnRlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZWT0JoVmRaeEhCSTBkVEdXVjU3dVVaTnNtcHZFaGl2QUhvZDExVFMzRXkyajRWaHROVEJ3MnNfQUJkN013cDF3dWZYQTEySk9rY2hJZmphV2N1dXVBUTRwel9pVF94TEQ3WlpjaDNSSnZUN0pEOW9jbVJDWUkwQnFWYnlrNXVKaWRLMFZLWEs3cWQ3N2E2NGZsWkdnQkJfczU2eFFFRFpITE9MVHUtOWQ3TVkxdxIEGgIIABrPBBIAGgAiACoAOgBCBAgBEA5KJggBEh5WYWxlbmNpYSwgQ29tdW5pZGFkIFZhbGVuY2lhbmEaAggCWgByAHoAgkCNBAgOEAAYACAAKkYKDGNhcnBpbnRlcsOtYRUj-AhAGgtjYXJwaW50ZXJpYRoMY2FycGludGVyaWFzGhZnZW86eXBjYXQ6Y2FycGludGVyw61hMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZWT0JoVmRaeEhCSTBkVEdXVjU3dVVaTnNtcHZFaGl2QUhvZDExVFMzRXkyajRWaHROVEJ3MnNfQUJkN013cDF3dWZYQTEySk9rY2hJZmphV2N1dXVBUTRwel9pVF94TEQ3WlpjaDNSSnZUN0pEOW9jbVJDWUkwQnFWYnlrNXVKaWRLMFZLWEs3cWQ3N2E2NGZsWkdnQkJfczU2eFFFRFpITE9MVHUtOWQ3TVkxdzpEQ2FycGludGVyw61hcyBkZSBtYWRlcmEgZW4gVmFsw6huY2lhIChWYWxlbmNpYSkgLSBQw6FnaW5hcyBBbWFyaWxsYXNCrQE8Yj44OSByZXN1bHRhZG9zIGRlIGNhcnBpbnRlcsOtYXMgZGUgbWFkZXJhIGVuIFZhbMOobmNpYTwvYj4uIFB1ZXJ0YXMgZGUgbWFkZXJhLCBlc2NhbGVyYXMgZGUgbWFkZXJhIHkgb3Ryb3Mgc2VydmljaW9zIGRlIGNhcnBpbnRlcsOtYSB5IGNvbnRyYWNoYXBhZG8gY29tbyBlc3RhbnRlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Páginas Amarillas"
+    }
+  ],
+  "ask_ai_mode": [
+    {
+      "position": 1,
+      "link": "http://carpinteriasanjose.es/",
+      "image": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/SaKrz-ul00BeNdtlcsHU9P882UEFB_msHuuqzx4ZpxQ.jpeg",
+      "question": ""
+    },
+    {
+      "position": 2,
+      "link": "https://nuevoestilo.net/",
+      "image": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/HXVlENj7lJXW6XM-jXPd5nrrZknPeJK3EuE1hZwyIPI.jpeg",
+      "question": ""
+    },
+    {
+      "position": 3,
+      "link": "https://cabanyero.es/?utm_source=google&utm_medium=gbp&utm_campaign=guillem",
+      "image": "https://serpapi.com/searches/6ac623590676dc3ec4897a60/images/Boyq7VImDePY8nLoCuYk66PpWxyfTxXNUKh2HVdbixY.jpeg",
+      "question": ""
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+y+Restauraci%C3%B3n+Alberola+Carpintero+Carrer+d%27Alberola,+19,+Quatre+Carreres,+46013+Val%C3%A8ncia,+Valencia&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ2egTegQIURAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+y+Restauraci%C3%B3n+Alberola+Carpintero+Carrer+d%27Alberola%2C+19%2C+Quatre+Carreres%2C+46013+Val%C3%A8ncia%2C+Valencia",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMkJE8L4tDkqdL2CLJi0Fm59-i29sYvZmJHy2zcvKLkn6tnAHwGWWok5BlMdMyIViX6rLNN38k-V43f8WYyIePm25WNL9qTYhtossnVRMPQufEv-H5BWbV4zM5bWajr6-sAI2lJTg=k-no",
+      "question": ""
+    },
+    {
+      "position": 5,
+      "link": "https://reformaspazel.com/",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmM0PFF9qwWzryNyauPV5fWlFPxV3_ppyGz2DKoIfGwS8e-_lKe04Glwlagc2VeOpDBqsL2El5p4ThYOrgsOzXQ6qwFDOrLN9fdV9XG1wZ1HFKa5mI2RCej1RiHZ_GQBqELL9FiaXVgOJBNd=k-no",
+      "question": ""
+    },
+    {
+      "position": 6,
+      "link": "https://vhelaluminio.com/",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmOapaeDjNHoA7Q5Pf7m86FzyZLB0SlpcpvQxVPk7kNv3h-1GSI6U71xU6LqTIvrBKehRJVyF_4_3gntKRH85zx63AKDlQMn8_2cX9ugXlBC3ESzm8vlbdOW2b-19r1uOS5d7Z0TMPNPI3kX=k-no",
+      "question": ""
+    },
+    {
+      "position": 7,
+      "link": "http://www.carpinteriamiguelangel.com/",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNkU5D45riAoVyHpunBT3dcYPJr5oNRX6pPxQ1urm6TKAYur6028bzgwdiJwBmdJdc6zojNAQbqHWZXtQheQXcm4ntO0KT0DxlL7Rn7A93CpwjbH24PEx5nf7RM9a4nPPhKkcHo=k-no",
+      "question": ""
+    },
+    {
+      "position": 8,
+      "link": "https://www.carpinteriametalicamilimetro.com/carpinteria-metalica-valencia/",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmPGhn5kuT7QzfvyVT7gu8JY4BH6VfffbGw1ASlVOybo7Y_bgMCjz7FSuze0KDNNkT2iQw9qpDJ33r7k9vBkyK2yGW62lqQkzBXmfS-v4aZxHWWj1zT6yQ-IkXP0_NhzioZRtnpd=k-no",
+      "question": ""
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+Miguel+Angel+Checa+Ebanista+Carrer+de+Jacint+Labaila,+14,+Patraix,+46007+Val%C3%A8ncia,+Valencia&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ2egTegQIVRAC&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google_ai_mode&gl=es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+Miguel+Angel+Checa+Ebanista+Carrer+de+Jacint+Labaila%2C+14%2C+Patraix%2C+46007+Val%C3%A8ncia%2C+Valencia"
+    },
+    {
+      "position": 10,
+      "link": "http://carpinteriamaritimo.es/",
+      "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNILbdbJS2FC4wS0Ms3-TbiY_YgbAeP7mXiwDJuJXe3Iu-sb7U7WKWX-HnMvjkd_N2ioNJpC1SSZdmk8OHKdjO8bVKzKKhTwbu22GVENIyS7wqMOhmkqCCdW7MU7VN-B-B61g4a7hA9ycUf=k-no",
+      "question": ""
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Carpintería Valencia",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+Valencia&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+Valencia"
+    },
+    {
+      "block_position": 1,
+      "query": "Carpintería de madera",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+de+madera&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+de+madera"
+    },
+    {
+      "block_position": 1,
+      "query": "Carpintería de madera Valencia",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+de+madera+Valencia&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+de+madera+Valencia"
+    },
+    {
+      "block_position": 1,
+      "query": "Carpintería de madera cerca de mí ubicación",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+de+madera+cerca+de+m%C3%AD+ubicaci%C3%B3n&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+de+madera+cerca+de+m%C3%AD+ubicaci%C3%B3n"
+    },
+    {
+      "block_position": 1,
+      "query": "Carpintero a domicilio Valencia",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpintero+a+domicilio+Valencia&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpintero+a+domicilio+Valencia"
+    },
+    {
+      "block_position": 1,
+      "query": "Carpintería madera Alicante",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+madera+Alicante&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAgTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+madera+Alicante"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpinteros Valencia baratos",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinteros+Valencia+baratos&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinteros+Valencia+baratos"
+    },
+    {
+      "block_position": 2,
+      "query": "Restauración carpintería de madera",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Restauraci%C3%B3n+carpinter%C3%ADa+de+madera&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Restauraci%C3%B3n+carpinter%C3%ADa+de+madera"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpintero en Valencia reseñas",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpintero+en+Valencia+rese%C3%B1as&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpintero+en+Valencia+rese%C3%B1as"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpintería Alicante",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+Alicante&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+Alicante"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpintería San José",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADa+San+Jos%C3%A9&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADa+San+Jos%C3%A9"
+    },
+    {
+      "block_position": 2,
+      "query": "Carpinterías en Manises",
+      "link": "https://www.google.es/search?sca_esv=bd268af0cc335f5f&gl=es&hl=es&sxsrf=APpeQnv2PSvLR_Rg5iSm9EzScUz4u3DUVg:1791370073640&q=Carpinter%C3%ADas+en+Manises&sa=X&ved=2ahUKEwjc3ZnH3aeXAxVNhP0HHVcUOtwQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=es&google_domain=google.es&hl=es&location=Valencia%2CValencian+Community%2CSpain&q=Carpinter%C3%ADas+en+Manises"
+    }
+  ],
+  "pagination": {
+    "current": 1
+  },
+  "serpapi_pagination": {
+    "current": 1
+  }
+}

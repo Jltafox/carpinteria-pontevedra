@@ -1,0 +1,593 @@
+{
+  "search_metadata": {
+    "id": "6ac674b294c42bf1bd7e2773",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2mnjf4kqe6OFcnjFMiBqyR0ee2Wr15Tf_oIj9cxo4Mk/6ac674b294c42bf1bd7e2773.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2mnjf4kqe6OFcnjFMiBqyR0ee2Wr15Tf_oIj9cxo4Mk/6ac674b294c42bf1bd7e2773.md",
+    "created_at": "2026-10-07 16:34:58 UTC",
+    "processed_at": "2026-10-07 16:34:58 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f71b61cb92cbf:0xc015009c98e7604f!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/2mnjf4kqe6OFcnjFMiBqyR0ee2Wr15Tf_oIj9cxo4Mk/6ac674b294c42bf1bd7e2773.html",
+    "prettify_html_file": "https://serpapi.com/searches/2mnjf4kqe6OFcnjFMiBqyR0ee2Wr15Tf_oIj9cxo4Mk/6ac674b294c42bf1bd7e2773.prettify",
+    "total_time_taken": 1.69
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f71b61cb92cbf:0xc015009c98e7604f",
+    "hl": "es",
+    "next_page_token": "Ci8IARInCgoAP72G37ZE21__EhDxD8tHOdFUYgFdMnMAAAAAGgf_Am37ZE21GAAiAA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6MVBDbkJnEAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDz1PCnBg%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 2 años",
+      "iso_date": "2024-06-07T21:10:46Z",
+      "iso_date_of_last_edit": "2024-06-07T21:10:46Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MVBDbkJnEAE",
+      "user": {
+        "name": "Lidia Bea Alvariñas",
+        "link": "https://www.google.com/maps/contrib/106873505639698590331?hl=es",
+        "contributor_id": "106873505639698590331",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUOgzgs-AlGi1rFyo6Cf7TtUHuBaufNx7Zxn2flAW4UUz5aTduQgg=s120-c-rp-mo-ba12-br100",
+        "reviews": 13,
+        "photos": 2
+      },
+      "likes": 0
+    },
+    {
+      "position": 2,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSbzZTSWJREAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDRo6SIbQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-05-02T15:10:46Z",
+      "iso_date_of_last_edit": "2023-05-02T15:10:46Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbzZTSWJREAE",
+      "user": {
+        "name": "Luis Gomez ulla",
+        "link": "https://www.google.com/maps/contrib/106701063340844855858?hl=es",
+        "contributor_id": "106701063340844855858",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocISIjSj_uXk7862Kx4ohFvAm-pgBgeRLdIjY7CclE-6zs9xtQ=s120-c-rp-mo-br100",
+        "reviews": 11,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 3,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSb0oyQXF3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICRoJ2AqwE%7C%7C?hl=es",
+      "rating": 1.0,
+      "date": "Hace 3 años",
+      "iso_date": "2023-03-22T14:40:48Z",
+      "iso_date_of_last_edit": "2023-03-22T14:40:48Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSb0oyQXF3RRAB",
+      "user": {
+        "name": "Vilariño Miguez",
+        "link": "https://www.google.com/maps/contrib/105906926709025015717?hl=es",
+        "contributor_id": "105906926709025015717",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKExKy3LgR1NQb2ExWCfunb8IJhlXx_4wS015kXr36EdXoAZQ=s120-c-rp-mo-br100",
+        "reviews": 0,
+        "photos": 0
+      },
+      "likes": 0
+    },
+    {
+      "position": 4,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtN0luNk93EAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgID-7In6Ow%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2022-11-23T14:39:31Z",
+      "iso_date_of_last_edit": "2022-11-23T14:39:31Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtN0luNk93EAE",
+      "user": {
+        "name": "jaime mendez",
+        "link": "https://www.google.com/maps/contrib/100597641485919050886?hl=es",
+        "contributor_id": "100597641485919050886",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVGqhvk58tWPsg-FiamMpEmzDmvFvHZgxR4eN4UrpT2pvp48k5d=s120-c-rp-mo-br100",
+        "reviews": 4,
+        "photos": 0
+      },
+      "snippet": "Gran Atención, mejor servicio.",
+      "extracted_snippet": {
+        "original": "Gran Atención, mejor servicio."
+      },
+      "likes": 0
+    },
+    {
+      "position": 5,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtcnFhMHp3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIC-rqa0zwE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 3 años",
+      "iso_date": "2022-11-04T11:26:56Z",
+      "iso_date_of_last_edit": "2022-11-04T11:26:56Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcnFhMHp3RRAB",
+      "user": {
+        "name": "Sergio Acuña Padin",
+        "link": "https://www.google.com/maps/contrib/101724289593886003965?hl=es",
+        "contributor_id": "101724289593886003965",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXstMAuZsJO30SSEPyeBwlp-1u8MEc4un5hD1gkdjuOlH9vdgvU=s120-c-rp-mo-ba12-br100",
+        "reviews": 9,
+        "photos": 13
+      },
+      "snippet": "Las mejores briquetas de madera. Desde que las probamos en el horno de la panadería ya no utilizamos otras. Además generan menos ceniza y con estas es más fácil regular la temperatura del horno. Y el personal de la empresa es siempre muy amable.",
+      "extracted_snippet": {
+        "original": "Las mejores briquetas de madera. Desde que las probamos en el horno de la panadería ya no utilizamos otras. Además generan menos ceniza y con estas es más fácil regular la temperatura del horno. Y el personal de la empresa es siempre muy amable."
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace 3 años",
+        "iso_date": "2022-11-16T08:34:48Z",
+        "iso_date_of_last_edit": "2022-11-16T08:34:48Z",
+        "snippet": "Muchísimas gracias por la confianza depositada en nosotros todos estos años.",
+        "extracted_snippet": {
+          "original": "Muchísimas gracias por la confianza depositada en nosotros todos estos años."
+        }
+      }
+    },
+    {
+      "position": 6,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtalluN2JBEAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICmjYn7bA%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 4 años",
+      "iso_date": "2022-01-05T13:31:57Z",
+      "iso_date_of_last_edit": "2022-01-05T13:31:57Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtalluN2JBEAE",
+      "user": {
+        "name": "manuclaxxon",
+        "link": "https://www.google.com/maps/contrib/107547843703417125144?hl=es",
+        "contributor_id": "107547843703417125144",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW4beMyCMI_TEpMrI_R9NsBSd5Ib9exnHR8mtnrISldyhkrfkd3=s120-c-rp-mo-br100",
+        "reviews": 3,
+        "photos": 0
+      },
+      "snippet": "Excelente empresa, muy amables y muy buen\nProducto, las briquetas para la chimenea son espectaculares, recomiendo 100%",
+      "extracted_snippet": {
+        "original": "Excelente empresa, muy amables y muy buen\nProducto, las briquetas para la chimenea son espectaculares, recomiendo 100%"
+      },
+      "likes": 2,
+      "response": {
+        "date": "Hace 3 años",
+        "iso_date": "2022-11-16T08:35:43Z",
+        "iso_date_of_last_edit": "2022-11-16T08:35:43Z",
+        "snippet": "Muchísimas gracias por su valoración",
+        "extracted_snippet": {
+          "original": "Muchísimas gracias por su valoración"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURTcHVpQl9nRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDSpuiB_gE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2020-12-23T14:12:21Z",
+      "iso_date_of_last_edit": "2020-12-23T14:12:21Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTcHVpQl9nRRAB",
+      "user": {
+        "name": "Luis Filipe Vasques",
+        "link": "https://www.google.com/maps/contrib/106742796517054895057?hl=es",
+        "contributor_id": "106742796517054895057",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWTEosIRbCcX1Lu-G9jbc39rAeQwQV2VKkZ7W1Uv4DHQQWcT9zo=s120-c-rp-mo-ba12-br100",
+        "reviews": 71,
+        "photos": 185
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace 4 años",
+        "iso_date": "2021-12-08T07:49:22Z",
+        "iso_date_of_last_edit": "2021-12-08T07:51:03Z",
+        "snippet": "Muchas gracias Luis Filipe por tu valoración",
+        "extracted_snippet": {
+          "original": "Muchas gracias Luis Filipe por tu valoración"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURTdXB2TkpREAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDSupvNJQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2020-12-22T16:05:54Z",
+      "iso_date_of_last_edit": "2020-12-22T16:05:54Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdXB2TkpREAE",
+      "user": {
+        "name": "Filipe Luis (Porto)",
+        "link": "https://www.google.com/maps/contrib/107517312641976893145?hl=es",
+        "contributor_id": "107517312641976893145",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUqC5gppihQzl9mAVg-d2zAN7FXkxqNMKTCGeaU92zbjh5nHAs=s120-c-rp-mo-ba12-br100",
+        "reviews": 33,
+        "photos": 24
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 4 años",
+        "iso_date": "2021-12-08T07:47:57Z",
+        "iso_date_of_last_edit": "2021-12-08T07:50:51Z",
+        "snippet": "Muchas gracias Filipe Luis por tu valoración",
+        "extracted_snippet": {
+          "original": "Muchas gracias Filipe Luis por tu valoración"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURTMUlURUVREAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDS1ITEEQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 5 años",
+      "iso_date": "2020-12-18T10:05:26Z",
+      "iso_date_of_last_edit": "2020-12-18T10:05:26Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMUlURUVREAE",
+      "user": {
+        "name": "ANGEL ACUÑA",
+        "link": "https://www.google.com/maps/contrib/114431964235113417506?hl=es",
+        "contributor_id": "114431964235113417506",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKauZoVqg-I-I4iM0GATjmxx-yTrM3gvvZ3PmX9RKRzlF0Xig=s120-c-rp-mo-br100",
+        "reviews": 2,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 4 años",
+        "iso_date": "2021-12-08T07:47:21Z",
+        "iso_date_of_last_edit": "2021-12-08T07:50:36Z",
+        "snippet": "Muchas gracias Angel por tu valoración",
+        "extracted_snippet": {
+          "original": "Muchas gracias Angel por tu valoración"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURpd1lDeG93RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDiwYCxowE%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 5 años",
+      "iso_date": "2020-12-04T18:39:35Z",
+      "iso_date_of_last_edit": "2020-12-04T18:39:35Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpd1lDeG93RRAB",
+      "user": {
+        "name": "Juan Manuel Carreño Morales",
+        "link": "https://www.google.com/maps/contrib/117671663255573026219?hl=es",
+        "contributor_id": "117671663255573026219",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX_6ARgoIAiMeXFzWu3JzPmDap3fFkX827H50o019k1r6ipaGu3=s120-c-rp-mo-ba12-br100",
+        "reviews": 17,
+        "photos": 2
+      },
+      "snippet": "Pellets de madera muy buenos",
+      "extracted_snippet": {
+        "original": "Pellets de madera muy buenos"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 4 años",
+        "iso_date": "2021-12-08T07:46:29Z",
+        "iso_date_of_last_edit": "2021-12-08T07:46:29Z",
+        "snippet": "Muchas gracias Juan Manuel por tu comentario",
+        "extracted_snippet": {
+          "original": "Muchas gracias Juan Manuel por tu comentario"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURzX3VtQ0tBEAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDs_umCKA%7C%7C?hl=es",
+      "rating": 3.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-03-05T20:45:38Z",
+      "iso_date_of_last_edit": "2020-03-05T20:45:38Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzX3VtQ0tBEAE",
+      "user": {
+        "name": "Maria Teresa Perez Salvado",
+        "link": "https://www.google.com/maps/contrib/108188072779147769997?hl=es",
+        "contributor_id": "108188072779147769997",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLzzHxv9RmhpHO7xsBNukln-ZRSze7DKUpe0XVWLDjwLdPLWw=s120-c-rp-mo-ba12-br100",
+        "reviews": 37,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2020-06-10T06:34:31Z",
+        "iso_date_of_last_edit": "2020-06-10T06:34:31Z",
+        "snippet": "Gracias María Teresa por tu puntuación.",
+        "extracted_snippet": {
+          "original": "Gracias María Teresa por tu puntuación."
+        }
+      }
+    },
+    {
+      "position": 12,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURzOXEzbjhnRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDs9q3n8gE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-03-03T21:05:43Z",
+      "iso_date_of_last_edit": "2020-03-03T21:06:13Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzOXEzbjhnRRAB",
+      "user": {
+        "name": "Oliverio Alvarez",
+        "link": "https://www.google.com/maps/contrib/111724377441006649636?hl=es",
+        "contributor_id": "111724377441006649636",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJtDETHZt3wBHp91r-EeeRkuVt_nH_awPOFboETViI1Ui0X9Q=s120-c-rp-mo-ba12-br100",
+        "reviews": 72,
+        "photos": 8
+      },
+      "snippet": "Muchas variedad",
+      "extracted_snippet": {
+        "original": "Muchas variedad"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Fecha de edición: Hace 5 años",
+        "iso_date": "2020-06-10T06:33:41Z",
+        "iso_date_of_last_edit": "2021-05-11T10:40:47Z",
+        "snippet": "Muchas gracias Oliverio por tu valoración. Vuestra opinion es muy importante para nosotros.",
+        "extracted_snippet": {
+          "original": "Muchas gracias Oliverio por tu valoración. Vuestra opinion es muy importante para nosotros."
+        }
+      }
+    },
+    {
+      "position": 13,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNzdDlyVTN3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICst9rU3wE%7C%7C?hl=es",
+      "rating": 3.0,
+      "date": "Hace 6 años",
+      "iso_date": "2020-02-17T13:47:55Z",
+      "iso_date_of_last_edit": "2020-02-17T13:47:55Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdDlyVTN3RRAB",
+      "user": {
+        "name": "Pilar Padin Rial",
+        "link": "https://www.google.com/maps/contrib/100736670513793596660?hl=es",
+        "contributor_id": "100736670513793596660",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV9CNuB7e4w33SIVIq0eIEw6U1u5yBVJ9FbsufQnkHF_ArE7og=s120-c-rp-mo-ba12-br100",
+        "reviews": 8,
+        "photos": 0
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2020-06-10T06:34:00Z",
+        "iso_date_of_last_edit": "2020-06-10T06:34:11Z",
+        "snippet": "Gracias Pilar por tu puntuación",
+        "extracted_snippet": {
+          "original": "Gracias Pilar por tu puntuación"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURNaFBydTl3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDMhPru9wE%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2019-12-16T18:14:57Z",
+      "iso_date_of_last_edit": "2019-12-16T18:14:57Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNaFBydTl3RRAB",
+      "user": {
+        "name": "Manuel Sartal Alvariñas",
+        "link": "https://www.google.com/maps/contrib/116566449310734615524?hl=es",
+        "contributor_id": "116566449310734615524",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJUnQVtis5YvFW6eteL8BlksoPtFKVxkq_h123qg9At7OJXdw=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Puntualidad y muy buena calidad",
+      "extracted_snippet": {
+        "original": "Puntualidad y muy buena calidad"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2020-06-10T06:31:30Z",
+        "iso_date_of_last_edit": "2020-06-10T06:31:30Z",
+        "snippet": "Gracias Manuel  por tu valoración y sobre todo por  compartirla.",
+        "extracted_snippet": {
+          "original": "Gracias Manuel  por tu valoración y sobre todo por  compartirla."
+        }
+      }
+    },
+    {
+      "position": 15,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNNMThfeDZ3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICM18_x6wE%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 6 años",
+      "iso_date": "2019-12-09T15:53:08Z",
+      "iso_date_of_last_edit": "2019-12-09T15:53:08Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNMThfeDZ3RRAB",
+      "user": {
+        "name": "Javier Abalo G",
+        "link": "https://www.google.com/maps/contrib/106894720577324066571?hl=es",
+        "contributor_id": "106894720577324066571",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXrsIFyBId5_LzPoerlKV1o_62Vz_dcp0AeMgbamghHLGbxb7Za=s120-c-rp-mo-ba12-br100",
+        "reviews": 33,
+        "photos": 59
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2020-06-10T06:21:16Z",
+        "iso_date_of_last_edit": "2020-06-10T06:21:16Z",
+        "snippet": "Muchas gracias Javier por tu valoración.",
+        "extracted_snippet": {
+          "original": "Muchas gracias Javier por tu valoración."
+        }
+      }
+    },
+    {
+      "position": 16,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNNczZYX2FBEAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICMs6X_aA%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 6 años",
+      "iso_date": "2019-12-04T19:49:01Z",
+      "iso_date_of_last_edit": "2019-12-04T19:49:01Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNczZYX2FBEAE",
+      "user": {
+        "name": "Julio Álvarez",
+        "link": "https://www.google.com/maps/contrib/116881712694993873197?hl=es",
+        "contributor_id": "116881712694993873197",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIRrvTtU7CEB8WmkeEiTr_e_h_pPqpHc5uf_IdzShqn-VNqmA=s120-c-rp-mo-ba12-br100",
+        "reviews": 398,
+        "photos": 246
+      },
+      "snippet": "Atención impecable a acompañado de calidad",
+      "extracted_snippet": {
+        "original": "Atención impecable a acompañado de calidad"
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2019-12-05T13:33:26Z",
+        "iso_date_of_last_edit": "2019-12-05T13:33:26Z",
+        "snippet": "Muchisimas Gracias Julio.!!!!",
+        "extracted_snippet": {
+          "original": "Muchisimas Gracias Julio.!!!!"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQwbW9uT0x3EAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgID0monOLw%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 6 años",
+      "iso_date": "2019-11-01T13:55:48Z",
+      "iso_date_of_last_edit": "2019-11-01T13:55:48Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwbW9uT0x3EAE",
+      "user": {
+        "name": "Ania Poppins",
+        "link": "https://www.google.com/maps/contrib/103713830475775186059?hl=es",
+        "contributor_id": "103713830475775186059",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVxPfFtrcB34F7OxAquRhsX06h2w65_TxeyXGYgm1q6qwWPlv8=s120-c-rp-mo-br100",
+        "reviews": 5,
+        "photos": 0
+      },
+      "snippet": "Las mejores briquetas, son muy compactas, todo madera, sin encolar y dan mucho calorcito",
+      "extracted_snippet": {
+        "original": "Las mejores briquetas, son muy compactas, todo madera, sin encolar y dan mucho calorcito"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace 6 años",
+        "iso_date": "2019-12-05T13:34:01Z",
+        "iso_date_of_last_edit": "2019-12-05T13:34:01Z",
+        "snippet": "Muchisimas Gracias Ania.",
+        "extracted_snippet": {
+          "original": "Muchisimas Gracias Ania."
+        }
+      }
+    },
+    {
+      "position": 18,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNVajlYQ0lREAE!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICUj9XCIQ%7C%7C?hl=es",
+      "rating": 5.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-08-08T19:19:35Z",
+      "iso_date_of_last_edit": "2019-08-08T19:19:35Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVajlYQ0lREAE",
+      "user": {
+        "name": "Lobo Terito",
+        "link": "https://www.google.com/maps/contrib/101015359151206968204?hl=es",
+        "contributor_id": "101015359151206968204",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWb8G5wXmRTZ8n6eMpp_jb1mMYsY0xRykxvctTKLb5E4sthTdCi=s120-c-rp-mo-ba12-br100",
+        "reviews": 56,
+        "photos": 3
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 7 años",
+        "iso_date": "2019-08-09T06:18:11Z",
+        "iso_date_of_last_edit": "2019-08-09T06:19:35Z",
+        "snippet": "Muchisimas gracias Xavi !!\n\n(Translated by Google)\nMany thanks !!",
+        "extracted_snippet": {
+          "original": "Muchisimas gracias Xavi !!\n\n(Translated by Google)\nMany thanks !!",
+          "translated": "¡Muchas gracias, Xavi!\n\n(Traducido por Google)\n¡Muchas gracias!"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNVNmFyNzNnRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgICU6ar73gE%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-07-28T11:26:15Z",
+      "iso_date_of_last_edit": "2019-07-28T11:26:15Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVNmFyNzNnRRAB",
+      "user": {
+        "name": "Mario M",
+        "link": "https://www.google.com/maps/contrib/113666850308869705661?hl=es",
+        "contributor_id": "113666850308869705661",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXGbZNLZwr5h0l4KNqSyB_Hp6xnNIr43HIZgTboljUHC1exppxB7A=s120-c-rp-mo-ba12-br100",
+        "reviews": 804,
+        "photos": 1444
+      },
+      "snippet": "Fabricante de briquetas para chimeneas y cocinas",
+      "extracted_snippet": {
+        "original": "Fabricante de briquetas para chimeneas y cocinas"
+      },
+      "likes": 1,
+      "response": {
+        "date": "Hace 7 años",
+        "iso_date": "2019-08-09T06:18:55Z",
+        "iso_date_of_last_edit": "2019-08-09T06:18:55Z",
+        "snippet": "Muchas gracias Mario!!",
+        "extracted_snippet": {
+          "original": "Muchas gracias Mario!!"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURJNjRfdmlBRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIDI64_viAE%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 7 años",
+      "iso_date": "2019-01-22T15:54:35Z",
+      "iso_date_of_last_edit": "2019-01-22T15:54:49Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJNjRfdmlBRRAB",
+      "user": {
+        "name": "Begoña Diaz",
+        "link": "https://www.google.com/maps/contrib/114513996422701251016?hl=es",
+        "contributor_id": "114513996422701251016",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXy9PhoU-JpHLzFaWXbrQ4yLuxJmt5fdOFQ1q4bwUBjwJoPxc9zUA=s120-c-rp-mo-ba12-br100",
+        "reviews": 25,
+        "photos": 162
+      },
+      "snippet": "Buen material.",
+      "extracted_snippet": {
+        "original": "Buen material."
+      },
+      "likes": 0,
+      "response": {
+        "date": "Hace 7 años",
+        "iso_date": "2019-06-12T07:36:04Z",
+        "iso_date_of_last_edit": "2019-06-12T07:36:04Z",
+        "snippet": "Muchisimas gracias Begoña!!!",
+        "extracted_snippet": {
+          "original": "Muchisimas gracias Begoña!!!"
+        }
+      }
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0xd2f71b61cb92cbf%3A0xc015009c98e7604f&engine=google_maps_reviews&hl=es&next_page_token=CjEIARIpCgoAP72JeJuo4v__EhCUYCxce3jNs8w-YD8AAAAAGgn9_EMCl4m6ji8YACIA%3A21&num=20&sort_by=newestFirst",
+    "next_page_token": "CjEIARIpCgoAP72JeJuo4v__EhCUYCxce3jNs8w-YD8AAAAAGgn9_EMCl4m6ji8YACIA:21"
+  }
+}

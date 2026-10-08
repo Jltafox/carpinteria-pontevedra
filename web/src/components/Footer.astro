@@ -1,0 +1,42 @@
+---
+import { biz, fill, hubs, phoneLabel, services, telHref } from '../lib/site';
+
+const hasMap = String(biz.lat ?? '').trim() !== '' && String(biz.lng ?? '').trim() !== '';
+const mapSrc = hasMap ? `https://maps.google.com/maps?q=${biz.lat},${biz.lng}&z=15&output=embed` : '';
+---
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="brand">{fill('{{marca}}')}</p>
+      <!-- NAP: debe coincidir exactamente con la ficha de Google -->
+      <address>
+        {fill('{{calle}}')}<br />
+        {fill('{{cp}}')} {fill('{{localidad}}')} ({fill('{{provincia}}')})<br />
+        <a href={telHref()}>{phoneLabel()}</a><br />
+        <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
+      </address>
+      <p class="muted">{biz.horario_texto || fill('{{abre}}–{{cierra}}, de lunes a viernes')}</p>
+    </div>
+    <div>
+      <p class="footer-title">Servicios</p>
+      <ul>{services.map((s) => <li><a href={s.route}>{s.h1}</a></li>)}</ul>
+    </div>
+    <div>
+      <p class="footer-title">Zonas</p>
+      <ul>{hubs.map((h) => <li><a href={h.route}>{h.h1.replace('Carpintería de madera', 'Carpintería')}</a></li>)}</ul>
+      <p class="footer-title">Información</p>
+      <ul>
+        <li><a href="/presupuesto/">Pide presupuesto</a></li>
+        <li><a href="/sobre-nosotros/">Quiénes somos</a></li>
+        <li><a href="/aviso-legal/">Aviso legal</a></li>
+        <li><a href="/politica-de-privacidad/">Política de privacidad</a></li>
+        <li><a href="/cookies/">Cookies</a></li>
+      </ul>
+    </div>
+  </div>
+  {hasMap && (
+    <div class="wrap map">
+      <iframe title="Mapa de ubicación" src={mapSrc} loading="lazy" width="100%" height="260" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  )}
+</footer>

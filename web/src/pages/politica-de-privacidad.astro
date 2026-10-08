@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { fill, pageByRoute } from '../lib/site';
+
+const page = pageByRoute('/politica-de-privacidad/');
+---
+<Base page={page}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <section class="block">
+    <div class="wrap prose">
+      <h1>Política de privacidad</h1>
+      <p class="placeholder">Plantilla pendiente de revisión legal antes de publicar.</p>
+      <h2>Responsable del tratamiento</h2>
+      <p>{fill('{{titular_legal}}')} · NIF {fill('{{nif}}')} · {fill('{{domicilio_legal}}')} · {fill('{{email}}')}</p>
+      <h2>Qué datos tratamos y para qué</h2>
+      <p>Los datos del formulario de presupuesto (nombre, teléfono, email, municipio, descripción del trabajo y archivos adjuntos) se usan para contactarte y preparar el presupuesto que solicitas.</p>
+      <h2>Legitimación</h2>
+      <p>Tu consentimiento al enviar el formulario y la aplicación de medidas precontractuales a petición tuya.</p>
+      <h2>Destinatarios</h2>
+      <p>Para preparar el presupuesto y ejecutar el trabajo, tus datos se comunican a {fill('{{empresa_ejecutora}}')}. No se ceden a otros terceros salvo obligación legal.</p>
+      <h2>Conservación</h2>
+      <p>Mientras se gestiona tu solicitud y, después, durante los plazos legales aplicables.</p>
+      <h2>Tus derechos</h2>
+      <p>Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a {fill('{{email}}')}, y reclamar ante la Agencia Española de Protección de Datos (aepd.es).</p>
+    </div>
+  </section>
+</Base>

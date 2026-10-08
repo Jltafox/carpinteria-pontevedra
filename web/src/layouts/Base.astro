@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import MobileCta from '../components/MobileCta.astro';
+import { fill, fillDeep, pending, siteUrl } from '../lib/site';
+
+interface Props {
+  page: any;
+}
+const { page } = Astro.props;
+const title = fill(page.title);
+const description = fill(page.description);
+const base = siteUrl();
+const canonical = base ? base + page.route : undefined;
+const jsonld = page.jsonld ? JSON.stringify(fillDeep(page.jsonld)).replace(/</g, '\\u003c') : '';
+// Mientras falten datos del negocio la web no se indexa (evita publicar por error una web con {{variables}}).
+const noindex = page.noindex || pending.length > 0;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={canonical} />}
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    {canonical && <meta property="og:url" content={canonical} />}
+    {jsonld && <script type="application/ld+json" set:html={jsonld} />}
+  </head>
+  <body>
+    {import.meta.env.DEV && pending.length > 0 && (
+      <div class="dev-banner" role="status">
+        Faltan datos del negocio en <code>src/data/business.json</code>: {pending.join(', ')}
+      </div>
+    )}
+    <a class="skip" href="#contenido">Saltar al contenido</a>
+    <Header />
+    <main id="contenido">
+      <slot />
+    </main>
+    <Footer />
+    <MobileCta servicio={page.cta?.servicio} zona={page.cta?.zona} />
+  </body>
+</html>

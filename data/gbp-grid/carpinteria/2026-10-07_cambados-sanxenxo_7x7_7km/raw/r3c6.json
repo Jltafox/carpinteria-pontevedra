@@ -1,0 +1,917 @@
+{
+  "search_metadata": {
+    "id": "6ac671b10a91561e48549de8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jle7yaEvfeq3LXqCf3_ucHGxxhCIZtgYZRZCBOt5D90/6ac671b10a91561e48549de8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jle7yaEvfeq3LXqCf3_ucHGxxhCIZtgYZRZCBOt5D90/6ac671b10a91561e48549de8.md",
+    "created_at": "2026-10-07 16:22:09 UTC",
+    "processed_at": "2026-10-07 16:22:09 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@42.4576,-8.724423,15z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/jle7yaEvfeq3LXqCf3_ucHGxxhCIZtgYZRZCBOt5D90/6ac671b10a91561e48549de8.html",
+    "prettify_html_file": "https://serpapi.com/searches/jle7yaEvfeq3LXqCf3_ucHGxxhCIZtgYZRZCBOt5D90/6ac671b10a91561e48549de8.prettify",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@42.4576,-8.724423,15z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpintería Ebanistería Paco S.L.",
+      "place_id": "ChIJhRw4E3puLw0RB3_IFkvJrfk",
+      "data_id": "0xd2f6e7a13381c85:0xf9adc94b16c87f07",
+      "data_cid": "17991257410756968199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6e7a13381c85%3A0xf9adc94b16c87f07&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6e7a13381c85%3A0xf9adc94b16c87f07&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4497642,
+        "longitude": -8.6940195
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhRw4E3puLw0RB3_IFkvJrfk",
+      "provider_id": "/g/12qh01nz8",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Tienda de armarios",
+      "types": [
+        "Tienda de armarios"
+      ],
+      "type_id": "cabinet_store",
+      "type_ids": [
+        "cabinet_store"
+      ],
+      "address": "Rúa Ucha de Abaixo, 23, 36995 Poio, Pontevedra",
+      "country": "España",
+      "phone": "986 77 11 83",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWi-N3PCFCwN84lpf84DRS4jetBp65sNzEQpdymj73tLe_ObSUd2nVaelt17ud6eGunBvsqOtNTerVyHvuWcyfa32XLLnJcOiFeWK3O9_J0YgxcQN390Z5yVde6W57Gilvqu1idA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ne46h3icHcTdTsIwGADQJyrr6H6YiReAgoGlY4KrekOw_dhKSldoO6xv6CP4NiSei_P32zln7EMUqY6M2r5vFXgLV95rB9qNeH-OWmMRt8hGU8pkKGomESWb-WJ-o5NEmeMkeXrdJidwM5Ollv4810aE8yknroR99bV9E2PdHEC5OPcig6XXs8FeKkd3cG3Cy-AZD8cDGb-XpV7xSi6ArUlV7Ff4o_3mNSUF_kxDIyBjab6Uarj4WIrp4y3GGKPuf470HfxLRYw"
+    },
+    {
+      "position": 2,
+      "title": "Macen Mart S.L.",
+      "place_id": "ChIJz2hoaN5tLw0RSZmoTMGLqgU",
+      "data_id": "0xd2f6dde686868cf:0x5aa8bc14ca89949",
+      "data_cid": "408292378561517897",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6dde686868cf%3A0x5aa8bc14ca89949&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6dde686868cf%3A0x5aa8bc14ca89949&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4597972,
+        "longitude": -8.686036399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJz2hoaN5tLw0RSZmoTMGLqgU",
+      "provider_id": "/g/11xlxxgz4",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Camiño Xalouriño, 12, 36995 O Sartal, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–14:30",
+        "jueves": "8:00–14:30",
+        "viernes": "8:00–14:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–14:30",
+        "martes": "8:00–14:30"
+      },
+      "phone": "986 77 08 33",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rux_ZU8dyONKqbqJRaCL2yi-KW6xjqtzh8I5RJhEhtE6IEWzf0icYnPVxnxu35l7TEgFHf1OOkrQhY__kAUlaR6vOg7HhIscIybea4mCpSqXyaM480j7j-VTJiAhirCE4wNtU3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0b1COHicHcTdboIwGADQJ6rUgcBMdkFIF8ENlImoNwQ77FfE8tOi1Bf0GXwbE8_FeT5AqVbODaMGc8KahtXlIMueNkKVQk1oczFYKxGVSBpelHH9mQxjfkjdfx1Hy-7YhUnh_3xojpaZPVaduoMbzJIQCChiByS7nzCne7HajmIczFntbAj7XpymcXzu17DP87OX1kViX2PmLCCQNNDHsrAufvvX7XTxa7m4ciq03YTcA977xLpFKjW_blOMMYL3FIkX0BJFcA"
+    },
+    {
+      "position": 3,
+      "title": "DDG Metal",
+      "place_id": "ChIJ5168tSxvLw0RpSlD9ir83JA",
+      "data_id": "0xd2f6f2cb5bc5ee7:0x90dcfc2af64329a5",
+      "data_cid": "10438495297788389797",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6f2cb5bc5ee7%3A0x90dcfc2af64329a5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6f2cb5bc5ee7%3A0x90dcfc2af64329a5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.439321299999996,
+        "longitude": -8.707029
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ5168tSxvLw0RpSlD9ir83JA",
+      "provider_id": "/g/11r9w2j_1b",
+      "rating": 5,
+      "reviews": 3,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Camiño Santamaría, 14, Bajo, 36993 Xuviño, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "622 62 07 23",
+      "website": "https://ddgmetal.es/",
+      "user_review": "\"Sin lugar a dudas lo recomiendo para trabajos de estructuras metálicas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SNQMuDfUkG94F4DWg0QOZh4OJ30rqvmHKyTrnfVyDYqHX3kUonXgIOj0A_t4IGUM7etODjjluX829bMz0PhBIq5Ax9xcyybz4y4XFPwVgulgS9Us2UmSVOSCncSzmLPz9winQCuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FQ6ZrXicHcRRboIwAADQEyGd1GhN9oESFScWUgvoj4kNtiK0QtthueGOsNss2ft4vz_CmJde-n4jgglXijeV1VXPlDSVNBOmWp-_tMe0p_3wWDwcIscssdGdPrcIbmBUcJDhi4B4H4C--253X-7Uy3vuonO3K4MnVbLkMa5BeDUw3tJkXhkc1XVjy8UU3ZIRpGIVd7Pwjd7MudsIHSw36ZBz23CCqJ7SluSYrCUjY3tIRzQ8ZLa24efwAQDwxP_Mk3_x8UYA"
+    },
+    {
+      "position": 4,
+      "title": "Alberto Parada",
+      "place_id": "ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+      "data_id": "0xd2f65e6322a40dd:0xef2af7309bdf7354",
+      "data_cid": "17233858712232227668",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f65e6322a40dd%3A0xef2af7309bdf7354&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f65e6322a40dd%3A0xef2af7309bdf7354&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.435188499999995,
+        "longitude": -8.6843085
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+      "provider_id": "/g/11fzz18943",
+      "rating": 5,
+      "reviews": 3,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Rúa Beiramar, 82, 36995 Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "8:30–13:00, 15:00–20:00",
+        "jueves": "8:30–13:00, 15:00–20:00",
+        "viernes": "8:30–13:00, 15:00–20:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:00, 15:00–20:00",
+        "martes": "8:30–13:00, 15:00–20:00"
+      },
+      "phone": "630 57 27 62",
+      "website": "https://sites.google.com/view/carpinteriaparada/inicio",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SS_7d1MJAYNeMxMqldsPnzZGU_776LeBuhWOFvDbyqQbVPLBcH9nfZ8W3xIIjh2tkOYyMTOiIjkCwr2XvLpuba5lPWThI0vc7erytKcjBxIboIRq5nwHD1ddkHBVt2AoEt7xRh=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XZj-GnicHcRJDoIwAADAFyGL0aqJB3CjyiaiqBcjpVIBW6Bl84O-wd-YOIf5fogQBZ_Jck6Gg4SxJMc1xxViVGAqBoi95KTgEuISl3UnfPbTw-EGYtXe6hcH251d5jH36Pu6Od4AGFvYqEnorptl1Jf76ORZBjKn9HGdhMMOwpRoInMvvR24T5hmi7bSzo1V1NF9lHthQKDSIICrXuxQanQwYtAvR7Q1l2ocZ6ZxEprOVgJ0Ppm3qqIoEvmPJPoDw0BGAA"
+    },
+    {
+      "position": 5,
+      "title": "Carpintería Piñeiro (Butano)",
+      "place_id": "ChIJE6vJ7_FtLw0RwsCIgz2kQ4s",
+      "data_id": "0xd2f6df1efc9ab13:0x8b43a43d8388c0c2",
+      "data_cid": "10035044978818334914",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6df1efc9ab13%3A0x8b43a43d8388c0c2&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6df1efc9ab13%3A0x8b43a43d8388c0c2&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4715796,
+        "longitude": -8.6702325
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJE6vJ7_FtLw0RwsCIgz2kQ4s",
+      "provider_id": "/g/11tn2_770b",
+      "type": "Parada de autobús",
+      "types": [
+        "Parada de autobús"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Piñeiro, 36157 Pontevedra",
+      "country": "España",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=amSR3qebb57Vj_hnLbm1YA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=52.646877&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7IaHV3icHc1LDsIgFADA27ATaLUfTYhx70oTE1cN0CfQ8LNg0dt4LW-j8QIzn7fOOaYdISnPAHkxUKJ5gk2ryLEKQVng0SQsgyNLRbJ-OOG5sfvIfTAj4-58Wt9BiKa7TIP2R-Gq6wFJMUhrwGeWgM9SY1V-4hxGrGJChfUUabat0YsX1tS43bR916FostSMov9yCwurKP0CfqQ5nA"
+    },
+    {
+      "position": 6,
+      "title": "Carpinteria Picón",
+      "place_id": "ChIJmcC5PMxrLw0RS6e9p4dP-uQ",
+      "data_id": "0xd2f6bcc3cb9c099:0xe4fa4f87a7bda74b",
+      "data_cid": "16499587628878636875",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6bcc3cb9c099%3A0xe4fa4f87a7bda74b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6bcc3cb9c099%3A0xe4fa4f87a7bda74b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4618341,
+        "longitude": -8.787417099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmcC5PMxrLw0RS6e9p4dP-uQ",
+      "provider_id": "/g/11cmfxszrq",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero"
+      ],
+      "type_id": "carpenter",
+      "type_ids": [
+        "carpenter"
+      ],
+      "address": "Lugar Picon, 18, 36968 Meaño, Pontevedra",
+      "country": "España",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krAFexuBbLja04kjdhPJjw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=94.325905&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tLeTx3icHc1RDoIgGADg2_AWoOmWbazZQw-th27QEP8ARfkHKHabrtVtal3g-z5vkxLGI2MxBYC0WshoN3Bxh5Jq77UDiTZS5Se2FiyZZepmad0J5extL8bQXmBbzt1tkLwah97cr0MmqnsoZ2FOIoIMylCdf2LwPdUYSRYHToxoSvKSWTQV3Zd1w2uCNikjOPkvT7-KgvMvoD85_g"
+    },
+    {
+      "position": 7,
+      "title": "Carpintería Lores Lores",
+      "place_id": "ChIJJVE6cPZuLw0RHStYkJ2j9sg",
+      "data_id": "0xd2f6ef6703a5125:0xc8f6a39d90582b1d",
+      "data_cid": "14480941548983298845",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6ef6703a5125%3A0xc8f6a39d90582b1d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6ef6703a5125%3A0xc8f6a39d90582b1d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4300244,
+        "longitude": -8.7060423
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJVE6cPZuLw0RHStYkJ2j9sg",
+      "provider_id": "/g/11xx6gwvm",
+      "rating": 5,
+      "reviews": 14,
+      "unclaimed_listing": true,
+      "type": "Tienda de armarios",
+      "types": [
+        "Tienda de armarios"
+      ],
+      "type_id": "cabinet_store",
+      "type_ids": [
+        "cabinet_store"
+      ],
+      "address": "Av. Francisco Regalado, 48, 36993 Combarro, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto ahora",
+      "phone": "986 77 14 70",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QydU67kxXXkmM6mPyDyf7_FWWNTC1ConSDHojRTtmZgyMT9maz3IUSeVap_Q0yN0kuv6wZpf7_9tgZ4w4apBvQFlps1SpMh6U22iSrDf9TDU1UN-VkO0itruPqL4IF-iFq0Yqr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oIHMPHicHctRD0JAAADgX3Q5Mk1bD8UsW0RcyouZOOLccSddf7Df0L-p9fK9fZ93LQTja0Xp6uUCU4q7cuLlWNBelL1YFJQomHFQcMCVrZ800gzlDRmr9nm5tMQzSCBtWa0yJ0n82FIt2kf2nt5PsSApll5skvy1dFFUnnOWhVD6sJ0expyy3zEFTvVZz9nuETod42rEvNpAmtZEo12ZsY1U5INze4SNGKdgOOiuAxpngNdh3MwqhBDUfwvQfwHIwUVJ"
+    },
+    {
+      "position": 8,
+      "title": "Piñeiro (carpintería bar)",
+      "place_id": "ChIJ42cB8PFtLw0RajOhw0XXy74",
+      "data_id": "0xd2f6df1f00167e3:0xbecbd745c3a1336a",
+      "data_cid": "13748318982113407850",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6df1f00167e3%3A0xbecbd745c3a1336a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6df1f00167e3%3A0xbecbd745c3a1336a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.471652,
+        "longitude": -8.670353799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ42cB8PFtLw0RajOhw0XXy74",
+      "provider_id": "/g/11s6b28qd0",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Parada de autobús",
+      "types": [
+        "Parada de autobús"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Piñeiro, 36157 Pontevedra",
+      "country": "España",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MAipMHaVFyoCSdHk4ZjrXg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=270.2525&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zgWTh3icHc1NCgIhGADQ27hLTRr6AYkIYjazCiLahOOYfuWMH2pjc5rO1W2KLvDe5-1yxrRhLOVoTB7BFISX8WmGitoQrDcKIVEdejbOWXbPvh0U-C2qIUAnmx1gU6vTYQr7Y1c_Fpd7PFui26v2YIYsk1FRO2rLT4yhoxYTKXLFiZNrQSZVpFhyKipREYSsneTkn9zCKOecfwFSPzmF"
+    },
+    {
+      "position": 9,
+      "title": "Rodiño",
+      "place_id": "ChIJU3SH03tuLw0RYqMj7w4UlS8",
+      "data_id": "0xd2f6e7bd3877453:0x2f95140eef23a362",
+      "data_cid": "3428668745686688610",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6e7bd3877453%3A0x2f95140eef23a362&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6e7bd3877453%3A0x2f95140eef23a362&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.473261699999995,
+        "longitude": -8.6694537
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJU3SH03tuLw0RYqMj7w4UlS8",
+      "provider_id": "/g/1tfmk327",
+      "rating": 3,
+      "reviews": 4,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Lugar Moldes, 7, 36157, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 15:30–19:30",
+        "jueves": "9:00–13:30, 15:30–19:30",
+        "viernes": "9:00–13:30, 15:30–19:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 15:30–19:30",
+        "martes": "9:00–13:30, 15:30–19:30"
+      },
+      "phone": "629 59 16 52",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QnpaSVWV1sgXsrocoZNFZxKznNbSCV4irHL69Ic2Hr_i-GPmY6xnA3ofJndHTf7RG7Xytdm18EQyuJiDxF8ksErYPyXrgrT4gjpurihfKHnagFNtIxSmFvyAEvXP-CiB3VYZG-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZY3HZ3icHcTLDYIwAADQiSogBNDEAyo_NQTFIHAxWKBUpSVtQeqCzuA2Jr7D-35aIXq-VJRnq88QpehZD7xmkBJREzGDtFNQzwHkgCtOdMFycSR9maSXVOMo44xCWkReMe3fJLolm9TALDiYixDOA3bFwI-73JyIo9NmR6rg3Fgn38qkqDrNdo9y2OHt5NkP7rI8lhlD7Gygez8w3Db7gJTIi0Q4JZ03Sscdsxhs8FpP88IHq5emqipo_0NAfv9mRjI"
+    },
+    {
+      "position": 10,
+      "title": "PR Cobas - Lacados y Barnizados",
+      "place_id": "ChIJZRs6ZX1rLw0RVWavTqavlj0",
+      "data_id": "0xd2f6b7d653a1b65:0x3d96afa64eaf6655",
+      "data_cid": "4437927611639752277",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6b7d653a1b65%3A0x3d96afa64eaf6655&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6b7d653a1b65%3A0x3d96afa64eaf6655&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.472290199999996,
+        "longitude": -8.779448
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZRs6ZX1rLw0RVWavTqavlj0",
+      "provider_id": "/g/11h765rh4f",
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker"
+      ],
+      "address": "Lugar Vista Alegre, 14, 36968 Covas, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "627 47 02 21",
+      "website": "https://prcobas.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T89x_o8AxMbn5HImwzdBc76lOKZPx1lfFexAR5F_JbrSAUJNEwQZMP_DkvVFy1OXamr3HYKLa9hVqWZgx79mQHbn_-5_lYsb05Jm-qzr-ycoZ8eI59TZdTV9qwNRt8ZXAhlUKgww=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PQ9OO3icHcTbToMwAADQL-qALHXUxIcaJQwcu8jY1pdmdLU19jJotWV_6Cfsb0w8D-f-K72_usckUXI-E9YKxb8dH5k1nhs_Y1Yn4uoAc8AluDl8TqjNUaQ2x3HVG1gudbhdntniQa1rsomZ-ih4xDtY0Kof3_G-al7Dlqw29OXrpyumbH0863Fenuq3M5LdcCAiLpDelr2hAFJ1cn0KKw2G2wgmZknOlxC15NJ2aAjNzufkiKXa1yKEp5ClaQrk_wyYPwVXRcA"
+    },
+    {
+      "position": 11,
+      "title": "CARPINTERIA SAMIEIRA",
+      "place_id": "ChIJhQ56PtpuLw0RZojgtEGdDxo",
+      "data_id": "0xd2f6eda3e7a0e85:0x1a0f9d41b4e08866",
+      "data_cid": "1877892475169835110",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6eda3e7a0e85%3A0x1a0f9d41b4e08866&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6eda3e7a0e85%3A0x1a0f9d41b4e08866&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.419474199999996,
+        "longitude": -8.7356436
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhQ56PtpuLw0RZojgtEGdDxo",
+      "provider_id": "/g/12qfs23xf",
+      "rating": 5,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Carpintero"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "carpenter"
+      ],
+      "address": "Cño. de Teinogueira, 13, 36992 Samieira, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 9:00 (jue)",
+      "hours": "Cerrado · Apertura: 9:00 (jue)",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "618 17 70 14",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T8W6zb73BvnJV8HKMg1nqZfgvzwZUq8NwDzUabzdyrQTICpEs4ZdqzNdEfaPtdV4JBYBnhawbjsv9_oja09y-2DCAxPfcIxfahqUrEDW4ClxV8LmmiYQUfp-FtxVXK9tu7aic=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8KGWrnicHcRJDoIwAADAFxVQiYCJB1mMK9FEQLmYUmiLgRZoZekD_YO_MXEO8_1QKRux0vWKLjTCOamKtyg6xJksmNQQr3XSCIAEEPomTMrJudnJUmXWwu3ZIbZ3xzOZsTbFpFdDGrV2OPgqgpnKp-5623tNIMw0b1WYBxheZB6bB_fhMgqH7CV658lf0HAmMPe9zXjBaD9iSNuoC_zE9Koxtk91XT6uEW7AVo7x_ejItwVLtB5mhmEA-h8B9gPB90ZT"
+    },
+    {
+      "position": 12,
+      "title": "CARPAVA MADERA, S.L.U.",
+      "place_id": "ChIJC5vVnMhrLw0Rz12hxNEAlss",
+      "data_id": "0xd2f6bc89cd59b0b:0xcb9600d1c4a15dcf",
+      "data_cid": "14669913737153043919",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6bc89cd59b0b%3A0xcb9600d1c4a15dcf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6bc89cd59b0b%3A0xcb9600d1c4a15dcf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.463250099999996,
+        "longitude": -8.7821532
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJC5vVnMhrLw0Rz12hxNEAlss",
+      "provider_id": "/g/11x9qw930",
+      "rating": 4.6,
+      "reviews": 5,
+      "type": "Establecimiento de venta de madera",
+      "types": [
+        "Establecimiento de venta de madera",
+        "Tienda de armarios"
+      ],
+      "type_id": "lumber_store",
+      "type_ids": [
+        "lumber_store",
+        "cabinet_store"
+      ],
+      "address": "Carballoso, Xil, 15b, 36968 Meaño, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:30",
+      "hours": "Abierto · Cierre: 19:30",
+      "operating_hours": {
+        "miércoles": "8:30–13:30, 15:30–19:30",
+        "jueves": "8:30–13:30, 15:30–19:30",
+        "viernes": "8:30–15:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:30–13:30, 15:30–19:30",
+        "martes": "8:30–13:30, 15:30–19:30"
+      },
+      "phone": "986 74 76 74",
+      "extensions": [
+        {
+          "service_options": [
+            "A domicilio",
+            "Recogida en tienda",
+            "Compra en tienda"
+          ]
+        },
+        {
+          "payments": [
+            "Cheques",
+            "Pagos con móvil vía NFC",
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "service_options": {
+        "compra_en_tienda": true,
+        "recogida_en_tienda": true,
+        "a_domicilio": true
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PgmVTrzAETfH8PmPF8y9iQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=283.42368&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dxeXsXicHc1RCsIgGADg2_iWui3CBRI9FD0uGL2Gc05_0Clqs3WartVtii7wfZ-3yTmkPSEpR6XyAqoEeCqbNkFg7b22SgRIWHpHlopk83DDLMAegpg9jLzT7tbH1_HUTxfWue7M1hauSA53aUHNmSclojRYl58Y_Yh1SKhwRpHhbY1WUXjNGrytmx1DAbI0nKL_MvmFV5R-AXd1OX0"
+    },
+    {
+      "position": 13,
+      "title": "Carpintería Martín",
+      "place_id": "ChIJIUxEEgBrLw0RRItSrOCe9kA",
+      "data_id": "0xd2f6b0012444c21:0x40f69ee0ac528b44",
+      "data_cid": "4681103550499162948",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6b0012444c21%3A0x40f69ee0ac528b44&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6b0012444c21%3A0x40f69ee0ac528b44&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5096464,
+        "longitude": -8.7868245
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIUxEEgBrLw0RRItSrOCe9kA",
+      "provider_id": "/g/11nt9x2fdf",
+      "unclaimed_listing": true,
+      "type": "Fábrica",
+      "types": [
+        "Fábrica"
+      ],
+      "type_id": "manufacturer",
+      "type_ids": [
+        "manufacturer"
+      ],
+      "address": "Aldea a Bouciña, 16, 36633 A Bouciña, Pontevedra",
+      "country": "España",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uyFgTfqWEDWJzpaidy2wgg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=82.7863&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/smZ9m3icHc0xDoIwFIDh23SzLZgomjQu6uBswmhKebQvKfRJCxUP4728jcTtn77_-3EpUTwKEdMIkGaETPgCHzekuQ3BetCEkZvQi7kQyU19M2j0J9JDwFZNy9Xeu2d9Ode3N2lslzJby0zzMB5hSCqCHo3jNq_iGFpuKbKsKsmcOpRs0WuXfF_ttowwGack-z-6MKtCyh9P_Tn3"
+    },
+    {
+      "position": 14,
+      "title": "Hermanos Garrido S.l.",
+      "place_id": "ChIJpwFoKQxwLw0RQSqDysT39RQ",
+      "data_id": "0xd2f700c296801a7:0x14f5f7c4ca832a41",
+      "data_cid": "1510385674635913793",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f700c296801a7%3A0x14f5f7c4ca832a41&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f700c296801a7%3A0x14f5f7c4ca832a41&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4059041,
+        "longitude": -8.6504978
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJpwFoKQxwLw0RQSqDysT39RQ",
+      "provider_id": "/g/1wbg0p_w",
+      "rating": 4.2,
+      "reviews": 9,
+      "unclaimed_listing": true,
+      "type": "Ebanista",
+      "types": [
+        "Ebanista"
+      ],
+      "type_id": "cabinet_maker",
+      "type_ids": [
+        "cabinet_maker"
+      ],
+      "address": "Rúa Cruceiro, 45, 36143 Pontevedra",
+      "country": "España",
+      "phone": "986 84 76 85",
+      "website": "http://www.chgarrido.com/",
+      "user_review": "\"El mejor carpintero, muy atento, trabajan con mucho detalle.\"",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PL8fozqRxnpO_avvJ0FFjQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=271.14288&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K8Ob2XicHc3bDcIgFADQbfiTR2MimhD_-mFMfCzQUEoBQ-FaEKrTuJbbaFzgnM_b5gxpR0jKs9a5OF3BLdqnFUhsYjReS3AJqziRwki2j6kP0vk9yBDdIM5HPsbX_boEOHWylANt29sFqb5T3umQRdJyVhab-hPnOGADCVXBKbJi26CnrKLZMMzWDecIXFZWUPRfxlgEo_QLo_g6AQ"
+    },
+    {
+      "position": 15,
+      "title": "Suministros SUINPO",
+      "place_id": "ChIJb0JkRGRvLw0RQc9EFumv3Ec",
+      "data_id": "0xd2f6f644464426f:0x47dcafe91644cf41",
+      "data_cid": "5178207087205076801",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6f644464426f%3A0x47dcafe91644cf41&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6f644464426f%3A0x47dcafe91644cf41&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4335661,
+        "longitude": -8.684138899999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJb0JkRGRvLw0RQc9EFumv3Ec",
+      "provider_id": "/g/11vshbcjgk",
+      "rating": 4.9,
+      "reviews": 92,
+      "type": "Proveedor de puertas para garaje",
+      "types": [
+        "Proveedor de puertas para garaje",
+        "Proveedor de puertas",
+        "Cerrajería"
+      ],
+      "type_id": "garage_door_supplier",
+      "type_ids": [
+        "garage_door_supplier",
+        "door_supplier",
+        "lock_store"
+      ],
+      "address": "Camiño os Mouchos, 48, 36995 Campelo, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "986 09 01 27",
+      "website": "http://www.suinpo.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        },
+        {
+          "parking": [
+            "Aparcamiento gratuito",
+            "Con aparcamiento propio",
+            "Parking gratuito"
+          ]
+        }
+      ],
+      "user_review": "\"Recomendable 100%.Magnífico trabajo y atención.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SByBCbgN2WeB-4OrfjBsw6WD7v-sG-PBetYyzxwjzNqnTTwfqE6W5OhUe4HhyEsF3yFkPjgh6_6nsImRBMx3xNBgH0m9Imdj5krwvI_Df2pITwkPRAU91O-1tBc5gWWf9nMuSCdaHEKUgu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HMldsXicHcTdboIwGADQJ6qACAsmXlgEIYtAFNLsymy1tPJTkK9Y6kvuem9jsnNx_n6FUiNsLasT7ooPA-_YDGyig1RMqhUdeouPgCggsPYZuZvggg0Of3i2JgyjTT7VDQbtk8PHE8ERFZipL_NadPPKHrIsdf2IfOLlomKbRJgIYtfEbdFw4V99CWl_xqfFXTLME7sP0v7WeO2kn-n1UK_HtNRtcd5XgZMjR2HqcULqQJ7mS3j7TqLPis877di2jcT_FMk35AhH1Q"
+    },
+    {
+      "position": 16,
+      "title": "Carpintería Barbeito Sl",
+      "place_id": "ChIJGYRrzM1qLw0RYcVfaA64G3s",
+      "data_id": "0xd2f6acdcc6b8419:0x7b1bb80e685fc561",
+      "data_cid": "8870886263056483681",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6acdcc6b8419%3A0x7b1bb80e685fc561&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6acdcc6b8419%3A0x7b1bb80e685fc561&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.5211976,
+        "longitude": -8.8057033
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJGYRrzM1qLw0RYcVfaA64G3s",
+      "provider_id": "/g/11b61q1y57",
+      "rating": 4.7,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Almacén"
+      ],
+      "type_id": "woodworker",
+      "type_ids": [
+        "woodworker",
+        "storage_facility"
+      ],
+      "address": "Aldea Modia, 2B, 36633 Cambados, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 20:00",
+      "hours": "Abierto · Cierre: 20:00",
+      "operating_hours": {
+        "miércoles": "9:00–13:30, 15:00–20:00",
+        "jueves": "9:00–13:30, 15:00–20:00",
+        "viernes": "9:00–13:30, 15:00–20:00",
+        "sábado": "9:00–13:30",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:30, 15:00–20:00",
+        "martes": "9:00–13:30, 15:00–20:00"
+      },
+      "phone": "986 52 45 35",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRtwkSmuYOGGQ9pVC_xnwlOjq_8IqcwPB5raVRPxTV1at-r_CajmBgzhxPQw-TMeb4yRmIF2yY1YzDOGi0xcqw7HVEvkVy7GqI6uQF3kmxroLMMqIz2kR2DvVvH-vgi04wnSCu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4rJUkXicHcRLjoIwAADQExUK_ieZhaIiiQwfTQ0rgg0pv7aUFlq44JxhbjOJb_H-fiulevll2121sgjnpCtHWQ6YM1UyZWFObdJLgCWQ9vHnVc-HJFW6fdAxi3w_OfTIyw3TXdSIfB8IrOPTZihQGpsncgoFhtwrGnoiS2XiRINnWL7Xc0qDqztnTracI7-GBgu9u6HL1KJ554tgOybXVUvNwO9hKILFbVP3PKHpBiZSw7VmD2_81g6EEFSfMWD_LY1Gjw"
+    },
+    {
+      "position": 17,
+      "title": "Mouriño Y Barreiro s.l.",
+      "place_id": "ChIJhxBIZ_pzLw0RoVkSE6QOOec",
+      "data_id": "0xd2f73fa67481087:0xe7390ea4131259a1",
+      "data_cid": "16661364394291255713",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f73fa67481087%3A0xe7390ea4131259a1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f73fa67481087%3A0xe7390ea4131259a1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.443869899999996,
+        "longitude": -8.6516156
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhxBIZ_pzLw0RoVkSE6QOOec",
+      "provider_id": "/g/11fkd_6wzg",
+      "rating": 4.3,
+      "reviews": 6,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Polig. a Granxa do Bao, parcela 31, 36157 Pontevedra",
+      "country": "España",
+      "open_state": "Cierra pronto · 19:00 · Apertura: 9:00 (jue)",
+      "hours": "Cierra pronto · 19:00 · Apertura: 9:00 (jue)",
+      "operating_hours": {
+        "miércoles": "9:00–13:00, 15:00–19:00",
+        "jueves": "9:00–13:00, 15:00–19:00",
+        "viernes": "9:00–13:00, 15:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–13:00, 15:00–19:00",
+        "martes": "9:00–13:00, 15:00–19:00"
+      },
+      "phone": "650 48 04 38",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"El trato es impecable, profesional y resolutivo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSK6q8t6diCYaGz8fQXpwet5ZUlW1oS06CgWaal_QdJ6DZepRmvsFa4OOpUtC1zZLSFirsxLsgSjRQrJGEulidzhP9iyCGeID3mo1mlVVIIxU6omvfQbJ3Jry5IiKHCF5CvQhC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aIGuTXicHcRRDoIgAADQE5k6k1VbHw3TtFaRM8ufZkpAAyEhSy_YGbpNW-_jfT_UGKVnts2pNyJSEo6fGreVbAxuzKiSwiZKW5W2tL3Y5qyfonQNHhMDagbPZTRMbuikXtj4RcZzV6YOgCQvS35BdQKCAquD6HRYjnc7lRnoDsUmDVmr3xtN0vsBtUm0fHJWD3Q_ZT2McBx4QrqCH49x_M6AFN0NXRMvaXs_ZusVDH3YIQrnL9dxHIv-r6zmB83oRb0"
+    },
+    {
+      "position": 18,
+      "title": "VENTANAS CORTIZO - Somos la Ventana Pontevedra",
+      "place_id": "ChIJ6TCq3NhvLw0R-kBReOtmEYI",
+      "data_id": "0xd2f6fd8dcaa30e9:0x821166eb785140fa",
+      "data_cid": "9372385461056651514",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6fd8dcaa30e9%3A0x821166eb785140fa&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6fd8dcaa30e9%3A0x821166eb785140fa&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.431756899999996,
+        "longitude": -8.6627114
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6TCq3NhvLw0R-kBReOtmEYI",
+      "provider_id": "/g/11rq7tlvxs",
+      "rating": 4.4,
+      "reviews": 66,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Ventana de aluminio",
+        "Instalación de ventanas de doble acristalamiento",
+        "Proveedor de ventanas PVC"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork",
+        "aluminum_window",
+        "double_glazing_supplier",
+        "pvc_windows_supplier"
+      ],
+      "address": "Av. Andurique, 2, BAJO, 36163 Poio, Pontevedra",
+      "country": "España",
+      "open_state": "Cierra pronto · 19:00 · Apertura: 9:30 (jue)",
+      "hours": "Cierra pronto · 19:00 · Apertura: 9:30 (jue)",
+      "operating_hours": {
+        "miércoles": "9:30–14:00, 16:00–19:00",
+        "jueves": "9:30–14:00, 16:00–19:00",
+        "viernes": "8:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "9:30–14:00, 16:00–19:00"
+      },
+      "phone": "886 29 01 37",
+      "website": "http://www.somoslaventana.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Servicios en las instalaciones"
+          ]
+        },
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aseo adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Asientos adaptados sillas de ruedas"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"El resultado es ahorro en tiempo y una obra perfecta sin problemas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QR0HcDMHU35R5XkFqo9S0dZib5pD4FJH4Bb1FuYd3JXcRLCy49PDliL7nba-8Dgv_FvtOTJRadX07itQz4G75_RUWbs60bH_6zGzrq2Swy_uP6Z7C0Oqp7MrVzd5pZMca3OqLOsKtG6U8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/20v6a3icHcTBboIwAADQL6rUQamYeHASIAwGVlHGhdBCgIzRQgsGPnJ3_8bEd3jP_0YpIfea1jX6pua87qpJViPjvap6tWH8T6uFBEwCqR2_7-1inQn0mB16iY4ISn-dgVsXWGYtRcI2HN8zPunWmX5K3U8ZCU6LYcV21wa4pwXY2fWcO7OKrj4pyhTiVp1Xw8UoJ8mdShNSLzdXdx2Hj8tjyafYzPAJRoPA4XhbSySykBV6NASR_FKumewOjy2EEDTvGehfiGFFTA"
+    },
+    {
+      "position": 19,
+      "title": "Amaro Carpintería",
+      "place_id": "ChIJFfeLsk9oLw0RCPjqo7Oc9W4",
+      "data_id": "0xd2f684fb28bf715:0x6ef59cb3a3eaf808",
+      "data_cid": "7995469008829347848",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f684fb28bf715%3A0x6ef59cb3a3eaf808&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f684fb28bf715%3A0x6ef59cb3a3eaf808&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.4011188,
+        "longitude": -8.805368999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFfeLsk9oLw0RCPjqo7Oc9W4",
+      "provider_id": "/g/11f3x5p_b5",
+      "rating": 2.9,
+      "reviews": 16,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Reformas de baños",
+        "Tienda de armarios",
+        "Interiorista",
+        "Reformas de cocinas",
+        "Reformas"
+      ],
+      "type_id": "furniture_maker",
+      "type_ids": [
+        "furniture_maker",
+        "bathroom_remodeler",
+        "cabinet_store",
+        "interior_designer",
+        "kitchen_remodeler",
+        "remodeler"
+      ],
+      "address": "Rúa dos Cesteiros, 9, 36960 Sanxenxo, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 8:00 (jue)",
+      "hours": "Cerrado · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–16:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "986 72 46 65",
+      "website": "https://www.amarocarpinteria.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Estimaciones online",
+            "Servicios en las instalaciones"
+          ]
+        }
+      ],
+      "service_options": {
+        "estimaciones_online": true,
+        "servicios_en_las_instalaciones": true
+      },
+      "user_review": "\"100% Recomendable, trabajo impecable!!!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QF21b0LPeZFTDNEHw5ML-fBAUuq0_U0gTQQs4yNPkLsut2_XcVLwhzGOxTgvMwWcoajWbnWQJgLd6dcShFs6Pg05AJiWvrEXWHG3Jw22Q5AAJ_JpiDmR9eeD8DQR1WRZUzGceb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RvgWgXicHcTdroIgAADgJyLRjq3auuDMtDEyMY3WjTsSB-xHLDCqF-wZepu2vovv_VLWdmbqeSc1HEit5Un0Rly5bq1o7YDrsyc7A7gBxkMpax4TGgd-DUkmdnERpfOFC5cE_P-isr_AqoSyoNT8PNLsSExvg2rLN8SpZ7K6F_K2dIzrvwOrW0axJPvRnq9VbEaZhCHCDbtd51u2SIbYBQENEcIV7pronE-EiMYRzX2W78pnwkU9cz6EEKjvHLQfJRpD7w"
+    },
+    {
+      "position": 20,
+      "title": "Eusebio Graña Casas",
+      "place_id": "ChIJMeGs5yVuLw0RY7jV9IEe-jw",
+      "data_id": "0xd2f6e25e7ace131:0x3cfa1e81f4d5b863",
+      "data_cid": "4393857929960601699",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f6e25e7ace131%3A0x3cfa1e81f4d5b863&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f6e25e7ace131%3A0x3cfa1e81f4d5b863&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.429755199999995,
+        "longitude": -8.6660884
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJMeGs5yVuLw0RY7jV9IEe-jw",
+      "provider_id": "/g/11xxksj6b",
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "type_id": "metalwork",
+      "type_ids": [
+        "metalwork"
+      ],
+      "address": "Rúa Anafans, 22, 36163 Poio, Pontevedra",
+      "country": "España",
+      "phone": "986 87 21 39",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MiJZ_OMGROnM-MLBp0PGPQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=355.6215&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UfcjXnicHc1RCsIgGADg2_g254pFBRL0Mohkq8dehnOmPzj9mTbrNJ2r2xRd4Ps-b5sSxn1ZxjRrnRbQGeGpXSxQUhOCcVoiRKrCVC5VmexjGrwEd0DpA4xcwOnWt6K5tl4U4nxE1jXdhaihVw60TzxqOStLTf6JcxipwUgy3zJi-W5FXjLzdV3TzaqqCUJSljPyT-5h4RVjXwwzOKo"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4042.4576%2C-8.724423%2C15z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

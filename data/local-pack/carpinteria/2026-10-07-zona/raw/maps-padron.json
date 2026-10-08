@@ -1,0 +1,880 @@
+{
+  "search_metadata": {
+    "id": "6ac646a932a8e365d0ac5f02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PwPpxW-Vqr0AjkWmsebRKeI0VWnyQWbCSIGe26j_CGc/6ac646a932a8e365d0ac5f02.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PwPpxW-Vqr0AjkWmsebRKeI0VWnyQWbCSIGe26j_CGc/6ac646a932a8e365d0ac5f02.md",
+    "created_at": "2026-10-07 13:18:33 UTC",
+    "processed_at": "2026-10-07 13:18:33 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/carpinter%C3%ADa/@42.7386,-8.6603,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/PwPpxW-Vqr0AjkWmsebRKeI0VWnyQWbCSIGe26j_CGc/6ac646a932a8e365d0ac5f02.html",
+    "prettify_html_file": "https://serpapi.com/searches/PwPpxW-Vqr0AjkWmsebRKeI0VWnyQWbCSIGe26j_CGc/6ac646a932a8e365d0ac5f02.prettify",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "carpintería",
+    "ll": "@42.7386,-8.6603,14z",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "carpintería"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Carpintería Tono",
+      "place_id": "ChIJZ0Y5_GwFLw0RIfX_1BCew-4",
+      "data_id": "0xd2f056cfc394667:0xeec39e10d4fff521",
+      "data_cid": "17204768796615636257",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f056cfc394667%3A0xeec39e10d4fff521&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f056cfc394667%3A0xeec39e10d4fff521&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7491379,
+        "longitude": -8.649918699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ0Y5_GwFLw0RIfX_1BCew-4",
+      "provider_id": "/g/11nsvq0_h_",
+      "rating": 5,
+      "reviews": 2,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Lugar de Pedreda, 111, 15917 Padrón, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "600 82 69 06",
+      "website": "http://www.padronvirtual.com/carpinteriatono.htm",
+      "extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwbDhjGNKTLjp45NNUVxZhJefr8wShjqvQ177lWan1oWXl3bp8JsL3k4RK8z8gbTpYhWA2uEx8WhL9pLHPM7aOI3X1Q6_HD-j9tqB9mTL_Gw96ZhOF6raVrwRiwUdCeX8V95j2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/koWNYXicHcRBcoIwFADQE0VAFJLOdKG1lWqKikioGwcw8ptGEklsnF6wZ-htnPEt3v8fWKvNk-dJCAetUq3kV8P7RnWWd3bQqLPXaoMag4w3SbJ1zqSrZyDm6TKnQo_GaborbntY8FOP3RbE5WcTxLFkVRcoVsqw1nhhaPg9ypb4F7d1rj-BTYbX1xtmQImmyfojrlbvYRlsokMyQ4LYy5Scc3qYOxLtYfUW9VXRu-zL7Y4vvMQFGYvhswt830fwuEHdHUyiQ8k"
+    },
+    {
+      "position": 2,
+      "title": "Carpintería Buxaina",
+      "place_id": "ChIJn1MA-DYbLw0R3iggM6HGZf0",
+      "data_id": "0xd2f1b36f800539f:0xfd65c6a1332028de",
+      "data_cid": "18259218659893323998",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1b36f800539f%3A0xfd65c6a1332028de&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1b36f800539f%3A0xfd65c6a1332028de&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7470821,
+        "longitude": -8.6676097
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJn1MA-DYbLw0R3iggM6HGZf0",
+      "provider_id": "/g/11btz10d3r",
+      "rating": 3.9,
+      "reviews": 7,
+      "unclaimed_listing": true,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Aldea Extramundi de Arriba, 191, 15910 Padrón, A Coruña",
+      "country": "España",
+      "phone": "981 81 15 22",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TsrAqFHhQXgqr43q642fhg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=45.579712&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O_ALx3icHc3BDcIgFADQbbgJtLbWmpDGi_Fq4sGbofQXSGih8C26jWu5jcYF3vu8DWJIB8YSRgBcLeRgn-DSJkiqvdcOZLCJKj-xtWBoHlM_S-u6IGdvB3FN8biczuZy00ustsuuKkejiervylmYUSSQURmq80-MfqA6JJLFnhMj2pK8ZBZVTeumbYqSBIvKCE7-y-hXUXD-BXv6OY0"
+    },
+    {
+      "position": 3,
+      "title": "Carpinteria Laiño SL",
+      "place_id": "ChIJy1RaJUcaLw0RPbbe5LqY0M0",
+      "data_id": "0xd2f1a47255a54cb:0xcdd098bae4deb63d",
+      "data_cid": "14830521501402183229",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1a47255a54cb%3A0xcdd098bae4deb63d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1a47255a54cb%3A0xcdd098bae4deb63d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7114617,
+        "longitude": -8.724086
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy1RaJUcaLw0RPbbe5LqY0M0",
+      "provider_id": "/g/1thsbn39",
+      "rating": 5,
+      "reviews": 7,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Ebanista"
+      ],
+      "address": "Aldea Imo, 52, 15981 Imo, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–18:00",
+        "jueves": "8:00–13:00, 15:00–18:00",
+        "viernes": "8:00–13:00, 15:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:00, 15:00–18:00",
+        "martes": "8:00–13:00, 15:00–18:00"
+      },
+      "phone": "981 80 22 14",
+      "website": "http://www.carpinterialaino.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8G5h9aEKCM_8Hw1REE4enqHwUw0Zvrd90uJ6rkoWVgFRC4QbpPvmabYW8dIbSZrubHJAHlYH0v0JblDct1EzF68zoXPGWcyZiU52yWWXJsOiEWQo9mw1mxNLegscnZEJN4tjL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FHfDPXicHcRRToMwAADQEzGKYwRM_Fi2slpxMuZW4MfQrikobZEWuu2CnsHbmPg-3u9Pa-1gHn2_b5cLobXo-WT4yLSyXNkF09IXg_GY8Yy_RkX-TmS8W7VJA182rx8xckEBYcjVN3InB-p5vCRgwtH4pclZpMUmPNAhn2VDKxJfnumxHieK8Br1FQIzwLTfMhvAexrFd13mO8JudXdaPdwIKbF56yA56ES6QF73GReGqRrifWg_sycXAAC89n_mqT86zkTP"
+    },
+    {
+      "position": 4,
+      "title": "Carpintería Bentrón",
+      "place_id": "ChIJmTJP0yoFLw0RiPa_TOy8tsI",
+      "data_id": "0xd2f052ad34f3299:0xc2b6bcec4cbff688",
+      "data_cid": "14030609412205311624",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f052ad34f3299%3A0xc2b6bcec4cbff688&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f052ad34f3299%3A0xc2b6bcec4cbff688&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7519754,
+        "longitude": -8.6528701
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmTJP0yoFLw0RiPa_TOy8tsI",
+      "provider_id": "/g/1vjdrbsl",
+      "rating": 4.2,
+      "reviews": 21,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Tienda de armarios",
+        "Fábrica de puertas",
+        "Reformas de cocinas",
+        "Empresa de instalación de escaleras"
+      ],
+      "address": "N-550a, Km 81, 15917 Padrón, A Coruña",
+      "country": "España",
+      "open_state": "Abre pronto · 15:30",
+      "hours": "Abre pronto · 15:30",
+      "operating_hours": {
+        "miércoles": "9:30–13:00, 15:30–20:00",
+        "jueves": "9:30–13:00, 15:30–20:00",
+        "viernes": "9:30–13:00, 15:30–20:00",
+        "sábado": "10:30–13:00",
+        "domingo": "Cerrado",
+        "lunes": "9:30–13:00, 15:30–20:00",
+        "martes": "9:30–13:00, 15:30–20:00"
+      },
+      "phone": "981 81 24 31",
+      "website": "http://www.bentron.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmh5E-fQy_VJlr0tf0q9ZW1MJR4A9uWW-8YRuAJj8wvVD7IkzOqDpqqHqe-flBOkUw3xBtTgCSE-LDwKzN8wxp8Mlg2dJ9HIaRNKrVPGC1bWP4puiMlXDDQpfdHU9DuJoQU7fJT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wzpeMnicHcRRboIwAADQE1XKdBGW7AOtEetQQKC6H6NIi7PSlrarekHP4G2W7H2817M1RuoPz-PtcMCEYLyxuulr0ZmmM4NaXD0mNag10F4U52lBru37DNDsvq8w76GhUIXfxE9wPopCSwgIdrmN8E_gfis0Xlwea4WkUrFqAOWT9aV0w9vEFGy6mYEv5JaPVeBuMkg4ezvhMF4c8tWyr9L51D-SdCTtOeFbhDJJT3EZIotFVo4pLj6dDyEE7f816P4AKflEDA"
+    },
+    {
+      "position": 5,
+      "title": "Mbusto",
+      "place_id": "ChIJ8-w5Ff0bLw0RR4yUp8guN8c",
+      "data_id": "0xd2f1bfd1539ecf3:0xc7372ec8a7948c47",
+      "data_cid": "14354993776606612551",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1bfd1539ecf3%3A0xc7372ec8a7948c47&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1bfd1539ecf3%3A0xc7372ec8a7948c47&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.709111799999995,
+        "longitude": -8.667461
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8-w5Ff0bLw0RR4yUp8guN8c",
+      "provider_id": "/g/11zh2wjb8p",
+      "rating": 5,
+      "reviews": 9,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "Campaña-Coto 4-5, 36645 Valga, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 17:00",
+      "hours": "Abierto · Cierre: 17:00",
+      "operating_hours": {
+        "miércoles": "9:00–17:00",
+        "jueves": "9:00–17:00",
+        "viernes": "9:00–17:00",
+        "sábado": "9:00–14:00",
+        "domingo": "Cerrado",
+        "lunes": "9:00–17:00",
+        "martes": "9:00–17:00"
+      },
+      "phone": "679 18 11 28",
+      "website": "https://www.mbusto.es/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNoJxm7CVVcfuaFq7BqfrmkvieNsk6tUdpCPnVJzQ5lI5KnxQd8119_LiUdyd_pB376sD8jiKW7C84n4hdDL9Xs3tnMGrbY6OgjChI4T1P3EVFzowaFfROzj1AWIgF9tnrKGmUuqKxYdax=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ht25fHicHcRJDoIwAADAFyE0IIuJB0VRxAWJgJ4MttCytUCLIp_07G9MnMN8P0SIhs9kuSLqBDOGq7TnaQcZFSkVE8hqGTdcglzi8mIb-Je4PLLdUBt2FMGsT5zWWLZZV5fPPD3yUhchamyfRrvxPK3cqUeHMzIBsO77PERvdG-WqqHzlVnkXmzYpkY1glZ768pVQQ-b7nHTT7iwiatdgK-uI2dkr8TJgtNYgEXsYscStPM2ddi33nBDyTB_AUVRJPIfSvQH8GpIDQ"
+    },
+    {
+      "position": 6,
+      "title": "Carpintería Metálica EIRAS / Aluminio, Inox y Hierro",
+      "place_id": "ChIJnXL2TwApLw0Ro7Cm-hQ5pX4",
+      "data_id": "0xd2f29004ff6729d:0x7ea53914faa6b0a3",
+      "data_cid": "9125762982203535523",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f29004ff6729d%3A0x7ea53914faa6b0a3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f29004ff6729d%3A0x7ea53914faa6b0a3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7091637,
+        "longitude": -8.657170599999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJnXL2TwApLw0Ro7Cm-hQ5pX4",
+      "provider_id": "/g/1q5bngmyf",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Herrero",
+        "Proveedor de puertas para garaje",
+        "Cerrajería",
+        "Empresa de construcciones metálicas",
+        "Taller de metalurgia",
+        "Soldador"
+      ],
+      "address": "Polígono de Baño, s/n, 36640 Pontecesures, Pontevedra",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 7:00 (jue)",
+      "hours": "Cerrado · Apertura: 7:00 (jue)",
+      "operating_hours": {
+        "miércoles": "7:00–15:00",
+        "jueves": "7:00–15:00",
+        "viernes": "7:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:00–15:00",
+        "martes": "7:00–15:00"
+      },
+      "phone": "886 29 86 66",
+      "website": "https://eirass.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmo0axgAmANwtZWrBdHod4VZxvPu5uEji-tkfLNnMluFeJ3HdQ3Nt4fLnF2Qh28t7BrbLS2pGkFV90kPo5zHdkyvKl2DygGQeo_4W-hyQUfnzlCpETsSu9WoGIaqBshOjD2ECpXhQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p6j823icHcRNcoIwGADQE0ViwGntTBeg_LSllKiVjpuOhZAoIV9KEhVv6BF6G2f6Fu_vJqzV5snzpPAnHIBL5gwbalCWKTupofe4Nqg2yHhhtio3VQ94f-FhHxZnu6uGqMmgCba7y6l0MxcfD8h2bV6od-kS9upnDfULG7S5SggV5NE-RMNPviY67ZLtHHclzK5Z042nN0mWI08pg--gQmKkn626yoWON2bt5hWkL_vfyIiP45LEC_0l6PN5ijFG4v8aqTtaKUZm"
+    },
+    {
+      "position": 7,
+      "title": "Aluminios Dopazo",
+      "place_id": "ChIJXYcNpkcbLw0RgNjGtOOKnyY",
+      "data_id": "0xd2f1b47a60d875d:0x269f8ae3b4c6d880",
+      "data_cid": "2783095805333395584",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1b47a60d875d%3A0x269f8ae3b4c6d880&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1b47a60d875d%3A0x269f8ae3b4c6d880&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7510918,
+        "longitude": -8.6737097
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJXYcNpkcbLw0RgNjGtOOKnyY",
+      "provider_id": "/g/11btyqrm0p",
+      "rating": 3.3,
+      "reviews": 4,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Ventana de aluminio",
+        "Fábrica de puertas",
+        "Taller de instalación de puertas y ventanas",
+        "Proveedor de ventanas PVC",
+        "Servicio de instalación de ventanas"
+      ],
+      "address": "Vilar, 100, Carretera Padrón-Noia, Km 1, 700, 15910 Extramundi de Abaixo, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:15",
+      "hours": "Abierto · Cierre: 18:15",
+      "operating_hours": {
+        "miércoles": "8:00–13:00, 15:00–18:15",
+        "jueves": "8:00–13:00, 15:00–18:15",
+        "viernes": "8:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "8:00–13:00, 15:00–18:15"
+      },
+      "phone": "981 81 05 19",
+      "website": "https://www.dopazoaluminios.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvowJ2dduzUD77QO2UKFF1sXKAZvTFWaHhGyEY-FPddFpS2yu5sJiDyNqRvI3rkA86IrPCFE6UompJQ0YOnw100m8u2YediANaYlSGyGMetHUaMyS00MFyhgsTBnWizRnnt3-M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MxW8h3icHctJDoIwAADAF1UqRCAmHnApi0FZg3gjtKFEaJEWTPmgb_A3Ri9zm8-bSjmIraZ11Fg1nDcdmQQZa84kYXJV815rBgFqAYTmeEmUFf3MX4GO8bTkR8uKr3p-RmgtbmfnPmeoqDzqqlMJUIQxGlJdTRsRtEd1eSazb4wPxzb9MTqgk5nzfghiWF7Zaw1hb096SXDrXKqyS13lhkR6eRWqFMIQKdqIbM-KdkkYkwYId78DAf1bA_YFO69EZw"
+    },
+    {
+      "position": 8,
+      "title": "Carpintaría Paradela",
+      "place_id": "ChIJXaZFL1sELw0RCVob8TBHkvc",
+      "data_id": "0xd2f045b2f45a65d:0xf7924730f11b5a09",
+      "data_cid": "17839399349497059849",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f045b2f45a65d%3A0xf7924730f11b5a09&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f045b2f45a65d%3A0xf7924730f11b5a09&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.747327,
+        "longitude": -8.605706
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJXaZFL1sELw0RCVob8TBHkvc",
+      "provider_id": "/g/1v_w3n0z",
+      "rating": 2.3,
+      "reviews": 3,
+      "type": "Carpintero",
+      "types": [
+        "Carpintero",
+        "Servicio de restauración de edificios",
+        "Fábrica de puertas",
+        "Fábrica de muebles",
+        "Servicio de instalación de suelos de madera"
+      ],
+      "address": "Xuane - Carcacia, 15914 Padrón",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "981 81 05 30",
+      "website": "http://www.carpinteriaparadela.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgdOEz4tEcNkM8l-HDKx4B3Anc5mtV2BUIClYciBOHUSfixVWUvqt3HWk2CTKjllMcjGDze_kctjo7gGPvrL5bxCU2OL7VZ3n_i60TA8xuSfQ1QUm3RK-dkeO3ShfX0XvCRsoEAg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tJ01_nicHcRNjoIwGADQE1UqFTWTzAKQiEFFgYK6IfGzlJ_SOrYyxBt6hLnNJL7F-3vXxtz1l2WJmky4Ulywp2YPUNIwaSageovfNQKNtOWGySEren6Lg9fMBLDvdkuBwlU0zjziSnB6k9se3fjiDI0XhzStmjEv6PBjSFh0tp9FrRA7aNerFys7MK1a8PVheGyd6-hTO94u8guRZTPHmbscn2l1nB5pT5II3ToWk7SuTvg0-IlWgcu_f6cYY1R_BiT_AdxJRQY"
+    },
+    {
+      "position": 9,
+      "title": "García",
+      "place_id": "ChIJ84RH3DMFLw0REqf3BczFLoM",
+      "data_id": "0xd2f0533dc4784f3:0x832ec5cc05f7a712",
+      "data_cid": "9452710147961366290",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f0533dc4784f3%3A0x832ec5cc05f7a712&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f0533dc4784f3%3A0x832ec5cc05f7a712&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.718055299999996,
+        "longitude": -8.6542136
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ84RH3DMFLw0REqf3BczFLoM",
+      "provider_id": "/g/11btm9_9cg",
+      "rating": 3.8,
+      "reviews": 5,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Rúa Carlos Maside, 57, 36640 Pontecesures, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "9:00–19:00",
+        "jueves": "9:00–19:00",
+        "viernes": "9:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–19:00",
+        "martes": "9:00–19:00"
+      },
+      "phone": "986 55 66 73",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZlTsxKRqOh7F4WWtwx06Xl5Eu4e1epzzsLjb9nJl_EoJqXBST8p1yZAT52u6dM8iJoTxR6ACswqwefIBnUyWBomrgAlgM93q7Nc0tGV-VGgiiGdy0paGDfC5zCUBQ99Vfnwis=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xZfhx3icHcRRboIwGADgE1XKFJQlPgBTFHVTVsD4smy1FExti39JgQt6ht1myb6H7_dZG6Ph1XFEPZ1wpbhgHbAHVdIwaSZU3R2uAVFA4ISb7EhKeREE-l3WftTz9awsje2xfxbeqpsxl-lxhP3tJ5Cp-FqptD1Hn2Sh3eESEu-l86-HRZMq0md-GINtLau2kcyHMlL3Bw8FPwTTdv5OsUkKVCS8aZLrgPV38lbF3hjn0SkIikraBpbWxRij-n-K5B-4lUVt"
+    },
+    {
+      "position": 10,
+      "title": "Coalpa",
+      "place_id": "ChIJKwkEyNQELw0RPi-rqtwQ3dY",
+      "data_id": "0xd2f04d4c804092b:0xd6dd10dcaaab2f3e",
+      "data_cid": "15482549633911828286",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f04d4c804092b%3A0xd6dd10dcaaab2f3e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f04d4c804092b%3A0xd6dd10dcaaab2f3e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.734415399999996,
+        "longitude": -8.659245799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJKwkEyNQELw0RPi-rqtwQ3dY",
+      "provider_id": "/g/11bzzzdhck",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Av. de Compostela, 21, 15900 Padrón, A Coruña",
+      "country": "España",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OZDVnuelJ91o_8IIRHVPIQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=84.34411&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YA0ivXicHc27DoIwFIDht-lmL8oAJo2Lg7h4GRhcSCnH9iSlbWgBfRqfy7eRuP3T938_NueY9oylPALkGWGJ-AKXNlFRE4JxoCImqsPAZsGynYbOK3SHqHzAXl4ex8ZP4M6VCG1Z1_dTc61vRHetdgg-ywRq1JaaZRXH0FMTE1lkyYmV1Za81doF3RWFECRi1lZy8p88wywF5z8jtjjt"
+    },
+    {
+      "position": 11,
+      "title": "Muebles vilela",
+      "place_id": "ChIJEwl4FSsbLw0RZ1nYNwCNWNM",
+      "data_id": "0xd2f1b2b15780913:0xd3588d0037d85967",
+      "data_cid": "15229077172029774183",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f1b2b15780913%3A0xd3588d0037d85967&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f1b2b15780913%3A0xd3588d0037d85967&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7340272,
+        "longitude": -8.661510999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJEwl4FSsbLw0RZ1nYNwCNWNM",
+      "provider_id": "/g/11cj_thq40",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería"
+      ],
+      "address": "de la feria nº 17, Rúa Travesía Campo da Feira, 15910 Padrón, A Coruña",
+      "country": "España",
+      "phone": "664 80 03 04",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkEtK3mIMm8QSwceCQSaX2hwla4ErO9FQDq1rLU1fdR47zDK7-9NbETEKzOowISfBi61f2tJfkMo9dz3KZ3nQoRSp4NX1UNfa_iAIgXVvgMNiZk_VjGU4xg9anszCmc5LgR_gc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HNng4HicHcRdEkJAAADgE21s9KOZHgqVRCEyXow2u4Rd2S2NA3aHbtNM38P3_RRCtHwhSXWhjAhjpM6fPO8QoyKnYoRYI5GWA8QBl1Y7_3S-VKawlcZymrkX9CjXvSCLx0VfZ6rZHbWNZzxgdwghvvnqbDDsGdDcq3k27eHIeivA63IK8VjsceUw7TYodqJQj_lBq7oxDF2cpeXKInH0Io5bJlUa3beh-iZaRvmgN2hyIH5K0LKHsiyD4j8C9AfMhEQG"
+    },
+    {
+      "position": 12,
+      "title": "Soluciones Metalicas Jamardo S.L.",
+      "place_id": "ChIJU9W4TTgFLw0RO9WaE8QalLU",
+      "data_id": "0xd2f05384db8d553:0xb5941ac4139ad53b",
+      "data_cid": "13084112246862959931",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f05384db8d553%3A0xb5941ac4139ad53b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f05384db8d553%3A0xb5941ac4139ad53b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7148213,
+        "longitude": -8.6471222
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJU9W4TTgFLw0RO9WaE8QalLU",
+      "provider_id": "/g/1tnmt003",
+      "rating": 4.7,
+      "reviews": 9,
+      "type": "Fábrica",
+      "types": [
+        "Fábrica"
+      ],
+      "address": "Rúa do Ensanche, 19, 36640 Carreiras, Pontevedra",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "9:00–18:00",
+        "jueves": "9:00–18:00",
+        "viernes": "9:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:00–18:00",
+        "martes": "9:00–18:00"
+      },
+      "phone": "986 55 75 76",
+      "website": "https://www.smjamardo.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQEkDjU70ygaeJ90KaPs0hfjYM-rqtdr44cMcBmtIyYyCrqjqTtmpcv5J394ckrT8S33V6pxCoiRV30J54R_vb319RB9NRQz9qTVqfGGL02byJe4uzaHAgE7WgDjaNj9fu68e4iqxfQWhB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AFrTWHicHcRLjoIwAADQE1XqtH46iQtRo-InUhmIqwl2SmsFSj-oeEnX3sZk3uK9X9L7xn0HQSlRT2gtSt46bpmuPa99j-kqEI0DzAEXTFf0kGRlvLjO1c8IdiLnEYGb_OCgLNRpB6zxfxZjtmNh5dfdqZtZo0ziq4bdBhEimF1tMj4ilA6bx0xfaIpgNMD093ZGfUJDsqfxk5gkNcVyuYVf5y7iuH3mq6lYjDIxV_lekaIdjjm-mEcRZzKc3PsQQiD_Z6D-AJanRvY"
+    },
+    {
+      "position": 13,
+      "title": "abraite",
+      "place_id": "ChIJr-LLwEBSQS8R4TxOpCD43DU",
+      "data_id": "0x2f415240c0cbe2af:0x35dcf820a44e3ce1",
+      "data_cid": "3881249797965757665",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x2f415240c0cbe2af%3A0x35dcf820a44e3ce1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x2f415240c0cbe2af%3A0x35dcf820a44e3ce1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.720656299999995,
+        "longitude": -8.706462199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJr-LLwEBSQS8R4TxOpCD43DU",
+      "provider_id": "/g/11s1tvzfn8",
+      "rating": 5,
+      "reviews": 9,
+      "type": "Carpintería",
+      "types": [
+        "Carpintería",
+        "Interiorista",
+        "Reformas"
+      ],
+      "address": "15981 Eiró, A Coruña",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 9:30 (jue)",
+      "hours": "Cerrado · Apertura: 9:30 (jue)",
+      "operating_hours": {
+        "miércoles": "9:30–14:30",
+        "jueves": "9:30–14:30",
+        "viernes": "9:30–14:30",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "9:30–14:15",
+        "martes": "9:30–14:30"
+      },
+      "phone": "644 21 39 75",
+      "website": "http://www.abraite.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Aseo adaptado para sillas de ruedas",
+            "Asientos adaptados sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0vyHOnOjIgDqrnEFtjsYHqKgl9Bx00M-ljdvni17rXfmbSV8MZ6NqFRRZXmEq1CObqKU6n8eMDVmD1SOWo1epIjfNNevPUDxZFErf9YcLaBohqKBYG5vf7ul_sWdaJTG7jtdl3w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZIkxk3icHcTbboIwAADQL6q0MRM12cMYIA4BgxeElwVKKTa9UFrRfaKf4N-Y7Dyc17O3djBrx-H9fEaVopzcDBmxkpZIO8NKOHQwABtgnK8o3x8LAae_KJMZ21JfjzIILTNlpGPKV94DwgRw1k7yitzx0onmcF4m1SLVYZ5XFxFo9J01Oj4t5JIk_ln46JAVCpFhy7o0JdP-5D-qMBi7VYl3tad6HXvl5mPq3Bv_NUVb_xw3LrMtn98_7whCCPr_MZBvOg9GMA"
+    },
+    {
+      "position": 14,
+      "title": "Aluminios Sefer S.L.",
+      "place_id": "ChIJSyjoGy0FLw0RrqerWwQw2Y8",
+      "data_id": "0xd2f052d1be8284b:0x8fd930045baba7ae",
+      "data_cid": "10365368812645885870",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f052d1be8284b%3A0x8fd930045baba7ae&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f052d1be8284b%3A0x8fd930045baba7ae&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.722485999999996,
+        "longitude": -8.658526
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJSyjoGy0FLw0RrqerWwQw2Y8",
+      "provider_id": "/g/12vt5p6xf",
+      "rating": 4,
+      "reviews": 5,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio",
+        "Fábrica de maquinaria"
+      ],
+      "address": "Aldea Paraíso, 6, 15917 Padrón, A Coruña",
+      "country": "España",
+      "open_state": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "hours": "Cierra pronto · 16:00 · Apertura: 8:00 (jue)",
+      "operating_hours": {
+        "miércoles": "8:00–16:00",
+        "jueves": "8:00–16:00",
+        "viernes": "8:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–16:00",
+        "martes": "8:00–16:00"
+      },
+      "phone": "981 81 15 30",
+      "website": "http://www.alusefer.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTImdbXMYUwF27FtQ_21dPb_iAe7ofrdaDkosOlB8It6NhBgEcXE2aDvnxhamLUkUMPXjNkR-M9ODqcqNC_3o_VWaLV2p8Jryb3UWkMYoetYoX_T7sLWxCksIl6oeDBfM_7_oX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HbV5C3icHcRLDoIwFADAE1UQEkETFyIaMRTRgJRVA6VQLfCQ1t8JPYO3MXEW8_0IrQe1MIxW2JMGoGn5XfGRQa95rycMOqMZFGIKKWO1O8VJ1iVBV5UE5-lzazlbfaTWtIpLellxB-qxKnwJ6tB6bqBnkfCaDSMbq_Af_UsUXZjKFMfkGskTwvODf2O3aE1toOesCM_W4O7Hd2mnmcQ5cJ0DoYmjwuy1lipoZ8B9r8bUoUCWz6lpmkj8Z6j_AZUkRXk"
+    },
+    {
+      "position": 15,
+      "title": "Montajes Metálicos Pan Añon S.L",
+      "place_id": "ChIJM44ryiIDLw0R2g8vKbFo2dk",
+      "data_id": "0xd2f0322ca2b8e33:0xd9d968b1292f0fda",
+      "data_cid": "15697693086286024666",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f0322ca2b8e33%3A0xd9d968b1292f0fda&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f0322ca2b8e33%3A0xd9d968b1292f0fda&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7597236,
+        "longitude": -8.658847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJM44ryiIDLw0R2g8vKbFo2dk",
+      "provider_id": "/g/1tfs2byc",
+      "rating": 3.7,
+      "reviews": 22,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Polígono de Pazos.15917, Rua Circular Oeste, 76, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 18:00",
+      "hours": "Abierto · Cierre: 18:00",
+      "operating_hours": {
+        "miércoles": "8:00–13:30, 15:00–18:00",
+        "jueves": "8:00–13:30, 15:00–18:00",
+        "viernes": "8:00–13:30, 15:00–18:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "8:00–13:30, 15:00–18:00",
+        "martes": "8:00–13:30, 15:00–18:00"
+      },
+      "phone": "981 80 36 78",
+      "website": "http://www.montajespan.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTIj1p_RuXfM8BNoPqv2Z7BiW49gGIlohbF9wkVIPGXKgWvz41sLGQ_gKkS89F4z8I8GsTSA3YvDsYgxeYguNRwIJbTUAbmX2OHK_Ano9-gdvs9G4v5dr4DN2OtuYH0PIpPp7p=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EmyBzHicHcTdboIwGADQJ6r82EW6ZBcYY-lwWJEN2A0JyD4mSDu_UhZfcM_g25jsXJz7X2eMxmfHGbrlApSCoZ2wvTZqNO1oFo26OKCRNEjQCaNUZnmfibOnq3Qqvt6CdaLkj_U_V-vvnDLgYlBdvWVz_yEkL2LI7Y16uOOHCuL-GLAtvQUi4Jgdw2VpN1jCb1vClKSzeK2z97C-FP4-iqtwVIzAySLj1D6drnST-HszlZErhZZ6pV9mz3Vd0v3fkPEBN29ECA"
+    },
+    {
+      "position": 16,
+      "title": "Hermanos Tubío, S.L.",
+      "place_id": "ChIJUcCorNkELw0RxXXv_tLaORc",
+      "data_id": "0xd2f04d9aca8c051:0x1739dad2feef75c5",
+      "data_cid": "1673609336299943365",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f04d9aca8c051%3A0x1739dad2feef75c5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f04d9aca8c051%3A0x1739dad2feef75c5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.734417799999996,
+        "longitude": -8.6465473
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJUcCorNkELw0RxXXv_tLaORc",
+      "provider_id": "/g/1tkc3d79",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Herbón, S/N, 15915 Santa Cruz, A Coruña",
+      "country": "España",
+      "open_state": "Abierto · Cierre: 19:00",
+      "hours": "Abierto · Cierre: 19:00",
+      "operating_hours": {
+        "miércoles": "7:00–19:00",
+        "jueves": "7:00–19:00",
+        "viernes": "7:00–19:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:00–19:00",
+        "martes": "7:00–19:00"
+      },
+      "phone": "981 81 07 55",
+      "website": "https://hermanostubio.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmljLUuLjqIb9-74ydbgW91qqv8lLlE9YGN_Inq7bertAwIJyG1gwpJnVeXi2h_cS9u8PTT-872POHxwX7U6sHQL24El-Da8l2QH2hhhBm83trgaGpLF_L-i6Er_c8z8AlgE1K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aXbWEHicHcRdDoIgAADgE5FKTrGtB1umFisrS3tySgxqiD9gVhfsDN2mre_h-3641q2aGYbg0wlrGibooGhPGqmp1BPS1AZrFSAKKMOPDkma1bW449OA711cecC1X9eKZZ7VdQ8ksAi8S7gtYtm5Fe21P8brV2ixsV3LM81vkBfk6A0oSVOAXJjsoueYuydHRXsM7UCAZYkE3EeQc76o0VT3rAxbvCowuDlBXxD0Rr5ggbWZj5ZpmoD_J0D-AE9uQ5o"
+    },
+    {
+      "position": 17,
+      "title": "Desigual Artesanía",
+      "place_id": "ChIJqfeSExsCLw0RMHqXnTBrhM4",
+      "data_id": "0xd2f021b1392f7a9:0xce846b309d977a30",
+      "data_cid": "14881136925285513776",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f021b1392f7a9%3A0xce846b309d977a30&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f021b1392f7a9%3A0xce846b309d977a30&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7506349,
+        "longitude": -8.607852399999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJqfeSExsCLw0RMHqXnTBrhM4",
+      "provider_id": "/g/11b6dm0p78",
+      "rating": 4.4,
+      "reviews": 7,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Lugar de Xoane, 296, 15914, A Coruña",
+      "country": "España",
+      "open_state": "Abierto 24 horas",
+      "hours": "Abierto 24 horas",
+      "operating_hours": {
+        "miércoles": "Abierto 24 horas",
+        "jueves": "Abierto 24 horas",
+        "viernes": "Abierto 24 horas",
+        "sábado": "Abierto 24 horas",
+        "domingo": "Cerrado",
+        "lunes": "Abierto 24 horas",
+        "martes": "Abierto 24 horas"
+      },
+      "phone": "649 85 17 90",
+      "website": "http://www.artesaniadesigual.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3y2INTYcKlWISHhAatpjTP7J9UmI1hp0JVgjHvHWjI7cfIxMjb_zmtdItNDMNiyUMQwNNRN1Y-lrbkHuEhshnXRygmJMRyG5_WU10rdJQhnx0aEwhHgrPVWruGUOjLVUI7K4l=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LfEpY3icHcRRboIwGADgE1XK1JAt2YOJxhalQ0apPhmt2N-uFNKWIbvgzuBtTPwevsc_hND5jygyMJ2otlWm7n3tZGtDbcNEtk2kOo-kRz5akCIvhZmOb5SVB7kxgn4TWJxCp8s8Sd95Q2PocFopTX6J0DSRV3rP9Pn414QLDWyZsdvIs93AWMHiAzLu_EP6FXiw-2JUTZoV43p-FDzG7pLuwN7xaTUAUS6vhOvX_EtvK06Tzcx8DjHGGMFriewTqa9Fqg"
+    },
+    {
+      "position": 18,
+      "title": "Hermetica",
+      "place_id": "ChIJsVI4i5UFLw0RcOaqjyBOwlU",
+      "data_id": "0xd2f05958b3852b1:0x55c24e208faae670",
+      "data_cid": "6179587540462003824",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f05958b3852b1%3A0x55c24e208faae670&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f05958b3852b1%3A0x55c24e208faae670&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7145738,
+        "longitude": -8.651673299999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJsVI4i5UFLw0RcOaqjyBOwlU",
+      "provider_id": "/g/11g0h_dxvs",
+      "unclaimed_listing": true,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "REDONDO 26 BAJO H, 36640 Pontecesures, Pontevedra",
+      "country": "España",
+      "phone": "619 98 68 53",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XhUZJ4UFZoI9SFDB0aY-fw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=292.954&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4yZMiXicHc1RCsIgGADg2_g2dWNBBhJEDOo1BrWXcM6p4Pb_TJt1me7VbYou8H2ft0sJ446xmBZj0upNRv80IRaoqAWwwSj0kWqY2Fqy5B5TPysf9qhm8IO8urY7123TwUlcmuOBq1sxZqL7uw7ezElGoxbtqM0_cYGBWowkyy0nToqKvFSWlaio2NQEfdJOcvI_RlhlyfkX2VI4iw"
+    },
+    {
+      "position": 19,
+      "title": "Curvados Anros S.L.",
+      "place_id": "ChIJid4vshoFLw0Redjk3Jkaifc",
+      "data_id": "0xd2f051ab22fde89:0xf7891a99dce4d879",
+      "data_cid": "17836817047315863673",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f051ab22fde89%3A0xf7891a99dce4d879&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f051ab22fde89%3A0xf7891a99dce4d879&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.7233695,
+        "longitude": -8.6579721
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJid4vshoFLw0Redjk3Jkaifc",
+      "provider_id": "/g/11xm452kjs",
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "Paraiso, 15900 Padrón, A Coruña",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 6:00 (jue)",
+      "hours": "Cerrado · Apertura: 6:00 (jue)",
+      "operating_hours": {
+        "miércoles": "6:00–14:00",
+        "jueves": "6:00–14:00",
+        "viernes": "6:00–14:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado",
+        "martes": "6:00–14:00"
+      },
+      "phone": "620 98 40 14",
+      "website": "https://www.curvadosanros.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRFQJdXu13mxCPua5mMZTzeXu7coil1TRZPOKOfu4Xe3Wd16A18nlBrmkvD850lbRH3FTliNobU7mw1VRfigemLZ4dhbME8R_yJZK4zS5rK5UnQ6Bj4-PxxmIT7hQSmqhkmGaT9Jd_Mx4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/P283YHicHcTBToMwGADgJ-qgoQw08bCpc4I46DpHuCyjdBTp305KHdtDevdtTPwO3--PHMezvfc8JYNZa0yrhLNi4EaPQo8zbsBrzxZxi6y3WNOc7Xu6KpKmdDiA6TF3xxCyit1E6SJuOoUZrfJNujk5Uopg3-D5AsdaLQfov5_i0Fc1XQcrprp3U-8iuOAPeupaAW8VaWSdPcf0cE2qlNy24ZCGO13Ml58E5dMEryySxRa-ZA8vR3aXNIdsIg8X7Ps-kv9zpP8ARYJGxw"
+    },
+    {
+      "position": 20,
+      "title": "Palemi Social Factoría Manual S.L.",
+      "place_id": "ChIJjVgR_FEFLw0Rzq-STo-pysA",
+      "data_id": "0xd2f0551fc11588d:0xc0caa98f4e92afce",
+      "data_cid": "13892102433541369806",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f0551fc11588d%3A0xc0caa98f4e92afce&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xd2f0551fc11588d%3A0xc0caa98f4e92afce&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": 42.757036299999996,
+        "longitude": -8.6556258
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjVgR_FEFLw0Rzq-STo-pysA",
+      "provider_id": "/g/11lthmtp8n",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Carpintería metálica y de aluminio",
+      "types": [
+        "Carpintería metálica y de aluminio"
+      ],
+      "address": "parque empresarial de pazos, 15917 Padrón, A Coruña",
+      "country": "España",
+      "open_state": "Cerrado · Apertura: 7:00 (jue)",
+      "hours": "Cerrado · Apertura: 7:00 (jue)",
+      "operating_hours": {
+        "miércoles": "7:00–15:00",
+        "jueves": "7:00–15:00",
+        "viernes": "7:00–15:00",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado",
+        "lunes": "7:00–15:00",
+        "martes": "7:00–15:00"
+      },
+      "phone": "693 61 61 09",
+      "website": "https://palemi.es/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Acceso para sillas de ruedas",
+            "Aparcamiento adaptado para sillas de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC0WiLzCEoy7T__g6P-9WtA7-_X2yUapfBpfdPDXdqiJ1jjR5aOAGX-sEa-qfp6BYi8OLrLc8tuLNCVDkT-NIRk9dgeik6guSUwq1In_B5l8CspFRfcnp91yCEQRqbiGdgWvqi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PvwHnHicHcRbjoIwFADQFV0BjQiT-AGV8RGiWHFgvghToFSYPmzR4AZdg7sx8Xyc17M1Ruovy-rb2YQKQft60PWVCG5qbiZE_FtUaiAatBVscJJmPbIzFj9QJMZFWhTUTcDPTLCAIp-O51I2oWyqZJVXiu2cywXPy0OwzkFHJahGuuEv8w7xNSaeGeI9-ll1Key3uPMrWrPOpcPpfFfOlhfhvPeQlt-4IVz6zoiiI1Z_bF3R7KbY8u7Ytg3tZwL8DSi0RKA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=es&google_domain=google.es&hl=es&ll=%4042.7386%2C-8.6603%2C14z&q=carpinter%C3%ADa&start=20&type=search"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "domain": "grupoarta.com",
+  "website": "http://www.grupoarta.com/",
+  "business": "GRUPO ARTA",
+  "cells_top": 7,
+  "solv_pct": 10.9,
+  "pages_analyzed": [
+    "https://grupoarta.com/",
+    "https://grupoarta.com/pages/proyectos"
+  ],
+  "cms": "Shopify",
+  "lang": "es",
+  "title": "Mobiliario y Proyectos . Carpintería integral – Grupo Arta",
+  "meta_description": "Carpintería, cocinas y mobiliario personalizado a medida",
+  "h1_text": null,
+  "rendered_with_js": false,
+  "h1_count": 0,
+  "h1_keyword_match": false,
+  "title_has_location": false,
+  "h1_has_location": false,
+  "h2_count": 4,
+  "headings": {
+    "https://grupoarta.com/": {
+      "h1": [],
+      "h2": [
+        "Recién agregado a tu carrito de compra",
+        "DEL PLANO A LA INSTALACIÓN",
+        "ALGUNAS DE NUESTRAS MARCAS",
+        "Ubicación"
+      ],
+      "h3": [
+        "CARPINTERÍA Y MOBILIARIO A MEDIDA",
+        "CONTACTA CON NOSOTROS AQUÍ",
+        "01 — DESARROLLO TÉCNICO",
+        "02 — FABRICACIÓN PROPIA",
+        "03 — ACABADOS",
+        "04 — INSTALACIÓN",
+        "SHOWROOM - OFICINA TÉCNICA"
+      ]
+    },
+    "https://grupoarta.com/pages/proyectos": {
+      "h1": [
+        "PROYECTOS"
+      ],
+      "h2": [
+        "Recién agregado a tu carrito de compra"
+      ],
+      "h3": []
+    }
+  },
+  "schema_types": [
+    "Organization",
+    "SearchAction",
+    "WebSite"
+  ],
+  "has_localbusiness_schema": false,
+  "has_organization_schema": true,
+  "has_faq_schema": false,
+  "has_service_schema": false,
+  "has_breadcrumb_schema": false,
+  "has_review_schema": false,
+  "schema_completeness_pct": 31,
+  "schema_invalid_blocks": 0,
+  "n_services_listed": 1,
+  "service_headings": [
+    "CARPINTERÍA Y MOBILIARIO A MEDIDA"
+  ],
+  "has_hero": false,
+  "has_reviews_block": false,
+  "has_faq_block": true,
+  "has_gallery": true,
+  "floating_whatsapp": false,
+  "nap_in_footer": false,
+  "phone_on_page": true,
+  "has_map_embed": false,
+  "faq_count": 0,
+  "trust_signals": [],
+  "tel_links": 0,
+  "whatsapp_links": 0,
+  "has_form": true,
+  "first_cta": "arriba",
+  "internal_links_count": 25,
+  "external_links_count": 8,
+  "internal_by_category": {
+    "otros": 24,
+    "contacto": 1
+  },
+  "pillar_map": [
+    "/",
+    "/cart",
+    "/collections/mesillas-de-noche",
+    "/customer_authentication/redirect",
+    "/pages/contacta-con-nosotros",
+    "/pages/contract",
+    "/pages/franquicias-espacios-grupo-arta",
+    "/pages/innovacion-y-desarrollo",
+    "/pages/lamparas",
+    "/pages/mesas",
+    "/pages/proyectos",
+    "/pages/residencial",
+    "/pages/retail",
+    "/pages/smeg",
+    "/pages/sobre-nosotros",
+    "/pages/trabaja-con-nosotros",
+    "/products/copia-de-lampara-kriangle-120cm",
+    "/products/exprimidor",
+    "/products/grifo-quooker",
+    "/products/hervidor",
+    "/products/lampara-krion",
+    "/products/mesa-baja-en-roble",
+    "/products/mesa-krion",
+    "/products/mesilla-de-noche-en-roble",
+    "/products/tostadora-smeg"
+  ],
+  "content_words_count": 289,
+  "services_page_words": 109,
+  "mobile_performance": null,
+  "lighthouse_seo": null,
+  "lighthouse_accessibility": null,
+  "lighthouse_best_practices": null,
+  "mobile_lcp_ms": null,
+  "mobile_cls": null,
+  "mobile_tbt_ms": null,
+  "mobile_fcp_ms": null,
+  "pagespeed_error": "PageSpeed HTTP 429 (cuota sin clave agotada)"
+}

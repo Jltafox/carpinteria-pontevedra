@@ -1,0 +1,160 @@
+---
+import { biz, fill } from '../lib/site';
+
+interface Props {
+  section: any;
+}
+const { section: s } = Astro.props;
+const dev = import.meta.env.DEV;
+const projects = (biz.proyectos || []).filter((p: any) => !s.service || !p.servicio || p.servicio === s.service);
+const testimonials = biz.testimonios || [];
+---
+{s.kind === 'text' && (
+  <section class="block">
+    <div class="wrap prose">
+      <h2>{fill(s.h2)}</h2>
+      {s.paragraphs.map((p: string) => <p>{fill(p)}</p>)}
+      {s.list?.length > 0 && (
+        <>
+          <h3>{s.list_title}</h3>
+          <ul class="tags">{s.list.map((item: string) => <li>{item}</li>)}</ul>
+        </>
+      )}
+    </div>
+  </section>
+)}
+
+{s.kind === 'items' && (
+  <section class="block">
+    <div class="wrap">
+      <h2>{fill(s.h2)}</h2>
+      <div class="grid">
+        {s.items.map((item: any) => (
+          <article class="card">
+            <h3>{fill(item.h3)}</h3>
+            <p>{fill(item.text)}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{s.kind === 'process' && (
+  <section class="block alt">
+    <div class="wrap">
+      <h2>{s.h2}</h2>
+      <ol class="steps">
+        {s.steps.map((step: any) => (
+          <li>
+            <h3>{step.h3}</h3>
+            <p>{step.text}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+)}
+
+{s.kind === 'price' && (
+  <section class="block">
+    <div class="wrap prose">
+      <h2>{s.h2}</h2>
+      <p>{s.text}</p>
+      <h3>Qué influye en el precio</h3>
+      <ul>{s.factors.map((f: string) => <li>{f}</li>)}</ul>
+      {biz.publicar_precios && s.ranges?.length > 0 && (
+        <table class="prices">
+          <caption>Precios orientativos</caption>
+          <tbody>
+            {s.ranges.map((r: any) => (
+              <tr>
+                <th scope="row">{r.label}</th>
+                <td>{r.value}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
+    </div>
+  </section>
+)}
+
+{s.kind === 'cards' && (
+  <section class="block">
+    <div class="wrap">
+      <h2>{fill(s.h2)}</h2>
+      <div class="grid">
+        {s.cards.map((c: any) => (
+          <a class="card card-link" href={c.url}>
+            <h3>{c.title}</h3>
+            <p>{c.text}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{s.kind === 'links' && (
+  <section class="block">
+    <div class="wrap prose">
+      <h2>{fill(s.h2)}</h2>
+      {s.text && <p>{fill(s.text)}</p>}
+      {s.links?.length > 0 && (
+        <ul class="pills">{s.links.map((l: any) => <li><a href={l.url}>{l.label}</a></li>)}</ul>
+      )}
+    </div>
+  </section>
+)}
+
+{s.kind === 'projects' && (projects.length > 0 ? (
+  <section class="block">
+    <div class="wrap">
+      <h2>{s.h2}</h2>
+      <div class="grid">
+        {projects.map((p: any) => (
+          <figure class="card project">
+            {p.imagen && <img src={p.imagen} alt={p.alt || p.titulo} loading="lazy" width="640" height="480" />}
+            <figcaption><strong>{p.titulo}</strong>{p.municipio && ` · ${p.municipio}`}<br />{p.texto}</figcaption>
+          </figure>
+        ))}
+      </div>
+    </div>
+  </section>
+) : dev && (
+  <section class="block"><div class="wrap"><p class="placeholder">«{s.h2}»: añade proyectos reales en <code>business.json → proyectos</code> (titulo, texto, municipio, servicio, imagen, alt).</p></div></section>
+))}
+
+{s.kind === 'testimonials' && (testimonials.length > 0 ? (
+  <section class="block alt">
+    <div class="wrap">
+      <h2>{s.h2}</h2>
+      <div class="grid">
+        {testimonials.map((t: any) => (
+          <blockquote class="card">
+            <p>“{t.texto}”</p>
+            <footer>{t.nombre}{t.municipio && ` · ${t.municipio}`}</footer>
+          </blockquote>
+        ))}
+      </div>
+      {biz.gbp_url && <p><a href={biz.gbp_url}>Ver todas las opiniones en Google</a></p>}
+    </div>
+  </section>
+) : dev && (
+  <section class="block"><div class="wrap"><p class="placeholder">«{s.h2}»: añade testimonios reales y con permiso en <code>business.json → testimonios</code> (texto, nombre, municipio).</p></div></section>
+))}
+
+{s.kind === 'faq' && (
+  <section class="block faq">
+    <div class="wrap prose">
+      <h2>{fill(s.h2)}</h2>
+      {s.faqs.map((f: any) => (
+        <details>
+          <summary>{fill(f.q)}</summary>
+          <p>{fill(f.a)}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+)}

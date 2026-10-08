@@ -1,0 +1,13 @@
+---
+// Páginas pilar de servicio: /{servicio}/
+import PageView from '../../components/PageView.astro';
+import { pages } from '../../lib/site';
+
+export function getStaticPaths() {
+  return pages
+    .filter((p) => p.type === 'pillar')
+    .map((page) => ({ params: { servicio: page.params.servicio }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<PageView page={page} />

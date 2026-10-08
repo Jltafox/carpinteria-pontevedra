@@ -1,0 +1,101 @@
+{
+  "place_id": "ChIJMZHn8cVxLw0R-Qfq3wlOwmU",
+  "name": "GRUPO ARTA",
+  "data_id": "0xd2f71c5f1e79131:0x65c24e09dfea07f9",
+  "address": "Av. de Vigo, 67, bajo derecha, 36003 Pontevedra",
+  "phone": "886 30 45 13",
+  "website": "http://www.grupoarta.com/",
+  "domain": "grupoarta.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintería",
+  "secondary_categories": [
+    "Fábrica de puertas",
+    "Tienda de muebles",
+    "Tienda de muebles de cocina"
+  ],
+  "attributes": [
+    "Accesibilidad: Acceso para sillas de ruedas",
+    "Pagos: Tarjetas de crédito",
+    "Pagos: Tarjetas de débito"
+  ],
+  "attributes_count": 3,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "8:00–19:00"
+    },
+    {
+      "jueves": "8:00–19:00"
+    },
+    {
+      "viernes": "8:00–19:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "8:00–19:00"
+    },
+    {
+      "martes": "8:00–19:00"
+    }
+  ],
+  "photo_groups": [
+    "Todas",
+    "Exterior",
+    "Interior",
+    "Del propietario",
+    "Street View y 360°"
+  ],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 4.4,
+  "total_reviews": 59,
+  "rating_distribution": {
+    "1": 8,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 50
+  },
+  "reviews_sampled": 28,
+  "last_review_age_days": 120,
+  "reviews_last_12m": 9,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.8,
+  "owner_response_rate": 86,
+  "reviews_with_text_pct": 79,
+  "avg_review_length": 267,
+  "review_topics": [
+    "cocina (7)",
+    "proyecto (6)",
+    "diseño (6)",
+    "ideas (4)",
+    "confianza (4)",
+    "materiales (3)",
+    "expectativas (3)",
+    "reformas (3)"
+  ],
+  "review_highlights": [
+    "Los acabados son de gran calidad y se nota la dedicación en cada detalle.",
+    "Han tenido un trato excepcional y trabajan con mucha profesionalidad.",
+    "Grandes Profesionales , serios y de confianza."
+  ],
+  "grid": {
+    "cells_top": 7,
+    "solv_pct": 10.9,
+    "avr": 11.9,
+    "reach_median_km": 1.6,
+    "reach_max_km": 3.1
+  }
+}

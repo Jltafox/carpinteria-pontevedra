@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://{{dominio}}/#web",
+      "url": "https://{{dominio}}/",
+      "name": "{{marca}}",
+      "inLanguage": "es-ES",
+      "publisher": {
+        "@id": "https://{{dominio}}/#negocio"
+      }
+    },
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://{{dominio}}/#negocio",
+      "name": "{{marca}}",
+      "url": "https://{{dominio}}/",
+      "telephone": "{{telefono}}",
+      "email": "{{email}}",
+      "image": "{{imagen_url}}",
+      "logo": "{{logo_url}}",
+      "priceRange": "€€",
+      "description": "{{meta_description}}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{calle}}",
+        "postalCode": "{{cp}}",
+        "addressLocality": "{{localidad}}",
+        "addressRegion": "{{provincia}}",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "{{lat}}",
+        "longitude": "{{lng}}"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "{{abre}}",
+          "closes": "{{cierra}}"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Pontevedra"
+        },
+        {
+          "@type": "City",
+          "name": "Santiago de Compostela"
+        },
+        {
+          "@type": "City",
+          "name": "Sanxenxo"
+        }
+      ],
+      "sameAs": [
+        "{{gbp_url}}"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Servicios de carpintería",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Cocinas a medida",
+              "url": "https://{{dominio}}/cocinas-a-medida/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Armarios y vestidores a medida",
+              "url": "https://{{dominio}}/armarios-a-medida/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Muebles a medida",
+              "url": "https://{{dominio}}/muebles-a-medida/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Rehabilitación de madera en viviendas",
+              "url": "https://{{dominio}}/rehabilitacion-de-madera/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Carpintería exterior de madera",
+              "url": "https://{{dominio}}/carpinteria-exterior/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Suelos de madera",
+              "url": "https://{{dominio}}/suelos-de-madera/"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

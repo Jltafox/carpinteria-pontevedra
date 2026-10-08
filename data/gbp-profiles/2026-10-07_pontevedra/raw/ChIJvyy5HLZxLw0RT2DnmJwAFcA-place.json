@@ -1,0 +1,234 @@
+{
+  "search_metadata": {
+    "id": "6ac674aa2106d4143f22e617",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LW3rWUNPaB-i04LxkhX3rdnTiDdsQLk-sMPaHFGFsk8/6ac674aa2106d4143f22e617.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LW3rWUNPaB-i04LxkhX3rdnTiDdsQLk-sMPaHFGFsk8/6ac674aa2106d4143f22e617.md",
+    "created_at": "2026-10-07 16:34:50 UTC",
+    "processed_at": "2026-10-07 16:34:50 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0xd2f71b61cb92cbf:0xc015009c98e7604f!8m2!3d0!4d0!16s?hl=es&gl=es",
+    "raw_html_file": "https://serpapi.com/searches/LW3rWUNPaB-i04LxkhX3rdnTiDdsQLk-sMPaHFGFsk8/6ac674aa2106d4143f22e617.html",
+    "prettify_html_file": "https://serpapi.com/searches/LW3rWUNPaB-i04LxkhX3rdnTiDdsQLk-sMPaHFGFsk8/6ac674aa2106d4143f22e617.prettify",
+    "total_time_taken": 1.55
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJvyy5HLZxLw0RT2DnmJwAFcA",
+    "google_domain": "google.es",
+    "hl": "es",
+    "gl": "es"
+  },
+  "place_results": {
+    "title": "Manufacturas Madereras Xeve",
+    "place_id": "ChIJvyy5HLZxLw0RT2DnmJwAFcA",
+    "data_id": "0xd2f71b61cb92cbf:0xc015009c98e7604f",
+    "data_cid": "13840969702373285967",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f71b61cb92cbf%3A0xc015009c98e7604f&engine=google_maps_reviews&hl=es",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xd2f71b61cb92cbf%3A0xc015009c98e7604f&engine=google_maps_photos&hl=es",
+    "gps_coordinates": {
+      "latitude": 42.4617691,
+      "longitude": -8.6048717
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvyy5HLZxLw0RT2DnmJwAFcA",
+    "provider_id": "/g/1tcv_qc3",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWklEfId8QLqpp_OZcpExJSfrVRIG2VF4VAvoZw-HbnkQnUtnyk44O4T-YH8Vv9vpacIVEbJtMnGR-pFBqhS_eTHwN7O25hYydtGLBjdZF4zVyys70aBSCCThCLZyGboz-QwmjNkxA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QsuRqHicHcRJDoIwAADAF1VQa1wSD0DYDIos1sDFSEEawbbQCtYf-gR_Y-Ic5vshUnKx0bSWzCc1Y3VbPUXVY0ZlReUEs4dWcwGwAEIzvPiYnpvWvvnlKgo6zi9hjrn92iW3HsW-O0MORMbA8hF4BW0iepJUNRCGMAWZt0LDeuBX7CO72Mk9dWPAHbMjyaVKvfGwDGcLkqlSuoF5L3MHvpFSYqlfzcSyUmIFuXIL9gbR-LgfmpexHae6rgPyHwP6Ayr-Rg8",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 1
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 2
+      },
+      {
+        "stars": 4,
+        "amount": 6
+      },
+      {
+        "stars": 5,
+        "amount": 24
+      }
+    ],
+    "rating": 4.6,
+    "reviews": 33,
+    "type": [
+      "Fábrica"
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Acceso para sillas de ruedas",
+          "Aparcamiento adaptado para sillas de ruedas"
+        ]
+      }
+    ],
+    "address": "36151 Gatomorto, Pontevedra",
+    "country": "España",
+    "website": "http://www.maderasxeve.com/",
+    "phone": "986 87 94 26",
+    "open_state": "Cerrado · Apertura: 8:30 (jue)",
+    "plus_code": "F96W+P3 Gatomorto, Pontevedra",
+    "hours": [
+      {
+        "miércoles": "8:30–14:00"
+      },
+      {
+        "jueves": "8:30–14:00"
+      },
+      {
+        "viernes": "8:30–14:00"
+      },
+      {
+        "sábado": "Cerrado"
+      },
+      {
+        "domingo": "Cerrado"
+      },
+      {
+        "lunes": "8:30–14:00"
+      },
+      {
+        "martes": "8:30–14:00"
+      }
+    ],
+    "at_this_place": {
+      "type": [
+        {
+          "title": "Compras",
+          "places": 1
+        },
+        {
+          "title": "Servicios",
+          "places": 1
+        }
+      ],
+      "places": [
+        {
+          "position": 1,
+          "title": "Rivalto Cocinas",
+          "data_id": "0xd2f717d351cbdfb:0x5f4476f0320a0c88",
+          "data_cid": "6864742506023226504",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0xd2f717d351cbdfb%3A0x5f4476f0320a0c88&engine=google_maps_reviews&hl=es",
+          "photos_link": "https://serpapi.com/search.json?data_id=0xd2f717d351cbdfb%3A0x5f4476f0320a0c88&engine=google_maps_photos&hl=es",
+          "gps_coordinates": {
+            "latitude": 42.4611954,
+            "longitude": -8.6051972
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0xd2f717d351cbdfb%3A0x5f4476f0320a0c88%218m2%213d42.4611954%214d-8.6051972&engine=google_maps&gl=es&google_domain=google.es&hl=es&place_id=ChIJvyy5HLZxLw0RT2DnmJwAFcA&type=place",
+          "rating": 3.0,
+          "reviews": 2,
+          "type": "Reformas de cocinas",
+          "type_id": "kitchen_remodeler",
+          "address": "Santa María de Xeve, 36151 Gatomorto, Pontevedra",
+          "location": "Planta 0",
+          "open_state": "Cerrado · Apertura: 8:00 (jue)",
+          "hours": [
+            {
+              "miércoles": "8:00–16:00"
+            },
+            {
+              "jueves": "8:00–16:00"
+            },
+            {
+              "viernes": "8:00–16:00"
+            },
+            {
+              "sábado": "Cerrado"
+            },
+            {
+              "domingo": "Cerrado"
+            },
+            {
+              "lunes": "8:00–16:00"
+            },
+            {
+              "martes": "8:00–16:00"
+            }
+          ],
+          "thumbanil": "https://lh3.googleusercontent.com/grass-cs/ACvplmNHuGUI-3RX2tkzFwggYilNt072RWO6a5_GLO0urqFpnrbV_D0BlfTWZiTc5R90hYTnwO3bVPt3Eimoe6wUlV26c_5hTAYjErMZuHhgoKaUnbz341v853Ysb3ojh2GbjwJt17fQ2ocdQ5Ua=w86-h86-n-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNHuGUI-3RX2tkzFwggYilNt072RWO6a5_GLO0urqFpnrbV_D0BlfTWZiTc5R90hYTnwO3bVPt3Eimoe6wUlV26c_5hTAYjErMZuHhgoKaUnbz341v853Ysb3ojh2GbjwJt17fQ2ocdQ5Ua=w86-h86-n-k-no"
+        }
+      ]
+    },
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Puntualidad y muy buena calidad\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJUnQVtis5YvFW6eteL8BlksoPtFKVxkq_h123qg9At7OJXdw=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Amables, te atienden rápido\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLio-sLYsoSr_POSg1KgBKzY70kIHH6eZ8qlL-AczgxiqGUmw=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Lux BD",
+          "rating": 5,
+          "contributor_id": "103769680980003915337",
+          "user_review_count": 24,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWtkRQba5FewNrEGU0XsbTRQhlV3mdUt6_4uFKDkMW0PSldE_E=s120-c-rp-mo-ba12-br100",
+          "description": "Grandísimos profesionales. Muy atentos y amables. He recibido un trato extraordinario y las briquetas que he adquirido son de primerísima calidad.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoYVJEZDRVelY2YnpsSVRVMUxhR3MyVlhJNVNWRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOlhaRDd4UzV6bzlITU1LaGs2VXI5SVE%7C%7C?hl=es",
+          "date": "Hace un mes",
+          "date_iso8601": "2026-08-20T21:01:41+00:00"
+        },
+        {
+          "username": "Juan Mendaña “Jmendana”",
+          "rating": 5,
+          "contributor_id": "106389313795934090515",
+          "user_review_count": 16,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLEn4kbxIrXo_WFbVn1Dpd3uEOQHE_nWTE6xNxYgTZKwXZPKw=s120-c-rp-mo-ba12-br100",
+          "description": "Excelente empresa , variedad de productos de madera maciza , te asesoran según tus necesidades !!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWWFJIWlVObmxRY1ZGMVUzZDZiSGxoVWpWYVptYxAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOlVXRHZUNnlQcVF1U3d6bHlhUjVaZmc%7C%7C?hl=es",
+          "date": "Hace 5 meses",
+          "date_iso8601": "2026-04-29T19:22:48+00:00"
+        },
+        {
+          "username": "Miki Ferreira Lorenzo",
+          "rating": 5,
+          "contributor_id": "118072555860538022883",
+          "user_review_count": 20,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVISoftLa5CfHZUIDbd3axUeVFMBL4C_d5k7-yAfOg86626KQxV=s120-c-rp-mo-ba12-br100",
+          "description": "Las mejores briquetas de madera de España. La relación precio-calidad es excelente y el trato al cliente exquisito.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSa1lrdFJNREIyUW1SeldHWTFZVk5yUzAxRVMwRRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOjRkYktRMDB2QmRzWGY1YVNrS01ES0E%7C%7C?hl=es",
+          "date": "Hace un año",
+          "date_iso8601": "2025-09-30T12:40:30+00:00"
+        },
+        {
+          "username": "Miguel Sequelo",
+          "rating": 5,
+          "contributor_id": "107931354553517771456",
+          "user_review_count": 4,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXc98T0aQ89KIKL43ZXnpR9B_vxMGXZx8KzYLRqko7akyOoD-Qt=s120-c-rp-mo-br100",
+          "description": "Muy buena calidad y el trato inmejorable. 100% recomendable. Seguiré comprando ahí. Gracias por todo.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214bGJHUkdkamRVUm5rNFZHVnJVMHhGUjJSSWJYYxAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CAIQACodChtycF9oOmxlbGRGdjdURnk4VGVrU0xFR2RIbXc%7C%7C?hl=es",
+          "date": "Hace 10 meses",
+          "date_iso8601": "2025-11-21T18:20:19+00:00"
+        },
+        {
+          "username": "Sergio Acuña Padin",
+          "rating": 5,
+          "contributor_id": "101724289593886003965",
+          "user_review_count": 9,
+          "user_photo_count": 13,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXstMAuZsJO30SSEPyeBwlp-1u8MEc4un5hD1gkdjuOlH9vdgvU=s120-c-rp-mo-ba12-br100",
+          "description": "Las mejores briquetas de madera. Desde que las probamos en el horno de la panadería ya no utilizamos otras. Además generan menos ceniza y con estas es más fácil regular la temperatura del horno. Y el personal de la empresa es siempre muy amable.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtcnFhMHp3RRAB!2m1!1s0x0:0xc015009c98e7604f!3m1!1s2@1:CIHM0ogKEICAgIC-rqa0zwE%7C%7C?hl=es",
+          "date": "Hace 3 años",
+          "date_iso8601": "2022-11-04T11:26:56+00:00"
+        }
+      ]
+    }
+  }
+}

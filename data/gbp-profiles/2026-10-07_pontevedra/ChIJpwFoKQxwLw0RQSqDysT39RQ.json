@@ -1,0 +1,60 @@
+{
+  "place_id": "ChIJpwFoKQxwLw0RQSqDysT39RQ",
+  "name": "Hermanos Garrido S.l.",
+  "data_id": "0xd2f700c296801a7:0x14f5f7c4ca832a41",
+  "address": "Rúa Cruceiro, 45, 36143 Pontevedra",
+  "phone": "986 84 76 85",
+  "website": "http://www.chgarrido.com/",
+  "domain": "chgarrido.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Ebanista",
+  "secondary_categories": [],
+  "attributes": [],
+  "attributes_count": 0,
+  "missing_attributes": [],
+  "has_hours": false,
+  "hours": null,
+  "photo_groups": [
+    "Todas",
+    "Street View y 360°"
+  ],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": true,
+  "avg_rating": 4.2,
+  "total_reviews": 9,
+  "rating_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 6
+  },
+  "reviews_sampled": 9,
+  "last_review_age_days": 722,
+  "reviews_last_12m": 0,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.0,
+  "owner_response_rate": 0,
+  "reviews_with_text_pct": 56,
+  "avg_review_length": 95,
+  "review_topics": [
+    "carpintero (2)"
+  ],
+  "review_highlights": [
+    "El mejor carpintero, muy atento, trabajan con mucho detalle.",
+    "Muy buenos profesionales"
+  ],
+  "grid": {
+    "cells_top": 5,
+    "solv_pct": 6.8,
+    "avr": 9.8,
+    "reach_median_km": 2.3,
+    "reach_max_km": 3.0
+  }
+}

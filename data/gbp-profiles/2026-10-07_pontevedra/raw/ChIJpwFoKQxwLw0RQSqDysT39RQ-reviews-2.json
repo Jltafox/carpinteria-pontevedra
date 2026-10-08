@@ -1,0 +1,47 @@
+{
+  "search_metadata": {
+    "id": "6ac674bb018c486a6f021f3d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/npKZQ7KnPlv0h-y-GLOOeRGC0FUJD3Zf1K0Oulaki3E/6ac674bb018c486a6f021f3d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/npKZQ7KnPlv0h-y-GLOOeRGC0FUJD3Zf1K0Oulaki3E/6ac674bb018c486a6f021f3d.md",
+    "created_at": "2026-10-07 16:35:07 UTC",
+    "processed_at": "2026-10-07 16:35:07 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0xd2f700c296801a7:0x14f5f7c4ca832a41!5m2!4m1!1i2!9m1!1b1?hl=es",
+    "raw_html_file": "https://serpapi.com/searches/npKZQ7KnPlv0h-y-GLOOeRGC0FUJD3Zf1K0Oulaki3E/6ac674bb018c486a6f021f3d.html",
+    "prettify_html_file": "https://serpapi.com/searches/npKZQ7KnPlv0h-y-GLOOeRGC0FUJD3Zf1K0Oulaki3E/6ac674bb018c486a6f021f3d.prettify",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0xd2f700c296801a7:0x14f5f7c4ca832a41",
+    "hl": "es",
+    "next_page_token": "Ci8IARInCgoAP72I_fkos6__EhDTsTWjPHwIFnT34ZAAAAAAGgf_Ao_fkos6GAAiAA",
+    "num": "20",
+    "sort_by": "newestFirst"
+  },
+  "reviews": [
+    {
+      "position": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURneUt5WWJnEAE!2m1!1s0x0:0x14f5f7c4ca832a41!3m1!1s2@1:CIHM0ogKEICAgIDgyKyYbg%7C%7C?hl=es",
+      "rating": 4.0,
+      "date": "Hace 9 años",
+      "iso_date": "2017-02-06T20:35:55Z",
+      "iso_date_of_last_edit": "2017-02-06T20:36:19Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURneUt5WWJnEAE",
+      "user": {
+        "name": "RAUL GARCIA PUMARES",
+        "link": "https://www.google.com/maps/contrib/114534510624599580828?hl=es",
+        "contributor_id": "114534510624599580828",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKVfSJkxE1sOW1pCdTq3hdYQFhmu4TtEUaptyaYFdrUrE1DCQ=s120-c-rp-mo-br100",
+        "reviews": 6,
+        "photos": 0
+      },
+      "snippet": "EMPRESA RECOMENDABLE",
+      "extracted_snippet": {
+        "original": "EMPRESA RECOMENDABLE"
+      },
+      "likes": 0
+    }
+  ]
+}

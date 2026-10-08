@@ -1,0 +1,77 @@
+{
+  "place_id": "ChIJ3UAqMuZlLw0RVHPfmzD3Ku8",
+  "name": "Alberto Parada",
+  "data_id": "0xd2f65e6322a40dd:0xef2af7309bdf7354",
+  "address": "Rúa Beiramar, 82, 36995 Pontevedra",
+  "phone": "630 57 27 62",
+  "website": "https://sites.google.com/view/carpinteriaparada/inicio",
+  "domain": "sites.google.com",
+  "description": null,
+  "description_known": false,
+  "primary_category": "Carpintero",
+  "secondary_categories": [],
+  "attributes": [],
+  "attributes_count": 0,
+  "missing_attributes": [],
+  "has_hours": true,
+  "hours": [
+    {
+      "miércoles": "8:30–13:00, 15:00–20:00"
+    },
+    {
+      "jueves": "8:30–13:00, 15:00–20:00"
+    },
+    {
+      "viernes": "8:30–13:00, 15:00–20:00"
+    },
+    {
+      "sábado": "Cerrado"
+    },
+    {
+      "domingo": "Cerrado"
+    },
+    {
+      "lunes": "8:30–13:00, 15:00–20:00"
+    },
+    {
+      "martes": "8:30–13:00, 15:00–20:00"
+    }
+  ],
+  "photo_groups": [],
+  "n_photos": null,
+  "has_posts": null,
+  "has_qa": null,
+  "has_services": null,
+  "has_service_options": false,
+  "booking_link": null,
+  "unclaimed": false,
+  "avg_rating": 5,
+  "total_reviews": 3,
+  "rating_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+  },
+  "reviews_sampled": 3,
+  "last_review_age_days": 1353,
+  "reviews_last_12m": 0,
+  "reviews_last_12m_is_min": false,
+  "review_velocity_month": 0.0,
+  "owner_response_rate": 0,
+  "reviews_with_text_pct": 100,
+  "avg_review_length": 113,
+  "review_topics": [],
+  "review_highlights": [
+    "He quedado muy contenta con su trabajo.",
+    "Buena relación calidad-precio."
+  ],
+  "grid": {
+    "cells_top": 4,
+    "solv_pct": 7.5,
+    "avr": 5,
+    "reach_median_km": 1.5,
+    "reach_max_km": 2.1
+  }
+}

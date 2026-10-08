@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { fill, pageByRoute } from '../lib/site';
+
+const page = pageByRoute('/aviso-legal/');
+---
+<Base page={page}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <section class="block">
+    <div class="wrap prose">
+      <h1>Aviso legal</h1>
+      <p class="placeholder">Plantilla pendiente de revisión legal antes de publicar.</p>
+      <h2>Titular del sitio web (art. 10 LSSI-CE)</h2>
+      <ul>
+        <li>Titular: {fill('{{titular_legal}}')}</li>
+        <li>NIF/CIF: {fill('{{nif}}')}</li>
+        <li>Domicilio: {fill('{{domicilio_legal}}')}</li>
+        <li>Email: {fill('{{email}}')}</li>
+        <li>Teléfono: {fill('{{telefono}}')}</li>
+      </ul>
+      <h2>Objeto</h2>
+      <p>Este sitio web informa sobre servicios de carpintería de madera y permite solicitar presupuesto. Los trabajos los ejecuta {fill('{{empresa_ejecutora}}')}.</p>
+      <h2>Propiedad intelectual</h2>
+      <p>Los textos, imágenes y diseño de este sitio pertenecen a su titular o se usan con autorización.</p>
+    </div>
+  </section>
+</Base>
