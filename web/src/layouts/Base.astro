@@ -44,7 +44,7 @@ const noindex = page.noindex || !indexable;
     <main id="contenido">
       <slot />
     </main>
-    <Footer />
+    <Footer hideMap={page.type === 'home'} />
     <MobileCta servicio={page.cta?.servicio} zona={page.cta?.zona} />
   </body>
 </html>

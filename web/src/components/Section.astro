@@ -1,5 +1,5 @@
 ---
-import { biz, fill } from '../lib/site';
+import { biz, fill, mapsEmbedSrc, phoneLabel, telHref } from '../lib/site';
 
 interface Props {
   section: any;
@@ -8,7 +8,33 @@ const { section: s } = Astro.props;
 const dev = import.meta.env.DEV;
 const projects = (biz.proyectos || []).filter((p: any) => !s.service || !p.servicio || p.servicio === s.service);
 const testimonials = biz.testimonios || [];
+const mapSrc = s.kind === 'nap' ? mapsEmbedSrc() : '';
 ---
+{s.kind === 'nap' && (
+  <section class="block alt" id="donde-estamos">
+    <div class="wrap nap-grid">
+      <div>
+        <h2>{s.h2}</h2>
+        <!-- NAP: idéntico al de la ficha de Google, al pie y al schema -->
+        <address class="nap">
+          <strong>{fill('{{marca}}')}</strong><br />
+          {fill('{{calle}}')}<br />
+          {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
+          Tel.: <a href={telHref()}>{phoneLabel()}</a><br />
+          Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
+        </address>
+        <p class="muted">Horario: {biz.horario_texto || fill('{{abre}}–{{cierra}}, de lunes a viernes')}</p>
+        {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
+      </div>
+      {mapSrc ? (
+        <iframe class="gbp-map" title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} src={mapSrc} loading="lazy"
+          width="600" height="380" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+      ) : dev && (
+        <p class="placeholder">Mapa de la ficha de Google: pega en <code>business.json → maps_embed_url</code> el código de «Compartir → Insertar un mapa» (sirve la URL o el &lt;iframe&gt; completo).</p>
+      )}
+    </div>
+  </section>
+)}
 {s.kind === 'text' && (
   <section class="block">
     <div class="wrap prose">

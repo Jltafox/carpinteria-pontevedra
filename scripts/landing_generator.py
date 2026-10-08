@@ -34,7 +34,7 @@ MAX_COMBOS = 50
 BUSINESS_TEMPLATE = {
     "marca": "", "dominio": "", "telefono": "", "telefono_visible": "", "whatsapp": "", "email": "",
     "calle": "", "cp": "", "localidad": "", "provincia": "", "lat": "", "lng": "",
-    "abre": "", "cierra": "", "horario_texto": "", "gbp_url": "", "logo_url": "", "imagen_url": "",
+    "abre": "", "cierra": "", "horario_texto": "", "gbp_url": "", "maps_embed_url": "", "logo_url": "", "imagen_url": "",
     "form_endpoint": "", "titular_legal": "", "nif": "", "domicilio_legal": "", "empresa_ejecutora": "",
     "indexable": False,  # la web no se indexa ni rastrea hasta ponerlo a true a propósito
     "publicar_precios": False, "proyectos": [], "testimonios": [],
@@ -138,6 +138,7 @@ def build_pages() -> list[dict]:
             {"kind": "projects", "h2": "Trabajos realizados", "service": None},
             {"kind": "testimonials", "h2": "Lo que dicen nuestros clientes"},
             {"kind": "links", "h2": "Dónde trabajamos", "text": home["where"], "links": link_list([bp.hub(z) for z in hubs])},
+            {"kind": "nap", "h2": "Dónde estamos"},  # NAP + mapa de la ficha de Google (maps_embed_url)
             {"kind": "faq", "h2": "Preguntas frecuentes", "faqs": home_faqs},
         ],
         "jsonld": home_ld(description),

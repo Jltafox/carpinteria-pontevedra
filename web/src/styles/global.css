@@ -88,6 +88,11 @@ code { background: #f1e9df; padding: 0 4px; border-radius: 4px; }
 .cta-final .btn-primary { background: var(--wood); }
 blockquote footer { color: var(--muted); font-size: 0.95rem; }
 
+/* NAP + mapa de la ficha (home) */
+.nap-grid { display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items: start; }
+.nap { font-style: normal; line-height: 1.8; }
+.gbp-map { width: 100%; height: 380px; border: 0; border-radius: var(--radius); }
+
 /* Breadcrumbs */
 .breadcrumbs ol { list-style: none; padding: 10px 16px 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.9rem; color: var(--muted); }
 .breadcrumbs li + li::before { content: "›"; margin-right: 6px; }
