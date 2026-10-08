@@ -121,13 +121,14 @@ def build_pages() -> list[dict]:
 
     # Home
     home = pages_copy["home"]
-    description = ("Cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería "
-                   "exterior. Taller propio. Presupuesto: {{telefono}}")
+    # La home ataca solo Pontevedra (indicación del cliente); Santiago se trabaja en sus propias páginas.
+    description = ("Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas "
+                   "de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}")
     home_faqs = home["faqs"]
     pages.append({
         "route": "/", "type": "home", "params": {},
-        "title": "Carpintería de madera en Pontevedra y Santiago | {{marca}}", "description": description,
-        "h1": "Carpintería de madera a medida en Pontevedra y Santiago", "lead": home["lead"],
+        "title": "Carpintería en Pontevedra · Madera a medida | {{marca}}", "description": description,
+        "h1": "Carpintería de madera a medida en Pontevedra", "lead": home["lead"],
         "breadcrumbs": [], "cta": {},
         "sections": [
             {"kind": "cards", "h2": "Qué hacemos", "cards": [
@@ -137,7 +138,8 @@ def build_pages() -> list[dict]:
             process,
             {"kind": "projects", "h2": "Trabajos realizados", "service": None},
             {"kind": "testimonials", "h2": "Lo que dicen nuestros clientes"},
-            {"kind": "links", "h2": "Dónde trabajamos", "text": home["where"], "links": link_list([bp.hub(z) for z in hubs])},
+            {"kind": "links", "h2": "Dónde trabajamos en Pontevedra", "text": home["where"],
+             "links": link_list([bp.service_area(s["slug"], "pontevedra") for s in bp.SERVICES if "pontevedra" in s["zones"]])},
             {"kind": "nap", "h2": "Dónde estamos"},  # NAP + mapa de la ficha de Google (maps_embed_url)
             {"kind": "faq", "h2": "Preguntas frecuentes", "faqs": home_faqs},
         ],

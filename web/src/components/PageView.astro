@@ -17,7 +17,7 @@ const sections = page.sections.filter(
 const eyebrow = page.type === 'service-area'
   ? `${page.breadcrumbs[1]?.name} · ${page.breadcrumbs[2]?.name}`
   : page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
-  : page.type === 'pillar' ? 'Servicio' : 'Carpintería de madera a medida';
+  : page.type === 'pillar' ? 'Servicio' : 'Carpintería en Pontevedra';
 ---
 <Base page={page}>
   {page.breadcrumbs.length > 0 && <Breadcrumbs items={page.breadcrumbs} />}
