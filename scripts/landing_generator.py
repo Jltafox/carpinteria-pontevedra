@@ -25,7 +25,7 @@ from datetime import date
 from itertools import combinations
 
 import web_blueprint_generator as bp
-from local_pack_multi_city import ROOT
+from local_pack_multi_city import ROOT, slugify
 
 CONTENT = bp.OUT / "content"
 WEB_DATA = ROOT / "web" / "src" / "data"
@@ -271,7 +271,81 @@ def build_pages() -> list[dict]:
 
     for page in pages:  # enlaces salientes según internal-linking.yaml (los usa el QA y el pie)
         page["links"] = link_list(links.get(page["route"], []))
+    add_images(pages)
     return pages
+
+
+# ── Imágenes: cada hueco tiene ya su URL definitiva (web/public/img/...) ───────────
+HERO, ITEM, GALLERY = (1500, 1000), (900, 600), (1200, 900)
+GALLERY_SLOTS = 3
+HERO_ALT = {
+    "cocinas-a-medida": "Cocina a medida de madera",
+    "armarios-a-medida": "Armario empotrado a medida",
+    "muebles-a-medida": "Mueble de madera a medida",
+    "rehabilitacion-de-madera": "Rehabilitación de vigas y estructura de tejado de madera",
+    "carpinteria-exterior": "Porche de madera a medida",
+    "suelos-de-madera": "Suelo de tarima de madera",
+}
+
+
+def image(src: str, alt: str, size: tuple[int, int]) -> dict:
+    return {"src": src, "alt": alt, "width": size[0], "height": size[1]}
+
+
+def gallery(folder: str, alt: str) -> list[dict]:
+    return [image(f"{folder}/trabajo-{n}.webp", f"{alt} · trabajo {n}", GALLERY) for n in range(1, GALLERY_SLOTS + 1)]
+
+
+def add_images(pages: list[dict]) -> None:
+    """Portada por página, foto por subservicio, miniaturas de tarjetas y galería de 3 trabajos (sustituye a «projects»)."""
+    for p in pages:
+        params, kind = p["params"], p["type"]
+        if kind == "home":
+            folder, hero_alt = "/img/home", "Taller de carpintería con muebles de madera a medida"
+        elif kind == "pillar":
+            folder, hero_alt = f'/img/{params["servicio"]}', HERO_ALT[params["servicio"]]
+        elif kind == "service-area":
+            zone = bp.ZONES[params["zona"]]["name"]
+            folder, hero_alt = f'/img/{params["servicio"]}/{params["zona"]}', f'{HERO_ALT[params["servicio"]]} en {zone}'
+        elif kind == "hub":
+            zone = bp.ZONES[params["zona"]]["name"]
+            folder, hero_alt = f'/img/carpinteria/{params["zona"]}', f"Trabajo de carpintería de madera en {zone}"
+        elif kind == "sobre-nosotros":
+            p["hero_image"] = image("/img/sobre-nosotros/taller.webp", "Taller de carpintería en A Estrada", HERO)
+            continue
+        else:
+            continue
+        p["hero_image"] = image(f"{folder}/portada.webp", hero_alt, HERO)
+        for section in p["sections"]:
+            if section["kind"] == "projects":
+                section.update({"kind": "gallery", "images": gallery(folder, hero_alt)})
+                section.pop("service", None)
+            if section["kind"] == "items" and kind in ("pillar", "service-area"):
+                for item in section["items"]:
+                    item["image"] = image(f'/img/{params["servicio"]}/{slugify(item["h3"])}.webp', item["h3"], ITEM)
+    heroes = {p["route"]: p["hero_image"] for p in pages if "hero_image" in p}
+    for p in pages:
+        for section in p["sections"]:
+            for card in section.get("cards", []):
+                hero = heroes.get(card["url"])
+                if hero:
+                    card["image"] = image(hero["src"], hero["alt"], ITEM)
+
+
+def image_manifest(pages: list[dict]) -> list[dict]:
+    slots: dict[str, dict] = {}
+    for p in pages:
+        found = [("portada", p["hero_image"])] if "hero_image" in p else []
+        for section in p["sections"]:
+            found += [("subservicio", i["image"]) for i in section.get("items", []) if "image" in i]
+            found += [("galería", i) for i in section.get("images", [])]
+        for use, img in found:
+            slot = slots.setdefault(img["src"], {"ruta": "web/public" + img["src"], "url": img["src"], "uso": use,
+                                                 "tamaño": f'{img["width"]}×{img["height"]}', "alt_propuesto": img["alt"],
+                                                 "paginas": []})
+            if p["route"] not in slot["paginas"]:
+                slot["paginas"].append(p["route"])
+    return sorted(slots.values(), key=lambda s: s["url"])
 
 
 # ── QA ───────────────────────────────────────────────────────────────────────────
@@ -352,6 +426,12 @@ def main() -> None:
     (WEB_DATA / "areas-served.json").write_text(json.dumps(
         {"zonas": bp.ZONES, "cobertura": bp.COVERAGE, "excluidas": bp.EXCLUDED}, ensure_ascii=False, indent=1),
         encoding="utf-8")
+    manifest = image_manifest(ok)
+    with (ROOT / "web" / "IMAGENES.csv").open("w", encoding="utf-8-sig", newline="") as f:
+        f.write("url;ruta;uso;tamaño;alt_propuesto;paginas\n")
+        for s in manifest:
+            f.write(f'{s["url"]};{s["ruta"]};{s["uso"]};{s["tamaño"]};{s["alt_propuesto"]};{" | ".join(s["paginas"])}\n')
+    print(f"✓ {len(manifest)} huecos de foto → web/IMAGENES.csv")
     business = WEB_DATA / "business.json"
     if not business.exists():  # nunca se sobrescriben los datos reales del negocio
         business.write_text(json.dumps(BUSINESS_TEMPLATE, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -20,32 +20,68 @@
       {
        "title": "Cocinas a medida",
        "text": "Diseño con render, fabricación en taller propio y montaje por nuestro equipo.",
-       "url": "/cocinas-a-medida/"
+       "url": "/cocinas-a-medida/",
+       "image": {
+        "src": "/img/cocinas-a-medida/portada.webp",
+        "alt": "Cocina a medida de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Armarios y vestidores a medida",
        "text": "Armarios empotrados y vestidores a la medida exacta del hueco.",
-       "url": "/armarios-a-medida/"
+       "url": "/armarios-a-medida/",
+       "image": {
+        "src": "/img/armarios-a-medida/portada.webp",
+        "alt": "Armario empotrado a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Muebles a medida",
        "text": "Salones, librerías, dormitorios, muebles de baño y mobiliario para locales.",
-       "url": "/muebles-a-medida/"
+       "url": "/muebles-a-medida/",
+       "image": {
+        "src": "/img/muebles-a-medida/portada.webp",
+        "alt": "Mueble de madera a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Rehabilitación de madera en viviendas",
        "text": "Tejados y cubiertas, armazones, vigas y forjados de madera en viviendas.",
-       "url": "/rehabilitacion-de-madera/"
+       "url": "/rehabilitacion-de-madera/",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/portada.webp",
+        "alt": "Rehabilitación de vigas y estructura de tejado de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Carpintería exterior de madera",
        "text": "Porches, pérgolas, cobertizos y puertas exteriores de madera.",
-       "url": "/carpinteria-exterior/"
+       "url": "/carpinteria-exterior/",
+       "image": {
+        "src": "/img/carpinteria-exterior/portada.webp",
+        "alt": "Porche de madera a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Suelos de madera",
        "text": "Tarima, parquet, pulido y barnizado, escaleras y rodapiés.",
-       "url": "/suelos-de-madera/"
+       "url": "/suelos-de-madera/",
+       "image": {
+        "src": "/img/suelos-de-madera/portada.webp",
+        "alt": "Suelo de tarima de madera",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -94,9 +130,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": null
+     "images": [
+      {
+       "src": "/img/home/trabajo-1.webp",
+       "alt": "Taller de carpintería con muebles de madera a medida · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/home/trabajo-2.webp",
+       "alt": "Taller de carpintería con muebles de madera a medida · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/home/trabajo-3.webp",
+       "alt": "Taller de carpintería con muebles de madera a medida · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -363,7 +418,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/home/portada.webp",
+    "alt": "Taller de carpintería con muebles de madera a medida",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/cocinas-a-medida/",
@@ -395,27 +456,63 @@
      "items": [
       {
        "h3": "Diseño de cocina con render 3D",
-       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto."
+       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/diseno-de-cocina-con-render-3d.webp",
+        "alt": "Diseño de cocina con render 3D",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Fabricación de muebles de cocina en taller propio",
-       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra."
+       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/fabricacion-de-muebles-de-cocina-en-taller-propio.webp",
+        "alt": "Fabricación de muebles de cocina en taller propio",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Encimeras de porcelánico, granito y Silestone",
-       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno."
+       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno.",
+       "image": {
+        "src": "/img/cocinas-a-medida/encimeras-de-porcelanico-granito-y-silestone.webp",
+        "alt": "Encimeras de porcelánico, granito y Silestone",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Electrodomésticos de varias marcas",
-       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto."
+       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/electrodomesticos-de-varias-marcas.webp",
+        "alt": "Electrodomésticos de varias marcas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Reforma de cocina (parte de carpintería)",
-       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva."
+       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva.",
+       "image": {
+        "src": "/img/cocinas-a-medida/reforma-de-cocina-parte-de-carpinteria.webp",
+        "alt": "Reforma de cocina (parte de carpintería)",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Montaje por equipo propio",
-       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra."
+       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/montaje-por-equipo-propio.webp",
+        "alt": "Montaje por equipo propio",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -493,9 +590,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "cocinas-a-medida"
+     "images": [
+      {
+       "src": "/img/cocinas-a-medida/trabajo-1.webp",
+       "alt": "Cocina a medida de madera · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/trabajo-2.webp",
+       "alt": "Cocina a medida de madera · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/trabajo-3.webp",
+       "alt": "Cocina a medida de madera · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -751,7 +867,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/cocinas-a-medida/portada.webp",
+    "alt": "Cocina a medida de madera",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/armarios-a-medida/",
@@ -783,23 +905,53 @@
      "items": [
       {
        "h3": "Armarios empotrados",
-       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio."
+       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio.",
+       "image": {
+        "src": "/img/armarios-a-medida/armarios-empotrados.webp",
+        "alt": "Armarios empotrados",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vestidores",
-       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas."
+       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas.",
+       "image": {
+        "src": "/img/armarios-a-medida/vestidores.webp",
+        "alt": "Vestidores",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Frentes e interiores de armario",
-       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra."
+       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra.",
+       "image": {
+        "src": "/img/armarios-a-medida/frentes-e-interiores-de-armario.webp",
+        "alt": "Frentes e interiores de armario",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Despensas a medida",
-       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano."
+       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano.",
+       "image": {
+        "src": "/img/armarios-a-medida/despensas-a-medida.webp",
+        "alt": "Despensas a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Huecos irregulares y bajo cubierta",
-       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia."
+       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia.",
+       "image": {
+        "src": "/img/armarios-a-medida/huecos-irregulares-y-bajo-cubierta.webp",
+        "alt": "Huecos irregulares y bajo cubierta",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -860,9 +1012,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "armarios-a-medida"
+     "images": [
+      {
+       "src": "/img/armarios-a-medida/trabajo-1.webp",
+       "alt": "Armario empotrado a medida · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/trabajo-2.webp",
+       "alt": "Armario empotrado a medida · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/trabajo-3.webp",
+       "alt": "Armario empotrado a medida · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -1099,7 +1270,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/armarios-a-medida/portada.webp",
+    "alt": "Armario empotrado a medida",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/muebles-a-medida/",
@@ -1131,23 +1308,53 @@
      "items": [
       {
        "h3": "Muebles de salón y librerías",
-       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera."
+       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-salon-y-librerias.webp",
+        "alt": "Muebles de salón y librerías",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Dormitorios juveniles e infantiles",
-       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas."
+       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas.",
+       "image": {
+        "src": "/img/muebles-a-medida/dormitorios-juveniles-e-infantiles.webp",
+        "alt": "Dormitorios juveniles e infantiles",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de baño a medida",
-       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad."
+       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-bano-a-medida.webp",
+        "alt": "Muebles de baño a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Recibidores y zapateros",
-       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos."
+       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos.",
+       "image": {
+        "src": "/img/muebles-a-medida/recibidores-y-zapateros.webp",
+        "alt": "Recibidores y zapateros",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Mobiliario para locales",
-       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local."
+       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local.",
+       "image": {
+        "src": "/img/muebles-a-medida/mobiliario-para-locales.webp",
+        "alt": "Mobiliario para locales",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -1208,9 +1415,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "muebles-a-medida"
+     "images": [
+      {
+       "src": "/img/muebles-a-medida/trabajo-1.webp",
+       "alt": "Mueble de madera a medida · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/trabajo-2.webp",
+       "alt": "Mueble de madera a medida · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/trabajo-3.webp",
+       "alt": "Mueble de madera a medida · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -1447,7 +1673,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/muebles-a-medida/portada.webp",
+    "alt": "Mueble de madera a medida",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/rehabilitacion-de-madera/",
@@ -1479,23 +1711,53 @@
      "items": [
       {
        "h3": "Tejados y cubiertas de madera",
-       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición."
+       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/tejados-y-cubiertas-de-madera.webp",
+        "alt": "Tejados y cubiertas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Armazones y estructuras de madera",
-       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas."
+       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/armazones-y-estructuras-de-madera.webp",
+        "alt": "Armazones y estructuras de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vigas de madera",
-       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos."
+       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/vigas-de-madera.webp",
+        "alt": "Vigas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Forjados de madera",
-       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones."
+       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/forjados-de-madera.webp",
+        "alt": "Forjados de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Refuerzo y sustitución de piezas dañadas",
-       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda."
+       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/refuerzo-y-sustitucion-de-piezas-danadas.webp",
+        "alt": "Refuerzo y sustitución de piezas dañadas",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -1560,9 +1822,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "rehabilitacion-de-madera"
+     "images": [
+      {
+       "src": "/img/rehabilitacion-de-madera/trabajo-1.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/trabajo-2.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/trabajo-3.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -1815,7 +2096,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/rehabilitacion-de-madera/portada.webp",
+    "alt": "Rehabilitación de vigas y estructura de tejado de madera",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/carpinteria-exterior/",
@@ -1847,23 +2134,53 @@
      "items": [
       {
        "h3": "Porches de madera a medida",
-       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela."
+       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela.",
+       "image": {
+        "src": "/img/carpinteria-exterior/porches-de-madera-a-medida.webp",
+        "alt": "Porches de madera a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Pérgolas",
-       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato."
+       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato.",
+       "image": {
+        "src": "/img/carpinteria-exterior/pergolas.webp",
+        "alt": "Pérgolas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Cobertizos de madera",
-       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible."
+       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible.",
+       "image": {
+        "src": "/img/carpinteria-exterior/cobertizos-de-madera.webp",
+        "alt": "Cobertizos de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Puertas exteriores de madera",
-       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente."
+       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente.",
+       "image": {
+        "src": "/img/carpinteria-exterior/puertas-exteriores-de-madera.webp",
+        "alt": "Puertas exteriores de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de exterior a medida",
-       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie."
+       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie.",
+       "image": {
+        "src": "/img/carpinteria-exterior/muebles-de-exterior-a-medida.webp",
+        "alt": "Muebles de exterior a medida",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -1924,9 +2241,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "carpinteria-exterior"
+     "images": [
+      {
+       "src": "/img/carpinteria-exterior/trabajo-1.webp",
+       "alt": "Porche de madera a medida · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/trabajo-2.webp",
+       "alt": "Porche de madera a medida · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/trabajo-3.webp",
+       "alt": "Porche de madera a medida · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -2163,7 +2499,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/carpinteria-exterior/portada.webp",
+    "alt": "Porche de madera a medida",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/suelos-de-madera/",
@@ -2195,19 +2537,43 @@
      "items": [
       {
        "h3": "Tarima de madera",
-       "text": "Instalación de tarima maciza o multicapa, flotante o clavada sobre rastrel, según el soporte y el uso de la estancia."
+       "text": "Instalación de tarima maciza o multicapa, flotante o clavada sobre rastrel, según el soporte y el uso de la estancia.",
+       "image": {
+        "src": "/img/suelos-de-madera/tarima-de-madera.webp",
+        "alt": "Tarima de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Parquet",
-       "text": "Colocación de parquet en distintos formatos y reparación de zonas dañadas."
+       "text": "Colocación de parquet en distintos formatos y reparación de zonas dañadas.",
+       "image": {
+        "src": "/img/suelos-de-madera/parquet.webp",
+        "alt": "Parquet",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Pulido y barnizado",
-       "text": "Recuperamos suelos de madera antiguos: pulido, reparación de juntas y barnizado o aceitado."
+       "text": "Recuperamos suelos de madera antiguos: pulido, reparación de juntas y barnizado o aceitado.",
+       "image": {
+        "src": "/img/suelos-de-madera/pulido-y-barnizado.webp",
+        "alt": "Pulido y barnizado",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Escaleras y rodapiés",
-       "text": "Revestimiento de escaleras con madera y rodapiés a juego con el suelo."
+       "text": "Revestimiento de escaleras con madera y rodapiés a juego con el suelo.",
+       "image": {
+        "src": "/img/suelos-de-madera/escaleras-y-rodapies.webp",
+        "alt": "Escaleras y rodapiés",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -2259,9 +2625,28 @@
      "links": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "suelos-de-madera"
+     "images": [
+      {
+       "src": "/img/suelos-de-madera/trabajo-1.webp",
+       "alt": "Suelo de tarima de madera · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/suelos-de-madera/trabajo-2.webp",
+       "alt": "Suelo de tarima de madera · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/suelos-de-madera/trabajo-3.webp",
+       "alt": "Suelo de tarima de madera · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -2471,7 +2856,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/suelos-de-madera/portada.webp",
+    "alt": "Suelo de tarima de madera",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/cocinas-a-medida/pontevedra/",
@@ -2530,27 +2921,63 @@
      "items": [
       {
        "h3": "Diseño de cocina con render 3D",
-       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto."
+       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/diseno-de-cocina-con-render-3d.webp",
+        "alt": "Diseño de cocina con render 3D",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Fabricación de muebles de cocina en taller propio",
-       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra."
+       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/fabricacion-de-muebles-de-cocina-en-taller-propio.webp",
+        "alt": "Fabricación de muebles de cocina en taller propio",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Encimeras de porcelánico, granito y Silestone",
-       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno."
+       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno.",
+       "image": {
+        "src": "/img/cocinas-a-medida/encimeras-de-porcelanico-granito-y-silestone.webp",
+        "alt": "Encimeras de porcelánico, granito y Silestone",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Electrodomésticos de varias marcas",
-       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto."
+       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/electrodomesticos-de-varias-marcas.webp",
+        "alt": "Electrodomésticos de varias marcas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Reforma de cocina (parte de carpintería)",
-       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva."
+       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva.",
+       "image": {
+        "src": "/img/cocinas-a-medida/reforma-de-cocina-parte-de-carpinteria.webp",
+        "alt": "Reforma de cocina (parte de carpintería)",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Montaje por equipo propio",
-       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra."
+       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/montaje-por-equipo-propio.webp",
+        "alt": "Montaje por equipo propio",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -2606,9 +3033,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "cocinas-a-medida"
+     "images": [
+      {
+       "src": "/img/cocinas-a-medida/pontevedra/trabajo-1.webp",
+       "alt": "Cocina a medida de madera en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/pontevedra/trabajo-2.webp",
+       "alt": "Cocina a medida de madera en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/pontevedra/trabajo-3.webp",
+       "alt": "Cocina a medida de madera en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -2871,7 +3317,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/cocinas-a-medida/pontevedra/portada.webp",
+    "alt": "Cocina a medida de madera en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/cocinas-a-medida/santiago-de-compostela/",
@@ -2930,27 +3382,63 @@
      "items": [
       {
        "h3": "Diseño de cocina con render 3D",
-       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto."
+       "text": "Antes de fabricar nada te enseñamos cómo quedará tu cocina con una representación en 3D y una valoración económica detallada. Si aceptas el proyecto, el coste del diseño se descuenta del presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/diseno-de-cocina-con-render-3d.webp",
+        "alt": "Diseño de cocina con render 3D",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Fabricación de muebles de cocina en taller propio",
-       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra."
+       "text": "Fabricamos los módulos en nuestro taller, con la maquinaria necesaria para ajustarnos a cualquier medida: rincones, pilares, techos bajos o paredes que no están a escuadra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/fabricacion-de-muebles-de-cocina-en-taller-propio.webp",
+        "alt": "Fabricación de muebles de cocina en taller propio",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Encimeras de porcelánico, granito y Silestone",
-       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno."
+       "text": "Trabajamos los materiales de encimera más demandados y te asesoramos según el uso: resistencia al calor, a las manchas y al rayado, y el mantenimiento que necesita cada uno.",
+       "image": {
+        "src": "/img/cocinas-a-medida/encimeras-de-porcelanico-granito-y-silestone.webp",
+        "alt": "Encimeras de porcelánico, granito y Silestone",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Electrodomésticos de varias marcas",
-       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto."
+       "text": "Podemos incluir los electrodomésticos en el proyecto. No estamos vinculados a ninguna marca, así que elegimos contigo los que mejor encajan en el diseño y en tu presupuesto.",
+       "image": {
+        "src": "/img/cocinas-a-medida/electrodomesticos-de-varias-marcas.webp",
+        "alt": "Electrodomésticos de varias marcas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Reforma de cocina (parte de carpintería)",
-       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva."
+       "text": "Si la cocina forma parte de una reforma, nos encargamos de toda la carpintería: muebles, encimeras, paneles y remates. Desde pequeños retoques hasta cocinas completas en obra nueva.",
+       "image": {
+        "src": "/img/cocinas-a-medida/reforma-de-cocina-parte-de-carpinteria.webp",
+        "alt": "Reforma de cocina (parte de carpintería)",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Montaje por equipo propio",
-       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra."
+       "text": "Nuestros montadores son profesionales con experiencia en todo tipo de proyectos y resuelven sobre la marcha los imprevistos que aparecen en obra.",
+       "image": {
+        "src": "/img/cocinas-a-medida/montaje-por-equipo-propio.webp",
+        "alt": "Montaje por equipo propio",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -3006,9 +3494,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "cocinas-a-medida"
+     "images": [
+      {
+       "src": "/img/cocinas-a-medida/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Cocina a medida de madera en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Cocina a medida de madera en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/cocinas-a-medida/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Cocina a medida de madera en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -3271,7 +3778,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/cocinas-a-medida/santiago-de-compostela/portada.webp",
+    "alt": "Cocina a medida de madera en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/armarios-a-medida/pontevedra/",
@@ -3330,23 +3843,53 @@
      "items": [
       {
        "h3": "Armarios empotrados",
-       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio."
+       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio.",
+       "image": {
+        "src": "/img/armarios-a-medida/armarios-empotrados.webp",
+        "alt": "Armarios empotrados",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vestidores",
-       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas."
+       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas.",
+       "image": {
+        "src": "/img/armarios-a-medida/vestidores.webp",
+        "alt": "Vestidores",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Frentes e interiores de armario",
-       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra."
+       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra.",
+       "image": {
+        "src": "/img/armarios-a-medida/frentes-e-interiores-de-armario.webp",
+        "alt": "Frentes e interiores de armario",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Despensas a medida",
-       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano."
+       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano.",
+       "image": {
+        "src": "/img/armarios-a-medida/despensas-a-medida.webp",
+        "alt": "Despensas a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Huecos irregulares y bajo cubierta",
-       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia."
+       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia.",
+       "image": {
+        "src": "/img/armarios-a-medida/huecos-irregulares-y-bajo-cubierta.webp",
+        "alt": "Huecos irregulares y bajo cubierta",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -3385,9 +3928,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "armarios-a-medida"
+     "images": [
+      {
+       "src": "/img/armarios-a-medida/pontevedra/trabajo-1.webp",
+       "alt": "Armario empotrado a medida en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/pontevedra/trabajo-2.webp",
+       "alt": "Armario empotrado a medida en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/pontevedra/trabajo-3.webp",
+       "alt": "Armario empotrado a medida en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -3643,7 +4205,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/armarios-a-medida/pontevedra/portada.webp",
+    "alt": "Armario empotrado a medida en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/armarios-a-medida/santiago-de-compostela/",
@@ -3702,23 +4270,53 @@
      "items": [
       {
        "h3": "Armarios empotrados",
-       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio."
+       "text": "Aprovechamos el hueco de suelo a techo, con puertas abatibles o correderas según el espacio de paso que tenga el dormitorio.",
+       "image": {
+        "src": "/img/armarios-a-medida/armarios-empotrados.webp",
+        "alt": "Armarios empotrados",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vestidores",
-       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas."
+       "text": "Diseñamos vestidores abiertos o cerrados, con zonas de colgar, cajoneras, zapateros y baldas a la altura que necesitas.",
+       "image": {
+        "src": "/img/armarios-a-medida/vestidores.webp",
+        "alt": "Vestidores",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Frentes e interiores de armario",
-       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra."
+       "text": "Si el armario está bien pero se ha quedado anticuado, renovamos las puertas o reorganizamos el interior sin hacer obra.",
+       "image": {
+        "src": "/img/armarios-a-medida/frentes-e-interiores-de-armario.webp",
+        "alt": "Frentes e interiores de armario",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Despensas a medida",
-       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano."
+       "text": "Despensas en la cocina, en el pasillo o bajo la escalera, con baldas regulables y cajones de extracción para tenerlo todo a mano.",
+       "image": {
+        "src": "/img/armarios-a-medida/despensas-a-medida.webp",
+        "alt": "Despensas a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Huecos irregulares y bajo cubierta",
-       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia."
+       "text": "Buhardillas, techos inclinados, esquinas y pilares: son los huecos donde un mueble a medida marca la diferencia.",
+       "image": {
+        "src": "/img/armarios-a-medida/huecos-irregulares-y-bajo-cubierta.webp",
+        "alt": "Huecos irregulares y bajo cubierta",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -3757,9 +4355,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "armarios-a-medida"
+     "images": [
+      {
+       "src": "/img/armarios-a-medida/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Armario empotrado a medida en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Armario empotrado a medida en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/armarios-a-medida/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Armario empotrado a medida en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -4015,7 +4632,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/armarios-a-medida/santiago-de-compostela/portada.webp",
+    "alt": "Armario empotrado a medida en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/muebles-a-medida/pontevedra/",
@@ -4074,23 +4697,53 @@
      "items": [
       {
        "h3": "Muebles de salón y librerías",
-       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera."
+       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-salon-y-librerias.webp",
+        "alt": "Muebles de salón y librerías",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Dormitorios juveniles e infantiles",
-       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas."
+       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas.",
+       "image": {
+        "src": "/img/muebles-a-medida/dormitorios-juveniles-e-infantiles.webp",
+        "alt": "Dormitorios juveniles e infantiles",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de baño a medida",
-       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad."
+       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-bano-a-medida.webp",
+        "alt": "Muebles de baño a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Recibidores y zapateros",
-       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos."
+       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos.",
+       "image": {
+        "src": "/img/muebles-a-medida/recibidores-y-zapateros.webp",
+        "alt": "Recibidores y zapateros",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Mobiliario para locales",
-       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local."
+       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local.",
+       "image": {
+        "src": "/img/muebles-a-medida/mobiliario-para-locales.webp",
+        "alt": "Mobiliario para locales",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -4129,9 +4782,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "muebles-a-medida"
+     "images": [
+      {
+       "src": "/img/muebles-a-medida/pontevedra/trabajo-1.webp",
+       "alt": "Mueble de madera a medida en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/pontevedra/trabajo-2.webp",
+       "alt": "Mueble de madera a medida en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/pontevedra/trabajo-3.webp",
+       "alt": "Mueble de madera a medida en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -4387,7 +5059,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/muebles-a-medida/pontevedra/portada.webp",
+    "alt": "Mueble de madera a medida en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/muebles-a-medida/santiago-de-compostela/",
@@ -4446,23 +5124,53 @@
      "items": [
       {
        "h3": "Muebles de salón y librerías",
-       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera."
+       "text": "Muebles de televisión, librerías de pared a pared y estanterías que aprovechan nichos y huecos de escalera.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-salon-y-librerias.webp",
+        "alt": "Muebles de salón y librerías",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Dormitorios juveniles e infantiles",
-       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas."
+       "text": "Camas, escritorios y armarios que se adaptan al espacio y crecen con los niños: camas nido, altillos o zonas de estudio integradas.",
+       "image": {
+        "src": "/img/muebles-a-medida/dormitorios-juveniles-e-infantiles.webp",
+        "alt": "Dormitorios juveniles e infantiles",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de baño a medida",
-       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad."
+       "text": "Muebles de lavabo y encimeras de baño a medida, con materiales y acabados preparados para la humedad.",
+       "image": {
+        "src": "/img/muebles-a-medida/muebles-de-bano-a-medida.webp",
+        "alt": "Muebles de baño a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Recibidores y zapateros",
-       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos."
+       "text": "Entradas con zapatero, banco y perchero integrados, para aprovechar pasillos y recibidores estrechos.",
+       "image": {
+        "src": "/img/muebles-a-medida/recibidores-y-zapateros.webp",
+        "alt": "Recibidores y zapateros",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Mobiliario para locales",
-       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local."
+       "text": "Mostradores, expositores y mobiliario para comercios y hostelería, fabricados a la medida del local.",
+       "image": {
+        "src": "/img/muebles-a-medida/mobiliario-para-locales.webp",
+        "alt": "Mobiliario para locales",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -4501,9 +5209,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "muebles-a-medida"
+     "images": [
+      {
+       "src": "/img/muebles-a-medida/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Mueble de madera a medida en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Mueble de madera a medida en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/muebles-a-medida/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Mueble de madera a medida en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -4759,7 +5486,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/muebles-a-medida/santiago-de-compostela/portada.webp",
+    "alt": "Mueble de madera a medida en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/rehabilitacion-de-madera/pontevedra/",
@@ -4818,23 +5551,53 @@
      "items": [
       {
        "h3": "Tejados y cubiertas de madera",
-       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición."
+       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/tejados-y-cubiertas-de-madera.webp",
+        "alt": "Tejados y cubiertas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Armazones y estructuras de madera",
-       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas."
+       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/armazones-y-estructuras-de-madera.webp",
+        "alt": "Armazones y estructuras de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vigas de madera",
-       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos."
+       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/vigas-de-madera.webp",
+        "alt": "Vigas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Forjados de madera",
-       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones."
+       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/forjados-de-madera.webp",
+        "alt": "Forjados de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Refuerzo y sustitución de piezas dañadas",
-       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda."
+       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/refuerzo-y-sustitucion-de-piezas-danadas.webp",
+        "alt": "Refuerzo y sustitución de piezas dañadas",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -4873,9 +5636,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "rehabilitacion-de-madera"
+     "images": [
+      {
+       "src": "/img/rehabilitacion-de-madera/pontevedra/trabajo-1.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/pontevedra/trabajo-2.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/pontevedra/trabajo-3.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -5139,7 +5921,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/rehabilitacion-de-madera/pontevedra/portada.webp",
+    "alt": "Rehabilitación de vigas y estructura de tejado de madera en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/rehabilitacion-de-madera/santiago-de-compostela/",
@@ -5198,23 +5986,53 @@
      "items": [
       {
        "h3": "Tejados y cubiertas de madera",
-       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición."
+       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/tejados-y-cubiertas-de-madera.webp",
+        "alt": "Tejados y cubiertas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Armazones y estructuras de madera",
-       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas."
+       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/armazones-y-estructuras-de-madera.webp",
+        "alt": "Armazones y estructuras de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vigas de madera",
-       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos."
+       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/vigas-de-madera.webp",
+        "alt": "Vigas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Forjados de madera",
-       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones."
+       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/forjados-de-madera.webp",
+        "alt": "Forjados de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Refuerzo y sustitución de piezas dañadas",
-       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda."
+       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/refuerzo-y-sustitucion-de-piezas-danadas.webp",
+        "alt": "Refuerzo y sustitución de piezas dañadas",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -5253,9 +6071,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "rehabilitacion-de-madera"
+     "images": [
+      {
+       "src": "/img/rehabilitacion-de-madera/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -5519,7 +6356,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/rehabilitacion-de-madera/santiago-de-compostela/portada.webp",
+    "alt": "Rehabilitación de vigas y estructura de tejado de madera en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/rehabilitacion-de-madera/sanxenxo/",
@@ -5574,23 +6417,53 @@
      "items": [
       {
        "h3": "Tejados y cubiertas de madera",
-       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición."
+       "text": "Rehabilitamos la estructura de madera de la cubierta: cerchas, correas, pares y tablazón. Sustituimos las piezas dañadas y dejamos la estructura lista para el material de cubrición.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/tejados-y-cubiertas-de-madera.webp",
+        "alt": "Tejados y cubiertas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Armazones y estructuras de madera",
-       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas."
+       "text": "Reparamos y reforzamos estructuras de madera en viviendas: entramados, pilares y estructuras de buhardillas.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/armazones-y-estructuras-de-madera.webp",
+        "alt": "Armazones y estructuras de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Vigas de madera",
-       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos."
+       "text": "Revisamos las vigas, reforzamos las que conservan sección suficiente y sustituimos las que han perdido capacidad por la humedad, la pudrición o los insectos xilófagos.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/vigas-de-madera.webp",
+        "alt": "Vigas de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Forjados de madera",
-       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones."
+       "text": "Rehabilitamos forjados de madera, con refuerzo o sustitución de viguetas y renovación del entablado, para recuperar un suelo firme y sin deformaciones.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/forjados-de-madera.webp",
+        "alt": "Forjados de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Refuerzo y sustitución de piezas dañadas",
-       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda."
+       "text": "Cuando una pieza no se puede salvar, la sustituimos por madera nueva de sección adecuada, respetando la estructura original de la vivienda.",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/refuerzo-y-sustitucion-de-piezas-danadas.webp",
+        "alt": "Refuerzo y sustitución de piezas dañadas",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -5629,9 +6502,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "rehabilitacion-de-madera"
+     "images": [
+      {
+       "src": "/img/rehabilitacion-de-madera/sanxenxo/trabajo-1.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Sanxenxo · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/sanxenxo/trabajo-2.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Sanxenxo · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/rehabilitacion-de-madera/sanxenxo/trabajo-3.webp",
+       "alt": "Rehabilitación de vigas y estructura de tejado de madera en Sanxenxo · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -5859,7 +6751,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/rehabilitacion-de-madera/sanxenxo/portada.webp",
+    "alt": "Rehabilitación de vigas y estructura de tejado de madera en Sanxenxo",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/carpinteria-exterior/pontevedra/",
@@ -5918,23 +6816,53 @@
      "items": [
       {
        "h3": "Porches de madera a medida",
-       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela."
+       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela.",
+       "image": {
+        "src": "/img/carpinteria-exterior/porches-de-madera-a-medida.webp",
+        "alt": "Porches de madera a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Pérgolas",
-       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato."
+       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato.",
+       "image": {
+        "src": "/img/carpinteria-exterior/pergolas.webp",
+        "alt": "Pérgolas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Cobertizos de madera",
-       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible."
+       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible.",
+       "image": {
+        "src": "/img/carpinteria-exterior/cobertizos-de-madera.webp",
+        "alt": "Cobertizos de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Puertas exteriores de madera",
-       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente."
+       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente.",
+       "image": {
+        "src": "/img/carpinteria-exterior/puertas-exteriores-de-madera.webp",
+        "alt": "Puertas exteriores de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de exterior a medida",
-       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie."
+       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie.",
+       "image": {
+        "src": "/img/carpinteria-exterior/muebles-de-exterior-a-medida.webp",
+        "alt": "Muebles de exterior a medida",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -5973,9 +6901,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "carpinteria-exterior"
+     "images": [
+      {
+       "src": "/img/carpinteria-exterior/pontevedra/trabajo-1.webp",
+       "alt": "Porche de madera a medida en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/pontevedra/trabajo-2.webp",
+       "alt": "Porche de madera a medida en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/pontevedra/trabajo-3.webp",
+       "alt": "Porche de madera a medida en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -6231,7 +7178,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/carpinteria-exterior/pontevedra/portada.webp",
+    "alt": "Porche de madera a medida en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/carpinteria-exterior/santiago-de-compostela/",
@@ -6290,23 +7243,53 @@
      "items": [
       {
        "h3": "Porches de madera a medida",
-       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela."
+       "text": "Porches adosados o exentos, con estructura de madera y la cubierta que elijas, diseñados para tu fachada y tu parcela.",
+       "image": {
+        "src": "/img/carpinteria-exterior/porches-de-madera-a-medida.webp",
+        "alt": "Porches de madera a medida",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Pérgolas",
-       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato."
+       "text": "Pérgolas de madera para terrazas y jardines, abiertas o preparadas para cubrir con lamas, lona o policarbonato.",
+       "image": {
+        "src": "/img/carpinteria-exterior/pergolas.webp",
+        "alt": "Pérgolas",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Cobertizos de madera",
-       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible."
+       "text": "Cobertizos y casetas para herramientas, leña o almacenaje, a la medida del espacio disponible.",
+       "image": {
+        "src": "/img/carpinteria-exterior/cobertizos-de-madera.webp",
+        "alt": "Cobertizos de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Puertas exteriores de madera",
-       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente."
+       "text": "Puertas de entrada y de exterior en madera, fabricadas a medida para el hueco existente.",
+       "image": {
+        "src": "/img/carpinteria-exterior/puertas-exteriores-de-madera.webp",
+        "alt": "Puertas exteriores de madera",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "h3": "Muebles de exterior a medida",
-       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie."
+       "text": "Bancos, mesas y mobiliario de jardín o terraza en madera preparada para estar a la intemperie.",
+       "image": {
+        "src": "/img/carpinteria-exterior/muebles-de-exterior-a-medida.webp",
+        "alt": "Muebles de exterior a medida",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -6345,9 +7328,28 @@
      "ranges": []
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos realizados",
-     "service": "carpinteria-exterior"
+     "images": [
+      {
+       "src": "/img/carpinteria-exterior/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Porche de madera a medida en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Porche de madera a medida en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria-exterior/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Porche de madera a medida en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "testimonials",
@@ -6603,7 +7605,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/carpinteria-exterior/santiago-de-compostela/portada.webp",
+    "alt": "Porche de madera a medida en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/carpinteria/pontevedra/",
@@ -6636,32 +7644,68 @@
       {
        "title": "Cocinas a medida en Pontevedra",
        "text": "Diseño con render, fabricación en taller propio y montaje por nuestro equipo.",
-       "url": "/cocinas-a-medida/pontevedra/"
+       "url": "/cocinas-a-medida/pontevedra/",
+       "image": {
+        "src": "/img/cocinas-a-medida/pontevedra/portada.webp",
+        "alt": "Cocina a medida de madera en Pontevedra",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Armarios y vestidores a medida en Pontevedra",
        "text": "Armarios empotrados y vestidores a la medida exacta del hueco.",
-       "url": "/armarios-a-medida/pontevedra/"
+       "url": "/armarios-a-medida/pontevedra/",
+       "image": {
+        "src": "/img/armarios-a-medida/pontevedra/portada.webp",
+        "alt": "Armario empotrado a medida en Pontevedra",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Muebles a medida en Pontevedra",
        "text": "Salones, librerías, dormitorios, muebles de baño y mobiliario para locales.",
-       "url": "/muebles-a-medida/pontevedra/"
+       "url": "/muebles-a-medida/pontevedra/",
+       "image": {
+        "src": "/img/muebles-a-medida/pontevedra/portada.webp",
+        "alt": "Mueble de madera a medida en Pontevedra",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Rehabilitación de madera en viviendas en Pontevedra",
        "text": "Tejados y cubiertas, armazones, vigas y forjados de madera en viviendas.",
-       "url": "/rehabilitacion-de-madera/pontevedra/"
+       "url": "/rehabilitacion-de-madera/pontevedra/",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/pontevedra/portada.webp",
+        "alt": "Rehabilitación de vigas y estructura de tejado de madera en Pontevedra",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Carpintería exterior de madera en Pontevedra",
        "text": "Porches, pérgolas, cobertizos y puertas exteriores de madera.",
-       "url": "/carpinteria-exterior/pontevedra/"
+       "url": "/carpinteria-exterior/pontevedra/",
+       "image": {
+        "src": "/img/carpinteria-exterior/pontevedra/portada.webp",
+        "alt": "Porche de madera a medida en Pontevedra",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Suelos de madera",
        "text": "Tarima, parquet, pulido y barnizado, escaleras y rodapiés.",
-       "url": "/suelos-de-madera/"
+       "url": "/suelos-de-madera/",
+       "image": {
+        "src": "/img/suelos-de-madera/portada.webp",
+        "alt": "Suelo de tarima de madera",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -6686,9 +7730,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos en Pontevedra",
-     "service": null
+     "images": [
+      {
+       "src": "/img/carpinteria/pontevedra/trabajo-1.webp",
+       "alt": "Trabajo de carpintería de madera en Pontevedra · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria/pontevedra/trabajo-2.webp",
+       "alt": "Trabajo de carpintería de madera en Pontevedra · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria/pontevedra/trabajo-3.webp",
+       "alt": "Trabajo de carpintería de madera en Pontevedra · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "links",
@@ -6827,7 +7890,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/carpinteria/pontevedra/portada.webp",
+    "alt": "Trabajo de carpintería de madera en Pontevedra",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/carpinteria/santiago-de-compostela/",
@@ -6860,32 +7929,68 @@
       {
        "title": "Cocinas a medida en Santiago de Compostela",
        "text": "Diseño con render, fabricación en taller propio y montaje por nuestro equipo.",
-       "url": "/cocinas-a-medida/santiago-de-compostela/"
+       "url": "/cocinas-a-medida/santiago-de-compostela/",
+       "image": {
+        "src": "/img/cocinas-a-medida/santiago-de-compostela/portada.webp",
+        "alt": "Cocina a medida de madera en Santiago de Compostela",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Armarios y vestidores a medida en Santiago de Compostela",
        "text": "Armarios empotrados y vestidores a la medida exacta del hueco.",
-       "url": "/armarios-a-medida/santiago-de-compostela/"
+       "url": "/armarios-a-medida/santiago-de-compostela/",
+       "image": {
+        "src": "/img/armarios-a-medida/santiago-de-compostela/portada.webp",
+        "alt": "Armario empotrado a medida en Santiago de Compostela",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Muebles a medida en Santiago de Compostela",
        "text": "Salones, librerías, dormitorios, muebles de baño y mobiliario para locales.",
-       "url": "/muebles-a-medida/santiago-de-compostela/"
+       "url": "/muebles-a-medida/santiago-de-compostela/",
+       "image": {
+        "src": "/img/muebles-a-medida/santiago-de-compostela/portada.webp",
+        "alt": "Mueble de madera a medida en Santiago de Compostela",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Rehabilitación de madera en viviendas en Santiago de Compostela",
        "text": "Tejados y cubiertas, armazones, vigas y forjados de madera en viviendas.",
-       "url": "/rehabilitacion-de-madera/santiago-de-compostela/"
+       "url": "/rehabilitacion-de-madera/santiago-de-compostela/",
+       "image": {
+        "src": "/img/rehabilitacion-de-madera/santiago-de-compostela/portada.webp",
+        "alt": "Rehabilitación de vigas y estructura de tejado de madera en Santiago de Compostela",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Carpintería exterior de madera en Santiago de Compostela",
        "text": "Porches, pérgolas, cobertizos y puertas exteriores de madera.",
-       "url": "/carpinteria-exterior/santiago-de-compostela/"
+       "url": "/carpinteria-exterior/santiago-de-compostela/",
+       "image": {
+        "src": "/img/carpinteria-exterior/santiago-de-compostela/portada.webp",
+        "alt": "Porche de madera a medida en Santiago de Compostela",
+        "width": 900,
+        "height": 600
+       }
       },
       {
        "title": "Suelos de madera",
        "text": "Tarima, parquet, pulido y barnizado, escaleras y rodapiés.",
-       "url": "/suelos-de-madera/"
+       "url": "/suelos-de-madera/",
+       "image": {
+        "src": "/img/suelos-de-madera/portada.webp",
+        "alt": "Suelo de tarima de madera",
+        "width": 900,
+        "height": 600
+       }
       }
      ]
     },
@@ -6910,9 +8015,28 @@
      ]
     },
     {
-     "kind": "projects",
+     "kind": "gallery",
      "h2": "Trabajos en Santiago de Compostela",
-     "service": null
+     "images": [
+      {
+       "src": "/img/carpinteria/santiago-de-compostela/trabajo-1.webp",
+       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 1",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria/santiago-de-compostela/trabajo-2.webp",
+       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 2",
+       "width": 1200,
+       "height": 900
+      },
+      {
+       "src": "/img/carpinteria/santiago-de-compostela/trabajo-3.webp",
+       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 3",
+       "width": 1200,
+       "height": 900
+      }
+     ]
     },
     {
      "kind": "links",
@@ -7051,7 +8175,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/carpinteria/santiago-de-compostela/portada.webp",
+    "alt": "Trabajo de carpintería de madera en Santiago de Compostela",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/presupuesto/",
@@ -7294,7 +8424,13 @@
      "url": "/cookies/",
      "label": "Cookies"
     }
-   ]
+   ],
+   "hero_image": {
+    "src": "/img/sobre-nosotros/taller.webp",
+    "alt": "Taller de carpintería en A Estrada",
+    "width": 1500,
+    "height": 1000
+   }
   },
   {
    "route": "/aviso-legal/",

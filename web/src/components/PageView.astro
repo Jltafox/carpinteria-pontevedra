@@ -2,25 +2,38 @@
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from './Breadcrumbs.astro';
 import CtaButtons from './CtaButtons.astro';
+import Img from './Img.astro';
 import Section from './Section.astro';
-import { fill } from '../lib/site';
+import { biz, fill } from '../lib/site';
 
 interface Props {
   page: any;
 }
 const { page } = Astro.props;
+// Sin testimonios reales, esa sección no se publica (en desarrollo se ve como recordatorio).
+const sections = page.sections.filter(
+  (s: any) => s.kind !== 'testimonials' || (biz.testimonios || []).length > 0 || import.meta.env.DEV,
+);
+const eyebrow = page.type === 'service-area'
+  ? `${page.breadcrumbs[1]?.name} · ${page.breadcrumbs[2]?.name}`
+  : page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
+  : page.type === 'pillar' ? 'Servicio' : 'Carpintería de madera a medida';
 ---
 <Base page={page}>
   {page.breadcrumbs.length > 0 && <Breadcrumbs items={page.breadcrumbs} />}
   <section class="hero">
-    <div class="wrap">
-      <h1>{fill(page.h1)}</h1>
-      {page.lead && <p class="lead">{fill(page.lead)}</p>}
-      <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <p class="eyebrow">{eyebrow}</p>
+        <h1>{fill(page.h1)}</h1>
+        {page.lead && <p class="lead">{fill(page.lead)}</p>}
+        <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+      </div>
+      {page.hero_image && <Img image={page.hero_image} eager class="hero-img" />}
     </div>
   </section>
-  {page.sections.map((section: any) => <Section section={section} />)}
-  <section class="block cta-final">
+  {sections.map((section: any, i: number) => <Section section={section} index={i + 1} />)}
+  <section class="cta-final">
     <div class="wrap">
       <h2>¿Hablamos de tu proyecto?</h2>
       <p>Te llamamos en menos de 2 días y visitamos tu vivienda en 3–4 días laborables.</p>

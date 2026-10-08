@@ -2,35 +2,47 @@
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import CtaButtons from '../components/CtaButtons.astro';
-import { biz, pageByRoute, services } from '../lib/site';
+import Img from '../components/Img.astro';
+import { pageByRoute, services } from '../lib/site';
 
 const page = pageByRoute('/proyectos/');
-const projects = biz.proyectos || [];
+// Una galería por servicio: las mismas fotos que la galería de cada página pilar.
+const galleries = services.map((s) => ({
+  route: s.route,
+  name: s.h1,
+  images: s.sections.find((x: any) => x.kind === 'gallery')?.images ?? [],
+}));
 ---
 <Base page={page}>
   <Breadcrumbs items={page.breadcrumbs} />
   <section class="hero">
     <div class="wrap">
-      <h1>Trabajos realizados</h1>
+      <p class="eyebrow">Trabajos realizados</p>
+      <h1>Proyectos de carpintería a medida</h1>
       <p class="lead">Cocinas, armarios, muebles, rehabilitaciones y carpintería exterior hechos por nuestro equipo.</p>
     </div>
   </section>
-  <section class="block">
-    <div class="wrap">
-      {projects.length > 0 ? (
-        <div class="grid">
-          {projects.map((p: any) => (
-            <figure class="card project">
-              {p.imagen && <img src={p.imagen} alt={p.alt || p.titulo} loading="lazy" width="640" height="480" />}
-              <figcaption><strong>{p.titulo}</strong>{p.municipio && ` · ${p.municipio}`}<br />{p.texto}</figcaption>
+  {galleries.map((g, i) => (
+    <section class="block">
+      <div class="wrap">
+        <header class="block-head">
+          <span class="num">{String(i + 1).padStart(2, '0')}</span>
+          <h2><a href={g.route}>{g.name}</a></h2>
+        </header>
+        <div class="gallery">
+          {g.images.map((img: any) => (
+            <figure>
+              <Img image={img} />
+              <figcaption>{img.alt}</figcaption>
             </figure>
           ))}
         </div>
-      ) : (
-        <p class="placeholder">Estamos preparando la galería de trabajos. Mientras tanto, pídenos fotos de proyectos parecidos al tuyo.</p>
-      )}
-      <h2>Nuestros servicios</h2>
-      <ul class="pills">{services.map((s) => <li><a href={s.route}>{s.h1}</a></li>)}</ul>
+      </div>
+    </section>
+  ))}
+  <section class="cta-final">
+    <div class="wrap">
+      <h2>¿Quieres algo parecido en tu casa?</h2>
       <CtaButtons />
     </div>
   </section>

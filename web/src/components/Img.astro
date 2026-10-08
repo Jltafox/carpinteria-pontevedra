@@ -1,0 +1,24 @@
+---
+// Muestra la foto si existe en public/; si no, un hueco con su ruta definitiva, tamaño y alt propuesto.
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+
+interface Props {
+  image: { src: string; alt: string; width: number; height: number };
+  eager?: boolean;
+  class?: string;
+}
+const { image, eager = false, class: className = '' } = Astro.props;
+const exists = existsSync(join(process.cwd(), 'public', image.src));
+---
+{exists ? (
+  <img class={className} src={image.src} alt={image.alt} width={image.width} height={image.height}
+    loading={eager ? 'eager' : 'lazy'} decoding="async" fetchpriority={eager ? 'high' : undefined} />
+) : (
+  <div class={`img-slot ${className}`} style={`aspect-ratio: ${image.width} / ${image.height}`} role="img"
+    aria-label={`Foto pendiente: ${image.alt}`}>
+    <span class="img-slot-label">Foto pendiente</span>
+    <code>{image.src}</code>
+    <small>{image.width} × {image.height} px · {image.alt}</small>
+  </div>
+)}

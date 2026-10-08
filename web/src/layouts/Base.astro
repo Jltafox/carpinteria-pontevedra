@@ -31,6 +31,7 @@ const noindex = page.noindex || !indexable;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     {canonical && <meta property="og:url" content={canonical} />}
+    {base && page.hero_image && <meta property="og:image" content={base + page.hero_image.src} />}
     {jsonld && <script type="application/ld+json" set:html={jsonld} />}
   </head>
   <body>
