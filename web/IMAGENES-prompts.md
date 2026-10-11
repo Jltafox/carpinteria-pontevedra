@@ -201,7 +201,7 @@ Custom oak counter and display shelves in a small local shop, empty of customers
 
 ## Página `/rehabilitacion-de-madera/`
 
-### 21. rehabilitacion-de-madera__portada.png
+### 21. rehabilitacion-de-madera__portada.png · ✓ hecha
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/portada.webp`
@@ -210,7 +210,7 @@ Custom oak counter and display shelves in a small local shop, empty of customers
 Inside a traditional Galician stone house after restoration: exposed chestnut roof beams and rafters, some original with dark patina and some new honey-toned timber, thick granite walls, wooden boarded ceiling, daylight from a small deep window. Setting: a traditional granite stone house in rural Galicia (Spain), soft Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
 ```
 
-### 22. rehabilitacion-de-madera__tejados-y-cubiertas-de-madera.png
+### 22. rehabilitacion-de-madera__tejados-y-cubiertas-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/tejados-y-cubiertas-de-madera.webp`
@@ -219,7 +219,7 @@ Inside a traditional Galician stone house after restoration: exposed chestnut ro
 Roof of a traditional granite house being restored: new chestnut rafters and purlins fitted over the old stone walls, stacks of clay roof tiles ready to lay, overcast sky. Setting: a traditional granite stone house in rural Galicia (Spain), soft Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
 ```
 
-### 23. rehabilitacion-de-madera__armazones-y-estructuras-de-madera.png
+### 23. rehabilitacion-de-madera__armazones-y-estructuras-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/armazones-y-estructuras-de-madera.webp`
@@ -228,7 +228,7 @@ Roof of a traditional granite house being restored: new chestnut rafters and pur
 Old timber frame of a stone house attic being reinforced with new oak posts and braces next to the original hand-hewn ones. Setting: a traditional granite stone house in rural Galicia (Spain), soft Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
 ```
 
-### 24. rehabilitacion-de-madera__vigas-de-madera.png
+### 24. rehabilitacion-de-madera__vigas-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/vigas-de-madera.webp`
@@ -237,7 +237,7 @@ Old timber frame of a stone house attic being reinforced with new oak posts and 
 Close-up of an old dark chestnut beam with patina joined to a new honey-coloured beam with a steel plate and bolts, granite wall behind. Setting: a traditional granite stone house in rural Galicia (Spain), soft Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
 ```
 
-### 25. rehabilitacion-de-madera__forjados-de-madera.png
+### 25. rehabilitacion-de-madera__forjados-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/forjados-de-madera.webp`
@@ -246,7 +246,7 @@ Close-up of an old dark chestnut beam with patina joined to a new honey-coloured
 Old wooden floor structure of a stone house opened up: new joists installed next to original hand-hewn ones, before laying new chestnut boards. Setting: a traditional granite stone house in rural Galicia (Spain), soft Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
 ```
 
-### 26. rehabilitacion-de-madera__refuerzo-y-sustitucion-de-piezas-danadas.png
+### 26. rehabilitacion-de-madera__refuerzo-y-sustitucion-de-piezas-danadas.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/rehabilitacion-de-madera/refuerzo-y-sustitucion-de-piezas-danadas.webp`
@@ -258,7 +258,7 @@ Carpenter's hands (no face) probing a decayed old beam with a chisel inside a st
 
 ## Página `/carpinteria-exterior/`
 
-### 27. carpinteria-exterior__portada.png
+### 27. carpinteria-exterior__portada.png · ✓ hecha
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/carpinteria-exterior/portada.webp`
@@ -267,7 +267,7 @@ Carpenter's hands (no face) probing a decayed old beam with a chisel inside a st
 A contemporary timber porch with slim square posts and a flat roof attached to a modern white house, slatted wood details, outdoor furniture, green lawn, soft light after rain. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 28. carpinteria-exterior__porches-de-madera-a-medida.png
+### 28. carpinteria-exterior__porches-de-madera-a-medida.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/carpinteria-exterior/porches-de-madera-a-medida.webp`
@@ -276,7 +276,7 @@ A contemporary timber porch with slim square posts and a flat roof attached to a
 Detail of a modern timber porch: square post and beam joint with concealed black steel connectors. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 29. carpinteria-exterior__pergolas.png
+### 29. carpinteria-exterior__pergolas.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/carpinteria-exterior/pergolas.webp`
@@ -285,7 +285,7 @@ Detail of a modern timber porch: square post and beam joint with concealed black
 Minimalist slatted timber pergola over a porcelain-tiled terrace with contemporary outdoor furniture. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 30. carpinteria-exterior__cobertizos-de-madera.png
+### 30. carpinteria-exterior__cobertizos-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/carpinteria-exterior/cobertizos-de-madera.webp`
@@ -294,7 +294,7 @@ Minimalist slatted timber pergola over a porcelain-tiled terrace with contempora
 Modern slatted wood garden shed with a flat roof next to a contemporary house. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 31. carpinteria-exterior__puertas-exteriores-de-madera.png
+### 31. carpinteria-exterior__puertas-exteriores-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/carpinteria-exterior/puertas-exteriores-de-madera.webp`
@@ -303,7 +303,7 @@ Modern slatted wood garden shed with a flat roof next to a contemporary house. S
 Contemporary solid oak entrance door with vertical grooves and a slim black pull handle, white façade. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 32. carpinteria-exterior__muebles-de-exterior-a-medida.png
+### 32. carpinteria-exterior__muebles-de-exterior-a-medida.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/carpinteria-exterior/muebles-de-exterior-a-medida.webp`
