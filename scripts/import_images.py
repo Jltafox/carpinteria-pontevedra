@@ -44,9 +44,6 @@ def main() -> None:
             wanted = [int(n) for n in args.rehacer.split(",") if n.strip()]
             by_number = {int(r["orden"]): r for r in rows}
             pending = [by_number[n] for n in wanted]
-            for r in pending:  # el original renombrado anterior se aparta para no confundir
-                for old in args.src.glob(Path(r["guardar_como"]).stem + ".*"):
-                    old.rename(old.with_name(old.stem + ".anterior" + old.suffix))
         else:
             pending = [r for r in rows if Path(r["guardar_como"]).stem.lower() not in named and not (ROOT / r["destino"]).exists()]
         if len(loose) > len(pending):
@@ -59,7 +56,10 @@ def main() -> None:
             print(f"(revisión) {len(pairs)} asignaciones. Si es correcto: py scripts/import_images.py --por-orden --aplicar")
             return
         for source, row in pairs:
-            source.rename(source.with_name(Path(row["guardar_como"]).stem + source.suffix.lower()))
+            stem = Path(row["guardar_como"]).stem
+            for previous in args.src.glob(stem + ".*"):  # --rehacer: el original anterior se aparta, no se borra
+                previous.rename(previous.with_name(previous.stem + ".anterior" + previous.suffix))
+            source.rename(source.with_name(stem + source.suffix.lower()))
         images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".jfif", ".webp")]
 
     try:
