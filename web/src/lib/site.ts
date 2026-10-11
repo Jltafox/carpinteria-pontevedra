@@ -50,7 +50,14 @@ export const waHref = (text = 'Hola, quiero pedir presupuesto') =>
 export function mapsEmbedSrc(): string {
   const raw = String(biz.maps_embed_url || '').trim();
   const src = raw.match(/src="([^"]+)"/)?.[1] ?? raw;
-  return /^https:\/\/(www\.)?google\.[a-z.]+\/maps\/embed/.test(src) ? src.replace(/&amp;/g, '&') : '';
+  if (/^https:\/\/(www\.)?google\.[a-z.]+\/maps\/embed/.test(src)) return src.replace(/&amp;/g, '&');
+  // Sin ficha todavía: mapa de Google a partir de la dirección (no necesita clave de API).
+  const address = ['calle', 'cp', 'localidad'].map((k) => String(biz[k] ?? '').trim());
+  if (address.every(Boolean)) {
+    const query = encodeURIComponent(`${address[0]}, ${address[1]} ${address[2]}, España`);
+    return `https://maps.google.com/maps?q=${query}&z=17&hl=es&output=embed`;
+  }
+  return '';
 }
 
 export const slugify = (text: string) =>
