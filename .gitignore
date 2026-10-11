@@ -12,5 +12,5 @@ __pycache__/
 .claude/settings.local.json
 
 # Originales de Nano Banana (pesados): solo se suben los WebP de web/public/img
-fotos-nanobanana/*.png
-fotos-nanobanana/*.jpg
+fotos-nanobanana/*
+!fotos-nanobanana/LEEME.txt

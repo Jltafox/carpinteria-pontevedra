@@ -38,7 +38,8 @@ def main() -> None:
     images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".jfif", ".webp")]
     if args.por_orden:
         known = {Path(r["guardar_como"]).stem.lower() for r in rows}
-        loose = sorted((p for p in images if p.stem.lower() not in known), key=lambda p: p.stat().st_mtime)
+        loose = sorted((p for p in images if p.stem.lower() not in known and not p.stem.endswith(".anterior")),
+                       key=lambda p: p.stat().st_mtime)
         named = {p.stem.lower() for p in images}
         if args.rehacer:  # sustituir fotos ya hechas, en el orden indicado
             wanted = [int(n) for n in args.rehacer.split(",") if n.strip()]
