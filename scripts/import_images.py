@@ -5,6 +5,7 @@ tamaño final, convierte a WebP y guarda en web/public/img/... según web/IMAGEN
 Uso:
     py scripts/import_images.py --por-orden            # descargas sin renombrar: muestra qué nombre recibe cada una
     py scripts/import_images.py --por-orden --aplicar  # renombra por orden de descarga e importa
+    py scripts/import_images.py --por-orden --rehacer 2,9 --aplicar   # sustituye las fotos 2 y 9 por las nuevas descargas
     py scripts/import_images.py                        # archivos ya renombrados en fotos-nanobanana/
     py scripts/import_images.py --src otra/carpeta
 
@@ -30,6 +31,7 @@ def main() -> None:
     parser.add_argument("--por-orden", action="store_true",
                         help="asigna las descargas sin renombrar, por hora de descarga, a las imágenes pendientes de la lista")
     parser.add_argument("--aplicar", action="store_true", help="con --por-orden: renombra e importa (sin él solo muestra)")
+    parser.add_argument("--rehacer", help="con --por-orden: números de la lista a sustituir (p. ej. 2,9,15) en vez de las pendientes")
     args = parser.parse_args()
 
     rows = list(csv.DictReader(CSV_FILE.open(encoding="utf-8-sig"), delimiter=";"))
@@ -38,7 +40,15 @@ def main() -> None:
         known = {Path(r["guardar_como"]).stem.lower() for r in rows}
         loose = sorted((p for p in images if p.stem.lower() not in known), key=lambda p: p.stat().st_mtime)
         named = {p.stem.lower() for p in images}
-        pending = [r for r in rows if Path(r["guardar_como"]).stem.lower() not in named and not (ROOT / r["destino"]).exists()]
+        if args.rehacer:  # sustituir fotos ya hechas, en el orden indicado
+            wanted = [int(n) for n in args.rehacer.split(",") if n.strip()]
+            by_number = {int(r["orden"]): r for r in rows}
+            pending = [by_number[n] for n in wanted]
+            for r in pending:  # el original renombrado anterior se aparta para no confundir
+                for old in args.src.glob(Path(r["guardar_como"]).stem + ".*"):
+                    old.rename(old.with_name(old.stem + ".anterior" + old.suffix))
+        else:
+            pending = [r for r in rows if Path(r["guardar_como"]).stem.lower() not in named and not (ROOT / r["destino"]).exists()]
         if len(loose) > len(pending):
             print(f"⚠ Hay {len(loose)} descargas sin nombre y solo {len(pending)} imágenes pendientes: sobran "
                   f"{len(loose) - len(pending)} (¿descartes sin borrar?). Revisa antes de aplicar.")

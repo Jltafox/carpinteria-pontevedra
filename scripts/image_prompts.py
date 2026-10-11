@@ -23,39 +23,39 @@ OUT_MD = ROOT / "web" / "IMAGENES-prompts.md"
 OUT_CSV = ROOT / "web" / "IMAGENES-prompts.csv"
 INCLUDE_GALLERIES = False  # las galerías de «Trabajos realizados» serán fotos reales
 
-STYLE = ("Photorealistic documentary photograph, shot on a full-frame camera with a 35mm lens, natural light, "
-         "realistic materials, wood grain and small imperfections, true-to-life colours, editorial interior "
-         "photography style. If a person appears, frame them from the shoulders down so no face or head is visible. "
-         "No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks.")
+STYLE = ("Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm "
+         "lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary "
+         "design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey "
+         "or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no "
+         "stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands "
+         "only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no "
+         "watermarks.")
 
 ZONE = {
-    "pontevedra": "Setting: a home in Pontevedra, Galicia (Spain) — granite stone, white window frames, soft overcast "
-                  "Atlantic light.",
-    "santiago-de-compostela": "Setting: a home in Santiago de Compostela, Galicia (Spain) — granite façades, rainy grey "
-                              "daylight outside the window.",
-    "sanxenxo": "Setting: a coastal granite house in Sanxenxo, Galicia (Spain), Rías Baixas — bright Atlantic light, "
-                "sea air, green hills and the ocean in the distance.",
+    "pontevedra": "Setting: a renovated contemporary flat in Pontevedra, Galicia (Spain), large window with soft "
+                  "Atlantic light; Galician character only as a subtle accent (a glimpse of granite or the city).",
+    "santiago-de-compostela": "Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall "
+                              "windows, overcast silver daylight, a glimpse of granite rooftops outside.",
+    "sanxenxo": "Setting: a contemporary coastal home in Sanxenxo, Galicia (Spain), Rías Baixas, bright sea light, "
+                "the ocean visible through large windows.",
 }
+DEFAULT_ZONE = ("Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a "
+                "subtle accent.")
 
 HERO = {
     "home": "Interior of a working carpentry workshop: a workbench with oak boards, a kitchen cabinet carcass being "
             "assembled, clamps, chisels and sawdust, a panel saw in the background, warm daylight from large windows; "
             "a carpenter's hands (no face visible) marking a board with a pencil and square.",
-    "sobre-nosotros": "Wide view of a carpentry workshop in rural Galicia: panel saw, edge-banding machine, stacked "
-                      "timber and finished furniture modules wrapped and ready for delivery; a craftsman seen from behind.",
+    "sobre-nosotros": "Wide view of a clean, well-organised modern carpentry workshop: CNC panel saw, edge-banding machine, sheets of oak veneer and lacquered panels, finished cabinet modules wrapped and ready for delivery, bright daylight from high windows; no people.",
     "cocinas-a-medida": "A newly installed custom kitchen with oak wood fronts and a white porcelain countertop, "
                         "handle-less drawers, integrated appliances, warm under-cabinet lighting, a few everyday objects.",
     "armarios-a-medida": "A floor-to-ceiling built-in wardrobe with matte white sliding doors and an oak interior; one "
                          "door open showing hanging rails, drawers and shoe shelves, in a calm bedroom.",
     "muebles-a-medida": "A custom solid oak bookcase and TV unit spanning a living-room wall, fitted around a window, "
                         "books and plants on the shelves.",
-    "rehabilitacion-de-madera": "Restoration of the wooden roof structure of a traditional granite house, seen from the "
-                                "attic: new and original chestnut beams, rafters and purlins, timber and carpentry "
-                                "tools on the floor, daylight coming through the roof.",
-    "carpinteria-exterior": "A custom timber porch attached to a traditional granite house: wooden posts and beams, "
-                            "clay tile roof, green garden lawn, ground still wet after rain.",
-    "suelos-de-madera": "A freshly installed solid oak plank floor in a bright, empty living room, matte varnish, "
-                        "matching skirting boards, window light raking across the boards.",
+    "rehabilitacion-de-madera": "A renovated contemporary living space under a restored timber roof: exposed new and original beams and rafters in light-toned wood, smooth white walls, large skylight, minimalist furniture; restoration finished, clean and bright.",
+    "carpinteria-exterior": "A contemporary timber porch with slim square posts and a flat roof attached to a modern white house, slatted wood details, outdoor furniture, green lawn, soft light after rain.",
+    "suelos-de-madera": "Wide-plank light oak floor with matte natural finish in a bright minimalist living room, white walls, flush skirting, large window light raking across the boards.",
 }
 
 AREA_HERO = {
@@ -71,19 +71,12 @@ AREA_HERO = {
     "muebles-a-medida/pontevedra": "A custom oak bookcase built around a window in a living room, with a window seat.",
     "muebles-a-medida/santiago-de-compostela": "A teenager's bedroom with a custom bed, desk and wardrobe unit in light "
                                                "birch wood, fitted into a small room.",
-    "rehabilitacion-de-madera/pontevedra": "Restored wooden floor joists and new floor planking inside an old granite "
-                                           "townhouse in a historic centre, stone walls exposed.",
-    "rehabilitacion-de-madera/santiago-de-compostela": "Restored roof timbers inside a traditional stone farmhouse "
-                                                       "('casa de aldea'), new chestnut rafters next to old beams.",
-    "rehabilitacion-de-madera/sanxenxo": "New timber roof structure being installed on an old coastal stone house, "
-                                         "rafters and purlins exposed, scaffolding, the sea in the background.",
-    "carpinteria-exterior/pontevedra": "A timber porch on a family house in a rural parish, granite walls, hydrangeas, "
-                                       "green countryside.",
-    "carpinteria-exterior/santiago-de-compostela": "A timber pergola and a wooden woodshed in the garden of a house in "
-                                                   "the countryside, light rain, lush green grass.",
-    "carpinteria/santiago-de-compostela": "Living space of a renovated stone house with custom oak joinery: built-in "
-                                          "shelving, a wooden staircase and exposed beams; rainy green landscape "
-                                          "through the window.",
+    "rehabilitacion-de-madera/pontevedra": "A renovated flat in a historic building with restored wooden floor beams left exposed on the ceiling, light oak floor, white walls, modern furniture.",
+    "rehabilitacion-de-madera/santiago-de-compostela": "A modern loft created under a restored timber roof in an old building: new and original rafters in light wood, skylights, white walls, contemporary furniture.",
+    "rehabilitacion-de-madera/sanxenxo": "A contemporary coastal home with a restored exposed timber roof structure over an open living space, large windows to the sea, white walls, light linen furniture.",
+    "carpinteria-exterior/pontevedra": "A modern timber porch with slim posts and a flat roof on a contemporary family house, slatted wood screen, garden.",
+    "carpinteria-exterior/santiago-de-compostela": "A minimalist timber pergola over a terrace and a matching slatted wooden storage shed in the garden of a contemporary house, light rain, green lawn.",
+    "carpinteria/santiago-de-compostela": "A modern renovated flat with custom joinery: floor-to-ceiling oak shelving, a white lacquered kitchen and an oak staircase, tall windows with overcast daylight.",
 }
 
 SUB = {  # una escena por subservicio (clave = slug del H3)
@@ -110,24 +103,20 @@ SUB = {  # una escena por subservicio (clave = slug del H3)
     "muebles-de-bano-a-medida": "Floating oak bathroom vanity with a stone basin and a mirror, tiled wall.",
     "recibidores-y-zapateros": "Entryway unit with a bench, hidden shoe storage and coat hooks in light wood.",
     "mobiliario-para-locales": "Custom oak counter and display shelves in a small local shop, empty of customers.",
-    "tejados-y-cubiertas-de-madera": "Wooden roof structure — trusses, purlins and rafters — on a stone house, seen "
-                                     "from outside before tiling.",
-    "armazones-y-estructuras-de-madera": "Timber frame of an attic room being reinforced with new wooden posts.",
-    "vigas-de-madera": "Close-up of a new chestnut beam being joined to an old one with a steel plate and bolts.",
-    "forjados-de-madera": "Old wooden floor structure opened up: new joists installed next to original ones, before "
-                          "laying the planks.",
-    "refuerzo-y-sustitucion-de-piezas-danadas": "Carpenter's hand (no face) probing a decayed old beam with a chisel, "
-                                                "showing soft rotten wood next to sound timber.",
-    "porches-de-madera-a-medida": "Detail of a timber porch: post-and-beam joint with galvanised steel brackets.",
-    "pergolas": "Treated pine pergola over a stone-paved terrace with climbing plants.",
-    "cobertizos-de-madera": "A wooden garden shed for tools and firewood next to a granite wall.",
-    "puertas-exteriores-de-madera": "Solid wood entrance door set in a granite doorway of a traditional house.",
-    "muebles-de-exterior-a-medida": "Custom wooden bench and table on a garden terrace after rain.",
-    "tarima-de-madera": "Close-up of oak floorboards being laid, tongue-and-groove joints visible, installer's knee "
-                        "pad and tools.",
-    "parquet": "Herringbone oak parquet floor in a bright room.",
-    "pulido-y-barnizado": "Floor sanding machine on an old wooden floor, half sanded, half original.",
-    "escaleras-y-rodapies": "Wooden staircase clad in oak with matching skirting boards.",
+    "tejados-y-cubiertas-de-madera": "Newly built timber roof structure — trusses, purlins and rafters in light-coloured wood — on a renovated house, seen from outside before the final roofing, clear sky.",
+    "armazones-y-estructuras-de-madera": "New light-wood timber frame reinforcing an attic being converted into a modern bedroom, clean drywall partly installed.",
+    "vigas-de-madera": "Close-up of a new laminated timber beam joined to an original beam with a black steel plate and bolts, in a renovation with white walls.",
+    "forjados-de-madera": "Wooden floor structure during renovation: new joists neatly installed next to original ones, clean site, before laying the boards.",
+    "refuerzo-y-sustitucion-de-piezas-danadas": "Carpenter's hands (no face) fitting a new section of timber into an old beam during a careful renovation, clean modern tools.",
+    "porches-de-madera-a-medida": "Detail of a modern timber porch: square post and beam joint with concealed black steel connectors.",
+    "pergolas": "Minimalist slatted timber pergola over a porcelain-tiled terrace with contemporary outdoor furniture.",
+    "cobertizos-de-madera": "Modern slatted wood garden shed with a flat roof next to a contemporary house.",
+    "puertas-exteriores-de-madera": "Contemporary solid oak entrance door with vertical grooves and a slim black pull handle, white façade.",
+    "muebles-de-exterior-a-medida": "Custom minimalist wooden bench and dining table on a modern terrace after rain.",
+    "tarima-de-madera": "Installer's hands (no face) laying light oak floorboards, tongue-and-groove joints visible, in a bright empty modern room.",
+    "parquet": "Light oak herringbone parquet in a contemporary living room with white walls.",
+    "pulido-y-barnizado": "Old wooden floor half sanded to bare light wood, half original, in a bright room being renovated; sanding machine without visible brand.",
+    "escaleras-y-rodapies": "Contemporary staircase clad in light oak with flush oak skirting, white walls, minimalist handrail.",
 }
 
 GALLERY = {  # 5 variantes por servicio; cada página usa 3 distintas + el contexto de su zona
@@ -190,7 +179,7 @@ def prompt_for(page: dict, use: str, img: dict, index: int = 0, sub_slug: str = 
     else:
         variants = GALLERY[service]
         scene = variants[(OFFSET["pillar" if page["type"] == "pillar" else zone] + index) % len(variants)]
-    context = ZONE.get(zone, "Setting: a home in Galicia (Spain), granite and oak, soft Atlantic light.")
+    context = ZONE.get(zone, DEFAULT_ZONE)
     if page["type"] in ("home", "sobre-nosotros") and use == "portada":
         context = "Setting: A Estrada, Galicia (Spain)."
     return f"{scene} {context} {STYLE} Aspect ratio {ratio(img)}."
@@ -231,7 +220,8 @@ def main() -> None:
         if r["pagina"] != current:
             current = r["pagina"]
             lines += ["", f"## Página `{current}`", ""]
-        lines += [f'### {r["orden"]}. {r["guardar_como"]}', "",
+        done = (ROOT / r["destino"]).exists()
+        lines += [f'### {r["orden"]}. {r["guardar_como"]}' + (" · ✓ hecha" if done else ""), "",
                   f'- **Uso:** {r["uso"]} · **proporción** {r["proporcion"]} · **tamaño final** {r["tamano_final"]} px',
                   f'- **Destino:** `{r["destino"]}`', "", "```text", r["prompt"], "```", ""]
     OUT_MD.write_text("\n".join(lines), encoding="utf-8")
