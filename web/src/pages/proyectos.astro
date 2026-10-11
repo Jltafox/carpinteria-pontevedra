@@ -3,6 +3,8 @@ import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import CtaButtons from '../components/CtaButtons.astro';
 import Img from '../components/Img.astro';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 import { pageByRoute, services } from '../lib/site';
 
 const page = pageByRoute('/proyectos/');
@@ -11,7 +13,7 @@ const galleries = services.map((s) => ({
   route: s.route,
   name: s.h1,
   images: s.sections.find((x: any) => x.kind === 'gallery')?.images ?? [],
-}));
+})).filter((g) => import.meta.env.DEV || g.images.some((img: any) => existsSync(join(process.cwd(), 'public', img.src))));
 ---
 <Base page={page}>
   <Breadcrumbs items={page.breadcrumbs} />
@@ -22,6 +24,9 @@ const galleries = services.map((s) => ({
       <p class="lead">Cocinas, armarios, muebles, rehabilitaciones y carpintería exterior hechos por nuestro equipo.</p>
     </div>
   </section>
+  {galleries.length === 0 && (
+    <section class="block"><div class="wrap"><p class="placeholder">Estamos preparando la galería con fotos de nuestros trabajos. Mientras tanto, pídenos ejemplos de proyectos parecidos al tuyo.</p></div></section>
+  )}
   {galleries.map((g, i) => (
     <section class="block">
       <div class="wrap">

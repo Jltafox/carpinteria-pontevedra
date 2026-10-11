@@ -21,6 +21,7 @@ from local_pack_multi_city import ROOT, slugify
 PAGES = ROOT / "web" / "src" / "data" / "pages.json"
 OUT_MD = ROOT / "web" / "IMAGENES-prompts.md"
 OUT_CSV = ROOT / "web" / "IMAGENES-prompts.csv"
+INCLUDE_GALLERIES = False  # las galerías de «Trabajos realizados» serán fotos reales
 
 STYLE = ("Photorealistic documentary photograph, shot on a full-frame camera with a 35mm lens, natural light, "
          "realistic materials, wood grain and small imperfections, true-to-life colours, editorial interior "
@@ -202,12 +203,13 @@ def main() -> None:
         found = [("portada", page["hero_image"], 0, "")] if "hero_image" in page else []
         for section in page["sections"]:
             found += [("subservicio", i["image"], 0, slugify(i["h3"])) for i in section.get("items", []) if "image" in i]
-            found += [("galería", img, n, "") for n, img in enumerate(section.get("images", []))]
+            if INCLUDE_GALLERIES:
+                found += [("galería", img, n, "") for n, img in enumerate(section.get("images", []))]
         for use, img, n, sub in found:
             if img["src"] in seen:
                 continue
             seen.add(img["src"])
-            rows.append({"guardar_como": file_name(img["src"]), "destino": "web/public" + img["src"],
+            rows.append({"orden": len(rows) + 1, "guardar_como": file_name(img["src"]), "destino": "web/public" + img["src"],
                          "proporcion": ratio(img), "tamano_final": f'{img["width"]}x{img["height"]}',
                          "pagina": page["route"], "uso": use, "prompt": prompt_for(page, use, img, n, sub)})
 
@@ -217,16 +219,18 @@ def main() -> None:
         writer.writerows(rows)
 
     lines = ["# Prompts para Nano Banana · fotos de carpinteriaurexal.es", "",
-             f"{len(rows)} imágenes. Para cada una: pega el prompt en Nano Banana, descarga la imagen y guárdala en la "
-             "carpeta `fotos-nanobanana/` (raíz del proyecto) **con el nombre de «Guardar como»**. Después, "
-             "`py scripts/import_images.py` la recorta a la proporción exacta, la redimensiona, la convierte a WebP y "
-             "la coloca en su ruta de la web.", ""]
+             f"{len(rows)} imágenes (portadas y subservicios; las galerías de proyectos serán fotos reales).", "",
+             "**Genera las imágenes en el orden de esta lista** y descárgalas tal cual en `fotos-nanobanana/` "
+             "(raíz del proyecto), sin renombrar. `py scripts/import_images.py --por-orden` las asigna por hora de "
+             "descarga a cada nombre, te enseña la correspondencia y, al confirmar, las recorta, convierte a WebP y "
+             "coloca en la web. Si regeneras una imagen, **borra la descarga descartada** para no descuadrar el orden.",
+             "", "También puedes renombrarlas tú con el nombre de cada título y ejecutar `py scripts/import_images.py`.", ""]
     current = None
     for r in rows:
         if r["pagina"] != current:
             current = r["pagina"]
             lines += ["", f"## Página `{current}`", ""]
-        lines += [f'### {r["guardar_como"]}', "",
+        lines += [f'### {r["orden"]}. {r["guardar_como"]}', "",
                   f'- **Uso:** {r["uso"]} · **proporción** {r["proporcion"]} · **tamaño final** {r["tamano_final"]} px',
                   f'- **Destino:** `{r["destino"]}`', "", "```text", r["prompt"], "```", ""]
     OUT_MD.write_text("\n".join(lines), encoding="utf-8")
