@@ -33,7 +33,7 @@ def main() -> None:
     args = parser.parse_args()
 
     rows = list(csv.DictReader(CSV_FILE.open(encoding="utf-8-sig"), delimiter=";"))
-    images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp")]
+    images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".jfif", ".webp")]
     if args.por_orden:
         known = {Path(r["guardar_como"]).stem.lower() for r in rows}
         loose = sorted((p for p in images if p.stem.lower() not in known), key=lambda p: p.stat().st_mtime)
@@ -50,7 +50,7 @@ def main() -> None:
             return
         for source, row in pairs:
             source.rename(source.with_name(Path(row["guardar_como"]).stem + source.suffix.lower()))
-        images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp")]
+        images = [p for p in args.src.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".jfif", ".webp")]
 
     try:
         from PIL import Image, ImageOps

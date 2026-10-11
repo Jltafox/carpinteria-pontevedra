@@ -25,7 +25,8 @@ INCLUDE_GALLERIES = False  # las galerías de «Trabajos realizados» serán fot
 
 STYLE = ("Photorealistic documentary photograph, shot on a full-frame camera with a 35mm lens, natural light, "
          "realistic materials, wood grain and small imperfections, true-to-life colours, editorial interior "
-         "photography style. No people's faces, no text, no logos, no watermarks, no brand names.")
+         "photography style. If a person appears, frame them from the shoulders down so no face or head is visible. "
+         "No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks.")
 
 ZONE = {
     "pontevedra": "Setting: a home in Pontevedra, Galicia (Spain) — granite stone, white window frames, soft overcast "
