@@ -315,7 +315,7 @@ Custom minimalist wooden bench and dining table on a modern terrace after rain. 
 
 ## Página `/suelos-de-madera/`
 
-### 33. suelos-de-madera__portada.png
+### 33. suelos-de-madera__portada.png · ✓ hecha
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/suelos-de-madera/portada.webp`
@@ -324,7 +324,7 @@ Custom minimalist wooden bench and dining table on a modern terrace after rain. 
 Wide-plank light oak floor with matte natural finish in a bright minimalist living room, white walls, flush skirting, large window light raking across the boards. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 34. suelos-de-madera__tarima-de-madera.png
+### 34. suelos-de-madera__tarima-de-madera.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/suelos-de-madera/tarima-de-madera.webp`
@@ -342,7 +342,7 @@ Installer's hands (no face) laying light oak floorboards, tongue-and-groove join
 Light oak herringbone parquet in a contemporary living room with white walls. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 36. suelos-de-madera__pulido-y-barnizado.png
+### 36. suelos-de-madera__pulido-y-barnizado.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/suelos-de-madera/pulido-y-barnizado.webp`
@@ -351,7 +351,7 @@ Light oak herringbone parquet in a contemporary living room with white walls. Se
 Old wooden floor half sanded to bare light wood, half original, in a bright room being renovated; sanding machine without visible brand. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 37. suelos-de-madera__escaleras-y-rodapies.png
+### 37. suelos-de-madera__escaleras-y-rodapies.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/suelos-de-madera/escaleras-y-rodapies.webp`
