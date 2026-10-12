@@ -333,7 +333,7 @@ Wide-plank light oak floor with matte natural finish in a bright minimalist livi
 Installer's hands (no face) laying light oak floorboards, tongue-and-groove joints visible, in a bright empty modern room. Setting: a contemporary home in Galicia (Spain), soft Atlantic light; Galician character only as a subtle accent. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
 ```
 
-### 35. suelos-de-madera__parquet.png
+### 35. suelos-de-madera__parquet.png · ✓ hecha
 
 - **Uso:** subservicio · **proporción** 3:2 · **tamaño final** 900x600 px
 - **Destino:** `web/public/img/suelos-de-madera/parquet.webp`
@@ -363,7 +363,7 @@ Contemporary staircase clad in light oak with flush oak skirting, white walls, m
 
 ## Página `/santiago-de-compostela/`
 
-### 38. santiago-de-compostela__portada.png
+### 38. santiago-de-compostela__portada.png · ✓ hecha
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/santiago-de-compostela/portada.webp`
@@ -375,7 +375,7 @@ A modern renovated flat with custom joinery: floor-to-ceiling oak shelving, a wh
 
 ## Página `/sobre-nosotros/`
 
-### 39. sobre-nosotros__taller.png
+### 39. sobre-nosotros__taller.png · ✓ hecha
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/sobre-nosotros/taller.webp`
