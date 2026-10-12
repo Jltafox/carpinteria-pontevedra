@@ -1,0 +1,14 @@
+# Cloudflare Pages: URLs antiguas → nuevas (301). Rutas exactas: un comodín /servicio/* crearía un bucle.
+/carpinteria/santiago-de-compostela/  /santiago-de-compostela/  301
+/carpinteria/pontevedra/  /  301
+/cocinas-a-medida/pontevedra/  /cocinas-a-medida/  301
+/cocinas-a-medida/santiago-de-compostela/  /cocinas-a-medida/  301
+/armarios-a-medida/pontevedra/  /armarios-a-medida/  301
+/armarios-a-medida/santiago-de-compostela/  /armarios-a-medida/  301
+/muebles-a-medida/pontevedra/  /muebles-a-medida/  301
+/muebles-a-medida/santiago-de-compostela/  /muebles-a-medida/  301
+/rehabilitacion-de-madera/pontevedra/  /rehabilitacion-de-madera/  301
+/rehabilitacion-de-madera/santiago-de-compostela/  /rehabilitacion-de-madera/  301
+/rehabilitacion-de-madera/sanxenxo/  /rehabilitacion-de-madera/  301
+/carpinteria-exterior/pontevedra/  /carpinteria-exterior/  301
+/carpinteria-exterior/santiago-de-compostela/  /carpinteria-exterior/  301

@@ -1,6 +1,6 @@
 # Prompts para Nano Banana · fotos de carpinteriaurexal.es
 
-50 imágenes (portadas y subservicios; las galerías de proyectos serán fotos reales).
+39 imágenes (portadas y subservicios; las galerías de proyectos serán fotos reales).
 
 **Genera las imágenes en el orden de esta lista** y descárgalas tal cual en `fotos-nanobanana/` (raíz del proyecto), sin renombrar. `py scripts/import_images.py --por-orden` las asigna por hora de descarga a cada nombre, te enseña la correspondencia y, al confirmar, las recorta, convierte a WebP y coloca en la web. Si regeneras una imagen, **borra la descarga descartada** para no descuadrar el orden.
 
@@ -361,144 +361,12 @@ Contemporary staircase clad in light oak with flush oak skirting, white walls, m
 ```
 
 
-## Página `/cocinas-a-medida/pontevedra/`
+## Página `/santiago-de-compostela/`
 
-### 38. cocinas-a-medida__pontevedra__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/cocinas-a-medida/pontevedra/portada.webp`
-
-```text
-A custom kitchen fitted in a narrow city-centre flat: tall pantry columns, corner units and pull-out drawers making the most of every centimetre, oak and white fronts. Setting: a renovated contemporary flat in Pontevedra, Galicia (Spain), large window with soft Atlantic light; Galician character only as a subtle accent (a glimpse of granite or the city). Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/cocinas-a-medida/santiago-de-compostela/`
-
-### 39. cocinas-a-medida__santiago-de-compostela__portada.png
+### 38. santiago-de-compostela__portada.png
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/cocinas-a-medida/santiago-de-compostela/portada.webp`
-
-```text
-A renovated kitchen in an older city flat with high ceilings: oak and white lacquer fronts, a stone countertop, a powerful extractor hood, rain on the window. Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall windows, overcast silver daylight, a glimpse of granite rooftops outside. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/armarios-a-medida/pontevedra/`
-
-### 40. armarios-a-medida__pontevedra__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/armarios-a-medida/pontevedra/portada.webp`
-
-```text
-A built-in wardrobe with sliding doors in a compact bedroom of a city flat, interior with two hanging levels and drawers. Setting: a renovated contemporary flat in Pontevedra, Galicia (Spain), large window with soft Atlantic light; Galician character only as a subtle accent (a glimpse of granite or the city). Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/armarios-a-medida/santiago-de-compostela/`
-
-### 41. armarios-a-medida__santiago-de-compostela__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/armarios-a-medida/santiago-de-compostela/portada.webp`
-
-```text
-A small walk-in dressing room with oak shelving, drawers and hanging rails in a city flat. Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall windows, overcast silver daylight, a glimpse of granite rooftops outside. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/muebles-a-medida/pontevedra/`
-
-### 42. muebles-a-medida__pontevedra__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/muebles-a-medida/pontevedra/portada.webp`
-
-```text
-A custom oak bookcase built around a window in a living room, with a window seat. Setting: a renovated contemporary flat in Pontevedra, Galicia (Spain), large window with soft Atlantic light; Galician character only as a subtle accent (a glimpse of granite or the city). Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/muebles-a-medida/santiago-de-compostela/`
-
-### 43. muebles-a-medida__santiago-de-compostela__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/muebles-a-medida/santiago-de-compostela/portada.webp`
-
-```text
-A teenager's bedroom with a custom bed, desk and wardrobe unit in light birch wood, fitted into a small room. Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall windows, overcast silver daylight, a glimpse of granite rooftops outside. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/rehabilitacion-de-madera/pontevedra/`
-
-### 44. rehabilitacion-de-madera__pontevedra__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/rehabilitacion-de-madera/pontevedra/portada.webp`
-
-```text
-Restored wooden floor beams and boards inside an old granite townhouse: original dark beams reinforced next to new timber, exposed stone walls, warm light. Setting: an old granite townhouse or a traditional stone house in a rural parish of Pontevedra, Galicia (Spain), soft overcast Atlantic light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/rehabilitacion-de-madera/santiago-de-compostela/`
-
-### 45. rehabilitacion-de-madera__santiago-de-compostela__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/rehabilitacion-de-madera/santiago-de-compostela/portada.webp`
-
-```text
-Restored roof structure inside a traditional stone farmhouse: new chestnut rafters beside old weathered beams, granite walls, wooden ceiling boards. Setting: a traditional stone farmhouse (casa de aldea) near Santiago de Compostela, Galicia (Spain), green countryside, rainy grey light. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/rehabilitacion-de-madera/sanxenxo/`
-
-### 46. rehabilitacion-de-madera__sanxenxo__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/rehabilitacion-de-madera/sanxenxo/portada.webp`
-
-```text
-Traditional granite house near the sea with its timber roof structure being restored: new rafters and purlins over old stone walls, the ocean in the background. Setting: a traditional granite house near the coast in Sanxenxo, Galicia (Spain), Rías Baixas, bright sea light, the ocean in the distance. Photorealistic architectural photograph, full-frame camera, 24–35mm lens, natural daylight, rich realistic textures. Traditional Galician rural architecture: thick granite stone walls, old chestnut and oak beams with patina, hand-hewn timber, clay roof tiles, contrast between original aged wood and new honey-coloured timber; craftsmanship and careful restoration, warm and authentic, not decayed or ruined in the finished result. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines or tools, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/carpinteria-exterior/pontevedra/`
-
-### 47. carpinteria-exterior__pontevedra__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/carpinteria-exterior/pontevedra/portada.webp`
-
-```text
-A modern timber porch with slim posts and a flat roof on a contemporary family house, slatted wood screen, garden. Setting: a renovated contemporary flat in Pontevedra, Galicia (Spain), large window with soft Atlantic light; Galician character only as a subtle accent (a glimpse of granite or the city). Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/carpinteria-exterior/santiago-de-compostela/`
-
-### 48. carpinteria-exterior__santiago-de-compostela__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/carpinteria-exterior/santiago-de-compostela/portada.webp`
-
-```text
-A minimalist timber pergola over a terrace and a matching slatted wooden storage shed in the garden of a contemporary house, light rain, green lawn. Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall windows, overcast silver daylight, a glimpse of granite rooftops outside. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
-```
-
-
-## Página `/carpinteria/santiago-de-compostela/`
-
-### 49. carpinteria__santiago-de-compostela__portada.png
-
-- **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
-- **Destino:** `web/public/img/carpinteria/santiago-de-compostela/portada.webp`
+- **Destino:** `web/public/img/santiago-de-compostela/portada.webp`
 
 ```text
 A modern renovated flat with custom joinery: floor-to-ceiling oak shelving, a white lacquered kitchen and an oak staircase, tall windows with overcast daylight. Setting: a modern renovated flat in Santiago de Compostela, Galicia (Spain), tall windows, overcast silver daylight, a glimpse of granite rooftops outside. Photorealistic architectural photograph for a modern design magazine, full-frame camera, 24–35mm lens, soft natural daylight with warm accent lighting, realistic materials and fine wood grain. Contemporary design: clean lines, flush handle-less fronts, light natural oak combined with matte lacquer (white, warm grey or sage green), smooth plastered walls, uncluttered styling. Not rustic: no knotty reclaimed wood, no stone-heavy farmhouse look. No people in the frame unless the scene explicitly describes hands at work; hands only, never faces or heads. No text, no logos, no brand names or labels on machines, tools or appliances, no watermarks. Aspect ratio 3:2.
@@ -507,7 +375,7 @@ A modern renovated flat with custom joinery: floor-to-ceiling oak shelving, a wh
 
 ## Página `/sobre-nosotros/`
 
-### 50. sobre-nosotros__taller.png
+### 39. sobre-nosotros__taller.png
 
 - **Uso:** portada · **proporción** 3:2 · **tamaño final** 1500x1000 px
 - **Destino:** `web/public/img/sobre-nosotros/taller.webp`

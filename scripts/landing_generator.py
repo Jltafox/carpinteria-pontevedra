@@ -139,7 +139,7 @@ def build_pages() -> list[dict]:
             {"kind": "projects", "h2": "Trabajos realizados", "service": None},
             {"kind": "testimonials", "h2": "Lo que dicen nuestros clientes"},
             {"kind": "links", "h2": "Dónde trabajamos en Pontevedra", "text": home["where"],
-             "links": link_list([bp.service_area(s["slug"], "pontevedra") for s in bp.SERVICES if "pontevedra" in s["zones"]])},
+             "links": link_list([bp.hub(z) for z in hubs])},
             {"kind": "nap", "h2": "Dónde estamos"},  # NAP + mapa de la ficha de Google (maps_embed_url)
             {"kind": "faq", "h2": "Preguntas frecuentes", "faqs": home_faqs},
         ],
@@ -167,7 +167,7 @@ def build_pages() -> list[dict]:
                 price_section(s, copy, None),
                 {"kind": "text", "h2": "Materiales y acabados", "paragraphs": copy["materials"]},
                 {"kind": "links", "h2": "Dónde trabajamos", "text": coverage_text,
-                 "links": link_list([bp.service_area(s["slug"], z) for z in s["zones"]])},
+                 "links": link_list(["/"] + [bp.hub(z) for z in hubs])},
                 {"kind": "projects", "h2": "Trabajos realizados", "service": s["slug"]},
                 {"kind": "testimonials", "h2": "Opiniones"},
                 {"kind": "faq", "h2": f'Preguntas frecuentes sobre {copy["topic"]}', "faqs": copy["faqs"]},
@@ -312,7 +312,7 @@ def add_images(pages: list[dict]) -> None:
             folder, hero_alt = f'/img/{params["servicio"]}/{params["zona"]}', f'{HERO_ALT[params["servicio"]]} en {zone}'
         elif kind == "hub":
             zone = bp.ZONES[params["zona"]]["name"]
-            folder, hero_alt = f'/img/carpinteria/{params["zona"]}', f"Trabajo de carpintería de madera en {zone}"
+            folder, hero_alt = f'/img/{params["zona"]}', f"Trabajo de carpintería de madera en {zone}"
         elif kind == "sobre-nosotros":
             p["hero_image"] = image("/img/sobre-nosotros/taller.webp", "Taller de carpintería en A Estrada", HERO)
             continue
@@ -438,10 +438,8 @@ def main() -> None:
     business = WEB_DATA / "business.json"
     if not business.exists():  # nunca se sobrescriben los datos reales del negocio
         business.write_text(json.dumps(BUSINESS_TEMPLATE, ensure_ascii=False, indent=2), encoding="utf-8")
-    service_area_words = [r["words"] for r in report if r["type"] == "service-area"]
-    print(f"✓ {len(ok)}/{len(pages)} páginas escritas en web/src/data/pages.json · servicio × zona: {len(areas)} "
-          f"(palabras {min(service_area_words)}–{max(service_area_words)}, Jaccard máx "
-          f"{max(similarity.values()):.2f}) · JSON-LD validado contra schema.org")
+    print(f"✓ {len(ok)}/{len(pages)} páginas escritas en web/src/data/pages.json · servicio × zona: {len(areas)}"
+          + (f" (Jaccard máx {max(similarity.values()):.2f})" if similarity else "") + " · JSON-LD validado contra schema.org")
 
 
 if __name__ == "__main__":

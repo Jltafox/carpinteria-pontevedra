@@ -7,9 +7,7 @@ servicios:
     nombre: Cocinas a medida
     url: /cocinas-a-medida/
     categoria_gbp: Tienda de muebles de cocina
-    zonas:
-      - pontevedra
-      - santiago-de-compostela
+    zonas: []
     keywords:
       - diseño de cocina (50/mes)
       - diseño cocinas (30/mes)
@@ -24,9 +22,7 @@ servicios:
     nombre: Armarios y vestidores a medida
     url: /armarios-a-medida/
     categoria_gbp: Tienda de armarios
-    zonas:
-      - pontevedra
-      - santiago-de-compostela
+    zonas: []
     keywords:
       - armarios medida (50/mes)
       - armarios empotrados a medida (20/mes)
@@ -37,9 +33,7 @@ servicios:
     nombre: Muebles a medida
     url: /muebles-a-medida/
     categoria_gbp: Fábrica de muebles
-    zonas:
-      - pontevedra
-      - santiago-de-compostela
+    zonas: []
     keywords:
       - a medida carpintería (50/mes)
       - muebles a medida (30/mes)
@@ -50,10 +44,7 @@ servicios:
     nombre: Rehabilitación de madera en viviendas
     url: /rehabilitacion-de-madera/
     categoria_gbp: Carpintería
-    zonas:
-      - pontevedra
-      - santiago-de-compostela
-      - sanxenxo
+    zonas: []
     keywords:
       - reformas viviendas madera (90/mes)
       - reformas carpinteria madera (90/mes)
@@ -66,9 +57,7 @@ servicios:
     nombre: Carpintería exterior de madera
     url: /carpinteria-exterior/
     categoria_gbp: Fábrica de puertas
-    zonas:
-      - pontevedra
-      - santiago-de-compostela
+    zonas: []
     keywords:
       - porche de madera a medida (10/mes)
       - porche a medida (10/mes)
@@ -110,7 +99,7 @@ zonas:
   - slug: santiago-de-compostela
     nombre: Santiago de Compostela
     provincia: A Coruña
-    hub: /carpinteria/santiago-de-compostela/
+    hub: /santiago-de-compostela/
     busquedas_mes_kw_research: 1312
     ficha_gbp: "sin ficha prevista: se capta por orgánico"
     barrios_parroquias:
@@ -148,20 +137,9 @@ zonas:
       - O Grove
       - Meis
       - Ribadumia
-servicio_x_zona:
-  - /cocinas-a-medida/pontevedra/
-  - /cocinas-a-medida/santiago-de-compostela/
-  - /armarios-a-medida/pontevedra/
-  - /armarios-a-medida/santiago-de-compostela/
-  - /muebles-a-medida/pontevedra/
-  - /muebles-a-medida/santiago-de-compostela/
-  - /rehabilitacion-de-madera/pontevedra/
-  - /rehabilitacion-de-madera/santiago-de-compostela/
-  - /rehabilitacion-de-madera/sanxenxo/
-  - /carpinteria-exterior/pontevedra/
-  - /carpinteria-exterior/santiago-de-compostela/
+servicio_x_zona: []
 zonas_hub:
-  - /carpinteria/santiago-de-compostela/
+  - /santiago-de-compostela/
 paginas:
   presupuesto: /presupuesto/
   proyectos: /proyectos/
@@ -188,4 +166,4 @@ fase_2:
     - /guias/rehabilitar-o-sustituir-un-forjado-de-madera/
   lineas_futuras:
     - "casetas, casas y cabañas de madera (1.030 búsquedas/mes; el cliente las lanza en 2027)"
-total_paginas_fase_1: 25
+total_paginas_fase_1: 14

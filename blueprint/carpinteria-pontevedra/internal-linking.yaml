@@ -7,7 +7,7 @@ reglas:
   pie_global: presupuesto + hubs de zona + legales en todas las páginas
   bloque_zonas_cercanas: texto sin enlace con las zonas_cercanas de url-map.yaml (fase 1); se enlazan cuando existan en fase 2
   anchor_text: "descriptivo y variado: «{servicio} en {zona}», «{servicio}», «carpintería en {zona}»; nunca «click aquí»"
-profundidad_maxima_clics: 2
+profundidad_maxima_clics: 1
 enlaces:
   /:
     - /cocinas-a-medida/
@@ -16,7 +16,7 @@ enlaces:
     - /rehabilitacion-de-madera/
     - /carpinteria-exterior/
     - /suelos-de-madera/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /presupuesto/
     - /proyectos/
     - /sobre-nosotros/
@@ -24,194 +24,47 @@ enlaces:
     - /politica-de-privacidad/
     - /cookies/
   /cocinas-a-medida/:
-    - /cocinas-a-medida/pontevedra/
-    - /cocinas-a-medida/santiago-de-compostela/
     - /armarios-a-medida/
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /cocinas-a-medida/pontevedra/:
-    - /cocinas-a-medida/
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /armarios-a-medida/pontevedra/
-    - /muebles-a-medida/pontevedra/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /carpinteria-exterior/pontevedra/
-    - /
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /cocinas-a-medida/santiago-de-compostela/:
-    - /cocinas-a-medida/
-    - /cocinas-a-medida/pontevedra/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /carpinteria-exterior/santiago-de-compostela/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /armarios-a-medida/:
-    - /armarios-a-medida/pontevedra/
-    - /armarios-a-medida/santiago-de-compostela/
     - /muebles-a-medida/
     - /cocinas-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /armarios-a-medida/pontevedra/:
-    - /armarios-a-medida/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /cocinas-a-medida/pontevedra/
-    - /muebles-a-medida/pontevedra/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /carpinteria-exterior/pontevedra/
-    - /
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /armarios-a-medida/santiago-de-compostela/:
-    - /armarios-a-medida/
-    - /armarios-a-medida/pontevedra/
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /carpinteria-exterior/santiago-de-compostela/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /muebles-a-medida/:
-    - /muebles-a-medida/pontevedra/
-    - /muebles-a-medida/santiago-de-compostela/
     - /armarios-a-medida/
     - /cocinas-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /muebles-a-medida/pontevedra/:
-    - /muebles-a-medida/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /cocinas-a-medida/pontevedra/
-    - /armarios-a-medida/pontevedra/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /carpinteria-exterior/pontevedra/
-    - /
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /muebles-a-medida/santiago-de-compostela/:
-    - /muebles-a-medida/
-    - /muebles-a-medida/pontevedra/
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /carpinteria-exterior/santiago-de-compostela/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /rehabilitacion-de-madera/:
-    - /rehabilitacion-de-madera/pontevedra/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /rehabilitacion-de-madera/sanxenxo/
     - /carpinteria-exterior/
     - /suelos-de-madera/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /rehabilitacion-de-madera/pontevedra/:
-    - /rehabilitacion-de-madera/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /rehabilitacion-de-madera/sanxenxo/
-    - /cocinas-a-medida/pontevedra/
-    - /armarios-a-medida/pontevedra/
-    - /muebles-a-medida/pontevedra/
-    - /carpinteria-exterior/pontevedra/
-    - /
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /rehabilitacion-de-madera/santiago-de-compostela/:
-    - /rehabilitacion-de-madera/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /rehabilitacion-de-madera/sanxenxo/
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /carpinteria-exterior/santiago-de-compostela/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /rehabilitacion-de-madera/sanxenxo/:
-    - /rehabilitacion-de-madera/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /carpinteria-exterior/:
-    - /carpinteria-exterior/pontevedra/
-    - /carpinteria-exterior/santiago-de-compostela/
     - /rehabilitacion-de-madera/
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /carpinteria-exterior/pontevedra/:
-    - /carpinteria-exterior/
-    - /carpinteria-exterior/santiago-de-compostela/
-    - /cocinas-a-medida/pontevedra/
-    - /armarios-a-medida/pontevedra/
-    - /muebles-a-medida/pontevedra/
-    - /rehabilitacion-de-madera/pontevedra/
-    - /
-    - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
-  /carpinteria-exterior/santiago-de-compostela/:
-    - /carpinteria-exterior/
-    - /carpinteria-exterior/pontevedra/
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /carpinteria/santiago-de-compostela/
-    - /presupuesto/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
@@ -220,16 +73,16 @@ enlaces:
     - /muebles-a-medida/
     - /presupuesto/
     - /proyectos/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
-  /carpinteria/santiago-de-compostela/:
-    - /cocinas-a-medida/santiago-de-compostela/
-    - /armarios-a-medida/santiago-de-compostela/
-    - /muebles-a-medida/santiago-de-compostela/
-    - /rehabilitacion-de-madera/santiago-de-compostela/
-    - /carpinteria-exterior/santiago-de-compostela/
+  /santiago-de-compostela/:
+    - /cocinas-a-medida/
+    - /armarios-a-medida/
+    - /muebles-a-medida/
+    - /rehabilitacion-de-madera/
+    - /carpinteria-exterior/
     - /suelos-de-madera/
     - /
     - /presupuesto/
@@ -244,34 +97,34 @@ enlaces:
     - /carpinteria-exterior/
     - /suelos-de-madera/
     - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /sobre-nosotros/:
     - /proyectos/
     - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /presupuesto/:
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
   /aviso-legal/:
     - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /politica-de-privacidad/
     - /cookies/
   /politica-de-privacidad/:
     - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /cookies/
   /cookies/:
     - /presupuesto/
-    - /carpinteria/santiago-de-compostela/
+    - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/

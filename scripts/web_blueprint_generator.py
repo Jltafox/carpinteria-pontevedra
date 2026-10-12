@@ -47,21 +47,21 @@ SERVICES = [
                   "muebles de cocina en pontevedra": 20, "muebles de cocina en santiago de compostela": 20,
                   "encimeras de cocina en pontevedra": 10, "precio reforma integral cocina": 10,
                   "presupuesto para cocina nueva": 10},
-     "related": ["armarios-a-medida", "muebles-a-medida"], "zones": ["pontevedra", "santiago-de-compostela"]},
+     "related": ["armarios-a-medida", "muebles-a-medida"], "zones": []},
     {"slug": "armarios-a-medida", "name": "Armarios y vestidores a medida", "gbp_category": "Tienda de armarios",
      "service_type": "Fabricación e instalación de armarios empotrados y vestidores a medida",
      "subservices": ["Armarios empotrados", "Vestidores", "Frentes e interiores de armario", "Despensas a medida",
                      "Huecos irregulares y bajo cubierta"],
      "keywords": {"armarios medida": 50, "armarios empotrados a medida": 20, "precio armario empotrado por m2": 10,
                   "vestidor a medida precio": 10, "presupuesto armarios a medida": 10},
-     "related": ["muebles-a-medida", "cocinas-a-medida"], "zones": ["pontevedra", "santiago-de-compostela"]},
+     "related": ["muebles-a-medida", "cocinas-a-medida"], "zones": []},
     {"slug": "muebles-a-medida", "name": "Muebles a medida", "gbp_category": "Fábrica de muebles",
      "service_type": "Diseño y fabricación de muebles de madera a medida",
      "subservices": ["Muebles de salón y librerías", "Dormitorios juveniles e infantiles", "Muebles de baño a medida",
                      "Recibidores y zapateros", "Mobiliario para locales"],
      "keywords": {"a medida carpintería": 50, "muebles a medida": 30, "muebles de baño a medida": 10,
                   "muebles juveniles a medida": 10, "muebles a medida precios": 10},
-     "related": ["armarios-a-medida", "cocinas-a-medida"], "zones": ["pontevedra", "santiago-de-compostela"]},
+     "related": ["armarios-a-medida", "cocinas-a-medida"], "zones": []},
     {"slug": "rehabilitacion-de-madera", "name": "Rehabilitación de madera en viviendas",
      "gbp_category": "Carpintería", "service_type": "Rehabilitación de tejados, estructuras, vigas y forjados de madera",
      "subservices": ["Tejados y cubiertas de madera", "Armazones y estructuras de madera", "Vigas de madera",
@@ -69,14 +69,14 @@ SERVICES = [
      "keywords": {"reformas viviendas madera": 90, "reformas carpinteria madera": 90, "reformas madera sanxenxo": 60,
                   "rehabilitacion forjado madera": 30, "rehabilitacion de forjados de madera": 20,
                   "rehabilitacion estructura madera": 10, "rehabilitacion de tejados y cubiertas de madera": 10},
-     "related": ["carpinteria-exterior", "suelos-de-madera"], "zones": ["pontevedra", "santiago-de-compostela", "sanxenxo"]},
+     "related": ["carpinteria-exterior", "suelos-de-madera"], "zones": []},
     {"slug": "carpinteria-exterior", "name": "Carpintería exterior de madera", "gbp_category": "Fábrica de puertas",
      "service_type": "Porches, pérgolas, cobertizos y puertas exteriores de madera",
      "subservices": ["Porches de madera a medida", "Pérgolas", "Cobertizos de madera", "Puertas exteriores de madera",
                      "Muebles de exterior a medida"],
      "keywords": {"porche de madera a medida": 10, "porche a medida": 10, "cuanto cuesta un porche de madera": 10,
                   "cobertizo madera exterior": 10, "muebles exterior a medida": 10},
-     "related": ["rehabilitacion-de-madera", "muebles-a-medida"], "zones": ["pontevedra", "santiago-de-compostela"]},
+     "related": ["rehabilitacion-de-madera", "muebles-a-medida"], "zones": []},
     {"slug": "suelos-de-madera", "name": "Suelos de madera", "gbp_category": "Servicio de instalación de suelos de madera",
      "service_type": "Instalación, pulido y barnizado de suelos de madera",
      "subservices": ["Tarima de madera", "Parquet", "Pulido y barnizado", "Escaleras y rodapiés"],
@@ -119,7 +119,7 @@ def service_area(slug: str, zone: str) -> str:
 
 
 def hub(zone: str) -> str:
-    return f"/carpinteria/{zone}/"
+    return f"/{zone}/"  # hub de zona directamente en la raíz
 
 
 def build_links() -> dict[str, list[str]]:
@@ -249,15 +249,15 @@ def schema_templates() -> dict[str, dict]:
                 breadcrumb_item(3, "{{zona}}", "https://{{dominio}}/{{servicio_slug}}/{{zona_slug}}/")]},
             faq]},
         "zone-hub.jsonld": {"@context": "https://schema.org", "@graph": [
-            {"@type": "CollectionPage", "@id": "https://{{dominio}}/carpinteria/{{zona_slug}}/#pagina",
-             "name": "Carpintería en {{zona}}", "url": "https://{{dominio}}/carpinteria/{{zona_slug}}/",
+            {"@type": "CollectionPage", "@id": "https://{{dominio}}/{{zona_slug}}/#pagina",
+             "name": "Carpintería en {{zona}}", "url": "https://{{dominio}}/{{zona_slug}}/",
              "about": {"@id": business_id}, "spatialCoverage": city,
              "mainEntity": {"@type": "ItemList", "itemListElement": [
                  {"@type": "ListItem", "position": 1, "name": "{{servicio}} en {{zona}}",
                   "url": "https://{{dominio}}/{{servicio_slug}}/{{zona_slug}}/"}]}},
             {"@type": "BreadcrumbList", "itemListElement": [
                 breadcrumb_item(1, "Inicio", "https://{{dominio}}/"),
-                breadcrumb_item(2, "Carpintería en {{zona}}", "https://{{dominio}}/carpinteria/{{zona_slug}}/")]}]},
+                breadcrumb_item(2, "Carpintería en {{zona}}", "https://{{dominio}}/{{zona_slug}}/")]}]},
         "presupuesto.jsonld": {"@context": "https://schema.org", "@graph": [
             {"@type": "ContactPage", "@id": "https://{{dominio}}/presupuesto/#pagina", "name": "Pide presupuesto",
              "url": "https://{{dominio}}/presupuesto/", "about": {"@id": business_id}},

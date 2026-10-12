@@ -1,12 +1,12 @@
 ---
-// Páginas pilar de servicio: /{servicio}/
+// Páginas de primer nivel: pilares de servicio (/{servicio}/) y hubs de zona (/santiago-de-compostela/)
 import PageView from '../../components/PageView.astro';
 import { pages } from '../../lib/site';
 
 export function getStaticPaths() {
   return pages
-    .filter((p) => p.type === 'pillar')
-    .map((page) => ({ params: { servicio: page.params.servicio }, props: { page } }));
+    .filter((p) => p.type === 'pillar' || p.type === 'hub')
+    .map((page) => ({ params: { servicio: page.params.servicio ?? page.params.zona }, props: { page } }));
 }
 const { page } = Astro.props;
 ---
