@@ -14,6 +14,6 @@ const quote = '/presupuesto/' + (params.size ? `?${params}` : '');
 <!-- Barra fija en móvil: el contacto siempre visible (solo 3 de 8 competidores enlazan el teléfono) -->
 <nav class="mobile-cta" aria-label="Contacto rápido">
   <a href={telHref()}>Llamar</a>
-  <a href={waHref()}>WhatsApp</a>
+  <a href={waHref(servicio)}>WhatsApp</a>
   <a class="primary" href={quote}>Presupuesto</a>
 </nav>

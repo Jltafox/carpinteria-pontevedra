@@ -43,8 +43,14 @@ export function siteUrl(): string {
 
 export const phoneLabel = () => biz.telefono_visible || biz.telefono || '{{telefono}}';
 export const telHref = () => (filled('telefono') ? `tel:${String(biz.telefono).replace(/\s+/g, '')}` : '/presupuesto/');
-export const waHref = (text = 'Hola, quiero pedir presupuesto') =>
-  filled('whatsapp') ? `https://wa.me/${String(biz.whatsapp).replace(/\D/g, '')}?text=${encodeURIComponent(text)}` : '/presupuesto/';
+/** WhatsApp con mensaje que identifica la marca (y el servicio si se conoce) para saber de dónde llega el contacto. */
+export function waHref(servicio?: string): string {
+  if (!filled('whatsapp')) return '/presupuesto/';
+  const name = servicio ? pages.find((p) => p.type === 'pillar' && p.params.servicio === servicio)?.h1 : '';
+  const text = `Hola, os escribo desde la web de ${biz.marca || 'la carpintería'}. Quiero pedir presupuesto` +
+    (name ? ` para ${name.charAt(0).toLowerCase()}${name.slice(1)}.` : '.');
+  return `https://wa.me/${String(biz.whatsapp).replace(/\D/g, '')}?text=${encodeURIComponent(text)}`;
+}
 
 /** URL del mapa de la ficha de Google: acepta la URL de inserción o el <iframe> completo copiado de Google Maps. */
 export function mapsEmbedSrc(): string {

@@ -14,5 +14,5 @@ const quote = '/presupuesto/' + (params.size ? `?${params}` : '');
 <div class="ctas">
   <a class="btn btn-primary" href={quote}>Pedir presupuesto</a>
   <a class="btn" href={telHref()}>Llamar · {phoneLabel()}</a>
-  <a class="btn btn-wa" href={waHref()}>WhatsApp</a>
+  <a class="btn btn-wa" href={waHref(servicio)}>WhatsApp</a>
 </div>
