@@ -1,0 +1,20 @@
+---
+// Mapa de Google bloqueado hasta que el visitante acepta las cookies de «Mapas».
+interface Props {
+  src: string;
+  title: string;
+  height?: number;
+  class?: string;
+}
+const { src, title, height = 380, class: className = '' } = Astro.props;
+const external = src.replace('&output=embed', '').replace('/maps/embed?', '/maps?');
+---
+<div class:list={['consent-embed', className]} style={`min-height:${height}px`}>
+  <iframe data-consent="maps" data-consent-src={src} title={title} width="600" height={height}
+    allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div class="consent-placeholder">
+    <p>Este mapa lo sirve Google Maps, que instala cookies de Google.</p>
+    <button type="button" class="btn btn-primary" data-cookie-allow-maps>Cargar mapa</button>
+    <p class="consent-alt"><a href={external} rel="noopener" target="_blank">Abrir en Google Maps</a> · <a href="#" data-cookie-open>Configurar cookies</a></p>
+  </div>
+</div>

@@ -1,4 +1,5 @@
 ---
+import ConsentMap from './ConsentMap.astro';
 import Img from './Img.astro';
 import { biz, fill, mapsEmbedSrc, phoneLabel, telHref } from '../lib/site';
 
@@ -149,8 +150,7 @@ const dark = s.kind === 'process';
           {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
         </div>
         {mapSrc ? (
-          <iframe class="gbp-map" title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} src={mapSrc} loading="lazy"
-            width="600" height="380" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <ConsentMap class="gbp-map" src={mapSrc} title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} />
         ) : (
           <div class="img-slot" style="aspect-ratio: 3 / 2" role="img" aria-label="Mapa pendiente">
             <span class="img-slot-label">Mapa pendiente</span>

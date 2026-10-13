@@ -1,0 +1,94 @@
+---
+// Consentimiento de cookies (RGPD / LSSI art. 22.2 / guía AEPD).
+// - Primera capa: Aceptar, Rechazar y Configurar con el mismo peso visual.
+// - Nada de terceros se carga antes de aceptar: los iframes llevan data-consent-src en vez de src.
+// - Categorías: necesarias (siempre) y «mapas» (Google Maps), desmarcada por defecto.
+// - Revocable desde el enlace «Configurar cookies» del pie; caduca a los 12 meses.
+---
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-modal="false" aria-labelledby="cookie-title" hidden>
+  <div class="cookie-inner">
+    <p id="cookie-title" class="cookie-title">Cookies</p>
+    <p>Usamos cookies técnicas necesarias para que la web funcione. Con tu permiso, también cargamos mapas de Google Maps, que instalan cookies de Google. Puedes aceptarlas, rechazarlas o elegir. Más información en la <a href="/cookies/">política de cookies</a>.</p>
+    <div class="cookie-settings" id="cookie-settings" hidden>
+      <label class="cookie-option">
+        <input type="checkbox" checked disabled />
+        <span><strong>Necesarias</strong> · Seguridad y funcionamiento del sitio (Cloudflare). Siempre activas.</span>
+      </label>
+      <label class="cookie-option">
+        <input type="checkbox" id="cookie-maps" />
+        <span><strong>Mapas</strong> · Google Maps para mostrar nuestra ubicación. Instala cookies de Google.</span>
+      </label>
+    </div>
+    <div class="cookie-actions">
+      <button type="button" class="btn" data-cookie="reject">Rechazar</button>
+      <button type="button" class="btn" data-cookie="settings" id="cookie-settings-btn">Configurar</button>
+      <button type="button" class="btn" data-cookie="save" id="cookie-save" hidden>Guardar selección</button>
+      <button type="button" class="btn btn-primary" data-cookie="accept">Aceptar</button>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (() => {
+    const KEY = 'urexal-cookie-consent';
+    const VERSION = 1;
+    const MAX_AGE = 365 * 24 * 60 * 60 * 1000; // se vuelve a preguntar a los 12 meses
+    const banner = document.getElementById('cookie-banner');
+    const settings = document.getElementById('cookie-settings');
+    const mapsBox = document.getElementById('cookie-maps');
+    const saveBtn = document.getElementById('cookie-save');
+    const settingsBtn = document.getElementById('cookie-settings-btn');
+
+    const read = () => {
+      try {
+        const c = JSON.parse(localStorage.getItem(KEY) || 'null');
+        return c && c.v === VERSION && Date.now() - c.ts < MAX_AGE ? c : null;
+      } catch { return null; }
+    };
+    const write = (maps) => {
+      const c = { v: VERSION, ts: Date.now(), maps: Boolean(maps) };
+      try { localStorage.setItem(KEY, JSON.stringify(c)); } catch {}
+      return c;
+    };
+    // Carga los iframes de terceros solo con consentimiento
+    const apply = (c) => {
+      document.querySelectorAll('iframe[data-consent="maps"]').forEach((frame) => {
+        const holder = frame.closest('.consent-embed');
+        if (c && c.maps) {
+          if (!frame.getAttribute('src')) frame.setAttribute('src', frame.dataset.consentSrc);
+          holder?.classList.add('is-loaded');
+        } else {
+          frame.removeAttribute('src');
+          holder?.classList.remove('is-loaded');
+        }
+      });
+    };
+    const open = (withSettings) => {
+      const c = read();
+      mapsBox.checked = Boolean(c && c.maps);
+      settings.hidden = !withSettings;
+      saveBtn.hidden = !withSettings;
+      settingsBtn.hidden = withSettings;
+      banner.hidden = false;
+    };
+    const close = () => { banner.hidden = true; };
+
+    banner.addEventListener('click', (e) => {
+      const action = e.target.closest('[data-cookie]')?.dataset.cookie;
+      if (!action) return;
+      if (action === 'settings') return open(true);
+      const maps = action === 'accept' ? true : action === 'reject' ? false : mapsBox.checked;
+      apply(write(maps));
+      close();
+    });
+    // Enlaces «Configurar cookies» y botones «Cargar mapa»
+    document.addEventListener('click', (e) => {
+      if (e.target.closest('[data-cookie-open]')) { e.preventDefault(); open(true); }
+      if (e.target.closest('[data-cookie-allow-maps]')) { apply(write(true)); close(); }
+    });
+
+    const consent = read();
+    apply(consent);
+    if (!consent) open(false);
+  })();
+</script>
