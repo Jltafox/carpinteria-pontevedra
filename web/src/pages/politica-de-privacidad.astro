@@ -10,19 +10,54 @@ const page = pageByRoute('/politica-de-privacidad/');
   <section class="block">
     <div class="wrap prose">
       <h1>Política de privacidad</h1>
-      <p class="placeholder">Plantilla pendiente de revisión legal antes de publicar.</p>
-      <h2>Responsable del tratamiento</h2>
-      <p>{fill('{{titular_legal}}')} · NIF {fill('{{nif}}')} · {fill('{{domicilio_legal}}')} · {fill('{{email}}')}</p>
-      <h2>Qué datos tratamos y para qué</h2>
-      <p>Los datos del formulario de presupuesto (nombre, teléfono, email, municipio, descripción del trabajo y archivos adjuntos) se usan para contactarte y preparar el presupuesto que solicitas.</p>
-      <h2>Legitimación</h2>
-      <p>Tu consentimiento al enviar el formulario y la aplicación de medidas precontractuales a petición tuya.</p>
-      <h2>Destinatarios</h2>
-      <p>Para preparar el presupuesto y ejecutar el trabajo, tus datos se comunican a {fill('{{empresa_ejecutora}}')} (CIF {fill('{{ejecutora_nif}}')}, {fill('{{ejecutora_domicilio}}')}), empresa que presupuesta y realiza los trabajos. No se ceden a otros terceros salvo obligación legal.</p>
-      <h2>Conservación</h2>
-      <p>Mientras se gestiona tu solicitud y, después, durante los plazos legales aplicables.</p>
-      <h2>Tus derechos</h2>
-      <p>Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a {fill('{{email}}')}, y reclamar ante la Agencia Española de Protección de Datos (aepd.es).</p>
+      <p>Esta política explica cómo se tratan los datos personales que facilitas en {fill('{{dominio}}')}, conforme al Reglamento (UE) 2016/679 (RGPD) y a la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).</p>
+
+      <h2>1. Responsable del tratamiento</h2>
+      <ul class="dash">
+        <li>Responsable: {fill('{{titular_legal}}')}</li>
+        <li>NIF/CIF: {fill('{{nif}}')}</li>
+        <li>Domicilio: {fill('{{domicilio_legal}}')}</li>
+        <li>Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a></li>
+        <li>Teléfono: {fill('{{telefono_visible}}')}</li>
+      </ul>
+
+      <h2>2. Qué datos tratamos</h2>
+      <p>Los que nos facilitas en el formulario de presupuesto, por teléfono, por email o por WhatsApp: nombre, teléfono, email, municipio, descripción del trabajo, planos, bocetos o fotos que adjuntes, rango de presupuesto, prioridades y plazo. No solicitamos datos especialmente protegidos; te pedimos que no los incluyas en tus mensajes.</p>
+
+      <h2>3. Para qué los usamos</h2>
+      <ul class="dash">
+        <li>Atender tu solicitud, contactarte y preparar el presupuesto del trabajo que pides.</li>
+        <li>Comunicar tu solicitud a la empresa que presupuesta y realiza los trabajos, para que pueda visitarte y hacerte el presupuesto.</li>
+        <li>Responder a tus consultas y hacer el seguimiento de tu solicitud.</li>
+      </ul>
+      <p>No usamos tus datos para decisiones automatizadas ni elaboramos perfiles, y no te enviaremos publicidad sin tu consentimiento expreso.</p>
+
+      <h2>4. Legitimación</h2>
+      <ul class="dash">
+        <li>Tu consentimiento, que das al enviar el formulario o contactarnos (art. 6.1.a RGPD).</li>
+        <li>La aplicación de medidas precontractuales a petición tuya, como preparar un presupuesto (art. 6.1.b RGPD).</li>
+      </ul>
+      <p>Puedes retirar tu consentimiento en cualquier momento, sin que ello afecte a la licitud del tratamiento anterior.</p>
+
+      <h2>5. Destinatarios</h2>
+      <p>Para preparar el presupuesto y realizar el trabajo, tus datos se comunican a {fill('{{empresa_ejecutora}}')} (CIF {fill('{{ejecutora_nif}}')}, {fill('{{ejecutora_domicilio}}')}), empresa que presupuesta y ejecuta los trabajos y que tratará tus datos como responsable para esa finalidad.</p>
+      <p>También acceden a los datos, como encargados del tratamiento y solo para prestar su servicio, los proveedores tecnológicos de esta web: alojamiento web (Cloudflare), envío del formulario y correo electrónico. Algunos pueden tratar datos fuera del Espacio Económico Europeo; en ese caso, con garantías adecuadas como el Marco de Privacidad de Datos UE-EE. UU. o las cláusulas contractuales tipo de la Comisión Europea.</p>
+      <p>No cedemos tus datos a otros terceros salvo obligación legal.</p>
+
+      <h2>6. Cuánto tiempo los conservamos</h2>
+      <p>Mientras se gestiona tu solicitud y, si no se contrata el trabajo, un máximo de 12 meses desde el último contacto. Si se contrata, durante la relación y los plazos legales de prescripción de las responsabilidades que puedan derivarse. Después se eliminan o se bloquean conforme a la ley.</p>
+
+      <h2>7. Tus derechos</h2>
+      <p>Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad escribiendo a <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>, indicando el derecho que ejerces y acreditando tu identidad. Si consideras que no se han atendido correctamente, puedes reclamar ante la Agencia Española de Protección de Datos (<a href="https://www.aepd.es" rel="noopener">www.aepd.es</a>).</p>
+
+      <h2>8. Menores de edad</h2>
+      <p>Los servicios de esta web se dirigen a mayores de 18 años. No tratamos conscientemente datos de menores de 14 años.</p>
+
+      <h2>9. Seguridad</h2>
+      <p>Aplicamos medidas técnicas y organizativas adecuadas para proteger tus datos frente a pérdida, uso indebido o acceso no autorizado. La web se sirve siempre mediante conexión cifrada (HTTPS).</p>
+
+      <h2>10. Cambios en esta política</h2>
+      <p>Podemos actualizar esta política para adaptarla a cambios legales o del servicio. La versión vigente es siempre la publicada en esta página.</p>
     </div>
   </section>
 </Base>
