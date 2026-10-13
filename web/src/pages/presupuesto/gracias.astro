@@ -1,0 +1,21 @@
+---
+// Página de confirmación tras enviar el formulario (no se indexa ni sale en el sitemap).
+import Base from '../../layouts/Base.astro';
+import { phoneLabel, telHref } from '../../lib/site';
+
+const page = {
+  route: '/presupuesto/gracias/', title: 'Solicitud enviada | {{marca}}',
+  description: 'Hemos recibido tu solicitud de presupuesto.', noindex: true, jsonld: null, cta: {},
+};
+---
+<Base page={page}>
+  <section class="hero">
+    <div class="wrap prose">
+      <p class="eyebrow">Solicitud enviada</p>
+      <h1>Gracias, hemos recibido tu solicitud</h1>
+      <p class="lead">Te contactaremos en menos de 2 días para concretar el trabajo y, si hace falta, organizar la visita en 3–4 días laborables.</p>
+      <p>Si es urgente, llámanos al <a href={telHref()}>{phoneLabel()}</a>.</p>
+      <p><a class="btn" href="/">Volver al inicio</a></p>
+    </div>
+  </section>
+</Base>

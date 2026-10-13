@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import { biz, coverage, pageByRoute, phoneLabel, services, slugify, telHref, waHref } from '../lib/site';
+import { biz, coverage, fill, pageByRoute, phoneLabel, services, siteUrl, slugify, telHref, waHref } from '../lib/site';
 
 const page = pageByRoute('/presupuesto/');
 // Sin endpoint configurado el formulario no envía nada: se rellena form_endpoint en business.json.
@@ -63,7 +63,13 @@ const action = biz.form_endpoint || '#';
           ))}
         </fieldset>
         <!-- Antispam: campo trampa que las personas no ven -->
-        <input class="hp" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <!-- FormSubmit: asunto, origen y comportamiento del envío -->
+        <input type="hidden" name="_subject" id="f-subject" value={`Nuevo presupuesto · ${fill('{{marca}}')}`} />
+        <input type="hidden" name="Web" value={`${fill('{{marca}}')} (${fill('{{dominio}}')})`} />
+        <input type="hidden" name="_template" value="table" />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_next" id="f-next" value={`${siteUrl() || ''}/presupuesto/gracias/`} />
         <label class="check">
           <input type="checkbox" name="privacidad" required />
           <span>He leído y acepto la <a href="/politica-de-privacidad/">política de privacidad</a>.</span>
@@ -82,7 +88,11 @@ const action = biz.form_endpoint || '#';
         };
         [tel, mail].forEach((el) => el.addEventListener('input', checkContact));
         document.querySelector('form.quote').addEventListener('submit', (e) => {
-          if (!checkContact()) { e.preventDefault(); tel.reportValidity(); }
+          if (!checkContact()) { e.preventDefault(); tel.reportValidity(); return; }
+          const pick = (id) => { const s = document.getElementById(id); return s.value ? s.options[s.selectedIndex].text : ''; };
+          const subject = document.getElementById('f-subject');
+          subject.value = [subject.defaultValue, pick('servicio'), pick('municipio')].filter(Boolean).join(' · ');
+          document.getElementById('f-next').value = location.origin + '/presupuesto/gracias/';
         });
         const q = new URLSearchParams(location.search);
         const servicio = document.getElementById('servicio');
