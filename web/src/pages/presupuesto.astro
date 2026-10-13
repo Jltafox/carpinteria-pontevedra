@@ -23,8 +23,11 @@ const action = biz.form_endpoint || '#';
     <div class="wrap narrow">
       <form class="quote" method="post" action={action} enctype="multipart/form-data">
         <label>Nombre<input name="nombre" required autocomplete="name" /></label>
-        <label>Teléfono<input name="telefono" type="tel" required autocomplete="tel" /></label>
-        <label>Email <span class="opt">(opcional)</span><input name="email" type="email" autocomplete="email" /></label>
+        <fieldset class="contact-pair">
+          <legend>¿Cómo te contactamos? <span class="opt">(teléfono o email, al menos uno)</span></legend>
+          <label>Teléfono<input name="telefono" id="f-telefono" type="tel" autocomplete="tel" inputmode="tel" /></label>
+          <label>Email<input name="email" id="f-email" type="email" autocomplete="email" /></label>
+        </fieldset>
         <label>Municipio
           <select name="municipio" id="municipio" required>
             <option value="">Elige tu municipio</option>
@@ -69,6 +72,18 @@ const action = biz.form_endpoint || '#';
       </form>
       <script is:inline>
         // Rellena servicio y municipio cuando se llega desde una landing (/presupuesto/?servicio=…&zona=…)
+        // Teléfono o email: al menos uno de los dos
+        const tel = document.getElementById('f-telefono');
+        const mail = document.getElementById('f-email');
+        const checkContact = () => {
+          const ok = tel.value.trim() !== '' || mail.value.trim() !== '';
+          tel.setCustomValidity(ok ? '' : 'Déjanos un teléfono o un email para poder contactarte.');
+          return ok;
+        };
+        [tel, mail].forEach((el) => el.addEventListener('input', checkContact));
+        document.querySelector('form.quote').addEventListener('submit', (e) => {
+          if (!checkContact()) { e.preventDefault(); tel.reportValidity(); }
+        });
         const q = new URLSearchParams(location.search);
         const servicio = document.getElementById('servicio');
         if (q.get('servicio')) servicio.value = q.get('servicio');

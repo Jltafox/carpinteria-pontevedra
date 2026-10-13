@@ -221,3 +221,5 @@ code { font-size: 0.85em; }
 .site-footer .consent-placeholder { color: var(--ink-2); }
 .site-footer .consent-placeholder a { color: var(--ink); }
 .cookie-banner [hidden] { display: none !important; }
+.contact-pair { display: grid; gap: 12px; }
+@media (min-width: 640px) { .contact-pair { grid-template-columns: 1fr 1fr; } .contact-pair legend { grid-column: 1 / -1; } }
