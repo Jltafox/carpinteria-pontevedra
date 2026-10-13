@@ -18,7 +18,6 @@ enlaces:
     - /suelos-de-madera/
     - /santiago-de-compostela/
     - /presupuesto/
-    - /proyectos/
     - /sobre-nosotros/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -27,7 +26,6 @@ enlaces:
     - /armarios-a-medida/
     - /muebles-a-medida/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -36,7 +34,6 @@ enlaces:
     - /muebles-a-medida/
     - /cocinas-a-medida/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -45,7 +42,6 @@ enlaces:
     - /armarios-a-medida/
     - /cocinas-a-medida/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -54,7 +50,6 @@ enlaces:
     - /carpinteria-exterior/
     - /suelos-de-madera/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -63,7 +58,6 @@ enlaces:
     - /rehabilitacion-de-madera/
     - /muebles-a-medida/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -72,7 +66,6 @@ enlaces:
     - /rehabilitacion-de-madera/
     - /muebles-a-medida/
     - /presupuesto/
-    - /proyectos/
     - /santiago-de-compostela/
     - /aviso-legal/
     - /politica-de-privacidad/
@@ -89,20 +82,7 @@ enlaces:
     - /aviso-legal/
     - /politica-de-privacidad/
     - /cookies/
-  /proyectos/:
-    - /cocinas-a-medida/
-    - /armarios-a-medida/
-    - /muebles-a-medida/
-    - /rehabilitacion-de-madera/
-    - /carpinteria-exterior/
-    - /suelos-de-madera/
-    - /presupuesto/
-    - /santiago-de-compostela/
-    - /aviso-legal/
-    - /politica-de-privacidad/
-    - /cookies/
   /sobre-nosotros/:
-    - /proyectos/
     - /presupuesto/
     - /santiago-de-compostela/
     - /aviso-legal/

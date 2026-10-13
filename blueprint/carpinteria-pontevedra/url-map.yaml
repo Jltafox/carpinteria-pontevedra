@@ -142,7 +142,6 @@ zonas_hub:
   - /santiago-de-compostela/
 paginas:
   presupuesto: /presupuesto/
-  proyectos: /proyectos/
   sobre_nosotros: /sobre-nosotros/
 legales:
   - /aviso-legal/
@@ -166,4 +165,4 @@ fase_2:
     - /guias/rehabilitar-o-sustituir-un-forjado-de-madera/
   lineas_futuras:
     - "casetas, casas y cabañas de madera (1.030 búsquedas/mes; el cliente las lanza en 2027)"
-total_paginas_fase_1: 14
+total_paginas_fase_1: 13

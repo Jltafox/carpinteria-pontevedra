@@ -262,6 +262,8 @@ def build_pages() -> list[dict]:
              ("/politica-de-privacidad/", "legal", "Política de privacidad | {{marca}}", "Política de privacidad de {{marca}}."),
              ("/cookies/", "legal", "Política de cookies | {{marca}}", "Política de cookies de {{marca}}.")]
     for url, kind, title, description in fixed:
+        if url == "/proyectos/" and not bp.SHOW_PROJECTS:
+            continue
         bc = crumbs((PAGE_LABELS[url], url))
         graph = [breadcrumb_ld(bc)]
         if kind == "presupuesto":

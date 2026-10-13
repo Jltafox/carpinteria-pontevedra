@@ -105,7 +105,9 @@ HOME_ZONE = "pontevedra"  # la home ataca esta zona: sustituye a su hub
 PHASE_2_ZONES = ["Caldas de Reis", "A Estrada", "Vilagarcía de Arousa", "Cambados", "Padrón", "Lalín", "Ames", "Teo"]
 PHASE_2_GUIDES = ["precio-cocina-a-medida", "precio-armario-empotrado-por-m2", "precio-vestidor-a-medida",
                   "cuanto-cuesta-un-porche-de-madera", "rehabilitar-o-sustituir-un-forjado-de-madera"]
-PAGES = {"presupuesto": "/presupuesto/", "proyectos": "/proyectos/", "sobre_nosotros": "/sobre-nosotros/"}
+SHOW_PROJECTS = False  # /proyectos/ no se publica ni se enlaza hasta tener fotos reales de trabajos
+PAGES = {"presupuesto": "/presupuesto/", **({"proyectos": "/proyectos/"} if SHOW_PROJECTS else {}),
+         "sobre_nosotros": "/sobre-nosotros/"}
 LEGAL = ["/aviso-legal/", "/politica-de-privacidad/", "/cookies/"]
 
 
@@ -129,7 +131,8 @@ def build_links() -> dict[str, list[str]]:
                                    list(PAGES.values())}
     for s in SERVICES:
         links[pillar(s["slug"])] = ([service_area(s["slug"], z) for z in s["zones"]] +
-                                    [pillar(r) for r in s["related"]] + [PAGES["presupuesto"], PAGES["proyectos"]])
+                                    [pillar(r) for r in s["related"]] + [PAGES["presupuesto"]] +
+                                    ([PAGES["proyectos"]] if SHOW_PROJECTS else []))
         for z in s["zones"]:
             same_zone = [service_area(o["slug"], z) for o in SERVICES if o["slug"] != s["slug"] and z in o["zones"]]
             other_zones = [service_area(s["slug"], o) for o in s["zones"] if o != z]
@@ -140,8 +143,9 @@ def build_links() -> dict[str, list[str]]:
         links[hub(z)] = ([service_area(s["slug"], z) for s in SERVICES if z in s["zones"]] +
                          [pillar(s["slug"]) for s in SERVICES if z not in s["zones"]] +
                          [hub(o) for o in hubs if o != z] + ["/", PAGES["presupuesto"]])
-    links[PAGES["proyectos"]] = [pillar(s["slug"]) for s in SERVICES] + [PAGES["presupuesto"]]
-    links[PAGES["sobre_nosotros"]] = [PAGES["proyectos"], PAGES["presupuesto"]]
+    if SHOW_PROJECTS:
+        links[PAGES["proyectos"]] = [pillar(s["slug"]) for s in SERVICES] + [PAGES["presupuesto"]]
+    links[PAGES["sobre_nosotros"]] = ([PAGES["proyectos"]] if SHOW_PROJECTS else []) + [PAGES["presupuesto"]]
     links[PAGES["presupuesto"]] = []
     for legal in LEGAL:
         links[legal] = []

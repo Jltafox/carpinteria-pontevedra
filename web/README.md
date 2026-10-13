@@ -57,3 +57,10 @@ npm run release
 4. **Contenido real:** añadir `proyectos` y `testimonios` reales y con permiso. Mientras estén vacíos, esas secciones no se muestran.
 5. **Precios:** activar `publicar_precios` solo si Fervenza confirma los rangos de cocinas.
 6. **QA:** pasar `landing-qa-runner` (Playwright y Lighthouse con `blueprint/carpinteria-pontevedra/lighthouse-budget.json`).
+
+## Página de trabajos realizados (desactivada)
+`/proyectos/` y las galerías no se publican hasta tener fotos reales. Para activarla:
+1. En `scripts/web_blueprint_generator.py`, poner `SHOW_PROJECTS = True`.
+2. Renombrar `src/pages/_proyectos.astro` a `src/pages/proyectos.astro`.
+3. Quitar la línea `/proyectos/ / 302` de `public/_redirects`.
+4. Ejecutar `py scripts/web_blueprint_generator.py` y `py scripts/landing_generator.py`.

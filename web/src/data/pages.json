@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12",
+ "generado": "2026-10-13",
  "aviso": "Generado por scripts/landing_generator.py: no editar a mano.",
  "pages": [
   {
@@ -389,10 +389,6 @@
     {
      "url": "/presupuesto/",
      "label": "Pide presupuesto"
-    },
-    {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
     },
     {
      "url": "/sobre-nosotros/",
@@ -828,10 +824,6 @@
      "label": "Pide presupuesto"
     },
     {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
-    },
-    {
      "url": "/santiago-de-compostela/",
      "label": "Carpintería en Santiago de Compostela"
     },
@@ -1219,10 +1211,6 @@
      "label": "Pide presupuesto"
     },
     {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
-    },
-    {
      "url": "/santiago-de-compostela/",
      "label": "Carpintería en Santiago de Compostela"
     },
@@ -1608,10 +1596,6 @@
     {
      "url": "/presupuesto/",
      "label": "Pide presupuesto"
-    },
-    {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
     },
     {
      "url": "/santiago-de-compostela/",
@@ -2013,10 +1997,6 @@
      "label": "Pide presupuesto"
     },
     {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
-    },
-    {
      "url": "/santiago-de-compostela/",
      "label": "Carpintería en Santiago de Compostela"
     },
@@ -2404,10 +2384,6 @@
      "label": "Pide presupuesto"
     },
     {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
-    },
-    {
      "url": "/santiago-de-compostela/",
      "label": "Carpintería en Santiago de Compostela"
     },
@@ -2764,10 +2740,6 @@
     {
      "url": "/presupuesto/",
      "label": "Pide presupuesto"
-    },
-    {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
     },
     {
      "url": "/santiago-de-compostela/",
@@ -3150,96 +3122,6 @@
    ]
   },
   {
-   "route": "/proyectos/",
-   "type": "proyectos",
-   "params": {},
-   "title": "Trabajos realizados | {{marca}}",
-   "description": "Cocinas, armarios, muebles, rehabilitaciones y carpintería exterior hechos por nuestro equipo.",
-   "h1": "Trabajos realizados",
-   "lead": "",
-   "breadcrumbs": [
-    {
-     "name": "Inicio",
-     "url": "/"
-    },
-    {
-     "name": "Trabajos realizados",
-     "url": "/proyectos/"
-    }
-   ],
-   "cta": {},
-   "sections": [],
-   "jsonld": {
-    "@context": "https://schema.org",
-    "@graph": [
-     {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-       {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Inicio",
-        "item": "https://{{dominio}}/"
-       },
-       {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Trabajos realizados",
-        "item": "https://{{dominio}}/proyectos/"
-       }
-      ]
-     }
-    ]
-   },
-   "noindex": false,
-   "links": [
-    {
-     "url": "/cocinas-a-medida/",
-     "label": "Cocinas a medida"
-    },
-    {
-     "url": "/armarios-a-medida/",
-     "label": "Armarios y vestidores a medida"
-    },
-    {
-     "url": "/muebles-a-medida/",
-     "label": "Muebles a medida"
-    },
-    {
-     "url": "/rehabilitacion-de-madera/",
-     "label": "Rehabilitación de madera en viviendas"
-    },
-    {
-     "url": "/carpinteria-exterior/",
-     "label": "Carpintería exterior de madera"
-    },
-    {
-     "url": "/suelos-de-madera/",
-     "label": "Suelos de madera"
-    },
-    {
-     "url": "/presupuesto/",
-     "label": "Pide presupuesto"
-    },
-    {
-     "url": "/santiago-de-compostela/",
-     "label": "Carpintería en Santiago de Compostela"
-    },
-    {
-     "url": "/aviso-legal/",
-     "label": "Aviso legal"
-    },
-    {
-     "url": "/politica-de-privacidad/",
-     "label": "Política de privacidad"
-    },
-    {
-     "url": "/cookies/",
-     "label": "Cookies"
-    }
-   ]
-  },
-  {
    "route": "/sobre-nosotros/",
    "type": "sobre-nosotros",
    "params": {},
@@ -3283,10 +3165,6 @@
    },
    "noindex": false,
    "links": [
-    {
-     "url": "/proyectos/",
-     "label": "Trabajos realizados"
-    },
     {
      "url": "/presupuesto/",
      "label": "Pide presupuesto"
