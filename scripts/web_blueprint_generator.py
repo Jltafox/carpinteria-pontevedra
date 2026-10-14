@@ -35,6 +35,22 @@ COVERAGE = ["A Estrada", "Boqueixón", "Vedra", "Rois", "Brión", "Teo", "Santia
             "Sanxenxo", "Ribeira", "Silleda", "Vila de Cruces", "Dozón", "Lalín"]
 EXCLUDED = ["O Pino", "Trazo", "Negreira", "Frades", "Arzúa", "Ordes", "Melide", "A Lama", "Poio", "Ponte Caldelas",
             "Marín", "Soutomaior", "Pazos de Borbén", "Redondela", "Rianxo"]
+CORUNA = {"Boqueixón", "Vedra", "Rois", "Brión", "Teo", "Santiago de Compostela", "Ames", "Oroso", "Padrón", "Dodro",
+          "Boiro", "Ribeira"}  # el resto de COVERAGE es de la provincia de Pontevedra
+# Centro del área de trabajo: el taller de A Estrada. 33 km llegan a Santiago (26 km) y a la dirección de Pontevedra
+# (32 km); la costa de Arousa, Sanxenxo, O Grove y Ribeira queda fuera del círculo y se cubre con la lista de concellos.
+SERVICE_CENTER = (42.681, -8.436)
+SERVICE_RADIUS_M = 33000
+
+
+def area_served() -> list[dict]:
+    """areaServed del negocio y de los servicios: círculo desde el taller + los concellos del briefing."""
+    circle = {"@type": "GeoCircle", "name": "Radio de 33 km desde el taller de A Estrada",
+              "geoMidpoint": {"@type": "GeoCoordinates", "latitude": SERVICE_CENTER[0], "longitude": SERVICE_CENTER[1]},
+              "geoRadius": SERVICE_RADIUS_M}
+    return [circle] + [{"@type": "City", "name": name, "containedInPlace": {
+        "@type": "AdministrativeArea", "name": "Provincia de " + ("A Coruña" if name in CORUNA else "Pontevedra")}}
+        for name in COVERAGE]
 
 # ── Servicios (líneas del KW research; volúmenes/mes de la zona) ─────────────────
 SERVICES = [
@@ -225,7 +241,7 @@ def schema_templates() -> dict[str, dict]:
              "openingHoursSpecification": [{"@type": "OpeningHoursSpecification",
                                             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
                                             "opens": "{{abre}}", "closes": "{{cierra}}"}],
-             "areaServed": [{"@type": "City", "name": data["name"]} for data in ZONES.values()],
+             "areaServed": area_served(),
              "sameAs": ["{{gbp_url}}"],
              "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Servicios de carpintería", "itemListElement": [
                  {"@type": "Offer", "itemOffered": {"@type": "Service", "name": s["name"],

@@ -51,16 +51,318 @@
       ],
       "areaServed": [
         {
-          "@type": "City",
-          "name": "Pontevedra"
+          "@type": "GeoCircle",
+          "name": "Radio de 33 km desde el taller de A Estrada",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": 42.681,
+            "longitude": -8.436
+          },
+          "geoRadius": 33000
         },
         {
           "@type": "City",
-          "name": "Santiago de Compostela"
+          "name": "A Estrada",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
         },
         {
           "@type": "City",
-          "name": "Sanxenxo"
+          "name": "Boqueixón",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Vedra",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Rois",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Brión",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Teo",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Santiago de Compostela",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Ames",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Oroso",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Cuntis",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Forcarei",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Cerdedo-Cotobade",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Caldas de Reis",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Campo Lameiro",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Moraña",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Portas",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Pontevedra",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Valga",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Pontecesures",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Padrón",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Dodro",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Catoira",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Vilagarcía de Arousa",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Ribadumia",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Meis",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Vilanova de Arousa",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Boiro",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "A Illa de Arousa",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Cambados",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Meaño",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Vilaboa",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "O Grove",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Sanxenxo",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Ribeira",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de A Coruña"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Silleda",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Vila de Cruces",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Dozón",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
+        },
+        {
+          "@type": "City",
+          "name": "Lalín",
+          "containedInPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Provincia de Pontevedra"
+          }
         }
       ],
       "sameAs": [

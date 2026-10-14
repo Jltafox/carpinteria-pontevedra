@@ -174,7 +174,7 @@ def build_pages() -> list[dict]:
                 {"kind": "links", "h2": "Servicios relacionados", "links": link_list([bp.pillar(r) for r in s["related"]])},
             ],
             "jsonld": {"@context": "https://schema.org", "@graph": [
-                service_ld(s, url, s["name"], description, [city(z) for z in bp.ZONES]),
+                service_ld(s, url, s["name"], description, bp.area_served()),
                 breadcrumb_ld(bc), faq_ld(copy["faqs"])]},
         })
 
