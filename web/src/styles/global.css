@@ -223,6 +223,6 @@ code { font-size: 0.85em; }
 .cookie-banner [hidden] { display: none !important; }
 .contact-pair { display: grid; gap: 12px; }
 @media (min-width: 640px) { .contact-pair { grid-template-columns: 1fr 1fr; } .contact-pair legend { grid-column: 1 / -1; } }
-.brand { display: inline-flex; align-items: center; gap: 10px; }
-.brand-logo { width: 48px; height: 48px; display: block; }
-@media (max-width: 600px) { .brand-logo { width: 40px; height: 40px; } }
+.brand { display: inline-flex; align-items: center; }
+.brand-logo { height: 44px; width: auto; display: block; }
+@media (max-width: 600px) { .brand-logo { height: 36px; } }
