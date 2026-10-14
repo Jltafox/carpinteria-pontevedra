@@ -376,6 +376,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/cocinas-a-medida/#servicio",
               "name": "Cocinas a medida",
               "url": "https://{{dominio}}/cocinas-a-medida/"
             }
@@ -384,6 +385,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/armarios-a-medida/#servicio",
               "name": "Armarios y vestidores a medida",
               "url": "https://{{dominio}}/armarios-a-medida/"
             }
@@ -392,6 +394,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/muebles-a-medida/#servicio",
               "name": "Muebles a medida",
               "url": "https://{{dominio}}/muebles-a-medida/"
             }
@@ -400,6 +403,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/rehabilitacion-de-madera/#servicio",
               "name": "Rehabilitación de madera en viviendas",
               "url": "https://{{dominio}}/rehabilitacion-de-madera/"
             }
@@ -408,6 +412,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/carpinteria-exterior/#servicio",
               "name": "Carpintería exterior de madera",
               "url": "https://{{dominio}}/carpinteria-exterior/"
             }
@@ -416,6 +421,7 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
+              "@id": "https://{{dominio}}/suelos-de-madera/#servicio",
               "name": "Suelos de madera",
               "url": "https://{{dominio}}/suelos-de-madera/"
             }

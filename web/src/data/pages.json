@@ -573,6 +573,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/cocinas-a-medida/#servicio",
           "name": "Cocinas a medida",
           "url": "https://{{dominio}}/cocinas-a-medida/"
          }
@@ -581,6 +582,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/armarios-a-medida/#servicio",
           "name": "Armarios y vestidores a medida",
           "url": "https://{{dominio}}/armarios-a-medida/"
          }
@@ -589,6 +591,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/muebles-a-medida/#servicio",
           "name": "Muebles a medida",
           "url": "https://{{dominio}}/muebles-a-medida/"
          }
@@ -597,6 +600,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/rehabilitacion-de-madera/#servicio",
           "name": "Rehabilitación de madera en viviendas",
           "url": "https://{{dominio}}/rehabilitacion-de-madera/"
          }
@@ -605,6 +609,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/carpinteria-exterior/#servicio",
           "name": "Carpintería exterior de madera",
           "url": "https://{{dominio}}/carpinteria-exterior/"
          }
@@ -613,6 +618,7 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
+          "@id": "https://{{dominio}}/suelos-de-madera/#servicio",
           "name": "Suelos de madera",
           "url": "https://{{dominio}}/suelos-de-madera/"
          }
@@ -962,6 +968,7 @@
       "serviceType": "Diseño, fabricación y montaje de cocinas a medida",
       "description": "Diseño, fabricación y montaje de cocinas a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/cocinas-a-medida/",
+      "image": "https://{{dominio}}/img/cocinas-a-medida/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },
@@ -1654,6 +1661,7 @@
       "serviceType": "Fabricación e instalación de armarios empotrados y vestidores a medida",
       "description": "Fabricación e instalación de armarios empotrados y vestidores a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/armarios-a-medida/",
+      "image": "https://{{dominio}}/img/armarios-a-medida/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },
@@ -2331,6 +2339,7 @@
       "serviceType": "Diseño y fabricación de muebles de madera a medida",
       "description": "Diseño y fabricación de muebles de madera a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/muebles-a-medida/",
+      "image": "https://{{dominio}}/img/muebles-a-medida/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },
@@ -3012,6 +3021,7 @@
       "serviceType": "Rehabilitación de tejados, estructuras, vigas y forjados de madera",
       "description": "Rehabilitación de tejados, estructuras, vigas y forjados de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/rehabilitacion-de-madera/",
+      "image": "https://{{dominio}}/img/rehabilitacion-de-madera/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },
@@ -3697,6 +3707,7 @@
       "serviceType": "Porches, pérgolas, cobertizos y puertas exteriores de madera",
       "description": "Porches, pérgolas, cobertizos y puertas exteriores de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/carpinteria-exterior/",
+      "image": "https://{{dominio}}/img/carpinteria-exterior/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },
@@ -4360,6 +4371,7 @@
       "serviceType": "Instalación, pulido y barnizado de suelos de madera",
       "description": "Instalación, pulido y barnizado de suelos de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
       "url": "https://{{dominio}}/suelos-de-madera/",
+      "image": "https://{{dominio}}/img/suelos-de-madera/portada.webp",
       "provider": {
        "@id": "https://{{dominio}}/#negocio"
       },

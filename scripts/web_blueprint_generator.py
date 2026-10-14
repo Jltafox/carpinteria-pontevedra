@@ -244,8 +244,8 @@ def schema_templates() -> dict[str, dict]:
              "areaServed": area_served(),
              "sameAs": ["{{gbp_url}}"],
              "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Servicios de carpintería", "itemListElement": [
-                 {"@type": "Offer", "itemOffered": {"@type": "Service", "name": s["name"],
-                                                    "url": "https://{{dominio}}" + pillar(s["slug"])}}
+                 {"@type": "Offer", "itemOffered": {"@type": "Service", "@id": "https://{{dominio}}" + pillar(s["slug"]) + "#servicio",
+                                                    "name": s["name"], "url": "https://{{dominio}}" + pillar(s["slug"])}}
                  for s in SERVICES]}}]},
         "service-pillar.jsonld": {"@context": "https://schema.org", "@graph": [
             {"@type": "Service", "@id": "https://{{dominio}}/{{servicio_slug}}/#servicio", "name": "{{servicio}}",

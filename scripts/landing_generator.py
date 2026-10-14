@@ -91,8 +91,10 @@ def city(zone: str) -> dict:
 
 
 def service_ld(service: dict, url: str, name: str, description: str, area) -> dict:
+    image = f'/img/{service["slug"]}/portada.webp'
     return {"@type": "Service", "@id": "https://{{dominio}}" + url + "#servicio", "name": name,
             "serviceType": service["service_type"], "description": description, "url": "https://{{dominio}}" + url,
+            **({"image": "https://{{dominio}}" + image} if (ROOT / "web/public" / image.lstrip("/")).exists() else {}),
             "provider": {"@id": BUSINESS_ID}, "areaServed": area,
             "hasOfferCatalog": {"@type": "OfferCatalog", "name": service["name"], "itemListElement": [
                 {"@type": "Offer", "itemOffered": {"@type": "Service", "name": sub}} for sub in service["subservices"]]}}
