@@ -1,10 +1,5 @@
 # Cloudflare Pages: cabeceras HTTP.
 
-# Bloquea indexación y rastreo en todas las URLs (también imágenes, PDF, etc.).
-# Quitar estas dos líneas cuando se quiera indexar la web (además de "indexable": true en business.json).
-/*
-  X-Robots-Tag: noindex, nofollow
-
 # Seguridad básica (sin CSP: el mapa de Google y el formulario de FormSubmit necesitarían una lista blanca)
 /*
   X-Content-Type-Options: nosniff
