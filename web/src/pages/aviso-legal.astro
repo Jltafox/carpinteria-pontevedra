@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import { fill, pageByRoute } from '../lib/site';
+import { biz, fill, pageByRoute } from '../lib/site';
 
 const page = pageByRoute('/aviso-legal/');
 ---
@@ -17,6 +17,7 @@ const page = pageByRoute('/aviso-legal/');
         <li>Titular: {fill('{{titular_legal}}')}</li>
         <li>NIF/CIF: {fill('{{nif}}')}</li>
         <li>Domicilio: {fill('{{domicilio_legal}}')}</li>
+        {biz.datos_registrales && <li>Datos registrales: {biz.datos_registrales}</li>}
         <li>Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a></li>
         <li>Teléfono: {fill('{{telefono_visible}}')}</li>
       </ul>

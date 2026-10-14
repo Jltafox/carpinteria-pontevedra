@@ -6,7 +6,7 @@ import { biz, fill, hubs, phoneLabel, services, telHref } from '../lib/site';
   <div class="wrap footer-grid">
     <div>
       <p class="brand">{fill('{{marca}}')}</p>
-      <!-- NAP: debe coincidir exactamente con la ficha de Google -->
+      {/* NAP: debe coincidir exactamente con la ficha de Google */}
       <address>
         {fill('{{calle}}')}<br />
         {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
@@ -32,7 +32,7 @@ import { biz, fill, hubs, phoneLabel, services, telHref } from '../lib/site';
         <li><a href="/aviso-legal/">Aviso legal</a></li>
         <li><a href="/politica-de-privacidad/">Política de privacidad</a></li>
         <li><a href="/cookies/">Cookies</a></li>
-        <li><a href="#" data-cookie-open>Configurar cookies</a></li>
+        <li><button type="button" class="link-btn" data-cookie-open>Configurar cookies</button></li>
       </ul>
     </div>
   </div>

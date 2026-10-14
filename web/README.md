@@ -51,12 +51,21 @@ npm run release
 ```
 
 ## Antes de publicar
-1. Rellenar `src/data/business.json`. `npm run release` falla mientras falte algo.
-2. **Legal:** revisar `/aviso-legal/`, `/politica-de-privacidad/` y `/cookies/`, que son plantillas.
-3. **Formulario:** configurar el endpoint del formulario en `form_endpoint` (Formspree, Netlify Forms, Getform…).
-4. **Contenido real:** añadir `proyectos` y `testimonios` reales y con permiso. Mientras estén vacíos, esas secciones no se muestran.
-5. **Precios:** activar `publicar_precios` solo si Fervenza confirma los rangos de cocinas.
-6. **QA:** pasar `landing-qa-runner` (Playwright y Lighthouse con `blueprint/carpinteria-pontevedra/lighthouse-budget.json`).
+Estado a 14/10/2026. `npm run release` falla mientras falte algún dato obligatorio.
+
+- [ ] **Titular de la web:** razón social, NIF y domicilio de Dixitalea (`titular_legal`, `nif`, `domicilio_legal`). Si es sociedad, también `datos_registrales` (Registro Mercantil, tomo, folio, hoja).
+- [ ] **Formulario:** enviar una prueba desde la web, pulsar «Activate Form» en el email de FormSubmit y sustituir `form_endpoint` por la URL con hash que da FormSubmit.
+- [ ] **Ficha de Google:** cuando exista, `gbp_url` y `maps_embed_url` (sin ellos el mapa usa la dirección).
+- [ ] **Correo:** comprobar que `contacto@carpinteriaurexal.es` llega a admin@dixitalea.com (Cloudflare Email Routing). Opcional: registro DMARC.
+- [ ] **Contenido real:** `testimonios` reales y con permiso; fotos reales de trabajos para reactivar `/proyectos/`.
+- [ ] **Precios:** activar `publicar_precios` solo si Fervenza confirma los rangos de cocinas.
+- [ ] **QA:** `landing-qa-runner` (Playwright y Lighthouse con `blueprint/carpinteria-pontevedra/lighthouse-budget.json`).
+- [ ] **Indexar:** `"indexable": true` en `business.json` y quitar el bloque `X-Robots-Tag` de `public/_headers`. Después, purgar la caché de Cloudflare.
+
+Hecho: dominio y DNS en Cloudflare, redirecciones www→raíz y http→https, textos legales, banner de cookies, logo y favicon.
+
+## Imágenes
+`scripts/import_images.py` guarda cada foto en WebP y, si mide más de 1000 px de ancho, también una versión `-800.webp` para móvil. `Img.astro` la añade al `srcset` si existe.
 
 ## Página de trabajos realizados (desactivada)
 `/proyectos/` y las galerías no se publican hasta tener fotos reales. Para activarla:

@@ -3,9 +3,7 @@ import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import CtaButtons from '../components/CtaButtons.astro';
 import Img from '../components/Img.astro';
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
-import { pageByRoute, services } from '../lib/site';
+import { hasPublicFile, pageByRoute, services } from '../lib/site';
 
 const page = pageByRoute('/proyectos/');
 // Una galería por servicio: las mismas fotos que la galería de cada página pilar.
@@ -13,7 +11,7 @@ const galleries = services.map((s) => ({
   route: s.route,
   name: s.h1,
   images: s.sections.find((x: any) => x.kind === 'gallery')?.images ?? [],
-})).filter((g) => import.meta.env.DEV || g.images.some((img: any) => existsSync(join(process.cwd(), 'public', img.src))));
+})).filter((g) => import.meta.env.DEV || g.images.some((img: any) => hasPublicFile(img.src)));
 ---
 <Base page={page}>
   <Breadcrumbs items={page.breadcrumbs} />

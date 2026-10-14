@@ -1,3 +1,5 @@
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 import business from '../data/business.json';
 import data from '../data/pages.json';
 import areas from '../data/areas-served.json';
@@ -41,6 +43,23 @@ export function pruneTokens(value: any): any {
     return Object.keys(out).length ? out : undefined;
   }
   return typeof value === 'string' && /\{\{\w+\}\}/.test(value) ? undefined : value;
+}
+
+/** true si el archivo existe en public/ (fotos que aún no se han subido se muestran como hueco en desarrollo). */
+export const hasPublicFile = (src: string) => existsSync(join(process.cwd(), 'public', src));
+
+/** Versión móvil (…-800.webp) de una imagen grande, si se ha generado. */
+export function mobileVariant(src: string): string | undefined {
+  const variant = src.replace(/\.webp$/, '-800.webp');
+  return variant !== src && hasPublicFile(variant) ? variant : undefined;
+}
+
+/** Enlace al formulario con el servicio y la zona ya elegidos. */
+export function quoteHref(servicio?: string, zona?: string): string {
+  const params = new URLSearchParams();
+  if (servicio) params.set('servicio', servicio);
+  if (zona) params.set('zona', zona);
+  return '/presupuesto/' + (params.size ? `?${params}` : '');
 }
 
 export const pageByRoute = (route: string) => pages.find((p) => p.route === route);

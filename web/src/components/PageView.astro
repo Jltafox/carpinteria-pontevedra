@@ -4,9 +4,7 @@ import Breadcrumbs from './Breadcrumbs.astro';
 import CtaButtons from './CtaButtons.astro';
 import Img from './Img.astro';
 import Section from './Section.astro';
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
-import { biz, fill } from '../lib/site';
+import { biz, fill, hasPublicFile } from '../lib/site';
 
 interface Props {
   page: any;
@@ -14,15 +12,12 @@ interface Props {
 const { page } = Astro.props;
 // Sin testimonios reales, esa sección no se publica (en desarrollo se ve como recordatorio).
 // Las galerías de proyectos solo se publican cuando tienen alguna foto real en public/.
-const hasPhoto = (img: any) => existsSync(join(process.cwd(), 'public', img.src));
 const sections = page.sections.filter(
   (s: any) =>
     import.meta.env.DEV ||
-    (s.kind === 'testimonials' ? (biz.testimonios || []).length > 0 : s.kind === 'gallery' ? s.images.some(hasPhoto) : true),
+    (s.kind === 'testimonials' ? (biz.testimonios || []).length > 0 : s.kind === 'gallery' ? s.images.some((img: any) => hasPublicFile(img.src)) : true),
 );
-const eyebrow = page.type === 'service-area'
-  ? `${page.breadcrumbs[1]?.name} · ${page.breadcrumbs[2]?.name}`
-  : page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
+const eyebrow = page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
   : page.type === 'pillar' ? 'Servicio' : 'Carpintería en Pontevedra';
 ---
 <Base page={page}>

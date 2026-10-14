@@ -1,18 +1,20 @@
 ---
 // Muestra la foto si existe en public/; si no, un hueco con su ruta definitiva, tamaño y alt propuesto.
-import { existsSync } from 'node:fs';
-import { join } from 'node:path';
+import { hasPublicFile, mobileVariant } from '../lib/site';
 
 interface Props {
   image: { src: string; alt: string; width: number; height: number };
   eager?: boolean;
   class?: string;
+  sizes?: string;
 }
-const { image, eager = false, class: className = '' } = Astro.props;
-const exists = existsSync(join(process.cwd(), 'public', image.src));
+const { image, eager = false, class: className = '', sizes = '(min-width: 900px) 50vw, 100vw' } = Astro.props;
+const exists = hasPublicFile(image.src);
+const small = exists ? mobileVariant(image.src) : undefined;
 ---
 {exists ? (
   <img class={className} src={image.src} alt={image.alt} width={image.width} height={image.height}
+    srcset={small ? `${small} 800w, ${image.src} ${image.width}w` : undefined} sizes={small ? sizes : undefined}
     loading={eager ? 'eager' : 'lazy'} decoding="async" fetchpriority={eager ? 'high' : undefined} />
 ) : (
   <div class={`img-slot ${className}`} style={`aspect-ratio: ${image.width} / ${image.height}`} role="img"

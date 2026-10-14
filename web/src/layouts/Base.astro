@@ -4,7 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import MobileCta from '../components/MobileCta.astro';
 import CookieConsent from '../components/CookieConsent.astro';
-import { fill, fillDeep, indexable, pending, pruneTokens, siteUrl } from '../lib/site';
+import { biz, fill, fillDeep, indexable, pending, pruneTokens, siteUrl } from '../lib/site';
 
 interface Props {
   page: any;
@@ -13,7 +13,11 @@ const { page } = Astro.props;
 const title = fill(page.title);
 const description = fill(page.description);
 const base = siteUrl();
-const canonical = base ? base + page.route : undefined;
+// Sin canonical en páginas que nunca se indexan (legales, 404, confirmación).
+const canonical = base && !page.noindex ? base + page.route : undefined;
+// Imagen para compartir: la portada de la página o, si no tiene, la imagen general del negocio.
+const ogImage = base && page.hero_image ? base + page.hero_image.src : biz.imagen_url || undefined;
+const siteName = fill('{{marca}}');
 const jsonld = page.jsonld ? JSON.stringify(pruneTokens(fillDeep(page.jsonld))).replace(/</g, '\\u003c') : '';
 // La web no se indexa hasta "indexable": true en business.json (y sin datos pendientes).
 const noindex = page.noindex || !indexable;
@@ -36,8 +40,11 @@ const noindex = page.noindex || !indexable;
     <meta property="og:locale" content="es_ES" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:site_name" content={siteName} />
     {canonical && <meta property="og:url" content={canonical} />}
-    {base && page.hero_image && <meta property="og:image" content={base + page.hero_image.src} />}
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta property="og:image:alt" content={page.hero_image ? page.hero_image.alt : siteName} />}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
     {jsonld && <script type="application/ld+json" set:html={jsonld} />}
   </head>
   <body>

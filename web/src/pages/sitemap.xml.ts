@@ -3,7 +3,7 @@ import data from '../data/pages.json';
 import { siteUrl } from '../lib/site';
 
 const PRIORITY: Record<string, string> = {
-  home: '1.0', pillar: '0.8', 'service-area': '0.7', hub: '0.7', presupuesto: '0.5', proyectos: '0.5',
+  home: '1.0', pillar: '0.8', hub: '0.7', presupuesto: '0.5', proyectos: '0.5',
   'sobre-nosotros': '0.3',
 };
 

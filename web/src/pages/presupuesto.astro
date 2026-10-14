@@ -62,9 +62,9 @@ const action = biz.form_endpoint || '#';
             <label class="check"><input type="radio" name="plazo" value={v} /> {v}</label>
           ))}
         </fieldset>
-        <!-- Antispam: campo trampa que las personas no ven -->
+        {/* Antispam: campo trampa que las personas no ven */}
         <input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
-        <!-- FormSubmit: asunto, origen y comportamiento del envío -->
+        {/* FormSubmit: asunto, origen y comportamiento del envío */}
         <input type="hidden" name="_subject" id="f-subject" value={`Nuevo presupuesto · ${fill('{{marca}}')}`} />
         <input type="hidden" name="Web" value={`${fill('{{marca}}')} (${fill('{{dominio}}')})`} />
         <input type="hidden" name="_template" value="table" />
@@ -76,30 +76,30 @@ const action = biz.form_endpoint || '#';
         </label>
         <button class="btn btn-primary" type="submit">Enviar solicitud</button>
       </form>
-      <script is:inline>
+      <script>
         // Rellena servicio y municipio cuando se llega desde una landing (/presupuesto/?servicio=…&zona=…)
         // Teléfono o email: al menos uno de los dos
-        const tel = document.getElementById('f-telefono');
-        const mail = document.getElementById('f-email');
+        const tel = document.getElementById('f-telefono') as HTMLInputElement;
+        const mail = document.getElementById('f-email') as HTMLInputElement;
         const checkContact = () => {
           const ok = tel.value.trim() !== '' || mail.value.trim() !== '';
           tel.setCustomValidity(ok ? '' : 'Déjanos un teléfono o un email para poder contactarte.');
           return ok;
         };
         [tel, mail].forEach((el) => el.addEventListener('input', checkContact));
-        document.querySelector('form.quote').addEventListener('submit', (e) => {
+        document.querySelector('form.quote')!.addEventListener('submit', (e) => {
           if (!checkContact()) { e.preventDefault(); tel.reportValidity(); return; }
-          const pick = (id) => { const s = document.getElementById(id); return s.value ? s.options[s.selectedIndex].text : ''; };
-          const subject = document.getElementById('f-subject');
+          const pick = (id: string) => { const s = document.getElementById(id) as HTMLSelectElement; return s.value ? s.options[s.selectedIndex].text : ''; };
+          const subject = document.getElementById('f-subject') as HTMLInputElement;
           subject.value = [subject.defaultValue, pick('servicio'), pick('municipio')].filter(Boolean).join(' · ');
-          document.getElementById('f-next').value = location.origin + '/presupuesto/gracias/';
+          (document.getElementById('f-next') as HTMLInputElement).value = location.origin + '/presupuesto/gracias/';
         });
         const q = new URLSearchParams(location.search);
-        const servicio = document.getElementById('servicio');
-        if (q.get('servicio')) servicio.value = q.get('servicio');
+        const servicio = document.getElementById('servicio') as HTMLSelectElement;
+        if (q.get('servicio')) servicio.value = q.get('servicio')!;
         const zona = q.get('zona');
         if (zona) {
-          const option = document.querySelector(`#municipio option[data-slug="${CSS.escape(zona)}"]`);
+          const option = document.querySelector<HTMLOptionElement>(`#municipio option[data-slug="${CSS.escape(zona)}"]`);
           if (option) option.selected = true;
         }
       </script>

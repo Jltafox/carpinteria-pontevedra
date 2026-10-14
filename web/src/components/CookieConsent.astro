@@ -28,16 +28,16 @@
   </div>
 </div>
 
-<script is:inline>
-  (() => {
+<script>
+  {
     const KEY = 'urexal-cookie-consent';
     const VERSION = 1;
     const MAX_AGE = 365 * 24 * 60 * 60 * 1000; // se vuelve a preguntar a los 12 meses
-    const banner = document.getElementById('cookie-banner');
-    const settings = document.getElementById('cookie-settings');
-    const mapsBox = document.getElementById('cookie-maps');
-    const saveBtn = document.getElementById('cookie-save');
-    const settingsBtn = document.getElementById('cookie-settings-btn');
+    const banner = document.getElementById('cookie-banner')!;
+    const settings = document.getElementById('cookie-settings')!;
+    const mapsBox = document.getElementById('cookie-maps') as HTMLInputElement;
+    const saveBtn = document.getElementById('cookie-save')!;
+    const settingsBtn = document.getElementById('cookie-settings-btn')!;
 
     const read = () => {
       try {
@@ -45,17 +45,17 @@
         return c && c.v === VERSION && Date.now() - c.ts < MAX_AGE ? c : null;
       } catch { return null; }
     };
-    const write = (maps) => {
+    const write = (maps: boolean) => {
       const c = { v: VERSION, ts: Date.now(), maps: Boolean(maps) };
       try { localStorage.setItem(KEY, JSON.stringify(c)); } catch {}
       return c;
     };
     // Carga los iframes de terceros solo con consentimiento
-    const apply = (c) => {
-      document.querySelectorAll('iframe[data-consent="maps"]').forEach((frame) => {
+    const apply = (c: { maps: boolean } | null) => {
+      document.querySelectorAll<HTMLIFrameElement>('iframe[data-consent="maps"]').forEach((frame) => {
         const holder = frame.closest('.consent-embed');
         if (c && c.maps) {
-          if (!frame.getAttribute('src')) frame.setAttribute('src', frame.dataset.consentSrc);
+          if (!frame.getAttribute('src')) frame.setAttribute('src', frame.dataset.consentSrc || '');
           holder?.classList.add('is-loaded');
         } else {
           frame.removeAttribute('src');
@@ -63,7 +63,7 @@
         }
       });
     };
-    const open = (withSettings) => {
+    const open = (withSettings: boolean) => {
       const c = read();
       mapsBox.checked = Boolean(c && c.maps);
       settings.hidden = !withSettings;
@@ -74,7 +74,7 @@
     const close = () => { banner.hidden = true; };
 
     banner.addEventListener('click', (e) => {
-      const action = e.target.closest('[data-cookie]')?.dataset.cookie;
+      const action = (e.target as Element).closest<HTMLElement>('[data-cookie]')?.dataset.cookie;
       if (!action) return;
       if (action === 'settings') return open(true);
       const maps = action === 'accept' ? true : action === 'reject' ? false : mapsBox.checked;
@@ -83,12 +83,13 @@
     });
     // Enlaces «Configurar cookies» y botones «Cargar mapa»
     document.addEventListener('click', (e) => {
-      if (e.target.closest('[data-cookie-open]')) { e.preventDefault(); open(true); }
-      if (e.target.closest('[data-cookie-allow-maps]')) { apply(write(true)); close(); }
+      const target = e.target as Element;
+      if (target.closest('[data-cookie-open]')) { e.preventDefault(); open(true); }
+      if (target.closest('[data-cookie-allow-maps]')) { apply(write(true)); close(); }
     });
 
     const consent = read();
     apply(consent);
     if (!consent) open(false);
-  })();
+  }
 </script>

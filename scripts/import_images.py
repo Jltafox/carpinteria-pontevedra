@@ -81,6 +81,9 @@ def main() -> None:
             target = ROOT / row["destino"]
             target.parent.mkdir(parents=True, exist_ok=True)
             img.save(target, "WEBP", quality=QUALITY, method=6)
+            if width > 1000:  # versión móvil para srcset (Img.astro la usa si existe)
+                small = img.resize((800, round(height * 800 / width)), Image.LANCZOS)
+                small.save(target.with_name(target.stem + "-800.webp"), "WEBP", quality=78, method=6)
         done += 1
         print(f'  ✓ {source.name} → {row["destino"]} ({target.stat().st_size // 1024} KB)')
     unknown = sorted(set(available) - {Path(r["guardar_como"]).stem.lower() for r in rows})

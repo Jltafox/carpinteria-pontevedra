@@ -33,13 +33,13 @@ const dark = s.kind === 'process';
     {s.kind === 'items' && (
       <div class:list={['items', { 'with-images': s.items.some((i: any) => i.image) }]}>
         {s.items.map((item: any) => (
-          <article class="item">
+          <div class="item">
             {item.image && <Img image={item.image} class="item-img" />}
             <div>
               <h3>{fill(item.h3)}</h3>
               <p>{fill(item.text)}</p>
             </div>
-          </article>
+          </div>
         ))}
       </div>
     )}
@@ -138,7 +138,7 @@ const dark = s.kind === 'process';
     {s.kind === 'nap' && (
       <div class="nap-grid">
         <div>
-          <!-- NAP: idéntico al de la ficha de Google, al pie y al schema -->
+          {/* NAP: idéntico al de la ficha de Google, al pie y al schema */}
           <address class="nap">
             <strong>{fill('{{marca}}')}</strong><br />
             {fill('{{calle}}')}<br />

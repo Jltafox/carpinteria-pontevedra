@@ -15,6 +15,6 @@ const external = src.replace('&output=embed', '').replace('/maps/embed?', '/maps
   <div class="consent-placeholder">
     <p>Este mapa lo sirve Google Maps, que instala cookies de Google.</p>
     <button type="button" class="btn btn-primary" data-cookie-allow-maps>Cargar mapa</button>
-    <p class="consent-alt"><a href={external} rel="noopener" target="_blank">Abrir en Google Maps</a> · <a href="#" data-cookie-open>Configurar cookies</a></p>
+    <p class="consent-alt"><a href={external} rel="noopener noreferrer" target="_blank">Abrir en Google Maps</a> · <button type="button" class="link-btn" data-cookie-open>Configurar cookies</button></p>
   </div>
 </div>
