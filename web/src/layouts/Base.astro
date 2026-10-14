@@ -4,7 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import MobileCta from '../components/MobileCta.astro';
 import CookieConsent from '../components/CookieConsent.astro';
-import { fill, fillDeep, indexable, pending, siteUrl } from '../lib/site';
+import { fill, fillDeep, indexable, pending, pruneTokens, siteUrl } from '../lib/site';
 
 interface Props {
   page: any;
@@ -14,7 +14,7 @@ const title = fill(page.title);
 const description = fill(page.description);
 const base = siteUrl();
 const canonical = base ? base + page.route : undefined;
-const jsonld = page.jsonld ? JSON.stringify(fillDeep(page.jsonld)).replace(/</g, '\\u003c') : '';
+const jsonld = page.jsonld ? JSON.stringify(pruneTokens(fillDeep(page.jsonld))).replace(/</g, '\\u003c') : '';
 // La web no se indexa hasta "indexable": true en business.json (y sin datos pendientes).
 const noindex = page.noindex || !indexable;
 ---
@@ -23,6 +23,10 @@ const noindex = page.noindex || !indexable;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="/favicon-64.png" sizes="64x64" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#1b1915" />
     <title>{title}</title>
     <meta name="description" content={description} />
     {canonical && <link rel="canonical" href={canonical} />}

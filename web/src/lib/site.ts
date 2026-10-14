@@ -32,6 +32,17 @@ export function fillDeep<T>(value: T): T {
   return value;
 }
 
+/** JSON-LD sin propiedades cuyo dato sigue pendiente ({{variable}} vacía): Google no debe ver texto de plantilla. */
+export function pruneTokens(value: any): any {
+  if (Array.isArray(value)) return value.map(pruneTokens).filter((v) => v !== undefined);
+  if (value && typeof value === 'object') {
+    const out = Object.fromEntries(Object.entries(value).map(([k, v]) => [k, pruneTokens(v)])
+      .filter(([, v]) => v !== undefined && !(Array.isArray(v) && v.length === 0)));
+    return Object.keys(out).length ? out : undefined;
+  }
+  return typeof value === 'string' && /\{\{\w+\}\}/.test(value) ? undefined : value;
+}
+
 export const pageByRoute = (route: string) => pages.find((p) => p.route === route);
 export const services = pages.filter((p) => p.type === 'pillar');
 export const hubs = pages.filter((p) => p.type === 'hub');

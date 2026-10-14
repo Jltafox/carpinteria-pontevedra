@@ -5,7 +5,10 @@ const showProjects = Boolean(pageByRoute('/proyectos/')); // solo si se genera l
 ---
 <header class="site-header">
   <div class="wrap header-row">
-    <a class="brand" href="/">{fill('{{marca}}')}</a>
+    <a class="brand" href="/" aria-label={`${fill('{{marca}}')} · inicio`}>
+      <img class="brand-logo" src="/img/logo/urexal-sello.webp" alt="" width="48" height="48" />
+      <span>{fill('{{marca}}')}</span>
+    </a>
     <nav class="nav" aria-label="Principal">
       <details class="menu">
         <summary>Servicios</summary>
