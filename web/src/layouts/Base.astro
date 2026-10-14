@@ -21,6 +21,10 @@ const siteName = fill('{{marca}}');
 const jsonld = page.jsonld ? JSON.stringify(pruneTokens(fillDeep(page.jsonld))).replace(/</g, '\\u003c') : '';
 // La web no se indexa hasta "indexable": true en business.json (y sin datos pendientes).
 const noindex = page.noindex || !indexable;
+// Explícito en todas las páginas. Legales: siempre noindex; con la web indexable se siguen sus enlaces (follow).
+const robots = !noindex
+  ? 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+  : indexable ? 'noindex, follow' : 'noindex, nofollow';
 ---
 <!doctype html>
 <html lang="es">
@@ -34,8 +38,7 @@ const noindex = page.noindex || !indexable;
     <title>{title}</title>
     <meta name="description" content={description} />
     {canonical && <link rel="canonical" href={canonical} />}
-    {/* Legales: siempre noindex; con la web indexable se siguen sus enlaces (follow) */}
-    {noindex && <meta name="robots" content={indexable ? 'noindex, follow' : 'noindex, nofollow'} />}
+    <meta name="robots" content={robots} />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:title" content={title} />
