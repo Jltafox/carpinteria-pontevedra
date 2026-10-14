@@ -316,9 +316,9 @@ def add_images(pages: list[dict]) -> None:
             folder, hero_alt = f'/img/{params["servicio"]}/{params["zona"]}', f'{HERO_ALT[params["servicio"]]} en {zone}'
         elif kind == "hub":
             zone = bp.ZONES[params["zona"]]["name"]
-            folder, hero_alt = f'/img/{params["zona"]}', f"Trabajo de carpintería de madera en {zone}"
+            folder, hero_alt = f'/img/{params["zona"]}', "Vivienda con estantería, cocina y escalera de madera a medida"
         elif kind == "sobre-nosotros":
-            p["hero_image"] = image("/img/sobre-nosotros/taller.webp", "Taller de carpintería en A Estrada", HERO)
+            p["hero_image"] = image("/img/sobre-nosotros/taller.webp", "Taller de carpintería con maquinaria y muebles embalados", HERO)
             continue
         else:
             continue

@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import sys
 from pathlib import Path
 
@@ -86,10 +87,19 @@ def main() -> None:
                 small.save(target.with_name(target.stem + "-800.webp"), "WEBP", quality=78, method=6)
         done += 1
         print(f'  ✓ {source.name} → {row["destino"]} ({target.stat().st_size // 1024} KB)')
+    register_ai([r["destino"] for r in rows if r["guardar_como"] not in missing])
     unknown = sorted(set(available) - {Path(r["guardar_como"]).stem.lower() for r in rows})
     print(f"✓ {done} importadas · faltan {len(missing)} de {len(rows)}")
     if unknown:
         print("⚠ Archivos con nombre no reconocido (revisa «Guardar como»):", ", ".join(unknown[:10]))
+
+
+def register_ai(destinos: list[str]) -> None:
+    """Las fotos de fotos-nanobanana/ son de IA: la web les pone la etiqueta «Imagen generada con IA»."""
+    path = ROOT / "web" / "src" / "data" / "imagenes-ia.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    data["imagenes"] = sorted(set(data["imagenes"]) | {"/" + d.split("web/public/", 1)[1] for d in destinos})
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

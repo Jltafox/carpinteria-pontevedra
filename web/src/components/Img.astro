@@ -1,6 +1,7 @@
 ---
 // Muestra la foto si existe en public/; si no, un hueco con su ruta definitiva, tamaño y alt propuesto.
-import { hasPublicFile, mobileVariant } from '../lib/site';
+// Las imágenes generadas con IA llevan una etiqueta visible (art. 50 del Reglamento UE de IA).
+import { hasPublicFile, isAiImage, mobileVariant } from '../lib/site';
 
 interface Props {
   image: { src: string; alt: string; width: number; height: number };
@@ -11,11 +12,20 @@ interface Props {
 const { image, eager = false, class: className = '', sizes = '(min-width: 900px) 50vw, 100vw' } = Astro.props;
 const exists = hasPublicFile(image.src);
 const small = exists ? mobileVariant(image.src) : undefined;
+const ai = exists && isAiImage(image.src);
+const img = {
+  src: image.src, alt: image.alt, width: image.width, height: image.height,
+  srcset: small ? `${small} 800w, ${image.src} ${image.width}w` : undefined, sizes: small ? sizes : undefined,
+  loading: eager ? 'eager' : 'lazy', decoding: 'async', fetchpriority: eager ? 'high' : undefined,
+} as const;
 ---
-{exists ? (
-  <img class={className} src={image.src} alt={image.alt} width={image.width} height={image.height}
-    srcset={small ? `${small} 800w, ${image.src} ${image.width}w` : undefined} sizes={small ? sizes : undefined}
-    loading={eager ? 'eager' : 'lazy'} decoding="async" fetchpriority={eager ? 'high' : undefined} />
+{ai ? (
+  <span class:list={['ai-media', className]}>
+    <img {...img} />
+    <span class="ai-label"><span class="ai-long">Imagen generada con </span>IA</span>
+  </span>
+) : exists ? (
+  <img class={className} {...img} />
 ) : (
   <div class={`img-slot ${className}`} style={`aspect-ratio: ${image.width} / ${image.height}`} role="img"
     aria-label={`Foto pendiente: ${image.alt}`}>

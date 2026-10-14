@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import business from '../data/business.json';
 import data from '../data/pages.json';
 import areas from '../data/areas-served.json';
+import aiImages from '../data/imagenes-ia.json';
 
 // pages.json lo genera scripts/landing_generator.py; business.json lo rellena el usuario.
 export const pages: any[] = data.pages;
@@ -47,6 +48,10 @@ export function pruneTokens(value: any): any {
 
 /** true si el archivo existe en public/ (fotos que aún no se han subido se muestran como hueco en desarrollo). */
 export const hasPublicFile = (src: string) => existsSync(join(process.cwd(), 'public', src));
+
+/** Imagen generada con IA: se muestra con la etiqueta «Imagen generada con IA». */
+const AI_IMAGES = new Set<string>(aiImages.imagenes);
+export const isAiImage = (src: string) => AI_IMAGES.has(src);
 
 /** Versión móvil (…-800.webp) de una imagen grande, si se ha generado. */
 export function mobileVariant(src: string): string | undefined {

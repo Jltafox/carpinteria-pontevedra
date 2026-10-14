@@ -4941,19 +4941,19 @@
      "images": [
       {
        "src": "/img/santiago-de-compostela/trabajo-1.webp",
-       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 1",
+       "alt": "Vivienda con estantería, cocina y escalera de madera a medida · trabajo 1",
        "width": 1200,
        "height": 900
       },
       {
        "src": "/img/santiago-de-compostela/trabajo-2.webp",
-       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 2",
+       "alt": "Vivienda con estantería, cocina y escalera de madera a medida · trabajo 2",
        "width": 1200,
        "height": 900
       },
       {
        "src": "/img/santiago-de-compostela/trabajo-3.webp",
-       "alt": "Trabajo de carpintería de madera en Santiago de Compostela · trabajo 3",
+       "alt": "Vivienda con estantería, cocina y escalera de madera a medida · trabajo 3",
        "width": 1200,
        "height": 900
       }
@@ -5099,7 +5099,7 @@
    ],
    "hero_image": {
     "src": "/img/santiago-de-compostela/portada.webp",
-    "alt": "Trabajo de carpintería de madera en Santiago de Compostela",
+    "alt": "Vivienda con estantería, cocina y escalera de madera a medida",
     "width": 1500,
     "height": 1000
    }
@@ -5242,7 +5242,7 @@
    ],
    "hero_image": {
     "src": "/img/sobre-nosotros/taller.webp",
-    "alt": "Taller de carpintería en A Estrada",
+    "alt": "Taller de carpintería con maquinaria y muebles embalados",
     "width": 1500,
     "height": 1000
    }

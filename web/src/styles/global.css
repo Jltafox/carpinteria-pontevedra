@@ -123,6 +123,14 @@ code { font-size: 0.85em; }
 .gallery img { width: 100%; height: auto; display: block; }
 .gallery figcaption { font-size: 0.85rem; color: var(--muted); padding-top: 8px; }
 
+/* Imagen generada con IA: etiqueta visible sobre la foto */
+.ai-media { position: relative; display: block; }
+.ai-media img { width: 100%; height: auto; display: block; }
+.ai-label { position: absolute; left: 8px; bottom: 8px; padding: 3px 8px; background: rgba(27, 25, 21, 0.8); color: #fff;
+  font-size: 0.7rem; line-height: 1.3; letter-spacing: 0.04em; }
+.row .ai-label { left: 4px; bottom: 4px; padding: 1px 5px; font-size: 0.62rem; }
+.row .ai-long { display: none; }
+
 /* Hueco de foto pendiente */
 .img-slot { width: 100%; background: repeating-linear-gradient(-45deg, var(--paper-2), var(--paper-2) 10px, #e4ddcf 10px, #e4ddcf 20px); border: 1px solid var(--line); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 4px; padding: 14px; text-align: center; color: var(--ink-2); }
 .img-slot-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--oak-text); }
