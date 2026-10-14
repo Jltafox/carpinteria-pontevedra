@@ -14,3 +14,6 @@ __pycache__/
 # Originales de Nano Banana (pesados): solo se suben los WebP de web/public/img
 fotos-nanobanana/*
 !fotos-nanobanana/LEEME.txt
+
+# Fotos de la ficha de Google: no son de la web
+ficha-google/
