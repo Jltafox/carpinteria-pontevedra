@@ -129,7 +129,7 @@ def build_pages() -> list[dict]:
     home_faqs = home["faqs"]
     pages.append({
         "route": "/", "type": "home", "params": {},
-        "title": "Carpintería en Pontevedra · Madera a medida | {{marca}}", "description": description,
+        "title": "{{marca}} | Carpintería de madera en Pontevedra", "description": description,
         "h1": "Carpintería de madera a medida en Pontevedra", "lead": home["lead"],
         "breadcrumbs": [], "cta": {},
         "sections": [
@@ -161,7 +161,7 @@ def build_pages() -> list[dict]:
         bc = crumbs((s["name"], url))
         pages.append({
             "route": url, "type": "pillar", "params": {"servicio": s["slug"]},
-            "title": f'{s["name"]} en Pontevedra y Santiago | {{{{marca}}}}', "description": description,
+            "title": f'{{{{marca}}}} | {s["name"]}', "description": description,
             "h1": s["name"], "lead": copy["intro"], "breadcrumbs": bc, "cta": {"servicio": s["slug"]},
             "sections": [
                 {"kind": "items", "h2": "Qué hacemos", "items": copy["subservices"]},
@@ -195,7 +195,7 @@ def build_pages() -> list[dict]:
             other_zones = [bp.service_area(s["slug"], o) for o in s["zones"] if o != z]
             pages.append({
                 "route": url, "type": "service-area", "params": {"servicio": s["slug"], "zona": z},
-                "title": f'{s["name"]} en {zone["name"]} | {{{{marca}}}}', "description": description,
+                "title": f'{{{{marca}}}} | {s["name"]} en {zone["name"]}', "description": description,
                 "h1": f'{s["name"]} en {zone["name"]}', "lead": area["lead"], "breadcrumbs": bc,
                 "cta": {"servicio": s["slug"], "zona": z},
                 "sections": [
@@ -232,7 +232,7 @@ def build_pages() -> list[dict]:
                   for s in bp.SERVICES if s not in in_zone]
         pages.append({
             "route": url, "type": "hub", "params": {"zona": z},
-            "title": f'Carpintería en {zone["name"]}: cocinas, armarios y rehabilitación | {{{{marca}}}}',
+            "title": f'{{{{marca}}}} | Carpintería en {zone["name"]}',
             "description": description, "h1": f'Carpintería de madera en {zone["name"]}', "lead": copy["lead"],
             "breadcrumbs": bc, "cta": {"zona": z},
             "sections": [
@@ -254,15 +254,15 @@ def build_pages() -> list[dict]:
         })
 
     # Páginas fijas (el contenido está en sus .astro; aquí solo meta, breadcrumbs y schema)
-    fixed = [("/presupuesto/", "presupuesto", "Pide presupuesto de carpintería | {{marca}}",
+    fixed = [("/presupuesto/", "presupuesto", "{{marca}} | Pide presupuesto de carpintería",
               "Cuéntanos tu proyecto y te llamamos en menos de 2 días. Visita en 3–4 días laborables y presupuesto en 3–4 días."),
-             ("/proyectos/", "proyectos", "Trabajos realizados | {{marca}}",
+             ("/proyectos/", "proyectos", "{{marca}} | Trabajos realizados",
               "Cocinas, armarios, muebles, rehabilitaciones y carpintería exterior hechos por nuestro equipo."),
-             ("/sobre-nosotros/", "sobre-nosotros", "Quiénes somos | {{marca}}",
+             ("/sobre-nosotros/", "sobre-nosotros", "{{marca}} | Quiénes somos",
               "Carpintería de madera con taller propio en A Estrada y equipo de montaje propio."),
-             ("/aviso-legal/", "legal", "Aviso legal | {{marca}}", "Aviso legal de {{marca}}."),
-             ("/politica-de-privacidad/", "legal", "Política de privacidad | {{marca}}", "Política de privacidad de {{marca}}."),
-             ("/cookies/", "legal", "Política de cookies | {{marca}}", "Política de cookies de {{marca}}.")]
+             ("/aviso-legal/", "legal", "{{marca}} | Aviso legal", "Aviso legal de {{marca}}."),
+             ("/politica-de-privacidad/", "legal", "{{marca}} | Política de privacidad", "Política de privacidad de {{marca}}."),
+             ("/cookies/", "legal", "{{marca}} | Política de cookies", "Política de cookies de {{marca}}.")]
     for url, kind, title, description in fixed:
         if url == "/proyectos/" and not bp.SHOW_PROJECTS:
             continue

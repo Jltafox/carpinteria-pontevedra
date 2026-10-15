@@ -1,12 +1,12 @@
 {
- "generado": "2026-10-14",
+ "generado": "2026-10-15",
  "aviso": "Generado por scripts/landing_generator.py: no editar a mano.",
  "pages": [
   {
    "route": "/",
    "type": "home",
    "params": {},
-   "title": "Carpintería en Pontevedra · Madera a medida | {{marca}}",
+   "title": "{{marca}} | Carpintería de madera en Pontevedra",
    "description": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
    "h1": "Carpintería de madera a medida en Pontevedra",
    "lead": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo, del centro de Pontevedra a sus parroquias.",
@@ -728,7 +728,7 @@
    "params": {
     "servicio": "cocinas-a-medida"
    },
-   "title": "Cocinas a medida en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Cocinas a medida",
    "description": "Diseño, fabricación y montaje de cocinas a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Cocinas a medida",
    "lead": "Diseñamos tu cocina sobre plano, la fabricamos a medida en nuestro taller de A Estrada y la monta nuestro propio equipo. Desde la primera visita hasta el último ajuste hablas con las mismas personas.",
@@ -1452,7 +1452,7 @@
    "params": {
     "servicio": "armarios-a-medida"
    },
-   "title": "Armarios y vestidores a medida en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Armarios y vestidores a medida",
    "description": "Fabricación e instalación de armarios empotrados y vestidores a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Armarios y vestidores a medida",
    "lead": "Fabricamos armarios empotrados y vestidores a la medida exacta del hueco, con el interior pensado para lo que vas a guardar. Sin módulos estándar que dejan espacios perdidos.",
@@ -2130,7 +2130,7 @@
    "params": {
     "servicio": "muebles-a-medida"
    },
-   "title": "Muebles a medida en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Muebles a medida",
    "description": "Diseño y fabricación de muebles de madera a medida con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Muebles a medida",
    "lead": "Muebles de madera hechos para tu casa: librerías, salones, dormitorios, muebles de baño o mobiliario para tu local. Diseñamos contigo cada pieza y la fabricamos en nuestro taller.",
@@ -2808,7 +2808,7 @@
    "params": {
     "servicio": "rehabilitacion-de-madera"
    },
-   "title": "Rehabilitación de madera en viviendas en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Rehabilitación de madera en viviendas",
    "description": "Rehabilitación de tejados, estructuras, vigas y forjados de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Rehabilitación de madera en viviendas",
    "lead": "Recuperamos tejados, vigas, armazones y forjados de madera en viviendas. Valoramos el estado real de la estructura y te proponemos qué se puede reparar y qué conviene sustituir.",
@@ -3498,7 +3498,7 @@
    "params": {
     "servicio": "carpinteria-exterior"
    },
-   "title": "Carpintería exterior de madera en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Carpintería exterior de madera",
    "description": "Porches, pérgolas, cobertizos y puertas exteriores de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Carpintería exterior de madera",
    "lead": "Porches, pérgolas, cobertizos y puertas de madera hechos a medida y pensados para el clima gallego: lluvia, humedad y viento.",
@@ -4176,7 +4176,7 @@
    "params": {
     "servicio": "suelos-de-madera"
    },
-   "title": "Suelos de madera en Pontevedra y Santiago | {{marca}}",
+   "title": "{{marca}} | Suelos de madera",
    "description": "Instalación, pulido y barnizado de suelos de madera con taller propio en A Estrada y montaje por nuestro equipo. Te llamamos en menos de 2 días. Presupuesto: {{telefono}}",
    "h1": "Suelos de madera",
    "lead": "Instalamos, pulimos y barnizamos suelos de madera: tarima, parquet, escaleras y rodapiés, en viviendas nuevas y en reformas.",
@@ -4825,7 +4825,7 @@
    "params": {
     "zona": "santiago-de-compostela"
    },
-   "title": "Carpintería en Santiago de Compostela: cocinas, armarios y rehabilitación | {{marca}}",
+   "title": "{{marca}} | Carpintería en Santiago de Compostela",
    "description": "Carpintería de madera en Santiago de Compostela y alrededores: cocinas, armarios, muebles, rehabilitación y exterior. Visita en 3–4 días laborables. Llámanos: {{telefono}}",
    "h1": "Carpintería de madera en Santiago de Compostela",
    "lead": "Carpintería de madera en Santiago de Compostela: cocinas, armarios y muebles a medida, rehabilitación de estructuras de madera y carpintería exterior.",
@@ -5108,7 +5108,7 @@
    "route": "/presupuesto/",
    "type": "presupuesto",
    "params": {},
-   "title": "Pide presupuesto de carpintería | {{marca}}",
+   "title": "{{marca}} | Pide presupuesto de carpintería",
    "description": "Cuéntanos tu proyecto y te llamamos en menos de 2 días. Visita en 3–4 días laborables y presupuesto en 3–4 días.",
    "h1": "Pide presupuesto",
    "lead": "",
@@ -5179,7 +5179,7 @@
    "route": "/sobre-nosotros/",
    "type": "sobre-nosotros",
    "params": {},
-   "title": "Quiénes somos | {{marca}}",
+   "title": "{{marca}} | Quiénes somos",
    "description": "Carpintería de madera con taller propio en A Estrada y equipo de montaje propio.",
    "h1": "Quiénes somos",
    "lead": "",
@@ -5251,7 +5251,7 @@
    "route": "/aviso-legal/",
    "type": "legal",
    "params": {},
-   "title": "Aviso legal | {{marca}}",
+   "title": "{{marca}} | Aviso legal",
    "description": "Aviso legal de {{marca}}.",
    "h1": "Aviso legal",
    "lead": "",
@@ -5313,7 +5313,7 @@
    "route": "/politica-de-privacidad/",
    "type": "legal",
    "params": {},
-   "title": "Política de privacidad | {{marca}}",
+   "title": "{{marca}} | Política de privacidad",
    "description": "Política de privacidad de {{marca}}.",
    "h1": "Política de privacidad",
    "lead": "",
@@ -5375,7 +5375,7 @@
    "route": "/cookies/",
    "type": "legal",
    "params": {},
-   "title": "Política de cookies | {{marca}}",
+   "title": "{{marca}} | Política de cookies",
    "description": "Política de cookies de {{marca}}.",
    "h1": "Cookies",
    "lead": "",
