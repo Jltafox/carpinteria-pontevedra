@@ -17,3 +17,6 @@ fotos-nanobanana/*
 
 # Fotos de la ficha de Google: no son de la web
 ficha-google/
+
+# Documentos para el cliente (no son de la web)
+entregables/
