@@ -70,9 +70,25 @@ const action = biz.form_endpoint || '#';
         <input type="hidden" name="_template" value="table" />
         <input type="hidden" name="_captcha" value="false" />
         <input type="hidden" name="_next" id="f-next" value={`${siteUrl() || ''}/presupuesto/gracias/`} />
+        {/* Primera capa de información (art. 13 RGPD y guía de la AEPD), desplegable; el detalle está en la política de privacidad */}
+        <details class="rgpd" id="info-rgpd">
+          <summary>Información básica sobre protección de datos</summary>
+          <dl>
+            <dt>Responsable</dt><dd>{fill('{{titular_legal}}')}</dd>
+            <dt>NIF</dt><dd>{fill('{{nif}}')}</dd>
+            <dt>Dirección</dt><dd>{fill('{{domicilio_legal}}')}</dd>
+            <dt>Teléfono</dt><dd>{phoneLabel()}</dd>
+            <dt>Email</dt><dd><a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a></dd>
+            <dt>Finalidad</dt><dd>Atender tu solicitud, contactarte y preparar el presupuesto del trabajo que pides.</dd>
+            <dt>Legitimación</dt><dd>Tu consentimiento y la aplicación de medidas precontractuales a petición tuya (art. 6.1.a y 6.1.b RGPD).</dd>
+            <dt>Destinatarios</dt><dd>{fill('{{empresa_ejecutora}}')}, empresa que presupuesta y realiza los trabajos. Los proveedores tecnológicos de la web (Cloudflare y FormSubmit) tratan los datos como encargados, con posibles transferencias fuera de la UE con garantías adecuadas. No se ceden a otros terceros salvo obligación legal.</dd>
+            <dt>Derechos</dt><dd>Acceso, rectificación, supresión, oposición, limitación y portabilidad, escribiendo al email anterior. Puedes reclamar ante la Agencia Española de Protección de Datos.</dd>
+            <dt>Información adicional</dt><dd>Consulta la información detallada en la <a href="/politica-de-privacidad/">política de privacidad</a>.</dd>
+          </dl>
+        </details>
         <label class="check">
-          <input type="checkbox" name="privacidad" required />
-          <span>He leído y acepto la <a href="/politica-de-privacidad/">política de privacidad</a>.</span>
+          <input type="checkbox" name="privacidad" required aria-describedby="info-rgpd" />
+          <span>He leído la información básica sobre protección de datos y acepto la <a href="/politica-de-privacidad/">política de privacidad</a>.</span>
         </label>
         <button class="btn btn-primary" type="submit">Enviar solicitud</button>
       </form>

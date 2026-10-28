@@ -180,6 +180,15 @@ code { font-size: 0.85em; }
 .contact-pair { display: grid; gap: 12px; }
 @media (min-width: 640px) { .contact-pair { grid-template-columns: 1fr 1fr; } .contact-pair legend { grid-column: 1 / -1; } }
 .hp { position: absolute; left: -9999px; }
+.rgpd { border: 1px solid var(--line); background: #fff; font-size: 0.82rem; line-height: 1.45; color: var(--ink-2); }
+.rgpd summary { cursor: pointer; list-style: none; padding: 10px 2.2rem 10px 12px; position: relative; font-weight: 600; font-size: 0.88rem; color: var(--ink); }
+.rgpd summary::-webkit-details-marker { display: none; }
+.rgpd summary::after { content: "+"; position: absolute; right: 12px; top: 6px; font-size: 1.2rem; color: var(--oak); }
+.rgpd[open] summary::after { content: "–"; }
+.rgpd dl { margin: 0; padding: 4px 12px 12px; display: grid; grid-template-columns: 9rem 1fr; gap: 6px 12px; border-top: 1px solid var(--line); }
+.rgpd dt { font-weight: 600; color: var(--ink); padding-top: 6px; }
+.rgpd dd { margin: 0; padding-top: 6px; }
+@media (max-width: 520px) { .rgpd dl { grid-template-columns: 1fr; gap: 0; } .rgpd dd { padding-top: 0; padding-bottom: 4px; } }
 
 /* Pie */
 .site-footer { background: var(--ink); color: #d9d2c4; padding: 56px 0 28px; font-size: 0.95rem; }
