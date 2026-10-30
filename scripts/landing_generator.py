@@ -35,7 +35,7 @@ BUSINESS_TEMPLATE = {
     "marca": "", "dominio": "", "telefono": "", "telefono_visible": "", "whatsapp": "", "email": "",
     "calle": "", "cp": "", "localidad": "", "provincia": "", "lat": "", "lng": "",
     "abre": "", "cierra": "", "horario_texto": "", "gbp_url": "", "maps_embed_url": "", "logo_url": "", "imagen_url": "",
-    "form_endpoint": "", "titular_legal": "", "nif": "", "domicilio_legal": "", "datos_registrales": "", "empresa_ejecutora": "", "ejecutora_nif": "", "ejecutora_domicilio": "",
+    "form_endpoint": "", "ga_id": "", "titular_legal": "", "nif": "", "domicilio_legal": "", "datos_registrales": "", "empresa_ejecutora": "", "ejecutora_nif": "", "ejecutora_domicilio": "",
     "indexable": False,  # la web no se indexa ni rastrea hasta ponerlo a true a propósito
     "publicar_precios": False, "proyectos": [], "testimonios": [],
 }

@@ -1,9 +1,12 @@
 ---
 import Base from '../layouts/Base.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import { fill, pageByRoute } from '../lib/site';
+import { biz, fill, pageByRoute } from '../lib/site';
 
 const page = pageByRoute('/cookies/');
+const ga = String(biz.ga_id || '').trim() !== '';
+let n = 0;
+const h = (title: string) => `${++n}. ${title}`; // numeración según las secciones que se muestran
 ---
 <Base page={page}>
   <Breadcrumbs items={page.breadcrumbs} />
@@ -12,22 +15,32 @@ const page = pageByRoute('/cookies/');
       <h1>Política de cookies</h1>
       <p>Esta política informa sobre el uso de cookies y tecnologías similares en {fill('{{dominio}}')}, conforme al artículo 22.2 de la LSSI-CE y a la guía sobre el uso de cookies de la Agencia Española de Protección de Datos.</p>
 
-      <h2>1. Qué son las cookies</h2>
+      <h2>{h('Qué son las cookies')}</h2>
       <p>Son pequeños archivos que un sitio web guarda en tu navegador para que funcione, recordar tus preferencias o analizar su uso.</p>
 
-      <h2>2. Cookies propias</h2>
-      <p>Esta web no instala cookies propias de análisis, publicidad ni personalización. Para recordar tu decisión sobre las cookies guarda en tu navegador (almacenamiento local) una entrada técnica llamada <code>urexal-cookie-consent</code>, con la fecha y tu elección, durante 12 meses. Es necesaria para respetar tu decisión y no requiere consentimiento.</p>
+      <h2>{h('Cookies propias')}</h2>
+      <p>Esta web no instala cookies propias de publicidad ni personalización{ga ? '' : ', ni de análisis'}. Para recordar tu decisión sobre las cookies guarda en tu navegador (almacenamiento local) una entrada técnica llamada <code>urexal-cookie-consent</code>, con la fecha y tu elección, durante 12 meses. Es necesaria para respetar tu decisión y no requiere consentimiento.</p>
 
-      <h2>3. Cookies técnicas del alojamiento</h2>
+      <h2>{h('Cookies técnicas del alojamiento')}</h2>
       <p>La web está alojada en Cloudflare, que puede instalar cookies técnicas necesarias para la seguridad del sitio y la protección frente a tráfico automatizado (por ejemplo, <code>__cf_bm</code>, con una duración de 30 minutos). Al ser estrictamente necesarias, no requieren consentimiento.</p>
 
-      <h2>4. Cookies de terceros: Google Maps</h2>
+      {ga && <h2>{h('Cookies de análisis: Google Analytics')}</h2>}
+      {ga && <p>Si lo aceptas en el aviso de cookies (categoría «Analítica»), usamos Google Analytics 4, un servicio de Google Ireland Limited, para saber cuántas personas visitan la web, qué páginas consultan y cuántas nos contactan (formulario, teléfono, WhatsApp o email). <strong>Hasta que lo aceptas no se descarga ni se conecta con Google.</strong> No lo usamos para publicidad ni para personalizar anuncios. Instala estas cookies en nuestro dominio:</p>}
+      {ga && (
+        <ul class="dash">
+          <li><code>_ga</code>: distingue a los visitantes con un identificador aleatorio. Duración: 2 años.</li>
+          <li><code>_ga_*</code>: mantiene el estado de la visita. Duración: 2 años.</li>
+        </ul>
+      )}
+      {ga && <p>Google puede tratar estos datos fuera del Espacio Económico Europeo, con las garantías del Marco de Privacidad de Datos UE-EE. UU. Más información en <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">cómo usa Google la información de los sitios que utilizan sus servicios</a>. Si retiras el consentimiento, borramos estas cookies y Google Analytics deja de cargarse.</p>}
+
+      <h2>{h('Cookies de terceros: Google Maps')}</h2>
       <p>La página de inicio puede mostrar un mapa de Google Maps con nuestra ubicación. <strong>Solo se carga si lo aceptas</strong> en el aviso de cookies o con el botón «Cargar mapa»; hasta entonces no se conecta con Google. Al cargarse, Google puede instalar cookies propias para el funcionamiento del mapa, recordar preferencias y fines estadísticos. Su uso se rige por la <a href="https://policies.google.com/privacy" rel="noopener">política de privacidad de Google</a> y su <a href="https://policies.google.com/technologies/cookies" rel="noopener">política de cookies</a>.</p>
 
-      <h2>5. Tu consentimiento y cómo cambiarlo</h2>
+      <h2>{h('Tu consentimiento y cómo cambiarlo')}</h2>
       <p>La primera vez que entras te mostramos un aviso para aceptar, rechazar o configurar las cookies que no son necesarias. Guardamos tu elección en tu navegador durante 12 meses; después te la volvemos a pedir. Puedes cambiarla o retirar tu consentimiento en cualquier momento desde el enlace <button type="button" class="link-btn" data-cookie-open>Configurar cookies</button>, también disponible en el pie de todas las páginas.</p>
 
-      <h2>6. Cómo gestionar o eliminar las cookies desde el navegador</h2>
+      <h2>{h('Cómo gestionar o eliminar las cookies desde el navegador')}</h2>
       <p>Puedes permitir, bloquear o eliminar las cookies desde la configuración de tu navegador:</p>
       <ul class="dash">
         <li><a href="https://support.google.com/chrome/answer/95647" rel="noopener">Google Chrome</a></li>
@@ -37,8 +50,8 @@ const page = pageByRoute('/cookies/');
       </ul>
       <p>Si bloqueas las cookies de terceros, la web seguirá funcionando, aunque el mapa podría no mostrarse.</p>
 
-      <h2>7. Actualizaciones</h2>
-      <p>Si se incorporan herramientas de analítica, publicidad u otros servicios que usen cookies, actualizaremos esta política y, cuando la ley lo exija, pediremos tu consentimiento antes de instalarlas.</p>
+      <h2>{h('Actualizaciones')}</h2>
+      <p>Si se incorporan nuevas herramientas de {ga ? '' : 'analítica, '}publicidad u otros servicios que usen cookies, actualizaremos esta política y, cuando la ley lo exija, pediremos tu consentimiento antes de instalarlas.</p>
     </div>
   </section>
 </Base>

@@ -109,6 +109,7 @@ const action = biz.form_endpoint || '#';
           const subject = document.getElementById('f-subject') as HTMLInputElement;
           subject.value = [subject.defaultValue, pick('servicio'), pick('municipio')].filter(Boolean).join(' · ');
           (document.getElementById('f-next') as HTMLInputElement).value = location.origin + '/presupuesto/gracias/';
+          (window as any).gtag?.('event', 'generate_lead', { servicio: pick('servicio'), municipio: pick('municipio') });
         });
         const q = new URLSearchParams(location.search);
         const servicio = document.getElementById('servicio') as HTMLSelectElement;

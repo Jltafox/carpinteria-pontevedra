@@ -1,19 +1,34 @@
 ---
 // Consentimiento de cookies (RGPD / LSSI art. 22.2 / guía AEPD).
 // - Primera capa: Aceptar, Rechazar y Configurar con el mismo peso visual.
-// - Nada de terceros se carga antes de aceptar: los iframes llevan data-consent-src en vez de src.
-// - Categorías: necesarias (siempre) y «mapas» (Google Maps), desmarcada por defecto.
+// - Nada de terceros se carga antes de aceptar: los iframes llevan data-consent-src en vez de src
+//   y Google Analytics solo se descarga con la categoría «Analítica» aceptada.
+// - Categorías: necesarias (siempre), «analítica» (si hay ga_id en business.json) y «mapas», desmarcadas por defecto.
 // - Revocable desde el enlace «Configurar cookies» del pie; caduca a los 12 meses.
+import { biz } from '../lib/site';
+
+const gaId = String(biz.ga_id || '').trim();
 ---
-<div id="cookie-banner" class="cookie-banner" role="dialog" aria-modal="false" aria-labelledby="cookie-title" hidden>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-modal="false" aria-labelledby="cookie-title"
+  data-ga-id={gaId || undefined} hidden>
   <div class="cookie-inner">
     <p id="cookie-title" class="cookie-title">Cookies</p>
-    <p>Usamos cookies técnicas necesarias para que la web funcione. Con tu permiso, también cargamos mapas de Google Maps, que instalan cookies de Google. Puedes aceptarlas, rechazarlas o elegir. Más información en la <a href="/cookies/">política de cookies</a>.</p>
+    {gaId ? (
+      <p>Usamos cookies técnicas necesarias para que la web funcione. Con tu permiso, también usamos Google Analytics para medir las visitas y cargamos mapas de Google Maps; ambos instalan cookies de Google. Puedes aceptarlas, rechazarlas o elegir. Más información en la <a href="/cookies/">política de cookies</a>.</p>
+    ) : (
+      <p>Usamos cookies técnicas necesarias para que la web funcione. Con tu permiso, también cargamos mapas de Google Maps, que instalan cookies de Google. Puedes aceptarlas, rechazarlas o elegir. Más información en la <a href="/cookies/">política de cookies</a>.</p>
+    )}
     <div class="cookie-settings" id="cookie-settings" hidden>
       <label class="cookie-option">
         <input type="checkbox" checked disabled />
         <span><strong>Necesarias</strong> · Seguridad y funcionamiento del sitio (Cloudflare). Siempre activas.</span>
       </label>
+      {gaId && (
+        <label class="cookie-option">
+          <input type="checkbox" id="cookie-analytics" />
+          <span><strong>Analítica</strong> · Google Analytics, para saber cuántas personas visitan la web y qué páginas usan. Instala cookies de Google.</span>
+        </label>
+      )}
       <label class="cookie-option">
         <input type="checkbox" id="cookie-maps" />
         <span><strong>Mapas</strong> · Google Maps para mostrar nuestra ubicación. Instala cookies de Google.</span>
@@ -30,28 +45,60 @@
 
 <script>
   {
+    type Consent = { v: number; ts: number; maps: boolean; analytics: boolean };
     const KEY = 'urexal-cookie-consent';
-    const VERSION = 1;
     const MAX_AGE = 365 * 24 * 60 * 60 * 1000; // se vuelve a preguntar a los 12 meses
     const banner = document.getElementById('cookie-banner')!;
     const settings = document.getElementById('cookie-settings')!;
     const mapsBox = document.getElementById('cookie-maps') as HTMLInputElement;
+    const analyticsBox = document.getElementById('cookie-analytics') as HTMLInputElement | null;
     const saveBtn = document.getElementById('cookie-save')!;
     const settingsBtn = document.getElementById('cookie-settings-btn')!;
+    const GA_ID = banner.dataset.gaId || '';
+    // Al añadir la analítica cambia la versión: quien ya eligió vuelve a ver el aviso con la nueva finalidad
+    const VERSION = GA_ID ? 2 : 1;
+    const w = window as any;
 
-    const read = () => {
+    const read = (): Consent | null => {
       try {
         const c = JSON.parse(localStorage.getItem(KEY) || 'null');
         return c && c.v === VERSION && Date.now() - c.ts < MAX_AGE ? c : null;
       } catch { return null; }
     };
-    const write = (maps: boolean) => {
-      const c = { v: VERSION, ts: Date.now(), maps: Boolean(maps) };
+    const write = (maps: boolean, analytics: boolean): Consent => {
+      const c = { v: VERSION, ts: Date.now(), maps, analytics: Boolean(GA_ID) && analytics };
       try { localStorage.setItem(KEY, JSON.stringify(c)); } catch {}
       return c;
     };
-    // Carga los iframes de terceros solo con consentimiento
-    const apply = (c: { maps: boolean } | null) => {
+
+    // Google Analytics 4: solo se descarga con consentimiento; sin publicidad ni personalización de anuncios
+    let gaLoaded = false;
+    const loadAnalytics = () => {
+      if (!GA_ID || gaLoaded) return;
+      gaLoaded = true;
+      w.dataLayer = w.dataLayer || [];
+      w.gtag = function () { w.dataLayer.push(arguments); };
+      w.gtag('consent', 'default', {
+        analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+      });
+      w.gtag('js', new Date());
+      w.gtag('config', GA_ID);
+      const s = document.createElement('script');
+      s.async = true;
+      s.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(GA_ID)}`;
+      document.head.appendChild(s);
+    };
+    const clearAnalyticsCookies = () => {
+      const domains = ['', location.hostname, '.' + location.hostname.replace(/^www\./, '')];
+      document.cookie.split(';').map((c) => c.split('=')[0].trim())
+        .filter((name) => name === '_ga' || name.startsWith('_ga_'))
+        .forEach((name) => domains.forEach((d) => {
+          document.cookie = `${name}=; Max-Age=0; path=/${d ? `; domain=${d}` : ''}`;
+        }));
+    };
+
+    // Aplica la elección: mapas (iframes) y analítica
+    const apply = (c: Consent | null) => {
       document.querySelectorAll<HTMLIFrameElement>('iframe[data-consent="maps"]').forEach((frame) => {
         const holder = frame.closest('.consent-embed');
         if (c && c.maps) {
@@ -62,10 +109,14 @@
           holder?.classList.remove('is-loaded');
         }
       });
+      if (c && c.analytics) return loadAnalytics();
+      clearAnalyticsCookies();
+      if (gaLoaded) location.reload(); // retirada del consentimiento: se descarga Analytics de la página
     };
     const open = (withSettings: boolean) => {
       const c = read();
       mapsBox.checked = Boolean(c && c.maps);
+      if (analyticsBox) analyticsBox.checked = Boolean(c && c.analytics);
       settings.hidden = !withSettings;
       saveBtn.hidden = !withSettings;
       settingsBtn.hidden = withSettings;
@@ -77,15 +128,32 @@
       const action = (e.target as Element).closest<HTMLElement>('[data-cookie]')?.dataset.cookie;
       if (!action) return;
       if (action === 'settings') return open(true);
-      const maps = action === 'accept' ? true : action === 'reject' ? false : mapsBox.checked;
-      apply(write(maps));
+      const all = action === 'accept';
+      const choice = action === 'save'
+        ? write(mapsBox.checked, Boolean(analyticsBox?.checked))
+        : write(all, all);
       close();
+      apply(choice);
     });
     // Enlaces «Configurar cookies» y botones «Cargar mapa»
     document.addEventListener('click', (e) => {
       const target = e.target as Element;
       if (target.closest('[data-cookie-open]')) { e.preventDefault(); open(true); }
-      if (target.closest('[data-cookie-allow-maps]')) { apply(write(true)); close(); }
+      if (target.closest('[data-cookie-allow-maps]')) {
+        const c = read();
+        apply(write(true, Boolean(c && c.analytics)));
+        close();
+      }
+    });
+
+    // Contactos medidos como eventos de GA4 (solo si la analítica está aceptada)
+    document.addEventListener('click', (e) => {
+      if (!gaLoaded) return;
+      const href = (e.target as Element).closest('a')?.getAttribute('href') || '';
+      const page = location.pathname;
+      if (href.startsWith('tel:')) w.gtag('event', 'click_telefono', { pagina: page });
+      else if (href.includes('wa.me/')) w.gtag('event', 'click_whatsapp', { pagina: page });
+      else if (href.startsWith('mailto:')) w.gtag('event', 'click_email', { pagina: page });
     });
 
     const consent = read();
