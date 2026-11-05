@@ -61,6 +61,46 @@ TITLES = {
     "/cookies/": "Política de cookies | Carpintería Urexal",
 }
 
+# H2 optimizados con el keyword research por URL (05/11/2026): {ruta: {H2 generado: H2 definitivo}}.
+# Se quedan comunes los de plazos, zona de trabajo y servicios relacionados.
+H2 = {
+    "/": {
+        "Qué hacemos": "Servicios de carpintería de madera a medida",
+        "Por qué elegirnos": "Por qué elegir nuestra carpintería en Pontevedra",
+        "Dónde trabajamos en Pontevedra": "Carpintero en Pontevedra y alrededores",
+        "Dónde estamos": "Nuestra carpintería en Pontevedra: dirección y horario",
+        "Preguntas frecuentes": "Preguntas frecuentes sobre carpintería a medida",
+    },
+    "/cocinas-a-medida/": {
+        "Qué hacemos": "Qué incluye una cocina a medida",
+        "Materiales y acabados": "Materiales y acabados de los muebles de cocina a medida",
+    },
+    "/armarios-a-medida/": {
+        "Qué hacemos": "Armarios empotrados, vestidores y despensas a medida",
+        "Materiales y acabados": "Armarios empotrados de madera que resisten la humedad",
+    },
+    "/muebles-a-medida/": {
+        "Qué hacemos": "Qué muebles a medida fabricamos",
+        "Materiales y acabados": "Muebles de madera a medida: materiales y acabados",
+    },
+    "/rehabilitacion-de-madera/": {
+        "Qué hacemos": "Qué incluye la rehabilitación de estructuras de madera",
+        "Materiales y acabados": "Reformas de viviendas con madera: diagnóstico y materiales",
+    },
+    "/carpinteria-exterior/": {
+        "Qué hacemos": "Porches, pérgolas, cobertizos y muebles de exterior a medida",
+        "Materiales y acabados": "Carpintería exterior de madera que aguanta la intemperie",
+    },
+    "/suelos-de-madera/": {
+        "Qué hacemos": "Tarima, parquet y pulido de suelos de madera",
+        "Materiales y acabados": "Cómo instalamos un suelo de madera para que no se levante",
+    },
+    "/santiago-de-compostela/": {
+        "Servicios en Santiago de Compostela": "Cocinas, muebles y armarios a medida en Santiago de Compostela",
+        "Dónde trabajamos en Santiago de Compostela": "Carpintería en Santiago de Compostela y alrededores",
+    },
+}
+
 
 def load(name: str) -> dict:
     return json.loads((CONTENT / name).read_text(encoding="utf-8"))
@@ -401,6 +441,11 @@ def main() -> None:
     pages = build_pages()
     for page in pages:
         page["title"] = TITLES.get(page["route"], page["title"])
+        renames = H2.get(page["route"], {})
+        for section in page["sections"]:
+            section["h2"] = renames.pop(section.get("h2"), section.get("h2"))
+        if renames:  # un H2 de la tabla que ya no existe en la página: avisar en vez de ignorarlo
+            print(f"⚠ {page['route']}: H2 sin coincidencia en la tabla: {', '.join(renames)}")
     areas = [p for p in pages if p["type"] == "service-area"]
     if len(areas) > MAX_COMBOS:
         print(f"⚠ {len(areas)} combinaciones servicio × zona (> {MAX_COMBOS}): revisar coste y priorizar")

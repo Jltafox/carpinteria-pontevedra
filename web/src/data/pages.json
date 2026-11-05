@@ -15,7 +15,7 @@
    "sections": [
     {
      "kind": "cards",
-     "h2": "Qué hacemos",
+     "h2": "Servicios de carpintería de madera a medida",
      "cards": [
       {
        "title": "Cocinas a medida",
@@ -87,7 +87,7 @@
     },
     {
      "kind": "items",
-     "h2": "Por qué elegirnos",
+     "h2": "Por qué elegir nuestra carpintería en Pontevedra",
      "items": [
       {
        "h3": "Taller propio",
@@ -159,7 +159,7 @@
     },
     {
      "kind": "links",
-     "h2": "Dónde trabajamos en Pontevedra",
+     "h2": "Carpintero en Pontevedra y alrededores",
      "text": "Trabajamos en todo el municipio de Pontevedra: el centro y el casco histórico, barrios como A Parda o Monteporreiro y parroquias como Lérez, Mourente, Salcedo, Campañó, Xeve o Lourizán. También en municipios cercanos como Vilaboa, Cerdedo-Cotobade, Campo Lameiro, Moraña, Caldas de Reis o Meis, y hasta Santiago de Compostela.",
      "links": [
       {
@@ -170,11 +170,11 @@
     },
     {
      "kind": "nap",
-     "h2": "Dónde estamos"
+     "h2": "Nuestra carpintería en Pontevedra: dirección y horario"
     },
     {
      "kind": "faq",
-     "h2": "Preguntas frecuentes",
+     "h2": "Preguntas frecuentes sobre carpintería a medida",
      "faqs": [
       {
        "q": "¿Trabajáis en todo Pontevedra?",
@@ -748,7 +748,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Qué incluye una cocina a medida",
      "items": [
       {
        "h3": "Diseño de cocina con render 3D",
@@ -865,7 +865,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Materiales y acabados de los muebles de cocina a medida",
      "paragraphs": [
       "Elegimos contigo frentes, cantos, herrajes y acabados: madera, lacados o laminados de alta presión. El objetivo es que la cocina dure y que el día a día sea cómodo, con cajones de cierre suave, interiores bien aprovechados y zonas de trabajo bien iluminadas."
      ]
@@ -1472,7 +1472,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Armarios empotrados, vestidores y despensas a medida",
      "items": [
       {
        "h3": "Armarios empotrados",
@@ -1562,7 +1562,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Armarios empotrados de madera que resisten la humedad",
      "paragraphs": [
       "La humedad es el gran enemigo de los armarios en Galicia. Elegimos tableros y acabados adecuados, dejamos ventilación cuando hace falta y cuidamos los herrajes para que puertas y cajones sigan funcionando con los años."
      ]
@@ -2150,7 +2150,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Qué muebles a medida fabricamos",
      "items": [
       {
        "h3": "Muebles de salón y librerías",
@@ -2240,7 +2240,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Muebles de madera a medida: materiales y acabados",
      "paragraphs": [
       "Trabajamos con madera maciza y con tableros de calidad según el uso de cada mueble, y cuidamos los acabados: barnices, lacados y aceites. Antes de fabricar revisamos contigo medidas, materiales y colores para que no haya sorpresas."
      ]
@@ -2828,7 +2828,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Qué incluye la rehabilitación de estructuras de madera",
      "items": [
       {
        "h3": "Tejados y cubiertas de madera",
@@ -2918,7 +2918,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Reformas de viviendas con madera: diagnóstico y materiales",
      "paragraphs": [
       "En rehabilitación la clave es el diagnóstico: localizar la causa del daño (filtraciones, condensación o falta de ventilación) y corregirla, para que la madera nueva no vuelva a deteriorarse. Usamos madera apta para uso estructural y cuidamos los encuentros con muros y cubierta."
      ]
@@ -3518,7 +3518,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Porches, pérgolas, cobertizos y muebles de exterior a medida",
      "items": [
       {
        "h3": "Porches de madera a medida",
@@ -3608,7 +3608,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Carpintería exterior de madera que aguanta la intemperie",
      "paragraphs": [
       "En exterior, la elección de la madera y su protección marcan cuánto dura el trabajo. Usamos maderas aptas para intemperie, evitamos los puntos donde se acumula el agua y te explicamos el mantenimiento que necesita cada acabado."
      ]
@@ -4196,7 +4196,7 @@
    "sections": [
     {
      "kind": "items",
-     "h2": "Qué hacemos",
+     "h2": "Tarima, parquet y pulido de suelos de madera",
      "items": [
       {
        "h3": "Tarima de madera",
@@ -4276,7 +4276,7 @@
     },
     {
      "kind": "text",
-     "h2": "Materiales y acabados",
+     "h2": "Cómo instalamos un suelo de madera para que no se levante",
      "paragraphs": [
       "Antes de instalar un suelo de madera comprobamos la humedad del soporte, que es la causa más habitual de que una tarima se levante. Elegimos el sistema de colocación y la madera según el uso de cada estancia."
      ]
@@ -4845,7 +4845,7 @@
    "sections": [
     {
      "kind": "cards",
-     "h2": "Servicios en Santiago de Compostela",
+     "h2": "Cocinas, muebles y armarios a medida en Santiago de Compostela",
      "cards": [
       {
        "title": "Cocinas a medida",
@@ -4917,7 +4917,7 @@
     },
     {
      "kind": "text",
-     "h2": "Dónde trabajamos en Santiago de Compostela",
+     "h2": "Carpintería en Santiago de Compostela y alrededores",
      "paragraphs": [
       "Trabajamos en todos los barrios de Santiago, de la Zona Vella y el Ensanche a Santiago Norte, Fontiñas, Conxo, Vista Alegre, Sar, San Lázaro o Lamas de Abade, y en los municipios de su entorno.",
       "En la Zona Vella, Patrimonio de la Humanidad, planificamos cada trabajo teniendo en cuenta su protección y los accesos restringidos. En el resto de la ciudad trabajamos sobre todo en pisos, donde el mueble a medida aprovecha cada metro."
