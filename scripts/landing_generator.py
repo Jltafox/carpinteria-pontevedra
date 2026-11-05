@@ -44,6 +44,23 @@ PAGE_LABELS = {"/": f"Carpintería en {bp.ZONES[bp.HOME_ZONE]['name']}", "/presu
                "/politica-de-privacidad/": "Política de privacidad", "/cookies/": "Cookies"}
 BUSINESS_ID = "https://{{dominio}}/#negocio"
 
+# Titles definitivos, escritos a mano (05/11/2026). Tienen prioridad sobre los que compone el generador.
+TITLES = {
+    "/": "Carpintería de madera en Pontevedra | Carpintería Urexal",
+    "/santiago-de-compostela/": "Carpintería en Santiago de Compostela | Urexal",
+    "/cocinas-a-medida/": "Cocinas a medida en Pontevedra | Taller propio",
+    "/armarios-a-medida/": "Armarios empotrados y vestidores a medida | Urexal",
+    "/muebles-a-medida/": "Muebles a medida en Pontevedra | Taller propio",
+    "/rehabilitacion-de-madera/": "Rehabilitación de tejados, vigas y forjados de madera",
+    "/carpinteria-exterior/": "Carpintería exterior de madera | Porches y pérgolas",
+    "/suelos-de-madera/": "Suelos de madera: tarima, parquet y pulido | Urexal",
+    "/presupuesto/": "Pide presupuesto | Carpintería Urexal",
+    "/sobre-nosotros/": "Quiénes somos | Carpintería Urexal",
+    "/aviso-legal/": "Aviso legal | Carpintería Urexal",
+    "/politica-de-privacidad/": "Política de privacidad | Urexal",
+    "/cookies/": "Política de cookies | Carpintería Urexal",
+}
+
 
 def load(name: str) -> dict:
     return json.loads((CONTENT / name).read_text(encoding="utf-8"))
@@ -129,7 +146,7 @@ def build_pages() -> list[dict]:
     home_faqs = home["faqs"]
     pages.append({
         "route": "/", "type": "home", "params": {},
-        "title": "{{marca}} | Carpintería de madera en Pontevedra", "description": description,
+        "title": "Carpintería de madera en Pontevedra | {{marca}}", "description": description,
         "h1": "Carpintería de madera a medida en Pontevedra", "lead": home["lead"],
         "breadcrumbs": [], "cta": {},
         "sections": [
@@ -161,7 +178,7 @@ def build_pages() -> list[dict]:
         bc = crumbs((s["name"], url))
         pages.append({
             "route": url, "type": "pillar", "params": {"servicio": s["slug"]},
-            "title": f'{{{{marca}}}} | {s["name"]}', "description": description,
+            "title": f'{s["name"]} | {{{{marca}}}}', "description": description,
             "h1": s["name"], "lead": copy["intro"], "breadcrumbs": bc, "cta": {"servicio": s["slug"]},
             "sections": [
                 {"kind": "items", "h2": "Qué hacemos", "items": copy["subservices"]},
@@ -195,7 +212,7 @@ def build_pages() -> list[dict]:
             other_zones = [bp.service_area(s["slug"], o) for o in s["zones"] if o != z]
             pages.append({
                 "route": url, "type": "service-area", "params": {"servicio": s["slug"], "zona": z},
-                "title": f'{{{{marca}}}} | {s["name"]} en {zone["name"]}', "description": description,
+                "title": f'{s["name"]} en {zone["name"]} | {{{{marca}}}}', "description": description,
                 "h1": f'{s["name"]} en {zone["name"]}', "lead": area["lead"], "breadcrumbs": bc,
                 "cta": {"servicio": s["slug"], "zona": z},
                 "sections": [
@@ -232,7 +249,7 @@ def build_pages() -> list[dict]:
                   for s in bp.SERVICES if s not in in_zone]
         pages.append({
             "route": url, "type": "hub", "params": {"zona": z},
-            "title": f'{{{{marca}}}} | Carpintería en {zone["name"]}',
+            "title": f'Carpintería en {zone["name"]} | {{{{marca}}}}',
             "description": description, "h1": f'Carpintería de madera en {zone["name"]}', "lead": copy["lead"],
             "breadcrumbs": bc, "cta": {"zona": z},
             "sections": [
@@ -254,15 +271,15 @@ def build_pages() -> list[dict]:
         })
 
     # Páginas fijas (el contenido está en sus .astro; aquí solo meta, breadcrumbs y schema)
-    fixed = [("/presupuesto/", "presupuesto", "{{marca}} | Pide presupuesto de carpintería",
+    fixed = [("/presupuesto/", "presupuesto", "Pide presupuesto de carpintería | {{marca}}",
               "Cuéntanos tu proyecto y te llamamos en menos de 2 días. Visita en 3–4 días laborables y presupuesto en 3–4 días."),
-             ("/proyectos/", "proyectos", "{{marca}} | Trabajos realizados",
+             ("/proyectos/", "proyectos", "Trabajos realizados | {{marca}}",
               "Cocinas, armarios, muebles, rehabilitaciones y carpintería exterior hechos por nuestro equipo."),
-             ("/sobre-nosotros/", "sobre-nosotros", "{{marca}} | Quiénes somos",
+             ("/sobre-nosotros/", "sobre-nosotros", "Quiénes somos | {{marca}}",
               "Carpintería de madera con taller propio en A Estrada y equipo de montaje propio."),
-             ("/aviso-legal/", "legal", "{{marca}} | Aviso legal", "Aviso legal de {{marca}}."),
-             ("/politica-de-privacidad/", "legal", "{{marca}} | Política de privacidad", "Política de privacidad de {{marca}}."),
-             ("/cookies/", "legal", "{{marca}} | Política de cookies", "Política de cookies de {{marca}}.")]
+             ("/aviso-legal/", "legal", "Aviso legal | {{marca}}", "Aviso legal de {{marca}}."),
+             ("/politica-de-privacidad/", "legal", "Política de privacidad | {{marca}}", "Política de privacidad de {{marca}}."),
+             ("/cookies/", "legal", "Política de cookies | {{marca}}", "Política de cookies de {{marca}}.")]
     for url, kind, title, description in fixed:
         if url == "/proyectos/" and not bp.SHOW_PROJECTS:
             continue
@@ -382,6 +399,8 @@ def main() -> None:
     args = parser.parse_args()
 
     pages = build_pages()
+    for page in pages:
+        page["title"] = TITLES.get(page["route"], page["title"])
     areas = [p for p in pages if p["type"] == "service-area"]
     if len(areas) > MAX_COMBOS:
         print(f"⚠ {len(areas)} combinaciones servicio × zona (> {MAX_COMBOS}): revisar coste y priorizar")
