@@ -365,6 +365,7 @@
           }
         }
       ],
+      "hasMap": "{{gbp_url}}",
       "sameAs": [
         "{{gbp_url}}"
       ],

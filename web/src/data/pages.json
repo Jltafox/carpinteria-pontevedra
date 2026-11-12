@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05",
+ "generado": "2026-11-12",
  "aviso": "Generado por scripts/landing_generator.py: no editar a mano.",
  "pages": [
   {
@@ -562,6 +562,7 @@
         }
        }
       ],
+      "hasMap": "{{gbp_url}}",
       "sameAs": [
        "{{gbp_url}}"
       ],

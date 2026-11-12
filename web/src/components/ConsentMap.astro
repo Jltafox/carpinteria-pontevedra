@@ -5,9 +5,11 @@ interface Props {
   title: string;
   height?: number;
   class?: string;
+  /** Enlace a la ficha de Google (CID); si falta, se deduce de la URL del mapa */
+  link?: string;
 }
-const { src, title, height = 380, class: className = '' } = Astro.props;
-const external = src.replace('&output=embed', '').replace('/maps/embed?', '/maps?');
+const { src, title, height = 380, class: className = '', link } = Astro.props;
+const external = link || src.replace('&output=embed', '').replace('/maps/embed?', '/maps?');
 ---
 <div class:list={['consent-embed', className]} style={`min-height:${height}px`}>
   <iframe data-consent="maps" data-consent-src={src} title={title} width="600" height={height}

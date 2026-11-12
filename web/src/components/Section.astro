@@ -141,8 +141,11 @@ const dark = s.kind === 'process';
           {/* NAP: idéntico al de la ficha de Google, al pie y al schema */}
           <address class="nap">
             <strong>{fill('{{marca}}')}</strong><br />
-            {fill('{{calle}}')}<br />
-            {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
+            {biz.gbp_url ? (
+              <a href={biz.gbp_url} rel="noopener">{fill('{{calle}}')}<br />{fill('{{cp}} {{localidad}} ({{provincia}})')}</a>
+            ) : (
+              <>{fill('{{calle}}')}<br />{fill('{{cp}} {{localidad}} ({{provincia}})')}</>
+            )}<br />
             Tel.: <a href={telHref()}>{phoneLabel()}</a><br />
             Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
           </address>
@@ -150,7 +153,7 @@ const dark = s.kind === 'process';
           {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
         </div>
         {mapSrc ? (
-          <ConsentMap class="gbp-map" src={mapSrc} title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} />
+          <ConsentMap class="gbp-map" src={mapSrc} link={biz.gbp_url} title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} />
         ) : (
           <div class="img-slot" style="aspect-ratio: 3 / 2" role="img" aria-label="Mapa pendiente">
             <span class="img-slot-label">Mapa pendiente</span>

@@ -242,7 +242,7 @@ def schema_templates() -> dict[str, dict]:
                                             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
                                             "opens": "{{abre}}", "closes": "{{cierra}}"}],
              "areaServed": area_served(),
-             "sameAs": ["{{gbp_url}}"],
+             "hasMap": "{{gbp_url}}", "sameAs": ["{{gbp_url}}"],
              "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Servicios de carpintería", "itemListElement": [
                  {"@type": "Offer", "itemOffered": {"@type": "Service", "@id": "https://{{dominio}}" + pillar(s["slug"]) + "#servicio",
                                                     "name": s["name"], "url": "https://{{dominio}}" + pillar(s["slug"])}}
