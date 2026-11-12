@@ -8,8 +8,11 @@ import { biz, fill, hubs, phoneLabel, services, telHref } from '../lib/site';
       <p class="brand">{fill('{{marca}}')}</p>
       {/* NAP: debe coincidir exactamente con la ficha de Google */}
       <address>
-        {fill('{{calle}}')}<br />
-        {fill('{{cp}} {{localidad}} ({{provincia}})')}<br />
+        {biz.gbp_url ? (
+          <a href={biz.gbp_url} rel="noopener">{fill('{{calle}}')}<br />{fill('{{cp}} {{localidad}} ({{provincia}})')}</a>
+        ) : (
+          <>{fill('{{calle}}')}<br />{fill('{{cp}} {{localidad}} ({{provincia}})')}</>
+        )}<br />
         <a href={telHref()}>{phoneLabel()}</a><br />
         <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
       </address>
