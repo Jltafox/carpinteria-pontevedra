@@ -150,7 +150,6 @@ const dark = s.kind === 'process';
             Email: <a href={`mailto:${fill('{{email}}')}`}>{fill('{{email}}')}</a>
           </address>
           <p class="muted">Horario: {biz.horario_texto || fill('{{abre}}–{{cierra}}, de lunes a viernes')}</p>
-          {biz.gbp_url && <p><a href={biz.gbp_url} rel="noopener">Ver la ficha en Google Maps</a></p>}
         </div>
         {mapSrc ? (
           <ConsentMap class="gbp-map" src={mapSrc} link={biz.gbp_url} title={`Ubicación de ${fill('{{marca}}')} en Google Maps`} />
