@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Breadcrumbs from './Breadcrumbs.astro';
 import CtaButtons from './CtaButtons.astro';
 import Img from './Img.astro';
+import Inline from './Inline.astro';
 import Section from './Section.astro';
 import { biz, fill, hasPublicFile } from '../lib/site';
 
@@ -28,8 +29,8 @@ const eyebrow = parent ? parent : page.type === 'hub' ? 'Carpintería de madera 
       <div class="hero-text">
         <p class="eyebrow">{eyebrow}</p>
         <h1>{fill(page.h1)}</h1>
-        {page.lead && <p class="lead">{fill(page.lead)}</p>}
-        {(page.intro || []).map((p: string) => <p class="intro">{fill(p)}</p>)}
+        {page.lead && <p class="lead"><Inline text={page.lead} /></p>}
+        {(page.intro || []).map((p: any) => <p class="intro"><Inline text={p} /></p>)}
         <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} label={page.cta?.label || undefined} />
       </div>
       {page.hero_image && <Img image={page.hero_image} eager class="hero-img" />}

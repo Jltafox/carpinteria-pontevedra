@@ -61,6 +61,15 @@ TITLES = {
     "/cookies/": "Política de cookies | Carpintería Urexal",
 }
 
+# Enlaces internos en el texto de páginas generadas (14/11/2026): {ruta: [{texto, contexto, url}]}.
+# El texto no cambia: solo se convierte en enlace la primera aparición de «texto» dentro de «contexto».
+ENLACES = {
+    "/": [
+        {"texto": "cocinas", "contexto": "Carpintería en Pontevedra: cocinas, armarios", "url": "/cocinas-a-medida/"},
+        {"texto": "el coste del diseño", "contexto": "En cocinas, el coste del diseño se descuenta", "url": "/cocinas-a-medida/diseno/"},
+    ],
+}
+
 # H2 optimizados con el keyword research por URL (05/11/2026): {ruta: {H2 generado: H2 definitivo}}.
 # Se quedan comunes los de plazos, zona de trabajo y servicios relacionados.
 H2 = {
@@ -456,6 +465,9 @@ def add_links(page: dict, links: list[dict]) -> None:
     """Convierte en enlace la primera aparición de cada «texto» (dentro de su «contexto», si se indica).
     Solo cambia la estructura: el texto unido de cada campo es idéntico al del redactor."""
     def fields():
+        yield page, "lead"
+        for k in range(len(page.get("intro", []))):
+            yield page["intro"], k
         for s in page["sections"]:
             if s["kind"] == "faq":
                 continue  # las respuestas van también al schema FAQPage, en texto plano
@@ -546,7 +558,7 @@ def add_subpages(pages: list[dict]) -> None:
 
 # ── QA ───────────────────────────────────────────────────────────────────────────
 def page_text(page: dict) -> str:
-    parts = [page["h1"], page["lead"]]
+    parts = [page["h1"], plain(page["lead"])]
     for section in page["sections"]:
         parts += section.get("paragraphs", []) + section.get("list", []) + section.get("factors", [])
         parts += [section.get("text", "")] + [plain(i["text"]) for i in section.get("items", []) + section.get("steps", [])]
@@ -580,6 +592,7 @@ def main() -> None:
         renames = H2.get(page["route"], {})
         for section in page["sections"]:
             section["h2"] = renames.pop(section.get("h2"), section.get("h2"))
+        add_links(page, ENLACES.get(page["route"], []))
         if renames:  # un H2 de la tabla que ya no existe en la página: avisar en vez de ignorarlo
             print(f"⚠ {page['route']}: H2 sin coincidencia en la tabla: {', '.join(renames)}")
     areas = [p for p in pages if p["type"] == "service-area"]

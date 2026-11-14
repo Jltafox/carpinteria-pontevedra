@@ -9,7 +9,14 @@
    "title": "Carpintería de madera en Pontevedra | Carpintería Urexal",
    "description": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados y vigas de madera y carpintería exterior. Taller propio. Presupuesto: {{telefono}}",
    "h1": "Carpintería de madera a medida en Pontevedra",
-   "lead": "Carpintería en Pontevedra: cocinas, armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo, del centro de Pontevedra a sus parroquias.",
+   "lead": [
+    "Carpintería en Pontevedra: ",
+    {
+     "a": "cocinas",
+     "href": "/cocinas-a-medida/"
+    },
+    ", armarios y muebles a medida, rehabilitación de tejados, vigas y forjados de madera y carpintería exterior. Fabricamos en nuestro taller de A Estrada y montamos con nuestro propio equipo, del centro de Pontevedra a sus parroquias."
+   ],
    "breadcrumbs": [],
    "cta": {},
    "sections": [
@@ -99,7 +106,14 @@
       },
       {
        "h3": "Diseño antes de fabricar",
-       "text": "Te enseñamos el diseño y la valoración antes de empezar. En cocinas, el coste del diseño se descuenta si aceptas el proyecto."
+       "text": [
+        "Te enseñamos el diseño y la valoración antes de empezar. En cocinas, ",
+        {
+         "a": "el coste del diseño",
+         "href": "/cocinas-a-medida/diseno/"
+        },
+        " se descuenta si aceptas el proyecto."
+       ]
       },
       {
        "h3": "Plazos claros",
