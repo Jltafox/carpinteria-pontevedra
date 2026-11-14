@@ -95,6 +95,11 @@ H2 = {
         "Qué hacemos": "Tarima, parquet y pulido de suelos de madera",
         "Materiales y acabados": "Cómo instalamos un suelo de madera para que no se levante",
     },
+    "/cocinas-a-medida/diseno/": {  # cambio pedido sobre el texto del redactor (14/11/2026)
+        "Diseño de cocinas a medida: creamos una cocina especialmente pensada para ti":
+            "Diseño de cocinas: creamos una cocina especialmente pensada para ti",
+        "¿Cómo diseñamos tu cocina a medida?": "¿Cómo diseñamos tu cocina?",
+    },
     "/santiago-de-compostela/": {
         "Servicios en Santiago de Compostela": "Cocinas, muebles y armarios a medida en Santiago de Compostela",
         "Dónde trabajamos en Santiago de Compostela": "Carpintería en Santiago de Compostela y alrededores",
