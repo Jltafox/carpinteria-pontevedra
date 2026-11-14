@@ -420,13 +420,36 @@ def image_manifest(pages: list[dict]) -> list[dict]:
 # ── Subpáginas de servicio: /{servicio}/{slug}/ ─────────────────────────────────────
 def plain(text) -> str:
     """Texto plano de una cadena o de una lista de trozos con enlaces."""
-    return "".join(t if isinstance(t, str) else t["a"] for t in text) if isinstance(text, list) else (text or "")
+    return "".join(t if isinstance(t, str) else t.get("a") or t.get("b", "") for t in text) if isinstance(text, list) else (text or "")
 
 
 def block_text(block: dict) -> str:
     if block["type"] == "ul":
         return " ".join(f'{plain(i.get("lead", ""))} {plain(i["text"])}' for i in block["items"])
     return plain(block.get("text", ""))
+
+
+def apply_changes(page: dict, changes: list[dict]) -> None:
+    """Cambios de texto acordados con el cliente sobre el texto del redactor (se aplican antes de los enlaces)."""
+    def walk(node):
+        nonlocal count
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if isinstance(v, str) and k not in ("kind", "type", "href", "url") and change["de"] in v:
+                    node[k] = v.replace(change["de"], change["a"]); count += 1
+                else:
+                    walk(v)
+        elif isinstance(node, list):
+            for i, v in enumerate(node):
+                if isinstance(v, str) and change["de"] in v:
+                    node[i] = v.replace(change["de"], change["a"]); count += 1
+                else:
+                    walk(v)
+    for change in changes:
+        count = 0
+        walk(page)
+        if not count:
+            print(f"⚠ {page['route']}: no encuentro «{change['de']}» para cambiarlo")
 
 
 def add_links(page: dict, links: list[dict]) -> None:
@@ -446,13 +469,30 @@ def add_links(page: dict, links: list[dict]) -> None:
                 yield holder["intro"], key
             for i in s.get("items", []) + s.get("steps", []):
                 yield i, "text"
+                for k in range(len(i.get("more", []))):
+                    yield i["more"], k
     for link in links:
         anchor, context = link["texto"], link.get("contexto", link["texto"])
         for holder, key in fields():
             value = holder[key] if isinstance(holder, list) or key in holder else None
-            if isinstance(value, str) and context in value and anchor in value:
-                start = value.index(context) + context.index(anchor)
-                holder[key] = [p for p in (value[:start], {"a": anchor, "href": link["url"]}, value[start + len(anchor):]) if p]
+            if value is None or isinstance(value, dict):
+                continue
+            segments = value if isinstance(value, list) else [value]
+            text = plain(segments)
+            if context not in text or anchor not in context:
+                continue
+            start, pos, out, done = text.index(context) + context.index(anchor), 0, [], False
+            for seg in segments:  # parte el trozo de texto que contiene el anchor
+                length = len(seg) if isinstance(seg, str) else len(plain([seg]))
+                if not done and isinstance(seg, str) and pos <= start and start + len(anchor) <= pos + length:
+                    i = start - pos
+                    out += [p for p in (seg[:i], {"a": anchor, "href": link["url"]}, seg[i + len(anchor):]) if p]
+                    done = True
+                else:
+                    out.append(seg)
+                pos += length
+            if done:
+                holder[key] = out
                 break
         else:
             print(f"⚠ {page['route']}: no encuentro «{anchor}» para enlazar a {link['url']}")
@@ -487,6 +527,7 @@ def add_subpages(pages: list[dict]) -> None:
         if d.get("hero"):
             page["hero_image"] = image(d["hero"], d.get("hero_alt") or name, hero_size(d["hero"]))
             node["image"] = "https://{{dominio}}" + d["hero"]
+        apply_changes(page, d.get("cambios", []))
         add_links(page, d.get("enlaces", []))
         page["jsonld"] = {"@context": "https://schema.org",
                           "@graph": [node, breadcrumb_ld(bc)] + ([faq_ld(faqs)] if faqs else [])}
@@ -509,6 +550,7 @@ def page_text(page: dict) -> str:
     for section in page["sections"]:
         parts += section.get("paragraphs", []) + section.get("list", []) + section.get("factors", [])
         parts += [section.get("text", "")] + [plain(i["text"]) for i in section.get("items", []) + section.get("steps", [])]
+        parts += [plain(m) for i in section.get("items", []) + section.get("steps", []) for m in i.get("more", [])]
         parts += [c["text"] for c in section.get("cards", [])]
         parts += [f["q"] + " " + f["a"] for f in section.get("faqs", [])]
         parts += [block_text(b) for b in section.get("blocks", []) + [x for x in section.get("intro", []) if isinstance(x, dict)]]

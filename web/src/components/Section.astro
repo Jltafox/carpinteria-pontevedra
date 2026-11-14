@@ -60,6 +60,7 @@ const dark = s.kind === 'process';
             <div>
               <h3>{item.url ? <a href={item.url}>{fill(item.h3)}</a> : fill(item.h3)}</h3>
               <p><Inline text={item.text} /></p>
+              {(item.more || []).map((m: any) => <p><Inline text={m} /></p>)}
             </div>
           </div>
         ))}
@@ -76,6 +77,7 @@ const dark = s.kind === 'process';
           <li>
             <h3>{fill(step.h3)}</h3>
             <p><Inline text={step.text} /></p>
+            {(step.more || []).map((m: any) => <p><Inline text={m} /></p>)}
           </li>
         ))}
       </ol>

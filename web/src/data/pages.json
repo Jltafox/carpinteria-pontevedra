@@ -780,7 +780,8 @@
         "alt": "Encimeras de porcelánico, granito y Silestone",
         "width": 900,
         "height": 600
-       }
+       },
+       "url": "/cocinas-a-medida/encimeras/"
       },
       {
        "h3": "Electrodomésticos de varias marcas",
@@ -1314,7 +1315,9 @@
          "@type": "Offer",
          "itemOffered": {
           "@type": "Service",
-          "name": "Encimeras de porcelánico, granito y Silestone"
+          "name": "Encimeras de porcelánico, granito y Silestone",
+          "@id": "https://{{dominio}}/cocinas-a-medida/encimeras/#servicio",
+          "url": "https://{{dominio}}/cocinas-a-medida/encimeras/"
          }
         },
         {
@@ -1448,6 +1451,572 @@
     "alt": "Cocina a medida de madera",
     "width": 1500,
     "height": 1000
+   }
+  },
+  {
+   "route": "/cocinas-a-medida/encimeras/",
+   "type": "subservice",
+   "params": {
+    "servicio": "cocinas-a-medida",
+    "sub": "encimeras"
+   },
+   "title": "Encimeras a medida: Silestone, granito y porcelánico | Urexal",
+   "description": "Encimeras de cocina a medida en Silestone, granito, porcelánico o laminado. Medimos tu cocina y adaptamos huecos e islas. Presupuesto sin compromiso.",
+   "h1": "Encimeras a medida para tu cocina: Silestone, granito y porcelánico",
+   "lead": "¿Quieres renovar tu encimera sin cambiar toda la cocina? ¿O estás buscando el acabado perfecto para una cocina nueva?",
+   "intro": [
+    "En Carpintería Urexal diseñamos encimeras a medida adaptadas a tu espacio, tus gustos y tu presupuesto. Estudiamos las dimensiones, la distribución y el uso que haces de tu cocina para crear la encimera que estás buscando en cuanto a diseño, resistencia y comodidad."
+   ],
+   "breadcrumbs": [
+    {
+     "name": "Inicio",
+     "url": "/"
+    },
+    {
+     "name": "Cocinas a medida",
+     "url": "/cocinas-a-medida/"
+    },
+    {
+     "name": "Encimeras",
+     "url": "/cocinas-a-medida/encimeras/"
+    }
+   ],
+   "cta": {
+    "servicio": "cocinas-a-medida",
+    "label": "Pide presupuesto para tu encimera a medida"
+   },
+   "sections": [
+    {
+     "kind": "items",
+     "h2": "¿Qué material prefieres para tu encimera?",
+     "intro": [
+      {
+       "type": "p",
+       "text": "La encimera es la superficie que más utilizamos en la cocina. Por eso, elegir el material adecuado es tan importante como acertar con el diseño. No hay uno mejor que otro: cada uno te da distintas posibilidades estéticas y tiene unas características de resistencia, limpieza y mantenimiento."
+      }
+     ],
+     "items": [
+      {
+       "h3": "Encimeras de Silestone",
+       "text": "Silestone es una marca de superficies minerales muy utilizada en cocinas por su variedad de acabados y sus prestaciones para el uso diario. Permite elegir entre numerosos colores y diseños, desde superficies lisas hasta acabados que recuerdan a la piedra natural. Además, su baja porosidad facilita la limpieza y ayuda a evitar la absorción de líquidos.",
+       "more": [
+        [
+         {
+          "b": "Es una alternativa interesante si buscas una encimera de diseño contemporáneo, aunque conviene evitar el contacto directo con recipientes muy calientes."
+         }
+        ]
+       ]
+      },
+      {
+       "h3": "Encimeras de granito",
+       "text": "El granito es una piedra natural que destaca por su dureza, resistencia y estética. Cada pieza presenta vetas y tonalidades propias, por lo que resulta especialmente atractiva para quienes buscan un acabado único.",
+       "more": [
+        [
+         {
+          "b": "Soporta bien el uso cotidiano y las temperaturas elevadas, aunque es recomendable utilizar salvamanteles y seguir las indicaciones de mantenimiento del material."
+         }
+        ]
+       ]
+      },
+      {
+       "h3": "Encimeras porcelánicas",
+       "text": "Las encimeras de porcelánico destacan por su resistencia al calor, a las manchas y a los arañazos y ofrecen una gran variedad de acabados, incluidos diseños que imitan el mármol, el cemento o la piedra natural.",
+       "more": [
+        [
+         {
+          "b": "Estas encimeras de diseño son interesantes en cocinas modernas en las que se busca que el mantenimiento sea sencillo. Eso sí, sus cantos pueden dañarse ante golpes fuertes."
+         }
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "rich",
+     "h2": "Diseñamos encimeras a medida que aprovechan todo el espacio",
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Una encimera se tiene que adaptar a las características de tu cocina, y no al revés. En Carpintería Urexal medimos la zona donde se va a colocar la encimera y analizamos la distribución de los muebles para conseguir una superficie cómoda y bien aprovechada."
+      },
+      {
+       "type": "p",
+       "text": "Una vez estudiada tu cocina, valoramos los diferentes aspectos del diseño:"
+      },
+      {
+       "type": "ul",
+       "items": [
+        {
+         "lead": "Medidas y forma",
+         "text": "encimeras rectas, en L, en U o adaptadas a distribuciones especiales."
+        },
+        {
+         "lead": "Grosor y acabados",
+         "text": "diferentes opciones para conseguir la estética que buscas."
+        },
+        {
+         "lead": "Huecos para fregadero y placa de cocción",
+         "text": "adaptados a las dimensiones y características de cada elemento."
+        },
+        {
+         "lead": "Islas y penínsulas",
+         "text": "superficies adicionales para cocinar, almacenar o crear una zona de reunión."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "rich",
+     "h2": "¿Cuál es el precio de una encimera estratificada?",
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Si buscas una opción económica para renovar tu cocina, las encimeras estratificadas, también conocidas como laminadas, son una buena alternativa. Disponen de una amplia variedad de acabados y suelen tener un precio inferior al de materiales como el granito, Silestone o el porcelánico."
+      },
+      {
+       "type": "p",
+       "text": [
+        {
+         "b": "¿Cuánto cuesta una encimera estratificada a medida?"
+        },
+        " Dependerá de sus dimensiones, el grosor, los acabados y los trabajos necesarios para adaptarla a tu cocina, como los cortes para el fregadero y la placa de cocción."
+       ]
+      },
+      {
+       "type": "cta",
+       "label": "Solicita tu presupuesto sin compromiso"
+      }
+     ]
+    },
+    {
+     "kind": "rich",
+     "h2": "¿Cómo combinar la encimera con la pared de tu cocina?",
+     "blocks": [
+      {
+       "type": "p",
+       "text": "La encimera y la pared de cocina tienen la capacidad de transformar por completo el aspecto de la estancia. Puedes apostar por el contraste entre materiales y colores o bien elegir un mismo acabado para ambas superficies y conseguir así una sensación de continuidad."
+      },
+      {
+       "type": "p",
+       "text": "Pero, además de la estética, conviene pensar en el día a día: las zonas de la pared situadas detrás del fregadero y de la placa de cocción están especialmente expuestas a salpicaduras y manchas, por lo que elegir un revestimiento fácil de limpiar también marca la diferencia."
+      }
+     ]
+    },
+    {
+     "kind": "rich",
+     "h2": "¿Por qué confiar en Carpintería Urexal?",
+     "blocks": [
+      {
+       "type": "p",
+       "text": "Sabemos que, cuando decides renovar tu cocina o diseñarla desde cero, quieres que el resultado merezca la pena. Que sea bonita, que resulte cómoda y que puedas disfrutarla durante muchos años."
+      },
+      {
+       "type": "p",
+       "text": "En Carpintería Urexal llevamos esa idea a cada proyecto. Te ayudamos a elegir una encimera que combine con tus muebles, que aproveche bien el espacio y que tenga el acabado que buscas. Porque no se trata solo de cambiar una superficie, sino de conseguir una cocina en la que te sientas a gusto."
+      },
+      {
+       "type": "p",
+       "text": [
+        "Además, contamos con nuestro propio ",
+        {
+         "a": "taller de carpintería",
+         "href": "/"
+        },
+        " y podemos encargarnos también del ",
+        {
+         "a": "diseño",
+         "href": "/cocinas-a-medida/diseno/"
+        },
+        " y de la ",
+        {
+         "a": "fabricación de tu cocina completa",
+         "href": "/cocinas-a-medida/"
+        },
+        "."
+       ]
+      }
+     ]
+    }
+   ],
+   "cta_final": {
+    "h2": "Dale un aire nuevo a tu cocina con nuestras encimeras a medida",
+    "paragraphs": [
+     "A veces, un solo cambio es suficiente para transformar por completo una cocina. Y renovar la encimera puede ser justo lo que necesitas para darle una nueva vida sin tener que hacer una reforma completa.",
+     "Cuéntanos qué tienes en mente y nos pondremos a trabajar para encontrar una encimera que te encante y se adapte a tu presupuesto."
+    ],
+    "label": "Pide presupuesto para tu nueva encimera"
+   },
+   "links": [
+    {
+     "url": "/cocinas-a-medida/",
+     "label": "Cocinas a medida"
+    }
+   ],
+   "hero_image": {
+    "src": "/img/cocinas-a-medida/encimeras-de-porcelanico-granito-y-silestone.webp",
+    "alt": "Encimera de cocina a medida",
+    "width": 900,
+    "height": 600
+   },
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Service",
+      "@id": "https://{{dominio}}/cocinas-a-medida/encimeras/#servicio",
+      "name": "Encimeras a medida: Silestone, granito y porcelánico",
+      "serviceType": "Encimeras a medida: Silestone, granito y porcelánico",
+      "description": "Encimeras de cocina a medida en Silestone, granito, porcelánico o laminado. Medimos tu cocina y adaptamos huecos e islas. Presupuesto sin compromiso.",
+      "url": "https://{{dominio}}/cocinas-a-medida/encimeras/",
+      "provider": {
+       "@id": "https://{{dominio}}/#negocio"
+      },
+      "areaServed": [
+       {
+        "@type": "GeoCircle",
+        "name": "Radio de 33 km desde el taller de A Estrada",
+        "geoMidpoint": {
+         "@type": "GeoCoordinates",
+         "latitude": 42.681,
+         "longitude": -8.436
+        },
+        "geoRadius": 33000
+       },
+       {
+        "@type": "City",
+        "name": "A Estrada",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Boqueixón",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Vedra",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Rois",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Brión",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Teo",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Santiago de Compostela",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Ames",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Oroso",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cuntis",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Forcarei",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cerdedo-Cotobade",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Caldas de Reis",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Campo Lameiro",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Moraña",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Portas",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Pontevedra",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Valga",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Pontecesures",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Padrón",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Dodro",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Catoira",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Vilagarcía de Arousa",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Ribadumia",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Meis",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Vilanova de Arousa",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Boiro",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "A Illa de Arousa",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cambados",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Meaño",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Vilaboa",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "O Grove",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Sanxenxo",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Ribeira",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de A Coruña"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Silleda",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Vila de Cruces",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Dozón",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Lalín",
+        "containedInPlace": {
+         "@type": "AdministrativeArea",
+         "name": "Provincia de Pontevedra"
+        }
+       }
+      ],
+      "isRelatedTo": {
+       "@id": "https://{{dominio}}/cocinas-a-medida/#servicio"
+      },
+      "image": "https://{{dominio}}/img/cocinas-a-medida/encimeras-de-porcelanico-granito-y-silestone.webp"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "https://{{dominio}}/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cocinas a medida",
+        "item": "https://{{dominio}}/cocinas-a-medida/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Encimeras",
+        "item": "https://{{dominio}}/cocinas-a-medida/encimeras/"
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1654,7 +2223,14 @@
       },
       {
        "h3": "Encimeras que se adaptan al diseño",
-       "text": "La encimera es una de las superficies que más utilizamos en la cocina. Por eso, además de combinar con los muebles, debe responder a las exigencias de preparación de alimentos, limpieza y mantenimiento. Estudiamos el material, las dimensiones y el acabado de las encimeras a medida dentro del diseño general para conseguir un resultado equilibrado."
+       "text": [
+        "La encimera es una de las superficies que más utilizamos en la cocina. Por eso, además de combinar con los muebles, debe responder a las exigencias de preparación de alimentos, limpieza y mantenimiento. Estudiamos el material, las dimensiones y el acabado de las ",
+        {
+         "a": "encimeras a medida",
+         "href": "/cocinas-a-medida/encimeras/"
+        },
+        " dentro del diseño general para conseguir un resultado equilibrado."
+       ]
       },
       {
        "h3": "Una cocina preparada para el día a día",

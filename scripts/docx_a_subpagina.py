@@ -66,6 +66,30 @@ def clean(text: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"^H[1-6]\.\s*", "", text)).strip()
 
 
+def rich(p: dict):
+    """Párrafo con sus negritas, sin cambiar el texto: cadena o lista de trozos [texto, {"b": texto}, …]."""
+    if not any(bold and t.strip() for t, bold in p["runs"]):
+        return clean(p["text"])
+    parts: list = []
+    for text, bold in p["runs"]:
+        bold = bold and bool(text.strip())
+        if parts and isinstance(parts[-1], dict) == bold:  # une trozos seguidos con el mismo formato
+            if bold:
+                parts[-1]["b"] += text
+            else:
+                parts[-1] += text
+        else:
+            parts.append({"b": text} if bold else text)
+    parts = [{"b": re.sub(r"\s+", " ", x["b"])} if isinstance(x, dict) else re.sub(r"\s+", " ", x) for x in parts]
+    # bordes del párrafo sin espacios; una negrita con espacio al final lo pasa al texto siguiente
+    first, last = parts[0], parts[-1]
+    if isinstance(first, str): parts[0] = first.lstrip()
+    else: first["b"] = first["b"].lstrip()
+    if isinstance(last, str): parts[-1] = last.rstrip()
+    else: last["b"] = last["b"].rstrip()
+    return [x for x in parts if x != "" and x != {"b": ""}]
+
+
 def cta_label(text: str) -> str | None:
     m = re.match(r"^\**\s*CTA\s*\**\s*:\s*(.+)$", text, re.I)
     return m.group(1).strip() if m else None
@@ -100,7 +124,7 @@ def blocks_of(items: list[dict]) -> list[dict]:
                 blocks.append({"type": "ul", "items": []})
             blocks[-1]["items"].append(bullet(p))
         else:
-            blocks.append({"type": "p", "text": clean(p["text"])})
+            blocks.append({"type": "p", "text": rich(p)})
     return blocks
 
 
@@ -120,15 +144,22 @@ def section(h2: str, body: list[dict]) -> dict:
     if groups and groups[-1]["body"] and cta_label(groups[-1]["body"][-1]["text"]):
         cta = cta_label(groups[-1]["body"].pop(-1)["text"])
     text_of = lambda g: " ".join(clean(p["text"]) for p in g["body"] if not p["bullet"])
+
+    def item(g: dict, key: str = "h3") -> dict:
+        paras = [rich(p) for p in g["body"] if not p["bullet"]]
+        out = {"h3": g["h3"], "text": paras[0] if paras else ""}
+        if len(paras) > 1:
+            out["more"] = paras[1:]
+        return out
     intro_blocks = blocks_of(intro)
     if re.search(r"preguntas frecuentes", h2, re.I):
         s = {"kind": "faq", "h2": h2, "faqs": [{"q": g["h3"], "a": text_of(g)} for g in groups]}
     elif len(groups) >= 3 and all(re.match(r"^\d+[.)]\s", g["h3"]) for g in groups):
         s = {"kind": "process", "h2": h2, "intro": [b["text"] for b in intro_blocks if b["type"] == "p"],
-             "steps": [{"h3": g["h3"], "text": text_of(g)} for g in groups]}
+             "steps": [item(g) for g in groups]}
     else:
         s = {"kind": "items", "h2": h2, "intro": intro_blocks,
-             "items": [{"h3": g["h3"], "text": text_of(g)} for g in groups]}
+             "items": [item(g) for g in groups]}
     if cta:
         s["cta"] = cta
     return s
@@ -149,10 +180,11 @@ def convert(path: Path) -> dict:
             head.append(p)
     intro = [b for b in blocks_of(head)]
     lead = next((b["text"] for b in intro if b["type"] == "p"), "")
+    lead = "".join(x if isinstance(x, str) else x["b"] for x in lead) if isinstance(lead, list) else lead
     page = {
         "h1": h1,
         "lead": lead,
-        "intro": [b["text"] for b in intro if b["type"] == "p"][1:],
+        "intro": [b["text"] for b in intro if b["type"] == "p"][1:],  # cadenas o trozos con negrita
         "cta_label": next((b["label"] for b in intro if b["type"] == "cta"), None),
         "sections": [],
         "cta_final": None,
@@ -190,7 +222,9 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     target = OUT / f"{parts[0]}__{parts[1]}.json"
     if target.exists():  # los enlaces internos se deciden aparte: no se pierden al reconvertir
-        page["enlaces"] = json.loads(target.read_text(encoding="utf-8")).get("enlaces", [])
+        previous = json.loads(target.read_text(encoding="utf-8"))
+        page["enlaces"] = previous.get("enlaces", [])
+        page["cambios"] = previous.get("cambios", [])
     target.write_text(json.dumps(page, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     kinds = ", ".join(f'{s["kind"]}' for s in page["sections"])
     words = len(json.dumps(page, ensure_ascii=False).split())
