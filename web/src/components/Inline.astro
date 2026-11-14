@@ -1,0 +1,12 @@
+---
+// Texto con enlaces internos opcionales: una cadena, o una lista de trozos [texto, { a, href }, texto…]
+// que genera scripts/landing_generator.py a partir de los «enlaces» de cada subpágina (el texto no cambia).
+import { fill } from '../lib/site';
+
+interface Props {
+  text: any;
+}
+const { text } = Astro.props;
+const parts: any[] = Array.isArray(text) ? text : [text ?? ''];
+---
+{parts.map((p) => (typeof p === 'string' ? fill(p) : <a href={p.href}>{fill(p.a)}</a>))}

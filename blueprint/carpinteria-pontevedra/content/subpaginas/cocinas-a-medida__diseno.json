@@ -310,5 +310,12 @@
    "Cuéntanos cómo imaginas tu cocina y descubre cómo quedará antes de empezar a fabricarla."
   ],
   "label": "Empieza a diseñar tu cocina a medida"
- }
+ },
+ "enlaces": [
+  {
+   "texto": "Fabricamos muebles a medida",
+   "contexto": "Fabricamos muebles a medida en nuestro propio taller",
+   "url": "/muebles-a-medida/"
+  }
+ ]
 }

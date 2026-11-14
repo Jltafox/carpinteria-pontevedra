@@ -1,6 +1,7 @@
 ---
 import ConsentMap from './ConsentMap.astro';
 import Img from './Img.astro';
+import Inline from './Inline.astro';
 import { biz, fill, mapsEmbedSrc, phoneLabel, quoteHref, telHref } from '../lib/site';
 
 interface Props {
@@ -34,9 +35,9 @@ const dark = s.kind === 'process';
     {s.kind === 'rich' && (
       <div class="prose">
         {s.blocks.map((b: any) =>
-          b.type === 'p' ? <p>{fill(b.text)}</p>
+          b.type === 'p' ? <p><Inline text={b.text} /></p>
           : b.type === 'ul' ? (
-            <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong>{i.lead}: </strong>}{fill(i.text)}</li>)}</ul>
+            <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong><Inline text={i.lead} />: </strong>}<Inline text={i.text} /></li>)}</ul>
           ) : b.type === 'cta' ? <p class="section-cta"><a class="btn btn-primary" href={quoteHref(servicio)}>{b.label}</a></p>
           : null
         )}
@@ -46,8 +47,8 @@ const dark = s.kind === 'process';
     {s.kind === 'items' && s.intro?.length > 0 && (
       <div class="prose section-intro">
         {s.intro.map((b: any) => b.type === 'ul'
-          ? <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong>{i.lead}: </strong>}{fill(i.text)}</li>)}</ul>
-          : <p>{fill(b.text)}</p>)}
+          ? <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong><Inline text={i.lead} />: </strong>}<Inline text={i.text} /></li>)}</ul>
+          : <p><Inline text={b.text} /></p>)}
       </div>
     )}
 
@@ -58,7 +59,7 @@ const dark = s.kind === 'process';
             {item.image && <Img image={item.image} class="item-img" />}
             <div>
               <h3>{item.url ? <a href={item.url}>{fill(item.h3)}</a> : fill(item.h3)}</h3>
-              <p>{fill(item.text)}</p>
+              <p><Inline text={item.text} /></p>
             </div>
           </div>
         ))}
@@ -66,7 +67,7 @@ const dark = s.kind === 'process';
     )}
 
     {s.kind === 'process' && s.intro?.length > 0 && (
-      <div class="prose section-intro">{s.intro.map((p: string) => <p>{fill(p)}</p>)}</div>
+      <div class="prose section-intro">{s.intro.map((p: any) => <p><Inline text={p} /></p>)}</div>
     )}
 
     {s.kind === 'process' && (
@@ -74,7 +75,7 @@ const dark = s.kind === 'process';
         {s.steps.map((step: any) => (
           <li>
             <h3>{fill(step.h3)}</h3>
-            <p>{fill(step.text)}</p>
+            <p><Inline text={step.text} /></p>
           </li>
         ))}
       </ol>

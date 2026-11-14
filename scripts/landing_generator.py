@@ -413,10 +413,44 @@ def image_manifest(pages: list[dict]) -> list[dict]:
 
 
 # ── Subpáginas de servicio: /{servicio}/{slug}/ ─────────────────────────────────────
+def plain(text) -> str:
+    """Texto plano de una cadena o de una lista de trozos con enlaces."""
+    return "".join(t if isinstance(t, str) else t["a"] for t in text) if isinstance(text, list) else (text or "")
+
+
 def block_text(block: dict) -> str:
     if block["type"] == "ul":
-        return " ".join(f'{i.get("lead", "")} {i["text"]}' for i in block["items"])
-    return block.get("text", "")
+        return " ".join(f'{plain(i.get("lead", ""))} {plain(i["text"])}' for i in block["items"])
+    return plain(block.get("text", ""))
+
+
+def add_links(page: dict, links: list[dict]) -> None:
+    """Convierte en enlace la primera aparición de cada «texto» (dentro de su «contexto», si se indica).
+    Solo cambia la estructura: el texto unido de cada campo es idéntico al del redactor."""
+    def fields():
+        for s in page["sections"]:
+            if s["kind"] == "faq":
+                continue  # las respuestas van también al schema FAQPage, en texto plano
+            for b in s.get("blocks", []) + [x for x in s.get("intro", []) if isinstance(x, dict)]:
+                if b["type"] == "p":
+                    yield b, "text"
+                for i in b.get("items", []):
+                    yield i, "lead"
+                    yield i, "text"
+            for holder, key in [(s, k) for k in range(len(s.get("intro", []))) if isinstance(s["intro"][k], str)]:
+                yield holder["intro"], key
+            for i in s.get("items", []) + s.get("steps", []):
+                yield i, "text"
+    for link in links:
+        anchor, context = link["texto"], link.get("contexto", link["texto"])
+        for holder, key in fields():
+            value = holder[key] if isinstance(holder, list) or key in holder else None
+            if isinstance(value, str) and context in value and anchor in value:
+                start = value.index(context) + context.index(anchor)
+                holder[key] = [p for p in (value[:start], {"a": anchor, "href": link["url"]}, value[start + len(anchor):]) if p]
+                break
+        else:
+            print(f"⚠ {page['route']}: no encuentro «{anchor}» para enlazar a {link['url']}")
 
 
 def hero_size(src: str) -> tuple[int, int]:
@@ -448,6 +482,7 @@ def add_subpages(pages: list[dict]) -> None:
         if d.get("hero"):
             page["hero_image"] = image(d["hero"], d.get("hero_alt") or name, hero_size(d["hero"]))
             node["image"] = "https://{{dominio}}" + d["hero"]
+        add_links(page, d.get("enlaces", []))
         page["jsonld"] = {"@context": "https://schema.org",
                           "@graph": [node, breadcrumb_ld(bc)] + ([faq_ld(faqs)] if faqs else [])}
         # El pilar enlaza a la subpágina desde su subservicio (texto y catálogo del schema)
@@ -468,11 +503,11 @@ def page_text(page: dict) -> str:
     parts = [page["h1"], page["lead"]]
     for section in page["sections"]:
         parts += section.get("paragraphs", []) + section.get("list", []) + section.get("factors", [])
-        parts += [section.get("text", "")] + [i["text"] for i in section.get("items", []) + section.get("steps", [])]
+        parts += [section.get("text", "")] + [plain(i["text"]) for i in section.get("items", []) + section.get("steps", [])]
         parts += [c["text"] for c in section.get("cards", [])]
         parts += [f["q"] + " " + f["a"] for f in section.get("faqs", [])]
         parts += [block_text(b) for b in section.get("blocks", []) + [x for x in section.get("intro", []) if isinstance(x, dict)]]
-        parts += [x for x in section.get("intro", []) if isinstance(x, str)]
+        parts += [plain(x) for x in section.get("intro", []) if not isinstance(x, dict)]
     return " ".join(p for p in parts if p)
 
 

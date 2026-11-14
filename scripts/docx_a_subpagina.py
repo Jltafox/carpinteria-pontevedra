@@ -189,6 +189,8 @@ def main() -> None:
             "hero": args.hero, "hero_alt": args.hero_alt, **convert(args.docx)}
     OUT.mkdir(parents=True, exist_ok=True)
     target = OUT / f"{parts[0]}__{parts[1]}.json"
+    if target.exists():  # los enlaces internos se deciden aparte: no se pierden al reconvertir
+        page["enlaces"] = json.loads(target.read_text(encoding="utf-8")).get("enlaces", [])
     target.write_text(json.dumps(page, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     kinds = ", ".join(f'{s["kind"]}' for s in page["sections"])
     words = len(json.dumps(page, ensure_ascii=False).split())

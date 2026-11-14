@@ -1721,7 +1721,13 @@
        "type": "ul",
        "items": [
         {
-         "lead": "Fabricamos muebles a medida en nuestro propio taller de A Estrada",
+         "lead": [
+          {
+           "a": "Fabricamos muebles a medida",
+           "href": "/muebles-a-medida/"
+          },
+          " en nuestro propio taller de A Estrada"
+         ],
          "text": "esto nos permite trabajar con las dimensiones y características específicas de cada cocina."
         },
         {
