@@ -1,0 +1,13 @@
+---
+// Subpáginas de servicio: /{servicio}/{slug}/ (p. ej. /cocinas-a-medida/diseno/)
+import PageView from '../../../components/PageView.astro';
+import { pages } from '../../../lib/site';
+
+export function getStaticPaths() {
+  return pages
+    .filter((p) => p.type === 'subservice')
+    .map((page) => ({ params: { servicio: page.params.servicio, sub: page.params.sub }, props: { page } }));
+}
+const { page } = Astro.props;
+---
+<PageView page={page} />

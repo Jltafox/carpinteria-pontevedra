@@ -17,7 +17,8 @@ const sections = page.sections.filter(
     import.meta.env.DEV ||
     (s.kind === 'testimonials' ? (biz.testimonios || []).length > 0 : s.kind === 'gallery' ? s.images.some((img: any) => hasPublicFile(img.src)) : true),
 );
-const eyebrow = page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
+const parent = page.type === 'subservice' ? page.breadcrumbs[1]?.name : '';
+const eyebrow = parent ? parent : page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo'
   : page.type === 'pillar' ? 'Servicio' : 'Carpintería en Pontevedra';
 ---
 <Base page={page}>
@@ -28,17 +29,18 @@ const eyebrow = page.type === 'hub' ? 'Carpintería de madera · Zona de trabajo
         <p class="eyebrow">{eyebrow}</p>
         <h1>{fill(page.h1)}</h1>
         {page.lead && <p class="lead">{fill(page.lead)}</p>}
-        <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+        {(page.intro || []).map((p: string) => <p class="intro">{fill(p)}</p>)}
+        <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} label={page.cta?.label || undefined} />
       </div>
       {page.hero_image && <Img image={page.hero_image} eager class="hero-img" />}
     </div>
   </section>
-  {sections.map((section: any, i: number) => <Section section={section} index={i + 1} />)}
+  {sections.map((section: any, i: number) => <Section section={section} index={i + 1} servicio={page.cta?.servicio} />)}
   <section class="cta-final">
     <div class="wrap">
-      <h2>¿Hablamos de tu proyecto?</h2>
-      <p>Te llamamos en menos de 2 días y visitamos tu vivienda en 3–4 días laborables.</p>
-      <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} />
+      <h2>{page.cta_final?.h2 || '¿Hablamos de tu proyecto?'}</h2>
+      {(page.cta_final?.paragraphs || ['Te llamamos en menos de 2 días y visitamos tu vivienda en 3–4 días laborables.']).map((p: string) => <p>{fill(p)}</p>)}
+      <CtaButtons servicio={page.cta?.servicio} zona={page.cta?.zona} label={page.cta_final?.label} />
     </div>
   </section>
 </Base>

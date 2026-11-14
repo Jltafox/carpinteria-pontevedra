@@ -412,6 +412,57 @@ def image_manifest(pages: list[dict]) -> list[dict]:
     return sorted(slots.values(), key=lambda s: s["url"])
 
 
+# ── Subpáginas de servicio: /{servicio}/{slug}/ ─────────────────────────────────────
+def block_text(block: dict) -> str:
+    if block["type"] == "ul":
+        return " ".join(f'{i.get("lead", "")} {i["text"]}' for i in block["items"])
+    return block.get("text", "")
+
+
+def hero_size(src: str) -> tuple[int, int]:
+    try:
+        from PIL import Image
+        with Image.open(ROOT / "web" / "public" / src.lstrip("/")) as im:
+            return im.size
+    except Exception:  # sin Pillow o sin la foto todavía: tamaño de portada
+        return HERO
+
+
+def add_subpages(pages: list[dict]) -> None:
+    """Lee content/subpaginas/*.json, crea cada subpágina detrás de su pilar y la enlaza desde él."""
+    folder = CONTENT / "subpaginas"
+    for f in sorted(folder.glob("*.json")) if folder.exists() else []:
+        d = json.loads(f.read_text(encoding="utf-8"))
+        parent = next(p for p in pages if p["type"] == "pillar" and p["params"]["servicio"] == d["servicio"])
+        route, name = d["ruta"], d["title"].split(" | ")[0]
+        service_id = "https://{{dominio}}" + route + "#servicio"
+        bc = crumbs((parent["h1"], parent["route"]), (d["miga"], route))
+        faqs = [q for s in d["sections"] if s["kind"] == "faq" for q in s["faqs"]]
+        node = {"@type": "Service", "@id": service_id, "name": name, "serviceType": name, "description": d["description"],
+                "url": "https://{{dominio}}" + route, "provider": {"@id": BUSINESS_ID}, "areaServed": bp.area_served(),
+                "isRelatedTo": {"@id": "https://{{dominio}}" + parent["route"] + "#servicio"}}
+        page = {"route": route, "type": "subservice", "params": {"servicio": d["servicio"], "sub": d["slug"]},
+                "title": d["title"], "description": d["description"], "h1": d["h1"], "lead": d["lead"],
+                "intro": d.get("intro", []), "breadcrumbs": bc, "cta": {"servicio": d["servicio"], "label": d.get("cta_label")},
+                "sections": d["sections"], "cta_final": d.get("cta_final"), "links": link_list([parent["route"]])}
+        if d.get("hero"):
+            page["hero_image"] = image(d["hero"], d.get("hero_alt") or name, hero_size(d["hero"]))
+            node["image"] = "https://{{dominio}}" + d["hero"]
+        page["jsonld"] = {"@context": "https://schema.org",
+                          "@graph": [node, breadcrumb_ld(bc)] + ([faq_ld(faqs)] if faqs else [])}
+        # El pilar enlaza a la subpágina desde su subservicio (texto y catálogo del schema)
+        if d.get("item_padre"):
+            for section in parent["sections"]:
+                for item in section.get("items", []):
+                    if item["h3"] == d["item_padre"]:
+                        item["url"] = route
+            for n in parent["jsonld"]["@graph"]:
+                for offer in n.get("hasOfferCatalog", {}).get("itemListElement", []):
+                    if offer["itemOffered"]["name"] == d["item_padre"]:
+                        offer["itemOffered"].update({"@id": service_id, "url": "https://{{dominio}}" + route})
+        pages.insert(pages.index(parent) + 1, page)
+
+
 # ── QA ───────────────────────────────────────────────────────────────────────────
 def page_text(page: dict) -> str:
     parts = [page["h1"], page["lead"]]
@@ -420,6 +471,8 @@ def page_text(page: dict) -> str:
         parts += [section.get("text", "")] + [i["text"] for i in section.get("items", []) + section.get("steps", [])]
         parts += [c["text"] for c in section.get("cards", [])]
         parts += [f["q"] + " " + f["a"] for f in section.get("faqs", [])]
+        parts += [block_text(b) for b in section.get("blocks", []) + [x for x in section.get("intro", []) if isinstance(x, dict)]]
+        parts += [x for x in section.get("intro", []) if isinstance(x, str)]
     return " ".join(p for p in parts if p)
 
 
@@ -439,6 +492,7 @@ def main() -> None:
     args = parser.parse_args()
 
     pages = build_pages()
+    add_subpages(pages)
     for page in pages:
         page["title"] = TITLES.get(page["route"], page["title"])
         renames = H2.get(page["route"], {})

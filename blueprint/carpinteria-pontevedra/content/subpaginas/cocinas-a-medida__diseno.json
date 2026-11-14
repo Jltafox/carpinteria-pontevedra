@@ -1,0 +1,314 @@
+{
+ "ruta": "/cocinas-a-medida/diseno/",
+ "servicio": "cocinas-a-medida",
+ "slug": "diseno",
+ "title": "Diseño de cocinas a medida con render 3D | Urexal",
+ "description": "Diseño de cocinas a medida con render 3D: ves tu cocina antes de fabricarla. Taller propio en A Estrada y montaje propio. El diseño se descuenta del proyecto.",
+ "miga": "Diseño de cocinas",
+ "item_padre": "Diseño de cocina con render 3D",
+ "hero": "/img/cocinas-a-medida/diseno-de-cocina-con-render-3d.webp",
+ "hero_alt": "Diseño de cocina a medida con render 3D",
+ "h1": "Diseño de cocinas a medida: creamos tu cocina ideal en 3D",
+ "lead": "¿Imaginas poder ver cómo quedará tu nueva cocina antes de empezar a fabricarla? En Carpintería Urexal diseñamos cocinas a medida que se adaptan a tu espacio, tus gustos y tu forma de vivir. Y, gracias al diseño con render 3D, te enseñamos el resultado antes de que tomes la decisión definitiva.",
+ "intro": [
+  "Te ayudamos a elegir la distribución, los materiales, los acabados y las soluciones de almacenamiento que mejor encajan contigo. Después, fabricamos tu cocina en nuestro taller y nos encargamos también de su montaje."
+ ],
+ "cta_label": "Solicita el diseño de tu cocina",
+ "sections": [
+  {
+   "kind": "rich",
+   "h2": "Diseño de cocinas a medida: creamos una cocina especialmente pensada para ti",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Diseñar es mucho más que elegir los mejores muebles o los colores más bonitos. En Urexal estudiamos las características de tu espacio y te escuchamos para saber lo que necesitas. Nuestro objetivo es crear una cocina cómoda, funcional y con una estética que encaje en tu hogar."
+    },
+    {
+     "type": "p",
+     "text": "¿Te gusta cocinar y necesitas una superficie de trabajo amplia? ¿Quieres aprovechar mejor el espacio de almacenamiento? ¿Prefieres una cocina abierta al salón o una distribución independiente?"
+    },
+    {
+     "type": "p",
+     "text": "Cada decisión cuenta a la hora de conseguir un resultado que te emocione y cumpla tus expectativas. Con nuestro servicio de diseño de cocinas a medida, puedes:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      {
+       "text": "Aprovechar mejor el espacio disponible, incluso cuando hay columnas, rincones o distribuciones complicadas."
+      },
+      {
+       "text": "Elegir los materiales y acabados que mejor combinan con el estilo de tu vivienda."
+      },
+      {
+       "text": "Organizar los muebles y electrodomésticos para que cocinar y moverte resulte cómodo."
+      },
+      {
+       "text": "Incorporar soluciones de almacenamiento adaptadas a tus necesidades."
+      },
+      {
+       "text": "Visualizar el diseño en 3D antes de pasar a la fabricación."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "items",
+   "h2": "Visualiza tu cocina a medida con un diseño en 3D",
+   "intro": [
+    {
+     "type": "p",
+     "text": "Elegir una cocina supone tomar muchas decisiones: distribución, colores, materiales, muebles, encimera, iluminación, ubicación de los electrodomésticos… Y no siempre es fácil imaginar cómo quedarán todos esos elementos juntos."
+    },
+    {
+     "type": "p",
+     "text": "Por eso, en Carpintería Urexal utilizamos el render 3D como herramienta de diseño y te mostramos una representación de tu futura cocina antes de crearla."
+    }
+   ],
+   "items": [
+    {
+     "h3": "Comprueba cómo quedará cada elemento",
+     "text": "El diseño en 3D permite entender mejor la distribución del espacio, las proporciones de los muebles y la combinación de los diferentes acabados. Así, no tendrás que imaginar el resultado a partir de planos, muestras de materiales o fotografías de otras cocinas y te harás una idea mucho más clara del resultado."
+    },
+    {
+     "h3": "Ajusta el diseño antes de fabricar",
+     "text": "Quizá pensabas que querías muebles oscuros, pero al verlos en tu cocina prefieres un acabado más claro. O puede que descubras que una distribución diferente te permitiría ganar superficie de trabajo. El render te ayuda a detectar estas cuestiones cuando todavía estamos en la fase de diseño."
+    },
+    {
+     "h3": "El coste del diseño se descuenta si aceptas el proyecto",
+     "text": "Nuestro servicio de diseño de cocinas con render 3D tiene un coste, pero si decides realizar tu cocina con Carpintería Urexal, descontaremos ese importe del proyecto."
+    }
+   ],
+   "cta": "Quiero diseñar mi cocina en 3D"
+  },
+  {
+   "kind": "process",
+   "h2": "¿Cómo diseñamos tu cocina a medida?",
+   "intro": [
+    "Cada proyecto comienza con una idea, pero convertirla en una cocina real requiere estudiar el espacio y definir todos los detalles. En Urexal te acompañamos desde las primeras decisiones hasta la instalación de los muebles."
+   ],
+   "steps": [
+    {
+     "h3": "1. Escuchamos tus necesidades",
+     "text": "Lo primero es conocer qué esperas de tu nueva cocina. Nos interesa saber cuántas personas la utilizáis, cómo cocináis, qué espacio de almacenamiento necesitáis y qué aspectos de vuestra cocina actual os gustaría mejorar. También hablamos de tus preferencias estéticas y del presupuesto que tienes previsto destinar al proyecto."
+    },
+    {
+     "h3": "2. Estudiamos el espacio y la distribución",
+     "text": "Analizamos las dimensiones y características de la estancia para plantear una distribución funcional. Tenemos en cuenta la ubicación de puertas, ventanas, instalaciones y electrodomésticos, así como las zonas de paso y las superficies de trabajo. La idea es aprovechar cada metro disponible sin renunciar a la comodidad."
+    },
+    {
+     "h3": "3. Elegimos los materiales y acabados",
+     "text": "Seleccionamos contigo los muebles de tu cocina, las puertas, los tiradores y los acabados. No se trata solo de elegir lo que más te guste visualmente, sino también de considerar la resistencia, el mantenimiento y el uso que tendrá cada elemento."
+    },
+    {
+     "h3": "4. Preparamos el diseño en 3D",
+     "text": "Con la distribución y las principales características definidas, elaboramos una representación tridimensional de tu futura cocina. Te enseñamos el conjunto para que valores si responde a lo que tenías en mente y, si es necesario, revisamos cualquier punto antes de cerrar el diseño."
+    },
+    {
+     "h3": "5. Fabricamos e instalamos tu cocina",
+     "text": "Una vez aprobado el proyecto, pasamos a la fabricación de los muebles a medida en nuestro taller. Nos encargamos también del montaje, de modo que el resultado final siempre se corresponde con el diseño acordado."
+    }
+   ]
+  },
+  {
+   "kind": "items",
+   "h2": "Elige la distribución que mejor aprovecha tu espacio con nuestro servicio de cocinas a medida",
+   "intro": [
+    {
+     "type": "p",
+     "text": "La distribución influye directamente en la comodidad de tu cocina. Una elección acertada facilita el movimiento y el acceso a los utensilios y permite aprovechar las superficies disponibles."
+    },
+    {
+     "type": "p",
+     "text": "Estas son algunas de las configuraciones que podemos valorar en función de las características de tu vivienda:"
+    }
+   ],
+   "items": [
+    {
+     "h3": "Cocinas lineales",
+     "text": "Los muebles y electrodomésticos se distribuyen a lo largo de una sola pared. Es una solución habitual en espacios estrechos, cocinas pequeñas y viviendas donde interesa mantener despejada la zona central."
+    },
+    {
+     "h3": "Cocinas en L",
+     "text": "Permiten aprovechar dos paredes contiguas y organizar diferentes áreas. Son una opción versátil tanto para cocinas independientes como para espacios abiertos al comedor o al salón."
+    },
+    {
+     "h3": "Cocinas en U",
+     "text": "Distribuyen los muebles en tres lados y ofrecen una superficie amplia para cocinar y numerosas posibilidades de almacenamiento. Para que resulten cómodas, es importante disponer de espacio suficiente entre los frentes."
+    },
+    {
+     "h3": "Cocinas con isla o península",
+     "text": "Una isla en la cocina puede aportar superficie adicional para preparar alimentos, guardar utensilios o compartir momentos. Por su parte, las penínsulas también pueden ayudar a separar visualmente la zona de cocina del salón. En ambos casos, estudiamos las dimensiones y los espacios de circulación para comprobar si son soluciones adecuadas."
+    }
+   ]
+  },
+  {
+   "kind": "rich",
+   "h2": "Muebles de cocina a medida para ayudarte a aprovechar cada centímetro",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Los muebles son una parte fundamental del diseño: reflejan los gustos y la personalidad de cada familia y son imprescindibles para mantener la cocina ordenada. Si optas por muebles de cocina a medida, aprovecharás mejor el espacio y disfrutarás de soluciones adaptadas a tus necesidades:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      {
+       "lead": "Más espacio de almacenamiento",
+       "text": "cajones, gavetas, muebles altos, columnas y soluciones rinconeras para organizar utensilios, vajilla y alimentos."
+      },
+      {
+       "lead": "Puertas, tiradores y acabados a tu gusto",
+       "text": "distintos colores, texturas y materiales para conseguir el estilo que buscas, desde el más moderno hasta el más tradicional."
+      },
+      {
+       "lead": "Muebles que encajan con tus electrodomésticos",
+       "text": "estudiamos la ubicación del frigorífico, el lavavajillas, el horno y otros equipos para integrarlos de forma práctica y estética en el conjunto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "items",
+   "h2": "Cocinas completas diseñadas para tu hogar",
+   "intro": [
+    {
+     "type": "p",
+     "text": "En Carpintería Urexal fabricamos cocinas completas, es decir, en nuestros proyectos concebimos los distintos elementos como parte de un mismo conjunto. La distribución, los muebles, la encimera, los materiales empleados y los espacios destinados a los electrodomésticos se combinan entre sí para que todo funcione bien."
+    }
+   ],
+   "items": [
+    {
+     "h3": "Materiales que aúnan estética y funcionalidad",
+     "text": "La elección de los materiales condiciona el aspecto de la cocina, pero también su resistencia al uso diario y sus necesidades de mantenimiento. Una cocina de líneas sencillas, por ejemplo, puede resultar muy acogedora con acabados de madera, mientras que con otras combinaciones de colores y superficies se logra una estética más contemporánea."
+    },
+    {
+     "h3": "Encimeras que se adaptan al diseño",
+     "text": "La encimera es una de las superficies que más utilizamos en la cocina. Por eso, además de combinar con los muebles, debe responder a las exigencias de preparación de alimentos, limpieza y mantenimiento. Estudiamos el material, las dimensiones y el acabado de las encimeras a medida dentro del diseño general para conseguir un resultado equilibrado."
+    },
+    {
+     "h3": "Una cocina preparada para el día a día",
+     "text": "Una cocina bien diseñada debe, ante todo, facilitarte las tareas más cotidianas. Prestamos atención a cuestiones como la altura de trabajo, la accesibilidad de los muebles, las zonas de paso y la proximidad entre las áreas de preparación, cocción y lavado. Son decisiones que pueden parecer pequeñas, pero que marcan una diferencia importante cuando utilizas la cocina todos los días."
+    }
+   ]
+  },
+  {
+   "kind": "rich",
+   "h2": "¿Cuál es el precio de una cocina completa?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Una de las preguntas más habituales antes de comenzar un proyecto es cuánto cuesta una cocina a medida, pero debemos decirte que no existe un único precio de cocina completa que sirva para todas las viviendas, porque cada proyecto presenta unas características diferentes."
+    },
+    {
+     "type": "p",
+     "text": "El presupuesto depende, principalmente, de los siguientes factores:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      {
+       "lead": "Dimensiones de la cocina",
+       "text": "la superficie y la cantidad de mobiliario necesario influyen en el coste."
+      },
+      {
+       "lead": "Distribución de los elementos",
+       "text": "las soluciones especiales o las configuraciones más complejas pueden requerir un trabajo de fabricación diferente."
+      },
+      {
+       "lead": "Materiales empleados",
+       "text": "existen distintas alternativas para muebles, puertas, acabados y encimeras."
+      },
+      {
+       "lead": "Equipamiento interior",
+       "text": "los cajones, herrajes y accesorios de organización también intervienen en el presupuesto."
+      },
+      {
+       "lead": "Otras características del proyecto",
+       "text": "los detalles de fabricación y las necesidades particulares de instalación pueden modificar el coste final."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "text": "En Carpintería Urexal, antes de hablar de cifras, definimos qué cocina quieres y qué soluciones encajan mejor con tu espacio. Estudiamos tu proyecto para ofrecerte una propuesta adaptada a tus necesidades."
+    },
+    {
+     "type": "cta",
+     "label": "Pedir presupuesto"
+    }
+   ]
+  },
+  {
+   "kind": "rich",
+   "h2": "¿Por qué elegirnos para diseñar tu cocina?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Diseñar una cocina es importante, pero también lo es contar con un equipo capaz de convertir ese diseño en realidad. En Carpintería Urexal nos ocupamos del diseño, la fabricación y el montaje para ofrecerte un servicio integral que satisfaga todas tus necesidades:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      {
+       "lead": "Fabricamos muebles a medida en nuestro propio taller de A Estrada",
+       "text": "esto nos permite trabajar con las dimensiones y características específicas de cada cocina."
+      },
+      {
+       "lead": "No partimos de la idea de que todas las cocinas deben ser iguales",
+       "text": "escuchamos tus necesidades, estudiamos el espacio y planteamos soluciones para conseguir una cocina que se adapte de verdad a ti y a tu familia."
+      },
+      {
+       "lead": "Diseño previo en 3D",
+       "text": "antes de comenzar la fabricación, puedes visualizar cómo quedará tu cocina y valorar los detalles del proyecto. Así tendrás una referencia mucho más clara del resultado que buscas."
+      },
+      {
+       "lead": "Montaje con equipo propio",
+       "text": "contamos con montadores propios para asegurarnos de que se mantiene la coherencia entre lo diseñado y el resultado final."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "faq",
+   "h2": "Preguntas frecuentes sobre el diseño de cocinas a medida",
+   "faqs": [
+    {
+     "q": "¿Cuánto cuesta el diseño de una cocina a medida?",
+     "a": "El coste depende de las características y del alcance del proyecto. En Carpintería Urexal ofrecemos un servicio de diseño con render 3D cuyo importe se descuenta si finalmente contratas la fabricación de tu cocina con nosotros."
+    },
+    {
+     "q": "¿Puedo ver cómo quedará mi cocina antes de fabricarla?",
+     "a": "Sí. Gracias al render 3D, puedes visualizar una representación de tu futura cocina, comprobar la distribución y valorar la combinación de materiales y acabados antes de aprobar el diseño."
+    },
+    {
+     "q": "¿Qué ventajas tiene una cocina a medida frente a una estándar?",
+     "a": "Una cocina a medida permite adaptar los muebles a las dimensiones reales del espacio, aprovechar zonas difíciles y personalizar la distribución, el almacenamiento y los acabados según tus necesidades."
+    },
+    {
+     "q": "¿Puedo diseñar una cocina a medida si tengo poco espacio?",
+     "a": "Sí, precisamente una de las principales ventajas del diseño personalizado es que permite estudiar cómo aprovechar mejor las cocinas pequeñas, estrechas o con distribuciones irregulares."
+    },
+    {
+     "q": "¿Es necesario renovar toda la cocina?",
+     "a": "No siempre, depende del estado de la cocina actual y de los cambios que quieras realizar. Podemos valorar tus necesidades y estudiar qué tipo de intervención resulta más adecuada."
+    },
+    {
+     "q": "¿Puedo elegir el estilo y los acabados de mi cocina?",
+     "a": "Sí, el diseño personalizado permite valorar diversas opciones de materiales, colores, puertas, tiradores y distribuciones para conseguir una cocina acorde con tus gustos."
+    }
+   ]
+  }
+ ],
+ "cta_final": {
+  "h2": "Empieza a diseñar tu nueva cocina con Urexal",
+  "paragraphs": [
+   "¿Quieres renovar tu cocina o diseñar una para tu nueva vivienda? En Carpintería Urexal te ayudamos a dar forma a tu proyecto, desde la primera idea hasta la instalación.",
+   "Cuéntanos cómo imaginas tu cocina y descubre cómo quedará antes de empezar a fabricarla."
+  ],
+  "label": "Empieza a diseñar tu cocina a medida"
+ }
+}

@@ -1,13 +1,14 @@
 ---
 import ConsentMap from './ConsentMap.astro';
 import Img from './Img.astro';
-import { biz, fill, mapsEmbedSrc, phoneLabel, telHref } from '../lib/site';
+import { biz, fill, mapsEmbedSrc, phoneLabel, quoteHref, telHref } from '../lib/site';
 
 interface Props {
   section: any;
   index: number;
+  servicio?: string;
 }
-const { section: s, index } = Astro.props;
+const { section: s, index, servicio } = Astro.props;
 const dev = import.meta.env.DEV;
 const num = String(index).padStart(2, '0');
 const testimonials = biz.testimonios || [];
@@ -30,13 +31,33 @@ const dark = s.kind === 'process';
       </div>
     )}
 
+    {s.kind === 'rich' && (
+      <div class="prose">
+        {s.blocks.map((b: any) =>
+          b.type === 'p' ? <p>{fill(b.text)}</p>
+          : b.type === 'ul' ? (
+            <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong>{i.lead}: </strong>}{fill(i.text)}</li>)}</ul>
+          ) : b.type === 'cta' ? <p class="section-cta"><a class="btn btn-primary" href={quoteHref(servicio)}>{b.label}</a></p>
+          : null
+        )}
+      </div>
+    )}
+
+    {s.kind === 'items' && s.intro?.length > 0 && (
+      <div class="prose section-intro">
+        {s.intro.map((b: any) => b.type === 'ul'
+          ? <ul class="dash">{b.items.map((i: any) => <li>{i.lead && <strong>{i.lead}: </strong>}{fill(i.text)}</li>)}</ul>
+          : <p>{fill(b.text)}</p>)}
+      </div>
+    )}
+
     {s.kind === 'items' && (
       <div class:list={['items', { 'with-images': s.items.some((i: any) => i.image) }]}>
         {s.items.map((item: any) => (
           <div class="item">
             {item.image && <Img image={item.image} class="item-img" />}
             <div>
-              <h3>{fill(item.h3)}</h3>
+              <h3>{item.url ? <a href={item.url}>{fill(item.h3)}</a> : fill(item.h3)}</h3>
               <p>{fill(item.text)}</p>
             </div>
           </div>
@@ -44,15 +65,23 @@ const dark = s.kind === 'process';
       </div>
     )}
 
+    {s.kind === 'process' && s.intro?.length > 0 && (
+      <div class="prose section-intro">{s.intro.map((p: string) => <p>{fill(p)}</p>)}</div>
+    )}
+
     {s.kind === 'process' && (
-      <ol class="steps">
+      <ol class:list={['steps', { wide: s.steps.length > 4, 'own-numbers': s.steps.every((st: any) => /^\d+[.)]\s/.test(st.h3)) }]}>
         {s.steps.map((step: any) => (
           <li>
-            <h3>{step.h3}</h3>
-            <p>{step.text}</p>
+            <h3>{fill(step.h3)}</h3>
+            <p>{fill(step.text)}</p>
           </li>
         ))}
       </ol>
+    )}
+
+    {s.cta && (s.kind === 'items' || s.kind === 'process') && (
+      <p class="section-cta"><a class:list={['btn', s.kind === 'process' ? 'btn-light' : 'btn-primary']} href={quoteHref(servicio)}>{s.cta}</a></p>
     )}
 
     {s.kind === 'price' && (
